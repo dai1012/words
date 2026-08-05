@@ -1,7 +1,27 @@
 {
-  "catalogVersion": 1,
-  "generatedAt": "2026-08-05T10:19:49Z",
+  "catalogVersion": 2,
+  "generatedAt": "2026-08-05T14:32:26Z",
   "packs": [
+    {
+      "classification": "jlpt",
+      "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "entryCount": 718,
+      "fileSize": 141855,
+      "fileURL": "packs/jlpt-n5.json",
+      "language": "ja",
+      "level": "n5",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jlpt.n5",
+      "packVersion": 1,
+      "sha256": "4b703ffea60a51988317b52506c6c3a81d19979354e37556c4af71e94ec9344d",
+      "tags": [
+        "jlpt",
+        "n5",
+        "vocabulary",
+        "chinese"
+      ],
+      "title": "JLPT N5 日语词汇"
+    },
     {
       "classification": "test",
       "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",

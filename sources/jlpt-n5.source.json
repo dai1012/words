@@ -1,0 +1,4328 @@
+{
+  "entries": [
+    {
+      "entryID": "jlpt-n5-f2e877148b870ddb5f724421795453fe195d34e94fd46d38238b974fe9cf9d55",
+      "meaning": "啊；哦",
+      "reading": "ああ",
+      "term": "ああ"
+    },
+    {
+      "entryID": "jlpt-n5-3774f0518dcb56a114b3c347e631a2171b8975a0040d51e8255dd2c6e4fb489a",
+      "meaning": "见面；会面",
+      "reading": "あう",
+      "term": "会う"
+    },
+    {
+      "entryID": "jlpt-n5-166cdd6875c1f173f4033d91f89846803e0667d8b68f894f746c04decfe2bf32",
+      "meaning": "蓝色；青色",
+      "reading": "あお",
+      "term": "青"
+    },
+    {
+      "entryID": "jlpt-n5-ee86eace1258d01403e82387d4d1dd9ab127de5ca14840531a44c3c7a6b87002",
+      "meaning": "蓝色的；青色的",
+      "reading": "あおい",
+      "term": "青い"
+    },
+    {
+      "entryID": "jlpt-n5-5713f5f855755c76f54aa48b4d425a787a76fe79b0de3341a808100e797dba07",
+      "meaning": "红色",
+      "reading": "あか",
+      "term": "赤"
+    },
+    {
+      "entryID": "jlpt-n5-bab6c1266c78529ec1f420ff71126112c632b98df7d2045ea3550e7dedd628d6",
+      "meaning": "红色的",
+      "reading": "あかい",
+      "term": "赤い"
+    },
+    {
+      "entryID": "jlpt-n5-238298d9a67eaa16a536e31e59f52cb3f511e8dbbfc89f90685c26a9c217d118",
+      "meaning": "明亮的；开朗的；晴朗的",
+      "reading": "あかるい",
+      "term": "明るい"
+    },
+    {
+      "entryID": "jlpt-n5-4f4ad78346f6f40b0abd098812e01e826b19cf1aae16ebb9b1145d328c533bb4",
+      "meaning": "秋天",
+      "reading": "あき",
+      "term": "秋"
+    },
+    {
+      "entryID": "jlpt-n5-77a2f29a0776b18966fc6464553fe1339ea0f497fe3760aa7c544241baf7eec0",
+      "meaning": "开；打开；敞开（自动词）",
+      "reading": "あく",
+      "term": "開く"
+    },
+    {
+      "entryID": "jlpt-n5-b99146ff4f68ffde93474def25bcc7cdbc55b1bcf9d56fdd3c1af473d79274e5",
+      "meaning": "打开；开启（他动词）",
+      "reading": "あける",
+      "term": "開ける"
+    },
+    {
+      "entryID": "jlpt-n5-162c2e5800213dfa21fba7d695353343f16656dbfe0e667affb051566f748010",
+      "meaning": "举起；提高",
+      "reading": "あげる",
+      "term": "上げる"
+    },
+    {
+      "entryID": "jlpt-n5-a7da4a219a781e3f5e64e0daa8dd332268e9f7cf9f7201cefaa9bb28ee220b28",
+      "meaning": "早晨；上午",
+      "reading": "あさ",
+      "term": "朝"
+    },
+    {
+      "entryID": "jlpt-n5-eecb39ce046732ab553f6f1955ec59abdb74c39aa302b0ce03d1ef34c3a4e9c9",
+      "meaning": "早饭；早餐",
+      "reading": "あさごはん",
+      "term": "朝御飯"
+    },
+    {
+      "entryID": "jlpt-n5-0a15dad217d65f8455b65a44b01588097aff28a6e39140af2e2e16ba8815cffb",
+      "meaning": "后天",
+      "reading": "あさって",
+      "term": "明後日"
+    },
+    {
+      "entryID": "jlpt-n5-50c8d812a64f67885aa64eaa8f0450a7088adda79ff7d37f65bef362ff68b12e",
+      "meaning": "脚；腿",
+      "reading": "あし",
+      "term": "足; 脚"
+    },
+    {
+      "entryID": "jlpt-n5-767a4ae3946ec46e317d9b5b197c9e6f191a66bfef09bd0d3fe84ab2e7f072b4",
+      "meaning": "明天",
+      "reading": "あした",
+      "term": "明日"
+    },
+    {
+      "entryID": "jlpt-n5-3e67e6bf1cc27c04d2ba606d68b7e683c9ea6231a2f71a9f28cc3248b52972a3",
+      "meaning": "那里；那边",
+      "reading": "あそこ",
+      "term": "あそこ"
+    },
+    {
+      "entryID": "jlpt-n5-de309afac1819311bafacc96908f8f79ba460d3c9fec8993273f427d854f6d6a",
+      "meaning": "玩耍；游玩；消遣",
+      "reading": "あそぶ",
+      "term": "遊ぶ"
+    },
+    {
+      "entryID": "jlpt-n5-61bab314630286605d6d36f083a0fe0b78accd64af343e68690a76d0c4c2469c",
+      "meaning": "温暖的；暖和的",
+      "reading": "あたたかい",
+      "term": "暖かい"
+    },
+    {
+      "entryID": "jlpt-n5-d892014ee6ff01602d53f673f34065dc86d83611d228f61597d2004eb336f07f",
+      "meaning": "头；头部",
+      "reading": "あたま",
+      "term": "頭"
+    },
+    {
+      "entryID": "jlpt-n5-a872987ddd106f4015ffd1b0458ce8449ddaba3581c7d5f5aa62536aa5416938",
+      "meaning": "新的",
+      "reading": "あたらしい",
+      "term": "新しい"
+    },
+    {
+      "entryID": "jlpt-n5-5227412412f5bf50065690da968c76d3b57b2e71637b3eb0d28d714e03c3b061",
+      "meaning": "那边；那位（礼貌说法）",
+      "reading": "あちら",
+      "term": "あちら"
+    },
+    {
+      "entryID": "jlpt-n5-5a7815cf9768d4acade106e1c71e34d74ea74a23f62881ff73033036208ce905",
+      "meaning": "热的；炎热的（天气）",
+      "reading": "あつい",
+      "term": "暑い"
+    },
+    {
+      "entryID": "jlpt-n5-dc2dd2032bf03c89bece46456e5c3ecd7d088e78d456a1bc4828719e356002b0",
+      "meaning": "烫的；热的（物体）",
+      "reading": "あつい",
+      "term": "熱い"
+    },
+    {
+      "entryID": "jlpt-n5-8d34fd0d353473233c2c62ee3896e5125e6472a38bc58505d899b4f01c9dec7d",
+      "meaning": "厚的；深厚的",
+      "reading": "あつい",
+      "term": "厚い"
+    },
+    {
+      "entryID": "jlpt-n5-7b838c0234550703e64e85c337c58485f63f789054a50fe074e9ac25382856bc",
+      "meaning": "那边；那里",
+      "reading": "あっち",
+      "term": "あっち"
+    },
+    {
+      "entryID": "jlpt-n5-e96824da3b616c9ce42c25a4a7a52a352ceb19ba047597a82dc993be033e9c73",
+      "meaning": "之后；以后；剩余",
+      "reading": "あと",
+      "term": "後"
+    },
+    {
+      "entryID": "jlpt-n5-8188423bf5f5269aa2d22748d2b502b1e30255f96c0e7019ac10c78e5bd26211",
+      "meaning": "你；您",
+      "reading": "あなた",
+      "term": "あなた"
+    },
+    {
+      "entryID": "jlpt-n5-81730578342fdad1594e3a0b0e860fba64e2934ff798be6c988b2ded4c3afa6c",
+      "meaning": "哥哥（对外谦称自己的哥哥）",
+      "reading": "あに",
+      "term": "兄"
+    },
+    {
+      "entryID": "jlpt-n5-433d7c70572acfb78d7fc2d5dfba7b37f647b441c7f88fcfb270ee913e6b638d",
+      "meaning": "姐姐（对外谦称自己的姐姐）",
+      "reading": "あね",
+      "term": "姉"
+    },
+    {
+      "entryID": "jlpt-n5-51d4d893928dce5c980bc7e84e631cbad724a2be61eaedba6e3d191c0e05357a",
+      "meaning": "公寓；出租公寓",
+      "reading": "アパート",
+      "term": "アパート"
+    },
+    {
+      "entryID": "jlpt-n5-fb5e8804f007ae4f769c4d037fccd6e51a75f8776f2f397e944fded46546bd08",
+      "meaning": "那个；嗯……",
+      "reading": "あの",
+      "term": "あの"
+    },
+    {
+      "entryID": "jlpt-n5-74a14188eddd57e3ba3c4a044ac6822ec8ffcff1ab9d5ce238792a8a79137dc6",
+      "meaning": "淋浴；沐浴",
+      "reading": "あびる",
+      "term": "浴びる"
+    },
+    {
+      "entryID": "jlpt-n5-539111d6c4dbc455a050f403a72be1471fe74eaf91801a5be645460e3c73e35e",
+      "meaning": "危险的；危急的",
+      "reading": "あぶない",
+      "term": "危ない"
+    },
+    {
+      "entryID": "jlpt-n5-cb636ea0358c3f60205b178b2525cbac9b4ccdbc6d2d739e7ddcf624943fda11",
+      "meaning": "甜的；宽松的；天真的",
+      "reading": "あまい",
+      "term": "甘い"
+    },
+    {
+      "entryID": "jlpt-n5-2d87a4985c943570e22c6d58fb5d0163e73e1a8b88151d21b45b6dd8877c0fde",
+      "meaning": "不太……（接否定）；剩余",
+      "reading": "あまり",
+      "term": "余り"
+    },
+    {
+      "entryID": "jlpt-n5-2739e5993e4890fdd94552684c20f66ae287bd1c42e0f07830dd20aca4af973d",
+      "meaning": "雨",
+      "reading": "あめ",
+      "term": "雨"
+    },
+    {
+      "entryID": "jlpt-n5-1b305910df00bf532a7372d38a9f704fbcbd92977a115fe746d91102d9d3c391",
+      "meaning": "糖果；硬糖",
+      "reading": "あめ",
+      "term": "飴"
+    },
+    {
+      "entryID": "jlpt-n5-de67c35de7da8f3526243850bc5a1c1389fcf3d23afc0c145e5455bc64bdf0a7",
+      "meaning": "洗；清洗",
+      "reading": "あらう",
+      "term": "洗う"
+    },
+    {
+      "entryID": "jlpt-n5-9afc81310524790924ee6bc4b6306a348615ca8a25ed7cf9b68141708f381d5b",
+      "meaning": "在；存在（无生命物）",
+      "reading": "ある",
+      "term": "在る"
+    },
+    {
+      "entryID": "jlpt-n5-e1e1ac615fbce2ad3b2bc050ec165158aceb1791b73c785db2b990721b4636d2",
+      "meaning": "有；拥有",
+      "reading": "ある",
+      "term": "有る"
+    },
+    {
+      "entryID": "jlpt-n5-68f1175e834452c0f57fab078ced3d7c2808f635c5c027bd9b211784e50ad813",
+      "meaning": "走路；步行",
+      "reading": "あるく",
+      "term": "歩く"
+    },
+    {
+      "entryID": "jlpt-n5-d618609b01917906de863dcc361b5cce17e8f92e88ad77a181cfd0b1a7edc7f8",
+      "meaning": "那个；那件",
+      "reading": "あれ",
+      "term": "あれ"
+    },
+    {
+      "entryID": "jlpt-n5-e9189c2b658539d73a69c1a8538076393b0ae92267917e13f939812f9dbea9f7",
+      "meaning": "好的；不错的",
+      "reading": "いい; よい",
+      "term": "いい; よい"
+    },
+    {
+      "entryID": "jlpt-n5-98d88f7aa202b5466701fa4373da616c1de495fc6813cd8a7a534a87d9484b72",
+      "meaning": "不；不是",
+      "reading": "いいえ",
+      "term": "いいえ"
+    },
+    {
+      "entryID": "jlpt-n5-07982bf7ec7562799e8e5068894d1fad9b7091a03136a22d6e392066973ea962",
+      "meaning": "说；讲",
+      "reading": "いう",
+      "term": "言う"
+    },
+    {
+      "entryID": "jlpt-n5-86210750164301fd55719525020713bb51b7de05277e920130e7043da1953789",
+      "meaning": "家；房子",
+      "reading": "いえ",
+      "term": "家"
+    },
+    {
+      "entryID": "jlpt-n5-5bb29eaad1e80a6ea6617a653918de0e6a2a43e63912f01d23870d225a6f07aa",
+      "meaning": "如何；怎么样（礼貌说法）",
+      "reading": "いかが",
+      "term": "いかが"
+    },
+    {
+      "entryID": "jlpt-n5-61fb1de7019823b01031a20135432a43214ea4b152167b4562d9f23344184a8f",
+      "meaning": "去；前往",
+      "reading": "いく; ゆく",
+      "term": "行く"
+    },
+    {
+      "entryID": "jlpt-n5-f6ba3d5351c46717fb60b324fa0cb87ca3983b45cf355dd6d9af70a7befce2b3",
+      "meaning": "几个；多少岁",
+      "reading": "いくつ",
+      "term": "いくつ"
+    },
+    {
+      "entryID": "jlpt-n5-36e03da4767a57a878d3787768ee523f957d5b565ac936acff8856af73aa8ef1",
+      "meaning": "多少钱；多少",
+      "reading": "いくら",
+      "term": "いくら"
+    },
+    {
+      "entryID": "jlpt-n5-00e8f3eaef55806c6a6b11a15eb42d3e3e0aea423aea624b29423df0eda8f3b1",
+      "meaning": "池塘",
+      "reading": "いけ",
+      "term": "池"
+    },
+    {
+      "entryID": "jlpt-n5-1804601d8b35709c71058198ff247605a8f916bf0748f31558d6d69b3b37b494",
+      "meaning": "医生",
+      "reading": "いしゃ",
+      "term": "医者"
+    },
+    {
+      "entryID": "jlpt-n5-2658a91dd9a67c9f7b5c5293adc42655edeed6c484a3d4f0ce9757435d9d9e8b",
+      "meaning": "椅子",
+      "reading": "いす",
+      "term": "椅子"
+    },
+    {
+      "entryID": "jlpt-n5-31a3f102c755bce9c7ff435377af93a1a53be40d56d279c641d3f5d9fab6756a",
+      "meaning": "忙的",
+      "reading": "いそがしい",
+      "term": "忙しい"
+    },
+    {
+      "entryID": "jlpt-n5-16a0f543a10c1ab91dcbb0b9fc5759db7431550ae544cc895e3bc7889edf4a59",
+      "meaning": "疼的；痛的",
+      "reading": "いたい",
+      "term": "痛い"
+    },
+    {
+      "entryID": "jlpt-n5-06cbf14c52a52e64da6fca5c722bf88720d3c7e0f63e391b9416871b75e9f444",
+      "meaning": "一",
+      "reading": "いち",
+      "term": "一"
+    },
+    {
+      "entryID": "jlpt-n5-e269c57ad858ef3e48bfec47cedebad341fc78f4cff219005daea4e885788452",
+      "meaning": "一天（时长）",
+      "reading": "いちにち",
+      "term": "一日"
+    },
+    {
+      "entryID": "jlpt-n5-154d9e4511299748411a6d2756ef959a0a5fcec9d727944a3d8b71525cbe0972",
+      "meaning": "最；第一；第一名",
+      "reading": "いちばん",
+      "term": "一番"
+    },
+    {
+      "entryID": "jlpt-n5-1025d4ffb64b5d70678746717ac15ea4d2e7045589aaec4fc6149b47a1759759",
+      "meaning": "什么时候",
+      "reading": "いつ",
+      "term": "いつ"
+    },
+    {
+      "entryID": "jlpt-n5-9163ee9a799787bcb88e5d742778b3ce6dcfbdafd13ad064df45f27469754963",
+      "meaning": "五天；五号",
+      "reading": "いつか",
+      "term": "五日"
+    },
+    {
+      "entryID": "jlpt-n5-cac6b613b67f8018e3b0da59b3344c648f1a611d85d7fb29c474b3ebc35ff0c5",
+      "meaning": "一起；一同",
+      "reading": "いっしょ",
+      "term": "一緒"
+    },
+    {
+      "entryID": "jlpt-n5-0e98b08acb75739bffa06f3887f1ec723297bd02f2bca143f2cb72ce4b8d0474",
+      "meaning": "五个",
+      "reading": "いつつ",
+      "term": "五つ"
+    },
+    {
+      "entryID": "jlpt-n5-65bc1f2fc7c575462b6ef4380fe0bfda0a05e99cfac9a614aed4d4acbe1b2ae0",
+      "meaning": "总是；经常；每次；从不（接否定）",
+      "reading": "いつも",
+      "term": "いつも"
+    },
+    {
+      "entryID": "jlpt-n5-00800b6c20270ec11f08b7c2d1977502e33505df0e0e490555c3191fc496a46e",
+      "meaning": "狗",
+      "reading": "いぬ",
+      "term": "犬"
+    },
+    {
+      "entryID": "jlpt-n5-7ce797cb04a3492d7362c0628d36caabdcfcfd41c30b87e5fa104d4ada51a8df",
+      "meaning": "现在",
+      "reading": "いま",
+      "term": "今"
+    },
+    {
+      "entryID": "jlpt-n5-49caf496de90617cc5943a0f89bc965fead75b8e3a3d2b4cd8ed5e0d83359956",
+      "meaning": "意思；含义",
+      "reading": "いみ",
+      "term": "意味"
+    },
+    {
+      "entryID": "jlpt-n5-bcfdcb51ab3f49359412e5a37df93a9f002263d81b79a1b04899e286abe74523",
+      "meaning": "妹妹（对外谦称自己的妹妹）",
+      "reading": "いもうと",
+      "term": "妹"
+    },
+    {
+      "entryID": "jlpt-n5-193d03e791cf2ed2de6b371679e585a333bacf20d6c488d880ccfa9d2ee567cd",
+      "meaning": "讨厌的；不愿意的",
+      "reading": "いや",
+      "term": "嫌"
+    },
+    {
+      "entryID": "jlpt-n5-19243843eb8e90d4224a13630572da3d62d190c78a2ad0a3098bfc580444f8ed",
+      "meaning": "入口",
+      "reading": "いりぐち",
+      "term": "入口"
+    },
+    {
+      "entryID": "jlpt-n5-12d190d3a2d3fa6236a6ba4f051d3952bebcbddc6bebc43de266b8a423d56708",
+      "meaning": "在；存在（有生命物，谦逊表达）",
+      "reading": "いる",
+      "term": "居る"
+    },
+    {
+      "entryID": "jlpt-n5-c0d1a77425363854e6f9957955fcf6e5fedf2f00448f38dcf1db64722ff1f6a8",
+      "meaning": "需要；必要",
+      "reading": "いる",
+      "term": "要る"
+    },
+    {
+      "entryID": "jlpt-n5-2b79c7fccee4cf8314b46abdb9056ab736431809b0d93482fce75fff075a9942",
+      "meaning": "放入；装入",
+      "reading": "いれる",
+      "term": "入れる"
+    },
+    {
+      "entryID": "jlpt-n5-0844413efb22f82c3d27520d5cf18b5aae28bf893a63d1336eec745326f28970",
+      "meaning": "颜色",
+      "reading": "いろ",
+      "term": "色"
+    },
+    {
+      "entryID": "jlpt-n5-97a3bedcb40812da8716a679b7914392a24bf85b0cca9af1972d0c833f0aaa2d",
+      "meaning": "各种各样",
+      "reading": "いろいろ",
+      "term": "色々"
+    },
+    {
+      "entryID": "jlpt-n5-9ac50c7e842e5bb2b5a7d4afd4dae32d1e0d4692ef854a626c3c6baa33ecd21a",
+      "meaning": "上面；上方；之上",
+      "reading": "うえ",
+      "term": "上"
+    },
+    {
+      "entryID": "jlpt-n5-40a3231dedc0e75317797a75195e026ce90f2f5d5d1a41f2a15eb2213c51cd9e",
+      "meaning": "后面；背后",
+      "reading": "うしろ",
+      "term": "後ろ"
+    },
+    {
+      "entryID": "jlpt-n5-04ec89da79ac7cf1429970e4e9ba31bf5738f531404451b0cc48decbb095883b",
+      "meaning": "薄的；淡的；弱的",
+      "reading": "うすい",
+      "term": "薄い"
+    },
+    {
+      "entryID": "jlpt-n5-29a5cafb6874ec565f255e41a73176a02563e8cf7064b61562f48e3d945f69a0",
+      "meaning": "歌；歌曲",
+      "reading": "うた",
+      "term": "歌"
+    },
+    {
+      "entryID": "jlpt-n5-42abc423da9df061856e3e7bf4eff059028492e4979654621de8f426becfa673",
+      "meaning": "唱；歌唱",
+      "reading": "うたう",
+      "term": "歌う"
+    },
+    {
+      "entryID": "jlpt-n5-e2ba975a29408bc122c47bf78bfaa980843781052ccec0e7aa8190a3d606d2e0",
+      "meaning": "家；家里；我家",
+      "reading": "うち",
+      "term": "うち"
+    },
+    {
+      "entryID": "jlpt-n5-20cee035b53a52889d229f15cb384132b1b4273954d6634be00d4e05840a176b",
+      "meaning": "出生",
+      "reading": "うまれる",
+      "term": "生まれる"
+    },
+    {
+      "entryID": "jlpt-n5-443ae4dbae4846670015cf4a6f3aea60cb620ec99fc28949a0e4f2969ccfacd5",
+      "meaning": "海；海边",
+      "reading": "うみ",
+      "term": "海"
+    },
+    {
+      "entryID": "jlpt-n5-1293fac91ec43a494e140d91d50a59204684cb79d2863e5f4af6aaf42675b270",
+      "meaning": "卖；出售（他动词）",
+      "reading": "うる",
+      "term": "売る"
+    },
+    {
+      "entryID": "jlpt-n5-cd7b592e90cbcb10a69d274241fadcc55e51444858b1ee488f0a29414f6c745f",
+      "meaning": "吵闹的；烦人的",
+      "reading": "うるさい",
+      "term": "うるさい"
+    },
+    {
+      "entryID": "jlpt-n5-694a570b26dc9413dd82df41a8a6806f1a74cf522a4966fe57d718b33de70340",
+      "meaning": "上衣；外套",
+      "reading": "うわぎ",
+      "term": "上着"
+    },
+    {
+      "entryID": "jlpt-n5-3cbf08a3df267cca37cf319c0d5d3d1c79bf70d5db6eaebe5740a9bd18a404fc",
+      "meaning": "画；图画；图片",
+      "reading": "え",
+      "term": "絵"
+    },
+    {
+      "entryID": "jlpt-n5-5e3b51f8d25ea5834e78d1c8ffcafb6512ee0d028dfe77ec8918d164f5b0344b",
+      "meaning": "电影",
+      "reading": "えいが",
+      "term": "映画"
+    },
+    {
+      "entryID": "jlpt-n5-42ce2c1bfe553e17c4a77f69943772d4a338f6135caf51d7f142c10a566cb406",
+      "meaning": "电影院",
+      "reading": "えいがかん",
+      "term": "映画館"
+    },
+    {
+      "entryID": "jlpt-n5-67af9f2741ff357e0b65dcea336a333e49d9ef6e92fd8ab2c9722dc073e6dd00",
+      "meaning": "英语",
+      "reading": "えいご",
+      "term": "英語"
+    },
+    {
+      "entryID": "jlpt-n5-c55dbc2b80ba24ad26188ebc141fde9f83cac88d6c896cd31323c5a7756d0786",
+      "meaning": "是；对",
+      "reading": "ええ",
+      "term": "ええ"
+    },
+    {
+      "entryID": "jlpt-n5-57261fcfc40d2a02996a77df91ec0559a2085d29806100ff7aeca779dcccc9cb",
+      "meaning": "车站",
+      "reading": "えき",
+      "term": "駅"
+    },
+    {
+      "entryID": "jlpt-n5-5ed0b24cea456f9566fe6adb4ddd60cc80c2dcef28f67d2012aa9c9c3f6489c5",
+      "meaning": "电梯",
+      "reading": "エレベーター",
+      "term": "エレベーター"
+    },
+    {
+      "entryID": "jlpt-n5-88704c46a211d9db4e4fc8bfa09519838b2904706f0828f02bf1b8da7b3e9d4e",
+      "meaning": "～日元",
+      "reading": "～えん",
+      "term": "～円"
+    },
+    {
+      "entryID": "jlpt-n5-61363007f2caa6f9c513aed4ca4b174a996df705b48711cc1c552e0d99522b05",
+      "meaning": "铅笔",
+      "reading": "えんぴつ",
+      "term": "鉛筆"
+    },
+    {
+      "entryID": "jlpt-n5-e23a8bf9cc4f79746f237b3349e63eb086534f0bf6c544ae024de288566ee250",
+      "meaning": "敬语接头词“御～”",
+      "reading": "お～",
+      "term": "お～"
+    },
+    {
+      "entryID": "jlpt-n5-c0884356efb79f1583e9ebaca033dcf833e0d6d9eb8835cfa94006d2f6794303",
+      "meaning": "好吃的；美味的",
+      "reading": "おいしい",
+      "term": "美味しい"
+    },
+    {
+      "entryID": "jlpt-n5-d767d77e1e75c544a492cb9980f9e850ea714f77418c4c84d437798b25b65556",
+      "meaning": "多的；有很多",
+      "reading": "おおい",
+      "term": "多い"
+    },
+    {
+      "entryID": "jlpt-n5-5ca0e00dc80d9379e13d6f1a76cb26337d49308be13a30bfb303e3f9a1d6edab",
+      "meaning": "大的",
+      "reading": "おおきい",
+      "term": "大きい"
+    },
+    {
+      "entryID": "jlpt-n5-70b3aeeeae801a8147f53c1516008a214f58e5f188242a84e7bbb6cd9ec46415",
+      "meaning": "大的（连体词）",
+      "reading": "おおきな",
+      "term": "大きな"
+    },
+    {
+      "entryID": "jlpt-n5-2bb9b4ad05b43044bfeafe1ea43b26343e6526f45cdd885731f53c7ff64f76da",
+      "meaning": "许多人",
+      "reading": "おおぜい",
+      "term": "大勢"
+    },
+    {
+      "entryID": "jlpt-n5-63060429a9b582c243e2e5d32f93777169cf09848b17a23e72251afe1c5feae9",
+      "meaning": "母亲；妈妈（敬称）",
+      "reading": "おかあさん",
+      "term": "お母さん"
+    },
+    {
+      "entryID": "jlpt-n5-64a7cc7bdf2beeedb38ed402eea2cfab45dcc761dd70e3b5833a493c9d9e665a",
+      "meaning": "点心；糖果；零食",
+      "reading": "おかし",
+      "term": "お菓子"
+    },
+    {
+      "entryID": "jlpt-n5-6ba9901bb5d5cb3607a6c0fc831f88944fb5b9f78d09f875b473e3b3eb4cdbe4",
+      "meaning": "钱；金钱",
+      "reading": "おかね",
+      "term": "お金"
+    },
+    {
+      "entryID": "jlpt-n5-df7ffbaf71f9443d288068aa1a543a54339d6ffd4380a0fd4121dc6f666a7fe0",
+      "meaning": "起床；发生",
+      "reading": "おきる",
+      "term": "起きる"
+    },
+    {
+      "entryID": "jlpt-n5-acef043b4a691a34388d69ca1a8f00696b16b828d69b44100eeff68f1df2fb1d",
+      "meaning": "放置；搁置",
+      "reading": "おく",
+      "term": "置く"
+    },
+    {
+      "entryID": "jlpt-n5-d9b254a73a3e7c2a0016d9a2eadbf9e3a8ac531a102ac311f077f9db594e0408",
+      "meaning": "夫人；太太（称他人妻子的敬语）",
+      "reading": "おくさん",
+      "term": "奥さん"
+    },
+    {
+      "entryID": "jlpt-n5-685c70400c1013b2cd3a1196589eed1bdf4ae6af86301936cb12addffc981795",
+      "meaning": "日本酒；酒",
+      "reading": "おさけ",
+      "term": "お酒"
+    },
+    {
+      "entryID": "jlpt-n5-87e1b63204bd59c38487486f28e98b787f4a91712016f7691d0b1a86e4e2bd9b",
+      "meaning": "盘子；碟子",
+      "reading": "おさら",
+      "term": "お皿"
+    },
+    {
+      "entryID": "jlpt-n5-1ca0b65dbc6c8bbe15ca96a6f1101002009a9dd4741bce4344fa9a582c469d70",
+      "meaning": "伯父；叔父；中年男子",
+      "reading": "おじさん",
+      "term": "伯父; 叔父さん"
+    },
+    {
+      "entryID": "jlpt-n5-1093083320d58e3459014dacfaacbc7a35e66a454c7ed7f0ff359c413e8c9e7f",
+      "meaning": "祖父；爷爷；老年男子",
+      "reading": "おじいさん",
+      "term": "おじいさん"
+    },
+    {
+      "entryID": "jlpt-n5-1914efedac89467500bd01c44ed44cab5eee95f3c5e4bb248921e42515dd0001",
+      "meaning": "教；告诉；指导",
+      "reading": "おしえる",
+      "term": "教える"
+    },
+    {
+      "entryID": "jlpt-n5-9ff4f91925e0c91057d3d3eae49cfc6b2de629936ee04094b25e9b415cfdd362",
+      "meaning": "推；按；盖章",
+      "reading": "おす",
+      "term": "押す"
+    },
+    {
+      "entryID": "jlpt-n5-1f429229d1941ee748bc5b87067787a3032439e0fdfd57cbf6c317d4b0974a95",
+      "meaning": "慢的；迟的；晚的",
+      "reading": "おそい",
+      "term": "遅い"
+    },
+    {
+      "entryID": "jlpt-n5-c435d2d5cb8763d834777b2df4e1b9a1c3c4301b4bef22f7d0fc7c3a58c4ea30",
+      "meaning": "茶；绿茶",
+      "reading": "おちゃ",
+      "term": "お茶"
+    },
+    {
+      "entryID": "jlpt-n5-5754ec620dd06086fba7cbb2091e5ba1b0ac283ba55c1fab4bdfbd1d1070f25f",
+      "meaning": "洗手间；厕所",
+      "reading": "おてあらい",
+      "term": "お手洗い"
+    },
+    {
+      "entryID": "jlpt-n5-91d873bb1e6d8ce43456966ea51859637666cb722d3621d41b74125de39c598b",
+      "meaning": "父亲；爸爸（敬称）",
+      "reading": "おとうさん",
+      "term": "お父さん"
+    },
+    {
+      "entryID": "jlpt-n5-ea93fc2ba61b9aa0ec288892bd6a446b355ab1d78006ce16735c7844a168932a",
+      "meaning": "弟弟",
+      "reading": "おとうと",
+      "term": "弟"
+    },
+    {
+      "entryID": "jlpt-n5-97f5c1784006080e04ab40477d9b7c080fff7cac738f57bccd65ad5e72cec62d",
+      "meaning": "男人；男性",
+      "reading": "おとこ",
+      "term": "男"
+    },
+    {
+      "entryID": "jlpt-n5-329b5fe78bd39b1b37599244025afafbf2cdb801ee6080df91f37f2ad703db94",
+      "meaning": "男孩",
+      "reading": "おとこのこ",
+      "term": "男の子"
+    },
+    {
+      "entryID": "jlpt-n5-3a250441036735368438221251f324866867a2265f4c46824617b025deefbc76",
+      "meaning": "前天",
+      "reading": "おととい",
+      "term": "一昨日"
+    },
+    {
+      "entryID": "jlpt-n5-60004deb8db382c26ca1f10d5fffba36a15c6ea4432cdd66c110b9004b2f7acc",
+      "meaning": "前年",
+      "reading": "おととし",
+      "term": "おととし"
+    },
+    {
+      "entryID": "jlpt-n5-99126e023d48c5de4891ae271a21920fa28a1a7b881a015d2a979eaa9b6d00c3",
+      "meaning": "成年人；大人",
+      "reading": "おとな",
+      "term": "大人"
+    },
+    {
+      "entryID": "jlpt-n5-cc90b782cdf9085e9a283e103dbbe967f7f6761c896ccaf7830816966132a733",
+      "meaning": "肚子；腹部",
+      "reading": "おなか",
+      "term": "お腹"
+    },
+    {
+      "entryID": "jlpt-n5-c6a9d8360e52d95b3432b561e7df7b47089a6eb9b47e12c1d00c448c160bd420",
+      "meaning": "相同的；一样的",
+      "reading": "おなじ",
+      "term": "同じ"
+    },
+    {
+      "entryID": "jlpt-n5-264a926b3ce846c5c6991a5448d9f52c82e29b1606a233004575897fa3ae875c",
+      "meaning": "哥哥（称他人哥哥的敬语）",
+      "reading": "おにいさん",
+      "term": "お兄さん"
+    },
+    {
+      "entryID": "jlpt-n5-f1859e360db1aca9b5a2efa4acba1435f29270a5095d116b40d4147bf046e4b0",
+      "meaning": "姐姐（敬称）",
+      "reading": "おねえさん",
+      "term": "お姉さん"
+    },
+    {
+      "entryID": "jlpt-n5-5b308c60148cd226164c3fa4799bd8b2273510653276b9a3f324d0a0fccbd04a",
+      "meaning": "伯母；婶母；阿姨",
+      "reading": "おばさん",
+      "term": "伯母さん; 叔母さん"
+    },
+    {
+      "entryID": "jlpt-n5-5ae7fa3cf4eb65bf0278d0bbb0496b5015609cef02b64e9426d4a8d69264ad08",
+      "meaning": "祖母；奶奶；老年女性",
+      "reading": "おばあさん",
+      "term": "おばあさん"
+    },
+    {
+      "entryID": "jlpt-n5-f00d6e37150c51a09726f837fef108e2699cd440488768504abdff0778124216",
+      "meaning": "洗澡；浴室；浴缸",
+      "reading": "おふろ",
+      "term": "お風呂"
+    },
+    {
+      "entryID": "jlpt-n5-775c2df847371c07afe69d33252272444fd72bbcf0b0d9096226e34d903c7c1c",
+      "meaning": "盒饭；便当",
+      "reading": "おべんとう",
+      "term": "お弁当"
+    },
+    {
+      "entryID": "jlpt-n5-69b1009d1a67673ff2f2774783507b94e51a15b8cf0c67a35344db3f52ce5f02",
+      "meaning": "记住；学会；背诵",
+      "reading": "おぼえる",
+      "term": "覚える"
+    },
+    {
+      "entryID": "jlpt-n5-25e310def505889bb32de59427ca0d001e65db7fe7186fd49d7543b750747626",
+      "meaning": "警察（亲切称呼）",
+      "reading": "おまわりさん",
+      "term": "おまわりさん"
+    },
+    {
+      "entryID": "jlpt-n5-8dba236e5c0ffdf7b19f308dd37660313ed1e6c902a2f11c96836ecf5210969f",
+      "meaning": "重的；严重的",
+      "reading": "おもい",
+      "term": "重い"
+    },
+    {
+      "entryID": "jlpt-n5-3f18db3ec6f78decd3c83ce13ac57198fab46e3c69dc11398ddb36c8e952711e",
+      "meaning": "有趣的；好笑的",
+      "reading": "おもしろい",
+      "term": "面白い"
+    },
+    {
+      "entryID": "jlpt-n5-56e0fc7d934b2587baf6ac1d4e58ac8942770f3e437c042dd672651b6738718f",
+      "meaning": "游泳",
+      "reading": "およぐ",
+      "term": "泳ぐ"
+    },
+    {
+      "entryID": "jlpt-n5-2208e7a1c632b28a63fdb545faf563f67b4b921c5b331cb349541e7099505d20",
+      "meaning": "下车；下来",
+      "reading": "おりる",
+      "term": "降りる"
+    },
+    {
+      "entryID": "jlpt-n5-2789e1d682b3db3d269944bea80342815bed9b567b915862aadb0377f7af6667",
+      "meaning": "结束；完毕（自动词）",
+      "reading": "おわる",
+      "term": "終る"
+    },
+    {
+      "entryID": "jlpt-n5-c3ce170828e3172d94866ce0cbb8a691de95f0bd3e3c072bde8f5fa76ae991c8",
+      "meaning": "音乐",
+      "reading": "おんがく",
+      "term": "音楽"
+    },
+    {
+      "entryID": "jlpt-n5-e49c65140db429bc4513c5608e83d50a3e12e8cb11f89d3cdbf76b9554118c67",
+      "meaning": "女人；女性",
+      "reading": "おんな",
+      "term": "女"
+    },
+    {
+      "entryID": "jlpt-n5-8e1ab297a49aeb3ef24047e223e4edc2361798cfb9c68a0ed2f3436d3fd4f19c",
+      "meaning": "女孩",
+      "reading": "おんなのこ",
+      "term": "女の子"
+    },
+    {
+      "entryID": "jlpt-n5-571410451b292673d9f71eed3e516d74c8f6dcc7d286521fbc89903d809bc917",
+      "meaning": "～次（次数助数词）",
+      "reading": "～かい",
+      "term": "～回"
+    },
+    {
+      "entryID": "jlpt-n5-6eea8938b3057badf496c828283dbed575b486150419e75f194e9683f2227f46",
+      "meaning": "～层；～楼（楼层助数词）",
+      "reading": "～かい",
+      "term": "～階"
+    },
+    {
+      "entryID": "jlpt-n5-c056c35fe90c48a9e66007f584b323d82f0e980f23dc9e43b15aef00a416ee2b",
+      "meaning": "外国；国外",
+      "reading": "がいこく",
+      "term": "外国"
+    },
+    {
+      "entryID": "jlpt-n5-407f8f8fad0251f0c382189ac3a01895145afd8b8d045d51f25e3c43f0e0d565",
+      "meaning": "外国人",
+      "reading": "がいこくじん",
+      "term": "外国人"
+    },
+    {
+      "entryID": "jlpt-n5-281a84b43fce3325901a9a0861edd8c6ace25e927475be2ed197bec8e045e76d",
+      "meaning": "公司",
+      "reading": "かいしゃ",
+      "term": "会社"
+    },
+    {
+      "entryID": "jlpt-n5-a969c32f5e1763247b9554080f8cfdc882ffb1179fc37fc2e7c4d9a65e151db2",
+      "meaning": "楼梯",
+      "reading": "かいだん",
+      "term": "階段"
+    },
+    {
+      "entryID": "jlpt-n5-1445ad00ae20a853b98bb5191685c9ed22cedfd782b110877f974256705e4596",
+      "meaning": "购物；买东西",
+      "reading": "かいもの",
+      "term": "買い物"
+    },
+    {
+      "entryID": "jlpt-n5-104198a0f10a94f311281703ecbf58054d39520656233aa117bb141ebdc98304",
+      "meaning": "买；购买",
+      "reading": "かう",
+      "term": "買う"
+    },
+    {
+      "entryID": "jlpt-n5-4a6deec24b8e2b6f305ee288383ae5b6c0d71bef9f702c7f3196831e224016e4",
+      "meaning": "归还；退还（他动词）",
+      "reading": "かえす",
+      "term": "返す"
+    },
+    {
+      "entryID": "jlpt-n5-b17ea66158f4a91ec39a86180a6312a61e9deb7c3901b7c2e756b26d9d404a78",
+      "meaning": "回去；回家；返回（自动词）",
+      "reading": "かえる",
+      "term": "帰る"
+    },
+    {
+      "entryID": "jlpt-n5-143b74eb3dd780ecd356bd20362b3ae8a326d3ff03cae9510977b66982ab65bc",
+      "meaning": "脸；面部",
+      "reading": "かお",
+      "term": "顔"
+    },
+    {
+      "entryID": "jlpt-n5-a47d7a61ec93eaef56f572967395a47c086f28ac0896d1f221f559b50814a9d9",
+      "meaning": "花费；需要（时间或金钱，自动词）",
+      "reading": "かかる",
+      "term": "かかる"
+    },
+    {
+      "entryID": "jlpt-n5-b9fd7a9ce002e2f4171cde75ae6a2c1a94a2393c42806e1faa652d7b6cb04675",
+      "meaning": "钥匙；锁",
+      "reading": "かぎ",
+      "term": "鍵"
+    },
+    {
+      "entryID": "jlpt-n5-b19f75f522963b2f3a374ae5905aa55f15ba432a723c0d501b1327711479669f",
+      "meaning": "写；书写",
+      "reading": "かく",
+      "term": "書く"
+    },
+    {
+      "entryID": "jlpt-n5-ad80f781077fe80076dacab9147297f3574b9c2f0b198bfd827ccfe061a730ce",
+      "meaning": "学生（多指大学生）",
+      "reading": "がくせい",
+      "term": "学生"
+    },
+    {
+      "entryID": "jlpt-n5-a16a2bc4488e905172c8705860aa6d697645bed9c75b412aa08fa1c9da75432d",
+      "meaning": "～个月",
+      "reading": "～かげつ",
+      "term": "～か月"
+    },
+    {
+      "entryID": "jlpt-n5-d807e0b5485c9d7d4da95b8214964e9a3efbb32327c0f85de4a73bd7fdde4361",
+      "meaning": "戴上（眼镜等）；悬挂",
+      "reading": "かける",
+      "term": "掛ける"
+    },
+    {
+      "entryID": "jlpt-n5-68806d2a5f97be698844d956b70966b5e7b873877ae011a9fa95cb9adc45cc7e",
+      "meaning": "打电话；坐下",
+      "reading": "かける",
+      "term": "かける"
+    },
+    {
+      "entryID": "jlpt-n5-debfcacb984a72c98237fcd2ce61c72c14f281866953bd46e8c8a1dbb032dda2",
+      "meaning": "伞；阳伞",
+      "reading": "かさ",
+      "term": "傘"
+    },
+    {
+      "entryID": "jlpt-n5-db6f08a9bdc7917c2e5ec42ea2dd403cfe71c2dc49b1ae5df66b289bcf829411",
+      "meaning": "借给；出租",
+      "reading": "かす",
+      "term": "貸す"
+    },
+    {
+      "entryID": "jlpt-n5-bef0fd16dacdae8c6291e31bb05ebfa9a2a35520a4ed465398d8bdf4f3c88a2a",
+      "meaning": "风",
+      "reading": "かぜ",
+      "term": "風"
+    },
+    {
+      "entryID": "jlpt-n5-66ac9d8d68bc01906dc5167b56ed757eb685b96d832a3b6c38de85793fd2664e",
+      "meaning": "感冒",
+      "reading": "かぜ",
+      "term": "風邪"
+    },
+    {
+      "entryID": "jlpt-n5-4279da0cfcd64ca49f3fb53cb9efcb7b26fa4ad85f49cc8c73954fe16e008601",
+      "meaning": "位；人（“人”的敬语）；方法",
+      "reading": "かた",
+      "term": "方"
+    },
+    {
+      "entryID": "jlpt-n5-62c42a164f2b35028b1b09a9a600475680778e52235594b86c2914c4de0382ac",
+      "meaning": "家人；家庭",
+      "reading": "かぞく",
+      "term": "家族"
+    },
+    {
+      "entryID": "jlpt-n5-e754f552f5edd56ab32af1019a91d67567513f8f0d611b159593a0eb4ec12fdc",
+      "meaning": "片假名",
+      "reading": "かたかな",
+      "term": "片仮名"
+    },
+    {
+      "entryID": "jlpt-n5-c95e57c58820e99b6492c6f60286bd8fb3e50f4894e5bf9196269c3e9b105589",
+      "meaning": "～月（月份）",
+      "reading": "～がつ",
+      "term": "～月"
+    },
+    {
+      "entryID": "jlpt-n5-ff97ae01a23565cdc684ce20ad79d02da53662921ed9e172b41fb4ed17b9c726",
+      "meaning": "学校",
+      "reading": "がっこう",
+      "term": "学校"
+    },
+    {
+      "entryID": "jlpt-n5-688885128460bdf260fdc94ba5b854b9212ec1f43207f5d73a2d06a6125d411e",
+      "meaning": "杯子",
+      "reading": "カップ",
+      "term": "カップ"
+    },
+    {
+      "entryID": "jlpt-n5-a5b5b93affd4634a72bfa1bdf5466c6be8398bbc97f0a90530c00daaa9a4b1cf",
+      "meaning": "家庭；家",
+      "reading": "かてい",
+      "term": "家庭"
+    },
+    {
+      "entryID": "jlpt-n5-522c256b78179c5aa8cb9dd5f56b1659e8df3a6f8007385110a907dedcf23da5",
+      "meaning": "角；拐角",
+      "reading": "かど",
+      "term": "角"
+    },
+    {
+      "entryID": "jlpt-n5-e763a66a048c55a0c00d03e3994af05ba350b5142eba20e60f9567e12f8d88c2",
+      "meaning": "包；提包",
+      "reading": "かばん",
+      "term": "かばん"
+    },
+    {
+      "entryID": "jlpt-n5-413741d93bb14a934afa2a79f2344934040b1f94dd7074990973d7370a9eaf65",
+      "meaning": "花瓶",
+      "reading": "かびん",
+      "term": "花瓶"
+    },
+    {
+      "entryID": "jlpt-n5-26b183473a87789e05ba59e26c6e7244de30586807288b1b866d60157ce9534b",
+      "meaning": "戴上（帽子等）",
+      "reading": "かぶる",
+      "term": "かぶる"
+    },
+    {
+      "entryID": "jlpt-n5-cccc182aed646117ef31cf67f83ea20b23b4797b0e83a8e63a34e986cbd4723b",
+      "meaning": "纸",
+      "reading": "かみ",
+      "term": "紙"
+    },
+    {
+      "entryID": "jlpt-n5-2d5b3ad64864a85518cb1a95eec9730bd868cdf1ac0d29bdb16f6772583e1de4",
+      "meaning": "照相机",
+      "reading": "カメラ",
+      "term": "カメラ"
+    },
+    {
+      "entryID": "jlpt-n5-cc0b13626604da1401cf7c73abab73b89f0c687113b8fe1fe6a090b36eed0b7b",
+      "meaning": "星期二",
+      "reading": "かようび",
+      "term": "火曜日"
+    },
+    {
+      "entryID": "jlpt-n5-3e1ded53621a51f32b95079d4b7ece6894d1a9ea4439966ccb4d03cb18b4e924",
+      "meaning": "辣的；咸的",
+      "reading": "からい",
+      "term": "辛い"
+    },
+    {
+      "entryID": "jlpt-n5-556fbe39df4c323815793167cda0d51e6e3775f9c76931b1558851e8445c40e1",
+      "meaning": "身体；健康状况",
+      "reading": "からだ",
+      "term": "体"
+    },
+    {
+      "entryID": "jlpt-n5-26fd30344f9a7b22140d41974c0aacc24b4e7525c47d976291e16b4b6ebca209",
+      "meaning": "借入；借用",
+      "reading": "かりる",
+      "term": "借りる"
+    },
+    {
+      "entryID": "jlpt-n5-d8ea5966093e6e3e88c0eeb3346a2bea80b5697c642527cf6e994d3d65457308",
+      "meaning": "表示他人显露某种感受的后缀“～がる”",
+      "reading": "～がる",
+      "term": "～がる"
+    },
+    {
+      "entryID": "jlpt-n5-e608f0d729b50cfce7dc992a5afb1a2e7fb4b7a01bedc351eaede069d6951d82",
+      "meaning": "轻的；轻微的",
+      "reading": "かるい",
+      "term": "軽い"
+    },
+    {
+      "entryID": "jlpt-n5-9b6e4f44d3fad908b20200c757390b5a8caaa1cf11c7aa01f7e41e88ded752b5",
+      "meaning": "咖喱饭",
+      "reading": "カレー",
+      "term": "カレー"
+    },
+    {
+      "entryID": "jlpt-n5-74a0e5e9fdd39e92b107d087f40e23b4a97f43888ecba4cd39e08fb8c632d21a",
+      "meaning": "日历",
+      "reading": "カレンダー",
+      "term": "カレンダー"
+    },
+    {
+      "entryID": "jlpt-n5-b9817210c8c6dc265e137470aae1d974a2015e42d73be29c63630c9ebd4b84ea",
+      "meaning": "河；河流",
+      "reading": "かわ",
+      "term": "川; 河"
+    },
+    {
+      "entryID": "jlpt-n5-6eca3d135411113cf4083cdf2bfff486f0ee18d414701a5f8680df00b6557091",
+      "meaning": "～侧；～一边",
+      "reading": "～がわ",
+      "term": "～側"
+    },
+    {
+      "entryID": "jlpt-n5-927eac10e3377747fdfdd8b9da75b849683c1795f665fd87a7eda4402b44b8fb",
+      "meaning": "可爱的",
+      "reading": "かわいい",
+      "term": "可愛い"
+    },
+    {
+      "entryID": "jlpt-n5-f72b39dbed44a964b2db3c049892f1b429eefbe810d464d4e1820e08422a476b",
+      "meaning": "汉字",
+      "reading": "かんじ",
+      "term": "漢字"
+    },
+    {
+      "entryID": "jlpt-n5-9ceea0c41c8a2c8b8c751ea367a816ec5e789fe7e39e175806c6e0a16a770135",
+      "meaning": "树；木材",
+      "reading": "き",
+      "term": "木"
+    },
+    {
+      "entryID": "jlpt-n5-a63033e307e429af45a6d9f690c0b62a17760ec6d980e596895e98ae0fbc49a3",
+      "meaning": "黄色",
+      "reading": "きいろ",
+      "term": "黄色"
+    },
+    {
+      "entryID": "jlpt-n5-cec2d1dea194b799221fa1f1755365c411ec256f5c7f58768466ede5c39f5d50",
+      "meaning": "黄色的",
+      "reading": "きいろい",
+      "term": "黄色い"
+    },
+    {
+      "entryID": "jlpt-n5-d770484dc6374a13fbcabfee3de7475c4966a828a1605d5223d7f474d92fff80",
+      "meaning": "消失；熄灭（自动词）",
+      "reading": "きえる",
+      "term": "消える"
+    },
+    {
+      "entryID": "jlpt-n5-00d54a5ae8b4390f8155fb525e4ba4ad9532d0de78597ac73e2b5eb7c3f416c3",
+      "meaning": "听；询问",
+      "reading": "きく",
+      "term": "聞く"
+    },
+    {
+      "entryID": "jlpt-n5-d8df58ab5bac1cfad20661c4452aca1b49c30708489ed40f65a913d49b7f252f",
+      "meaning": "北；北方",
+      "reading": "きた",
+      "term": "北"
+    },
+    {
+      "entryID": "jlpt-n5-ec1171b4d0871ccb19c533c709f74f6e9ab902f76ad2fd0d4154c7f89095859a",
+      "meaning": "吉他",
+      "reading": "ギター",
+      "term": "ギター"
+    },
+    {
+      "entryID": "jlpt-n5-0a8743411dad2f12a3bab736eafeba901d708d56eaab9c5f49abee4cc0f6ec6b",
+      "meaning": "脏的；肮脏的",
+      "reading": "きたない",
+      "term": "汚い"
+    },
+    {
+      "entryID": "jlpt-n5-8bd1d5ea09cbcd933250c550c9abe260b36584728533c2799119bdb76ce5af2c",
+      "meaning": "咖啡馆；茶馆",
+      "reading": "きっさてん",
+      "term": "喫茶店"
+    },
+    {
+      "entryID": "jlpt-n5-5be867b8222e7fad752fe41f7d8def1bac770d2b97a23be1bd2fbec7ee8b5951",
+      "meaning": "邮票",
+      "reading": "きって",
+      "term": "切手"
+    },
+    {
+      "entryID": "jlpt-n5-474865b0f715b9c1794936aa32dae7d73b799353f98237ef6c0756666c7da0df",
+      "meaning": "票；车票",
+      "reading": "きっぷ",
+      "term": "切符"
+    },
+    {
+      "entryID": "jlpt-n5-9e13e277b90e9671c08fe96c186cc0fe514e4a4871a4783fe8bb8cf5fa988fd4",
+      "meaning": "昨天",
+      "reading": "きのう",
+      "term": "昨日"
+    },
+    {
+      "entryID": "jlpt-n5-d9c98f2a322b634662c605bb0996b52a3be372fb70dccef8b481b04093815f0f",
+      "meaning": "九",
+      "reading": "きゅう",
+      "term": "九"
+    },
+    {
+      "entryID": "jlpt-n5-f5bd69c25bde083089e76dfaed7a64893147e85b4c2b001cc10a683dd1c81f14",
+      "meaning": "牛肉",
+      "reading": "ぎゅうにく",
+      "term": "牛肉"
+    },
+    {
+      "entryID": "jlpt-n5-9ea72b9ed9bf9f91f416350aa3326b0bacf34d92a121bb7358f1b7599a880a41",
+      "meaning": "牛奶",
+      "reading": "ぎゅうにゅう",
+      "term": "牛乳"
+    },
+    {
+      "entryID": "jlpt-n5-c41644e1d17276a14d0fc174709d74456b4e547b93259e17eca6d33463b05637",
+      "meaning": "今天",
+      "reading": "きょう",
+      "term": "今日"
+    },
+    {
+      "entryID": "jlpt-n5-2d9ec8a3d993757482f6f25d25115192952c702138afb1d74d8eba17e2081f84",
+      "meaning": "教室",
+      "reading": "きょうしつ",
+      "term": "教室"
+    },
+    {
+      "entryID": "jlpt-n5-dcd4097ccafdf23e7076ed9b97058e11a809da4914008abb658f58b597dc38ce",
+      "meaning": "兄弟姐妹（对外谦称自己的兄弟姐妹）",
+      "reading": "きょうだい",
+      "term": "兄弟"
+    },
+    {
+      "entryID": "jlpt-n5-986ec3e9649b9d5aca4242dca549918a99c8f592b725de2fab13b6f11544c0d9",
+      "meaning": "去年",
+      "reading": "きょねん",
+      "term": "去年"
+    },
+    {
+      "entryID": "jlpt-n5-0b9f249f2895cd1128c78df06513eb83d67c2137d8448281ddd61d068380f48d",
+      "meaning": "讨厌；不喜欢",
+      "reading": "きらい",
+      "term": "嫌い"
+    },
+    {
+      "entryID": "jlpt-n5-8f39fa49ceca81739832f91f96f38f046fc055da0c2c54f07316edc90b478c9b",
+      "meaning": "切；剪；挂断电话（他动词）",
+      "reading": "きる",
+      "term": "切る"
+    },
+    {
+      "entryID": "jlpt-n5-9bfd6897a6bc9be46be5fc4f7a8a77d61321bf253e81100453c6549b625f3374",
+      "meaning": "穿；穿上（上半身衣物）",
+      "reading": "きる",
+      "term": "着る"
+    },
+    {
+      "entryID": "jlpt-n5-67fcabd42bff97b264375b890c631f201ddeeab7ace310b5538e008952e5e953",
+      "meaning": "漂亮的；干净的；整洁的",
+      "reading": "きれい",
+      "term": "綺麗"
+    },
+    {
+      "entryID": "jlpt-n5-1e83ad4de875744bc7abdc925adf0928fba9e0bfd66d7bdfb6e20473c0c6a5b8",
+      "meaning": "千克；公斤（缩写）",
+      "reading": "キロ; キログラム",
+      "term": "キロ; キログラム"
+    },
+    {
+      "entryID": "jlpt-n5-3fa6969f359f92e42ada402cb75e4362f42332d4d44ef4e09ba831af951eb26c",
+      "meaning": "千米；公里（缩写）",
+      "reading": "キロ; キロメートル",
+      "term": "キロ; キロメートル"
+    },
+    {
+      "entryID": "jlpt-n5-fb958fca0ef3bd5cb693587534461fe03d66be877f7bcd6b0b7aa37adf1ebbfc",
+      "meaning": "银行",
+      "reading": "ぎんこう",
+      "term": "銀行"
+    },
+    {
+      "entryID": "jlpt-n5-2ab7f22f9416fd47b49c7a9791a5bd7d5b406e0565e01447677c87ffa71fe29e",
+      "meaning": "星期五",
+      "reading": "きんようび",
+      "term": "金曜日"
+    },
+    {
+      "entryID": "jlpt-n5-3bf8778e5824a204b7eea203eaa68c1674d70f0284a87994804d402f24950c1d",
+      "meaning": "九",
+      "reading": "く",
+      "term": "九"
+    },
+    {
+      "entryID": "jlpt-n5-113cd1d0af632da1b3d644ca5c861d94167450d5831678bcb1206e382b2afca2",
+      "meaning": "药；药品",
+      "reading": "くすり",
+      "term": "薬"
+    },
+    {
+      "entryID": "jlpt-n5-8ecca1d72be36ac5c25bed9de1dd28450e3518417aa15bbd4de4e1bf3addec65",
+      "meaning": "请……（接动词て形的请求表达）",
+      "reading": "ください",
+      "term": "下さい"
+    },
+    {
+      "entryID": "jlpt-n5-f0ac3df4727b40d8554427cc2c11f48cbc44abce6c158c255a73e1424d9529d8",
+      "meaning": "水果",
+      "reading": "くだもの",
+      "term": "果物"
+    },
+    {
+      "entryID": "jlpt-n5-633b237ef1fa22b3f56c3b44fa9fe65739a70d94748822bd911472f0c204909e",
+      "meaning": "嘴；口；空缺职位",
+      "reading": "くち",
+      "term": "口"
+    },
+    {
+      "entryID": "jlpt-n5-282b6651748c7cb7f5f31519cd0c1e1e5ed1b6644ecea9b00aa6c89517d58b78",
+      "meaning": "鞋",
+      "reading": "くつ",
+      "term": "靴"
+    },
+    {
+      "entryID": "jlpt-n5-35d65469a580a153c9e95f2981a3f45482b71e52076f3fb4a9eaf2e78e8e66d3",
+      "meaning": "袜子",
+      "reading": "くつした",
+      "term": "靴下"
+    },
+    {
+      "entryID": "jlpt-n5-189b04432ad89b8f7383675bd4c57bdbe0cc80ba79c56d3bbb3f3c2ea90e29e1",
+      "meaning": "国家；故乡",
+      "reading": "くに",
+      "term": "国"
+    },
+    {
+      "entryID": "jlpt-n5-cb5946c0407ee96c512439b739a3d0758ce6087aefdfa9b5022a8504682bd574",
+      "meaning": "阴天；多云",
+      "reading": "くもり",
+      "term": "曇り"
+    },
+    {
+      "entryID": "jlpt-n5-52772c1d247e3c91b659d10ef806c7d11705097adaf0262d5544078b7eada295",
+      "meaning": "变阴；变暗（自动词）",
+      "reading": "くもる",
+      "term": "曇る"
+    },
+    {
+      "entryID": "jlpt-n5-97da61fbfb6ff28c643eb760dd991c89f0eb0e065dd3362123ca5cc93bcee6f9",
+      "meaning": "暗的；阴沉的",
+      "reading": "くらい",
+      "term": "暗い"
+    },
+    {
+      "entryID": "jlpt-n5-f65677d57af3c10cdfde4e61d9809ec618ab8b7dccc42ca8c27f1d53ea3461a5",
+      "meaning": "大约；左右（数量）",
+      "reading": "～くらい; ぐらい",
+      "term": "～くらい; ぐらい"
+    },
+    {
+      "entryID": "jlpt-n5-16f02b4cb43919c38cc957051a762bb484a61748e961957a556aac61b3bb0ae0",
+      "meaning": "班级；课程",
+      "reading": "クラス",
+      "term": "クラス"
+    },
+    {
+      "entryID": "jlpt-n5-0dd0bb447a79860b6ed931857377213ecbb6d9f074f08d4c46ddbfeeaaa494c3",
+      "meaning": "克",
+      "reading": "グラム",
+      "term": "グラム"
+    },
+    {
+      "entryID": "jlpt-n5-c99ea9de530bf83b13638e970b2ee997111e886948f0214f8d4b9afad9c13567",
+      "meaning": "来",
+      "reading": "くる",
+      "term": "来る"
+    },
+    {
+      "entryID": "jlpt-n5-55dfa6b05401f584ff6756050640100b65ef28bbeb76fc57dfd938310dd03ff2",
+      "meaning": "车；汽车",
+      "reading": "くるま",
+      "term": "車"
+    },
+    {
+      "entryID": "jlpt-n5-ee368ad2b5abce99e4701e72ed408b8019473554fc058983a18c80ba068e6bbe",
+      "meaning": "黑色",
+      "reading": "くろ",
+      "term": "黒"
+    },
+    {
+      "entryID": "jlpt-n5-a35c96c84202a38d8376d7e28bed35025882d199e829c81fb1f6eb474f072452",
+      "meaning": "黑色的；暗的",
+      "reading": "くろい",
+      "term": "黒い"
+    },
+    {
+      "entryID": "jlpt-n5-8498fc77351daf6bc0dd03531d3f70c3d196aa7ddbfb836193ad6ba720af731d",
+      "meaning": "警察；警官",
+      "reading": "けいかん",
+      "term": "警官"
+    },
+    {
+      "entryID": "jlpt-n5-c5deb3c1081e42116c93ade980f4ed27076a3e7573b1c7c6597656c017bdd00d",
+      "meaning": "今天早晨",
+      "reading": "けさ",
+      "term": "今朝"
+    },
+    {
+      "entryID": "jlpt-n5-f3ddcdcade69316557e698f7da86195e63d4cc31c91abfd84715cfc3b39dbcb9",
+      "meaning": "擦除；关掉（他动词）",
+      "reading": "けす",
+      "term": "消す"
+    },
+    {
+      "entryID": "jlpt-n5-bbe978c5329ff76aa3e63deb86e70bd103e55e22bcb8b320b70bc270ffb5e2f4",
+      "meaning": "很好；足够；不用了",
+      "reading": "けっこう",
+      "term": "結構"
+    },
+    {
+      "entryID": "jlpt-n5-756e4bb10b3acfdc0b43fb216e67e52bec964ee611b31352b93ce7b5f01fb202",
+      "meaning": "结婚",
+      "reading": "けっこん (する)",
+      "term": "結婚"
+    },
+    {
+      "entryID": "jlpt-n5-b1637ef033475a402e5210226077495311a7164876dcb6dc87ffd90d27f091a1",
+      "meaning": "星期一",
+      "reading": "げつようび",
+      "term": "月曜日"
+    },
+    {
+      "entryID": "jlpt-n5-be484989a9a634aa6df492ab934b974fbba472141a8e8f9a945a6b1bae5103ba",
+      "meaning": "玄关；门厅",
+      "reading": "げんかん",
+      "term": "玄関"
+    },
+    {
+      "entryID": "jlpt-n5-37d012da96d7ef4ac25f5985d055c27a28de2a43935bb165e96e6727feaa9cea",
+      "meaning": "健康的；有精神的",
+      "reading": "げんき",
+      "term": "元気"
+    },
+    {
+      "entryID": "jlpt-n5-ea6872c3e705f5ccbac441c04541ce9b7ccfc6e65885d7cbb96395ff1231ce57",
+      "meaning": "～个（小件物品助数词）",
+      "reading": "～こ",
+      "term": "～個"
+    },
+    {
+      "entryID": "jlpt-n5-2d60ba11021c1bc3802871a2b51f6bba1dcbee94904694175f1a06d49524f39d",
+      "meaning": "五",
+      "reading": "ご",
+      "term": "五"
+    },
+    {
+      "entryID": "jlpt-n5-37ef24733392d52cd008d8a25616e9ab43b450d4fd00f94b76dbe38849b77271",
+      "meaning": "～语；语言",
+      "reading": "～ご",
+      "term": "～語"
+    },
+    {
+      "entryID": "jlpt-n5-4c3ed4543ba7b11064f7a2b113d8feae464edb63f1e1c409b9aec233e4eae99b",
+      "meaning": "公园",
+      "reading": "こうえん",
+      "term": "公園"
+    },
+    {
+      "entryID": "jlpt-n5-055f4c0ac3b4568f061bb5cfc8c3a0c562ccc72054506dd04780c61e0a34feb3",
+      "meaning": "十字路口；交叉路口",
+      "reading": "こうさてん",
+      "term": "交差点"
+    },
+    {
+      "entryID": "jlpt-n5-8ca722b2f53c249faffafc3147b5535e2c898ffa7a18abd5afd3dd5f76a3f582",
+      "meaning": "红茶",
+      "reading": "こうちゃ",
+      "term": "紅茶"
+    },
+    {
+      "entryID": "jlpt-n5-15f661e9086abab96d6fb16c9f6ef32e4ae61450621e32b15e91b313c5b1f744",
+      "meaning": "派出所",
+      "reading": "こうばん",
+      "term": "交番"
+    },
+    {
+      "entryID": "jlpt-n5-4d49fc0c053c279c3897228d51bc2f3ebe4391cc5414a6942e6107262c54e403",
+      "meaning": "声音；嗓音",
+      "reading": "こえ",
+      "term": "声"
+    },
+    {
+      "entryID": "jlpt-n5-52673b4bebf627017db6ab4343d9a5a2fb882971a6ef63bcf4377c6c3da85443",
+      "meaning": "外套；球场",
+      "reading": "コート",
+      "term": "コート"
+    },
+    {
+      "entryID": "jlpt-n5-38b74ea50cb096531f11e0589cc06f886cd72ebf0330788f580ee9a0d2855cf6",
+      "meaning": "咖啡",
+      "reading": "コーヒー",
+      "term": "コーヒー"
+    },
+    {
+      "entryID": "jlpt-n5-48a7dead9815e2970d985ba7d14a84b70a25969652ebd0d4a8d30c8e49ce7219",
+      "meaning": "这里",
+      "reading": "ここ",
+      "term": "ここ"
+    },
+    {
+      "entryID": "jlpt-n5-0b66a3a14f357cea0792f17ee05a37017c7828c2a4458a8d6e4f2603eceaa871",
+      "meaning": "下午",
+      "reading": "ごご",
+      "term": "午後"
+    },
+    {
+      "entryID": "jlpt-n5-2589627ab99b4070fb19bfbe74b7ac26fde6f93766795a01afb9e64ef793dfaf",
+      "meaning": "九天；九号",
+      "reading": "ここのか",
+      "term": "九日"
+    },
+    {
+      "entryID": "jlpt-n5-d449d976d0351eccebd2de293796ccede5abdfc469f70eff5267953db26de054",
+      "meaning": "九个",
+      "reading": "ここのつ",
+      "term": "九つ"
+    },
+    {
+      "entryID": "jlpt-n5-119bde641665e3102871eba6733c73e1bc4c9064edfb84534707c05e16905234",
+      "meaning": "上午",
+      "reading": "ごぜん",
+      "term": "午前"
+    },
+    {
+      "entryID": "jlpt-n5-713251fdb1d1fd1ab6004515ca863d9ebe3a9b1a0396908148ef65643eff0eba",
+      "meaning": "回答；答复",
+      "reading": "こたえる",
+      "term": "答える"
+    },
+    {
+      "entryID": "jlpt-n5-1836e32ceda5ab0cb5c2781668ba2939c32d9ada92cb7c0bd8bb5c08802c2766",
+      "meaning": "这位；这边（礼貌说法）",
+      "reading": "こちら",
+      "term": "こちら"
+    },
+    {
+      "entryID": "jlpt-n5-78148104f002d5c963e30f959e5a495d863d3ed68743f89cb01809aab2ccced4",
+      "meaning": "这边；这个人；这个方向",
+      "reading": "こっち",
+      "term": "こっち"
+    },
+    {
+      "entryID": "jlpt-n5-9dc8041b97d587daeb87945f3ebed4c8204df3aa00e7733337612a64e36e7450",
+      "meaning": "玻璃杯",
+      "reading": "コップ",
+      "term": "コップ"
+    },
+    {
+      "entryID": "jlpt-n5-7bf0274a631f7226166c42b6e071e5e599f94a732d254189d1f5c226bea5e810",
+      "meaning": "今年",
+      "reading": "ことし",
+      "term": "今年"
+    },
+    {
+      "entryID": "jlpt-n5-e2d05233c79ccb9194ad92488e328a8817580ed22a265526be643b8946377612",
+      "meaning": "词语；语言；表达",
+      "reading": "ことば",
+      "term": "言葉"
+    },
+    {
+      "entryID": "jlpt-n5-791ad2ad0103d387a9d0b8f633b1002b25706e335a1df1a3ac50720374859cd8",
+      "meaning": "孩子；儿童",
+      "reading": "こども",
+      "term": "子供"
+    },
+    {
+      "entryID": "jlpt-n5-dc22dfc0eef5926b0d66599d4c2b7ec08aa12fd80e73f1759647fc1aa53539df",
+      "meaning": "这个（连体词）",
+      "reading": "この",
+      "term": "この"
+    },
+    {
+      "entryID": "jlpt-n5-43ab9d4a89f33014b938da0cc81f75005ab1db889d570bfa66a0b918f497b64c",
+      "meaning": "米饭；饭；餐",
+      "reading": "ごはん",
+      "term": "御飯"
+    },
+    {
+      "entryID": "jlpt-n5-cdc56790cf0569215c051ff2ec74d0cc387278a27ce5edd502fdbbf695495203",
+      "meaning": "复制；复印",
+      "reading": "コピーする",
+      "term": "コピーする"
+    },
+    {
+      "entryID": "jlpt-n5-a99cd313b33b73ced500fe38d77845506bc5ede59b6b7919546fb8eaae9f421e",
+      "meaning": "为难；困扰",
+      "reading": "こまる",
+      "term": "困る"
+    },
+    {
+      "entryID": "jlpt-n5-79abf5e2c570eb82e89d21a540c281a61900423ead4f959357c3396324713e8c",
+      "meaning": "这个；这件",
+      "reading": "これ",
+      "term": "これ"
+    },
+    {
+      "entryID": "jlpt-n5-d2b0277c83d209730c63e68148981e0c5fa838e995ef4730479f5513244b9724",
+      "meaning": "大约；左右（时间）",
+      "reading": "～ころ; ～ごろ",
+      "term": "～ころ; ～ごろ"
+    },
+    {
+      "entryID": "jlpt-n5-16ab476e44bc6b9961f8375f2617cbd1be43e0511ecf5c9612ab8af524c2b03c",
+      "meaning": "这个月",
+      "reading": "こんげつ",
+      "term": "今月"
+    },
+    {
+      "entryID": "jlpt-n5-7383d337ce2c0873c08e1b84e0fbfa747d4263136c96dacf8a24819e1b0b5ba4",
+      "meaning": "这周；本周",
+      "reading": "こんしゅう",
+      "term": "今週"
+    },
+    {
+      "entryID": "jlpt-n5-39279eb1f375ec29ebe21331fdf902414e4fb04df5636aad0d46a4665d264656",
+      "meaning": "这样的",
+      "reading": "こんな",
+      "term": "こんな"
+    },
+    {
+      "entryID": "jlpt-n5-f955af880db730c809eb6de49956388bd38773a42eb46f5f6f9d75ad29f60bc1",
+      "meaning": "今晚；今天晚上",
+      "reading": "こんばん",
+      "term": "今晩"
+    },
+    {
+      "entryID": "jlpt-n5-1b7735595d9dc9e2e875550e1245b145f66aabc43a0d06c9b365bc05c86b92ec",
+      "meaning": "来吧；那么；嗯",
+      "reading": "さあ",
+      "term": "さあ"
+    },
+    {
+      "entryID": "jlpt-n5-dc7e78dfb0c6afcae1449b732f961d66d5fa8907fe2440d99c0bea2e556ad6d4",
+      "meaning": "～岁（年龄助数词）",
+      "reading": "～さい",
+      "term": "～歳"
+    },
+    {
+      "entryID": "jlpt-n5-ddfbe24f910779dfbb83f32dbdbab99a3f08483278f996b7d03bdcb1907ff025",
+      "meaning": "钱包",
+      "reading": "さいふ",
+      "term": "財布"
+    },
+    {
+      "entryID": "jlpt-n5-11b60044e8a7ed981c628f650988bb7b71eea2f77edd33ef3606c6fc822a03fc",
+      "meaning": "鱼",
+      "reading": "さかな",
+      "term": "魚"
+    },
+    {
+      "entryID": "jlpt-n5-7011642af97d1d95a2b122b7a1b619cf642fdf7af8a053d1a9f74ad0730d8706",
+      "meaning": "前方；先；未来",
+      "reading": "さき",
+      "term": "先"
+    },
+    {
+      "entryID": "jlpt-n5-e07d48b313c72062b7b670be626029a2902fff5ff4e3a61fb622ab0113037685",
+      "meaning": "开花",
+      "reading": "さく",
+      "term": "咲く"
+    },
+    {
+      "entryID": "jlpt-n5-c6d84f673af25d11dc79f83929211faa08e5cb36e856a626d57163feb856e107",
+      "meaning": "作文；文章",
+      "reading": "さくぶん",
+      "term": "作文"
+    },
+    {
+      "entryID": "jlpt-n5-ca0d0385ba3944d9c3e46de0a949c881cf4a06cc58c5c3e6fe0de6594119a77b",
+      "meaning": "撑（伞）；伸出；举起",
+      "reading": "さす",
+      "term": "差す"
+    },
+    {
+      "entryID": "jlpt-n5-7eaec5eabd57d539d97da52962b06fe90021100440bab5c5ab358c33b31a6a62",
+      "meaning": "～册（书本助数词）",
+      "reading": "～さつ",
+      "term": "～冊"
+    },
+    {
+      "entryID": "jlpt-n5-78afcac3cae550963f36fc3b03f8cdf106937e56167a763bca4f7ca10831df3d",
+      "meaning": "杂志；期刊",
+      "reading": "ざっし",
+      "term": "雑誌"
+    },
+    {
+      "entryID": "jlpt-n5-4583bae96169bb93b51056d1dc8d8429a0db003dd62f7e7654bd9fe20edaa391",
+      "meaning": "糖；砂糖",
+      "reading": "さとう",
+      "term": "砂糖"
+    },
+    {
+      "entryID": "jlpt-n5-5c774bcbd339f1c894a474e36d52b0fdebde048e92361dc4b01f35955b44c5c8",
+      "meaning": "冷的；寒冷的（天气）",
+      "reading": "さむい",
+      "term": "寒い"
+    },
+    {
+      "entryID": "jlpt-n5-b90a130b82e300f61ace3b974492280f7392c7ba3a2ac9c030d473e65abf4bd8",
+      "meaning": "后年",
+      "reading": "さらいねん",
+      "term": "さ来年"
+    },
+    {
+      "entryID": "jlpt-n5-453b40c200b768bc616dc995ec5fab2d6ebf406487a278e5b09cfd81c15e4e20",
+      "meaning": "～先生；～女士（称谓敬称）",
+      "reading": "～さん",
+      "term": "～さん"
+    },
+    {
+      "entryID": "jlpt-n5-0e743cac2ce2fc2b3809e937edd845acd370b7222645a42a02e78f3922b8a575",
+      "meaning": "三",
+      "reading": "さん",
+      "term": "三"
+    },
+    {
+      "entryID": "jlpt-n5-79fac311153e283a982add010afd8081c488e26f8076a67d1d0c3bc1252ef26e",
+      "meaning": "散步",
+      "reading": "さんぽ (する)",
+      "term": "散歩"
+    },
+    {
+      "entryID": "jlpt-n5-142fa0deb2dfa671c79a0c4fa66f3cbf0d83de5614f39dfac3970464fc7116dc",
+      "meaning": "四",
+      "reading": "し",
+      "term": "四"
+    },
+    {
+      "entryID": "jlpt-n5-15d39f08a5319227f8a59d0a3620f7c850eb0fc7bdd1a401f5ab1c6c12cbfd2f",
+      "meaning": "～点（时刻）",
+      "reading": "～じ",
+      "term": "～時"
+    },
+    {
+      "entryID": "jlpt-n5-8dba2f288de728052c872819ab76d930839b834815afcc07abe21ce53d8ecafa",
+      "meaning": "盐",
+      "reading": "しお",
+      "term": "塩"
+    },
+    {
+      "entryID": "jlpt-n5-2876e6f043a15a2f912d3a6e30e792e0c01b74a2b010c636f3430692832d41c6",
+      "meaning": "但是；然而",
+      "reading": "しかし",
+      "term": "しかし"
+    },
+    {
+      "entryID": "jlpt-n5-6fa6913c565dd647a714ebcf5fe8e601d4fa368c59794054047522ae483b553c",
+      "meaning": "时间",
+      "reading": "じかん",
+      "term": "時間"
+    },
+    {
+      "entryID": "jlpt-n5-d43bc509c8635922ebb3fbac7f84642b05fe00ad1bd84b10a6543bb928ef1ddf",
+      "meaning": "～小时",
+      "reading": "～じかん",
+      "term": "～時間"
+    },
+    {
+      "entryID": "jlpt-n5-423a6c2d1908c1aa216a32101bbc252ab6e842b0555b312d936209aec03c193a",
+      "meaning": "工作；职业",
+      "reading": "しごと",
+      "term": "仕事"
+    },
+    {
+      "entryID": "jlpt-n5-573164927aada07ce377923daf93e1e00c41202ee5fbced147c1e036117a3da2",
+      "meaning": "词典；字典",
+      "reading": "じしょ",
+      "term": "辞書"
+    },
+    {
+      "entryID": "jlpt-n5-13e50f3b12ed03449f0b92ab4048cf472bfc73257b46036dfb1ce6f5b5c41549",
+      "meaning": "安静的；平静的",
+      "reading": "しずか",
+      "term": "静か"
+    },
+    {
+      "entryID": "jlpt-n5-8c71c3c2c8951c59a1e0435dd0a9c7f8b6defe81154401f2bd60ad175b6d00ba",
+      "meaning": "下面；下方",
+      "reading": "した",
+      "term": "下"
+    },
+    {
+      "entryID": "jlpt-n5-9ee87281efb00503c5d23fc3ba0f675b0200b36e0c7b3175da0f84d39f4452e9",
+      "meaning": "七",
+      "reading": "しち",
+      "term": "七"
+    },
+    {
+      "entryID": "jlpt-n5-e78310733114d93ddfa51e33dfe8ef55523619d7c1d93d77c0ca2bf2f3bbb694",
+      "meaning": "问题；提问",
+      "reading": "しつもん",
+      "term": "質問"
+    },
+    {
+      "entryID": "jlpt-n5-249244d0169dc1dc323a70bde0021d02f4d98409fdb0a8332a991cc298d06d0f",
+      "meaning": "自行车",
+      "reading": "じてんしゃ",
+      "term": "自転車"
+    },
+    {
+      "entryID": "jlpt-n5-3d300ae3e106b3fc16ed7f71e7de870bf035a498fc2b9e97ddc69253541f68af",
+      "meaning": "汽车",
+      "reading": "じどうしゃ",
+      "term": "自動車"
+    },
+    {
+      "entryID": "jlpt-n5-8c32766d4d23bfa30a102ac9fadd4a95b348c89319055b3cb4ba1cfa15ddfbe1",
+      "meaning": "死；死亡",
+      "reading": "しぬ",
+      "term": "死ぬ"
+    },
+    {
+      "entryID": "jlpt-n5-fbbee050cc16d3b9a3d00c861538a153624178349ad253ebdafb89303791b77b",
+      "meaning": "词典；字典",
+      "reading": "じびき",
+      "term": "字引"
+    },
+    {
+      "entryID": "jlpt-n5-b3cc8434e62e020afaa66135a25551a499653f3af881eaefd3fb70168f225d60",
+      "meaning": "自己；自身",
+      "reading": "じぶん",
+      "term": "自分"
+    },
+    {
+      "entryID": "jlpt-n5-316bb19b095f0be5a26dbb7e8a3eed909f898fe5262b5878ab210d756d952415",
+      "meaning": "关上；关闭（自动词）",
+      "reading": "しまる",
+      "term": "閉まる"
+    },
+    {
+      "entryID": "jlpt-n5-1ae3421ab1a7b7976d28a57c7774e02e5eca5bccf2a5b1fc7d69ab9c84c2221c",
+      "meaning": "关闭；关上（他动词）",
+      "reading": "しめる",
+      "term": "閉める"
+    },
+    {
+      "entryID": "jlpt-n5-cf5628782d189ba7c46b556566978dacf6301cf057a64bbda6be7e56f43eeafb",
+      "meaning": "系紧；扎紧；勒紧（他动词）",
+      "reading": "しめる",
+      "term": "締める"
+    },
+    {
+      "entryID": "jlpt-n5-0082392ccc7406d498ebf75cebb408013266f996e75bcc03f2db0d5204642c5f",
+      "meaning": "那么；那就",
+      "reading": "じゃ; じゃあ",
+      "term": "じゃ; じゃあ"
+    },
+    {
+      "entryID": "jlpt-n5-8c0ee34cbd42665881dfb508ea2b3789c7dca1e71d2835d9ab6da59ca9a6dd95",
+      "meaning": "照片；图片",
+      "reading": "しゃしん",
+      "term": "写真"
+    },
+    {
+      "entryID": "jlpt-n5-1bb3ccbd39b9b8adc2badb3f8246560546404a651dab02bf54a802b812d73eec",
+      "meaning": "衬衫",
+      "reading": "シャツ",
+      "term": "シャツ"
+    },
+    {
+      "entryID": "jlpt-n5-33035a7e20f8cd5e3856e09318e11f9d2a34861a31e85fb2e328710b584deaa5",
+      "meaning": "淋浴",
+      "reading": "シャワー",
+      "term": "シャワー"
+    },
+    {
+      "entryID": "jlpt-n5-bdde610ba1917b07c61fe700d7edf2880927f3da8562fcf2b529a0069cdb6620",
+      "meaning": "十",
+      "reading": "じゅう",
+      "term": "十"
+    },
+    {
+      "entryID": "jlpt-n5-03ecacd8006bfe4d925f8fa3769a151abe8b4202a88f78f97ae883749c0b5b64",
+      "meaning": "整个期间；到处",
+      "reading": "～じゅう",
+      "term": "～中"
+    },
+    {
+      "entryID": "jlpt-n5-8fecab1d058e7ca6ca35b6456d432da9d335e0b0cbda221a012354a682162ddc",
+      "meaning": "～周（时长）",
+      "reading": "～しゅうかん",
+      "term": "～週間"
+    },
+    {
+      "entryID": "jlpt-n5-4fc05cc770a84b162dcd0a30e6ed9c0df62d12dfa80e3cb1ada98e216b3d79f1",
+      "meaning": "课程；上课",
+      "reading": "じゅぎょう",
+      "term": "授業"
+    },
+    {
+      "entryID": "jlpt-n5-11e967480336325f2cc2d10b40d9617d5a36748b285fdfc819f4832569db4fc1",
+      "meaning": "作业",
+      "reading": "しゅくだい",
+      "term": "宿題"
+    },
+    {
+      "entryID": "jlpt-n5-5d752b9bd2ce4f1faf41dc526a4aabea0b98c670fdb70f029f1efd795a1be530",
+      "meaning": "擅长的；熟练的",
+      "reading": "じょうず",
+      "term": "上手"
+    },
+    {
+      "entryID": "jlpt-n5-82c72cbadf476eb8d064b3efa6364ea6609e877bcb1be2458e7ad4b3dc745b5d",
+      "meaning": "结实的；坚固的；健康的",
+      "reading": "じょうぶ",
+      "term": "丈夫"
+    },
+    {
+      "entryID": "jlpt-n5-09bf998d3eeb342ea2a041f2d97c16e2348656291cdb2ff4d335a54618e2da91",
+      "meaning": "酱油",
+      "reading": "しょうゆ",
+      "term": "醤油"
+    },
+    {
+      "entryID": "jlpt-n5-d6652e54929fe7d5160519307817213d01e0550fde3f9f167153cb451648b18d",
+      "meaning": "食堂；餐厅",
+      "reading": "しょくどう",
+      "term": "食堂"
+    },
+    {
+      "entryID": "jlpt-n5-516a390a7e8620fabc56f8226a93ef8120997de08090c1b5a982415c3da1561f",
+      "meaning": "知道；认识",
+      "reading": "しる",
+      "term": "知る"
+    },
+    {
+      "entryID": "jlpt-n5-c8d21f8cc0152b09eee0ffee6b970e0d8d692416ed926f6acdb9ff76397cca9a",
+      "meaning": "白色",
+      "reading": "しろ",
+      "term": "白"
+    },
+    {
+      "entryID": "jlpt-n5-eb5f11f9d53c4f71b9258a6693d4782db629bd197cbb3a1e59e3ad33aa95f4b5",
+      "meaning": "白色的",
+      "reading": "しろい",
+      "term": "白い"
+    },
+    {
+      "entryID": "jlpt-n5-908b92ddf32ee69563b8f2be208ddd7a0be0d9a26c1f94989d099ae1525577b9",
+      "meaning": "～人（国籍或职业等的接尾词）",
+      "reading": "～じん",
+      "term": "～人"
+    },
+    {
+      "entryID": "jlpt-n5-19399856f4a2ce8018642e1ce6c6090b338f6a83ff0758f0b156a18d89865c9f",
+      "meaning": "报纸",
+      "reading": "しんぶん",
+      "term": "新聞"
+    },
+    {
+      "entryID": "jlpt-n5-01f39056859f3daf6066e5795edbf54f924ca4ff3726400998b43a565e9d51ca",
+      "meaning": "星期三",
+      "reading": "すいようび",
+      "term": "水曜日"
+    },
+    {
+      "entryID": "jlpt-n5-0c2ddd246298ff7f90607644a85507e53ad169ef3090646afe1557262003a0a2",
+      "meaning": "吸；抽（烟）",
+      "reading": "すう",
+      "term": "吸う"
+    },
+    {
+      "entryID": "jlpt-n5-b60817dbabf8d84e75053e017e56ecb8bf8b0331c11bdac4d13072a2286c0ba4",
+      "meaning": "裙子",
+      "reading": "スカート",
+      "term": "スカート"
+    },
+    {
+      "entryID": "jlpt-n5-5bde5712a9a947c734ecb60cfc166c38cbb25741589ba41f9ea607c0d0c3c244",
+      "meaning": "喜欢；喜爱",
+      "reading": "すき",
+      "term": "好き"
+    },
+    {
+      "entryID": "jlpt-n5-2fb1dc494840962a7b0f4bd110df1afec306bcdfb61a677fab1210cb741571b3",
+      "meaning": "经过；超过；过度",
+      "reading": "～すぎ",
+      "term": "～すぎ"
+    },
+    {
+      "entryID": "jlpt-n5-78f50884241033c028179900372a8561d9350dc78d5c553fbfa8c84615f6d7be",
+      "meaning": "少的；不多的",
+      "reading": "すくない",
+      "term": "少ない"
+    },
+    {
+      "entryID": "jlpt-n5-1212162788a0ff9e6977c80ec96b710764ad5eb17b09e39d742fb2eda3e37f37",
+      "meaning": "马上；立刻",
+      "reading": "すぐに",
+      "term": "すぐに"
+    },
+    {
+      "entryID": "jlpt-n5-e7f5e3f98419707773cfc9c68680d44c89508ef23e02c42f8bfee80dafe55d27",
+      "meaning": "一点；少量",
+      "reading": "すこし",
+      "term": "少し"
+    },
+    {
+      "entryID": "jlpt-n5-913ee290511762be29f189c1a884e238649c8f7ef7a55a7665949a50c595d87c",
+      "meaning": "凉爽的（天气）",
+      "reading": "すずしい",
+      "term": "涼しい"
+    },
+    {
+      "entryID": "jlpt-n5-e33b4084b4701c0545f7ce7e533f3dec94b06591c882727a2b83b6f2dcd3384b",
+      "meaning": "每～；各～；逐一",
+      "reading": "～ずつ",
+      "term": "～ずつ"
+    },
+    {
+      "entryID": "jlpt-n5-24b30c5ebe03ab5e09624ce18ac30a9201e40fac476de2ebaeee5c6a98acb607",
+      "meaning": "取暖炉；暖炉",
+      "reading": "ストーブ",
+      "term": "ストーブ"
+    },
+    {
+      "entryID": "jlpt-n5-c6b9c5671c65ff71314394d1deabd7a3cd09e297a200e2b74c8caa3fde5df449",
+      "meaning": "勺子",
+      "reading": "スプーン",
+      "term": "スプーン"
+    },
+    {
+      "entryID": "jlpt-n5-28a6c7a01185682456240c54f04ba9dd8f77f8dbd4622b58f6e36adb1b70eadc",
+      "meaning": "运动；体育",
+      "reading": "スポーツ",
+      "term": "スポーツ"
+    },
+    {
+      "entryID": "jlpt-n5-8f5d7f6c3f3006f2fd88352196f6c99714ab7cdb8e513b93e61d9067ec0e307b",
+      "meaning": "裤子",
+      "reading": "ズボン",
+      "term": "ズボン"
+    },
+    {
+      "entryID": "jlpt-n5-0d42d826b344ab1b1ae7bcf321a72b7acde4ee6ce617b7c4f4538c4309b310fc",
+      "meaning": "居住；生活",
+      "reading": "すむ",
+      "term": "住む"
+    },
+    {
+      "entryID": "jlpt-n5-11c14be755dcba6d9f19595f0b7fea6b3c4c6b9346a0d3494d169cfec6d9d0f3",
+      "meaning": "做；尝试；佩戴（领带、手表等小件物品）",
+      "reading": "する",
+      "term": "する"
+    },
+    {
+      "entryID": "jlpt-n5-aacfc83b84b2cddac24c013c7f7d8b9924a67c48129ed46ac859f0a3f57c65e5",
+      "meaning": "坐；坐下",
+      "reading": "すわる",
+      "term": "座る"
+    },
+    {
+      "entryID": "jlpt-n5-e22570b13879b207dea05711731172aca79f3fa24ced5014d8a017944efab1bc",
+      "meaning": "身高；个子",
+      "reading": "せい",
+      "term": "背"
+    },
+    {
+      "entryID": "jlpt-n5-6060d7e6ba8c49d30fde67162a123c596fdb8bca59ea2b4b76d4e501076b34bd",
+      "meaning": "学生；中小学生",
+      "reading": "せいと",
+      "term": "生徒"
+    },
+    {
+      "entryID": "jlpt-n5-67afd298c3f39927d4b86b0528d5317dfafa9cfe8a325fee170fda2e06b02753",
+      "meaning": "毛衣",
+      "reading": "セーター",
+      "term": "セーター"
+    },
+    {
+      "entryID": "jlpt-n5-e42c67da42e40bc7fb1a982d6240d801bbb31d1c4c9a8712e6d7ae542db9a375",
+      "meaning": "肥皂",
+      "reading": "せっけん",
+      "term": "石鹸"
+    },
+    {
+      "entryID": "jlpt-n5-22c985cde9772cd7aeb9fec868b76a50b939dc1e782c97b53a8e7eb2809cc0f8",
+      "meaning": "男式西装",
+      "reading": "せびろ",
+      "term": "背広"
+    },
+    {
+      "entryID": "jlpt-n5-89c5f551bca6203c9189d26d9f6cee8d5562b759b8fd2540e9901c31cb9a85ca",
+      "meaning": "窄的；狭小的",
+      "reading": "せまい",
+      "term": "狭い"
+    },
+    {
+      "entryID": "jlpt-n5-0d48ba2c728838309447ddec16a396b93fa6e8d8d125b8c5bdf45cff59067db3",
+      "meaning": "零",
+      "reading": "ゼロ",
+      "term": "ゼロ"
+    },
+    {
+      "entryID": "jlpt-n5-e4e392688f5e8d7a472591e6653358c7956ab32f29d57b4a32c09461802c02a5",
+      "meaning": "一千",
+      "reading": "せん",
+      "term": "千"
+    },
+    {
+      "entryID": "jlpt-n5-8c31e660e8c1a993911f9a62b691bb5cc8b910891f1a58f0d9305579ac60b3cc",
+      "meaning": "上个月",
+      "reading": "せんげつ",
+      "term": "先月"
+    },
+    {
+      "entryID": "jlpt-n5-77881f87c509e903c44f9139f5e07aea2c02c55a7bec8e140bb387bc106292ee",
+      "meaning": "上周",
+      "reading": "せんしゅう",
+      "term": "先週"
+    },
+    {
+      "entryID": "jlpt-n5-6b4850b0c9e49c7a9587b9ec2d9349c71f1f69a45e048ce170497ca284b61922",
+      "meaning": "老师；教授；医生；先生",
+      "reading": "せんせい",
+      "term": "先生"
+    },
+    {
+      "entryID": "jlpt-n5-4cdf3c0d9db61c631deae769cf6cc2b3b98d5baa935b75b7e86962d0fd216a01",
+      "meaning": "洗衣；洗涤",
+      "reading": "せんたく",
+      "term": "洗濯"
+    },
+    {
+      "entryID": "jlpt-n5-27e8df3fc725c4d31c605ed736e0f42866dac223994194f64556713e2b22ab0a",
+      "meaning": "全部；所有",
+      "reading": "ぜんぶ",
+      "term": "全部"
+    },
+    {
+      "entryID": "jlpt-n5-07ec8151e081edcf6dbd44d0b95902f1c780a5f1b6cd9554a8fd16a40fe08972",
+      "meaning": "是的；似乎；是那样",
+      "reading": "そう; そうです",
+      "term": "そう; そうです"
+    },
+    {
+      "entryID": "jlpt-n5-c2efba72348106b807b0bd59d78d9f6ed6376071279ae74e42d10af092397e54",
+      "meaning": "打扫；清扫",
+      "reading": "そうじ (する)",
+      "term": "掃除"
+    },
+    {
+      "entryID": "jlpt-n5-fd7c4e3cf4d6baa2d6d2e8009427b10aa2b1ab4adefe101e61390950e93a0493",
+      "meaning": "然后；而且",
+      "reading": "そうして; そして",
+      "term": "そうして; そして"
+    },
+    {
+      "entryID": "jlpt-n5-f7d2cc409abc9655b6bb26bab88209a10f0c905464b23b8f9b020e62d17f8e02",
+      "meaning": "那里；底部",
+      "reading": "そこ",
+      "term": "そこ"
+    },
+    {
+      "entryID": "jlpt-n5-4570865256eb44696b10eee75494bcf1e140ecb4b413408f499957c816f88c0f",
+      "meaning": "那边（礼貌说法）",
+      "reading": "そちら",
+      "term": "そちら"
+    },
+    {
+      "entryID": "jlpt-n5-6390ca1f174b753ddac273c4656f07e1ed5e2546961234df6cb3dcbef0ff5b8b",
+      "meaning": "那边",
+      "reading": "そっち",
+      "term": "そっち"
+    },
+    {
+      "entryID": "jlpt-n5-10d7acf7807e140c5fc5d6cf01298f3804c6ead43f9b287f1e0e8f057ea20c72",
+      "meaning": "外面；外部",
+      "reading": "そと",
+      "term": "外"
+    },
+    {
+      "entryID": "jlpt-n5-42cae6fc607b9bf996411cf8285f397be2a5ca7892ac66d2dbb73c4ba235064a",
+      "meaning": "那个（连体词）",
+      "reading": "その",
+      "term": "その"
+    },
+    {
+      "entryID": "jlpt-n5-00309a60335f2a206f2cd2425c3d5766d9f68bb5ac03e4f4da258905bb546aa8",
+      "meaning": "旁边；附近；荞麦面",
+      "reading": "そば",
+      "term": "そば"
+    },
+    {
+      "entryID": "jlpt-n5-177ebf41c1f4025ca47cbd34cae802f360db11d8a840eab4db7959ac508c2bf5",
+      "meaning": "天空",
+      "reading": "そら",
+      "term": "空"
+    },
+    {
+      "entryID": "jlpt-n5-07386dc1ca1882bd0e28069fc2838d442c39a8599cabae0c2e0e46494d25c5bc",
+      "meaning": "那个；那件",
+      "reading": "それ",
+      "term": "それ"
+    },
+    {
+      "entryID": "jlpt-n5-ec6c08a2daad0178173b8d7032b5011cae6e07d1492e06269e2d0b8839ec99e7",
+      "meaning": "然后；此后",
+      "reading": "それから",
+      "term": "それから"
+    },
+    {
+      "entryID": "jlpt-n5-9bbc1c9b1590b0b2e6f4c73a46e4c45654af17769568927a694b5de51ca07782",
+      "meaning": "那么；既然如此",
+      "reading": "それでは",
+      "term": "それでは"
+    },
+    {
+      "entryID": "jlpt-n5-b36baa8209748cb8bd797674aefb1b210042a60e9f207833f3e6a49a8fa6099c",
+      "meaning": "～台（车辆、机器助数词）",
+      "reading": "～だい",
+      "term": "～台"
+    },
+    {
+      "entryID": "jlpt-n5-961b648e19c64dbaefd54ac7b9fcfbeae456daf7a47264e428aff563247f2c10",
+      "meaning": "大学",
+      "reading": "だいがく",
+      "term": "大学"
+    },
+    {
+      "entryID": "jlpt-n5-68e3d510ef5cb7f5177171236130b180ce34a42ede5fbb1df295315746b7bc09",
+      "meaning": "大使馆",
+      "reading": "たいしかん",
+      "term": "大使館"
+    },
+    {
+      "entryID": "jlpt-n5-95023b691322f96b1c9f9ad15b7a50437621dc3f20103fbdd95e595a08609433",
+      "meaning": "没关系；不要紧；放心",
+      "reading": "だいじょうぶ",
+      "term": "大丈夫"
+    },
+    {
+      "entryID": "jlpt-n5-bd2cfffa9c577b3ff0f7be93717c538bc57ffbe6ab0047f65237532b2286e76a",
+      "meaning": "非常喜欢；最喜欢",
+      "reading": "だいすき",
+      "term": "大好き"
+    },
+    {
+      "entryID": "jlpt-n5-e94a12d22c255825378703c4da0c1e9d7e4ad831408db4785d5047d4f2447e96",
+      "meaning": "重要的；珍贵的",
+      "reading": "たいせつ",
+      "term": "大切"
+    },
+    {
+      "entryID": "jlpt-n5-c0f02a3af398934f639efcad45a43fec372604bcd02197238b9305382b9fdd61",
+      "meaning": "厨房",
+      "reading": "だいどころ",
+      "term": "台所"
+    },
+    {
+      "entryID": "jlpt-n5-39ad42918db637c3d36bf9378bdf55368a0a90cbad6ca46117bb43ac2e36107c",
+      "meaning": "非常；辛苦的；严重的",
+      "reading": "たいへん",
+      "term": "大変"
+    },
+    {
+      "entryID": "jlpt-n5-40d660833fe8659a248e97cb2b85d38260ff98090ad018bda63c4f18ea9de682",
+      "meaning": "高的；贵的",
+      "reading": "たかい",
+      "term": "高い"
+    },
+    {
+      "entryID": "jlpt-n5-ec200e848aaa1e95f2a1f418dd7ed3f51b29475bf91a44a08ab45a9d24f81d36",
+      "meaning": "只有；仅仅",
+      "reading": "～だけ",
+      "term": "～だけ"
+    },
+    {
+      "entryID": "jlpt-n5-b76f17f71f0f97541c001ac394e3f06161aaa25ed0c3f6451ff578f485185c78",
+      "meaning": "很多；许多",
+      "reading": "たくさん",
+      "term": "沢山"
+    },
+    {
+      "entryID": "jlpt-n5-a527a99a974c4857d5d6805b3ecde9243828d93725da66bc95793a409972e106",
+      "meaning": "出租车",
+      "reading": "タクシー",
+      "term": "タクシー"
+    },
+    {
+      "entryID": "jlpt-n5-e2f28e5b5aa67a98864cece188b7bcfe50688c087bb9993186471756d5899ed3",
+      "meaning": "拿出；提交（他动词）",
+      "reading": "だす",
+      "term": "出す"
+    },
+    {
+      "entryID": "jlpt-n5-bbb942a023b72b2bae2777e8fdd2abd9d2580ee148d04c88ad3dd531ab4530a2",
+      "meaning": "表示复数的接尾词“～们”",
+      "reading": "～たち",
+      "term": "～たち"
+    },
+    {
+      "entryID": "jlpt-n5-afb80846d2dc7ee16336c8c07726fb7828e9c8e0dca0a1c76ade2b29a703d965",
+      "meaning": "站；站立",
+      "reading": "たつ",
+      "term": "立つ"
+    },
+    {
+      "entryID": "jlpt-n5-12d69399dea7fad85e695efb2e7df8a68f24b6bbeed6b35104a72ce64a7d09e3",
+      "meaning": "纵向；长度；高度",
+      "reading": "たて",
+      "term": "たて"
+    },
+    {
+      "entryID": "jlpt-n5-3f5d5073d6da3ec2599cda1dd0e0776ff849067ed81a362bbfdb1ce1fa885d63",
+      "meaning": "建筑物",
+      "reading": "たてもの",
+      "term": "建物"
+    },
+    {
+      "entryID": "jlpt-n5-12f19c5c024987d94a71f949fb3fa2c3e4e2eb3b8685d4342c41743fee40a677",
+      "meaning": "快乐的；有趣的",
+      "reading": "たのしい",
+      "term": "楽しい"
+    },
+    {
+      "entryID": "jlpt-n5-f6d70a28abf9952ec4f36b6ac9d382be7558c17b9ce51dadf3dcec1cd5e0e211",
+      "meaning": "请求；拜托；点（餐）",
+      "reading": "たのむ",
+      "term": "頼む"
+    },
+    {
+      "entryID": "jlpt-n5-4888dbcf585979deb48aacf70d0ffc80f5e3afa70604e2219cdeb9c18660e83e",
+      "meaning": "烟草；香烟",
+      "reading": "たばこ",
+      "term": "たばこ"
+    },
+    {
+      "entryID": "jlpt-n5-433e6d656c9d128a95539e4b330737bfc9e8203e6f261d3ce63b70c43dc3943d",
+      "meaning": "大概；也许",
+      "reading": "たぶん",
+      "term": "多分"
+    },
+    {
+      "entryID": "jlpt-n5-6a2134b095ead94901707acb80e78883e69fb5b0db929d83936c2b4c3c617031",
+      "meaning": "食物",
+      "reading": "たべもの",
+      "term": "食べ物"
+    },
+    {
+      "entryID": "jlpt-n5-14e39e531949f564a1199923f93a75f11a457d3a7c7bcd855ddcfb1237c43488",
+      "meaning": "吃",
+      "reading": "たべる",
+      "term": "食べる"
+    },
+    {
+      "entryID": "jlpt-n5-877597a3b664e2f1a4673e4eb414030bf9e7f1c0cbd2ca75a8b1294b41c03504",
+      "meaning": "鸡蛋",
+      "reading": "たまご",
+      "term": "卵"
+    },
+    {
+      "entryID": "jlpt-n5-a049a32a9a410eeddc080ce3c8a44eab87f9e6ca18669d204630976a1be24287",
+      "meaning": "谁",
+      "reading": "だれ",
+      "term": "誰"
+    },
+    {
+      "entryID": "jlpt-n5-4126d4184563f0eac5e2ec3debc1589424eab771a9d1c66db187d7c6b6c8b2be",
+      "meaning": "某人；有人",
+      "reading": "だれか",
+      "term": "誰か"
+    },
+    {
+      "entryID": "jlpt-n5-844de9d34b41896517c674d4836f3d1fec49284816d5a943f2d6ceabbfabf227",
+      "meaning": "生日",
+      "reading": "たんじょうび",
+      "term": "誕生日"
+    },
+    {
+      "entryID": "jlpt-n5-882eedb75d2ddcad0e6e23c9521cd269ec9f789d445d529447160b8e3367e529",
+      "meaning": "渐渐；逐渐",
+      "reading": "だんだん",
+      "term": "段々"
+    },
+    {
+      "entryID": "jlpt-n5-a9cfa21b9a9d00bf5bdba6be19421e3f7f1ce3c60caeeafcb05fa625fa4d83d3",
+      "meaning": "小的",
+      "reading": "ちいさい",
+      "term": "小さい"
+    },
+    {
+      "entryID": "jlpt-n5-3bb1eeb7a8893039ba8f384eb3bbb02a4d79274f9fbec7b94bdd1f4beb65e800",
+      "meaning": "小的（连体词）",
+      "reading": "ちいさな",
+      "term": "小さな"
+    },
+    {
+      "entryID": "jlpt-n5-766fca01204a335bd064599d2fcdce1a0728dcad11bbd2d564deda72f1be5ee8",
+      "meaning": "近的；短的",
+      "reading": "ちかい",
+      "term": "近い"
+    },
+    {
+      "entryID": "jlpt-n5-dd9a89dee6cefdebe431dfb828f79a06fae6b4097353d8c1cd12e6ec4ca5d762",
+      "meaning": "不同；不对",
+      "reading": "ちがう",
+      "term": "違う"
+    },
+    {
+      "entryID": "jlpt-n5-4cf3dda8e351d743d6d02ec0c3a0b0ef8dff5113109cedf6e3621dbb616ed0f4",
+      "meaning": "附近；近处",
+      "reading": "ちかく",
+      "term": "近く"
+    },
+    {
+      "entryID": "jlpt-n5-fda0ca66adf358560d6de8b6fa03b40604649694f30c25f3bd167ff8309b66ef",
+      "meaning": "地铁",
+      "reading": "ちかてつ",
+      "term": "地下鉄"
+    },
+    {
+      "entryID": "jlpt-n5-9be60cb3d07e4f49b074bca575e4ff6bfd4cd8c878983c1c9bb12a181260efa6",
+      "meaning": "地图",
+      "reading": "ちず",
+      "term": "地図"
+    },
+    {
+      "entryID": "jlpt-n5-cebe9a1cdfd05258943f6b74679bf5e5850cb5c1ee9c869d289f203bc0d3c998",
+      "meaning": "父亲（对外谦称自己的父亲）",
+      "reading": "ちち",
+      "term": "父"
+    },
+    {
+      "entryID": "jlpt-n5-18c70c2f76a2e06a19abd91d0953e091519c60076ef91af6bb032ff845d94830",
+      "meaning": "棕色",
+      "reading": "ちゃいろ",
+      "term": "茶色"
+    },
+    {
+      "entryID": "jlpt-n5-b00e29dcd4aebf42eff1bece71a909d9c1d42f627739e7e6829fb64191c2b7dd",
+      "meaning": "饭碗；茶碗",
+      "reading": "ちゃわん",
+      "term": "茶碗"
+    },
+    {
+      "entryID": "jlpt-n5-fdf284587b9be3f5ec19b0a2fead17e53f3f67031658d7fa77174259906cf008",
+      "meaning": "正在～；～期间",
+      "reading": "～ちゅう",
+      "term": "～中"
+    },
+    {
+      "entryID": "jlpt-n5-e32455358aa6bceb6df5ce1b515c87879e3dc997f14d27299c89b5f0ae8a382f",
+      "meaning": "正好；恰好；准确地",
+      "reading": "ちょうど",
+      "term": "丁度"
+    },
+    {
+      "entryID": "jlpt-n5-e5661d9d7485756af8d1a049e744d22083b4b1bef2d32560a8fb3ea4479a6c87",
+      "meaning": "一点；稍微；等一下",
+      "reading": "ちょっと",
+      "term": "ちょっと"
+    },
+    {
+      "entryID": "jlpt-n5-5694259d08216c0a270159973c17c35aa39ca331c66754c82b78da70303c1aab",
+      "meaning": "一天；一号",
+      "reading": "ついたち",
+      "term": "一日"
+    },
+    {
+      "entryID": "jlpt-n5-f7a1e4785715f6f7f4a3602e04fd07b9b5d451a9750e69478b5975079ab01730",
+      "meaning": "使用",
+      "reading": "つかう",
+      "term": "使う"
+    },
+    {
+      "entryID": "jlpt-n5-6e4e8d4ec0bc2999e4140981264d6ac8a5392babf6499c69b9137df54e36c9ba",
+      "meaning": "疲劳；累（自动词）",
+      "reading": "つかれる",
+      "term": "疲れる"
+    },
+    {
+      "entryID": "jlpt-n5-3a3295fa6d023764f8f2a30ca1e96ab5429cc4207cf3838bf5da0cf84892e547",
+      "meaning": "下一个；其次",
+      "reading": "つぎ",
+      "term": "次"
+    },
+    {
+      "entryID": "jlpt-n5-2ddcd4fb145dfe603e4f86319f86b532f383a7e8ecad04399002f0a2dee77ef1",
+      "meaning": "到达（自动词）",
+      "reading": "つく",
+      "term": "着く"
+    },
+    {
+      "entryID": "jlpt-n5-e45ee3bc7825ed80270e9bfe669844842a53fe0413828fd9802e5557d0954df0",
+      "meaning": "书桌",
+      "reading": "つくえ",
+      "term": "机"
+    },
+    {
+      "entryID": "jlpt-n5-679763610fb4b3d32ecd82c4ab3c9dbe948f83668992894301e651e4ae94548a",
+      "meaning": "制作；制造",
+      "reading": "つくる",
+      "term": "作る"
+    },
+    {
+      "entryID": "jlpt-n5-c555f1551fa93f4777408ebecd7368b6543513fe9e2fb85c850aebebe9ec60d6",
+      "meaning": "打开（电器等）；安装；附上",
+      "reading": "つける",
+      "term": "つける"
+    },
+    {
+      "entryID": "jlpt-n5-110b37552ab7af79bf7c19e5e15c12a027453a858fe378db1ddf1834330dab2b",
+      "meaning": "任职；工作",
+      "reading": "つとめる",
+      "term": "勤める"
+    },
+    {
+      "entryID": "jlpt-n5-5f64845a5f23220cf123c488271ac9fdde826d4998f1ff2804e8a80e107413b5",
+      "meaning": "无聊的；无趣的；无价值的",
+      "reading": "つまらない",
+      "term": "つまらない"
+    },
+    {
+      "entryID": "jlpt-n5-b82524f749fc7c7d886431cc2f6144a4913093158fe4a775e0475bcd50f82769",
+      "meaning": "冰冷的；冷淡的",
+      "reading": "つめたい",
+      "term": "冷たい"
+    },
+    {
+      "entryID": "jlpt-n5-ab959f5b37447f7e7e1b57754ec314fb26dcc758eb1d593b57c545365ec91a7b",
+      "meaning": "强的；强壮的",
+      "reading": "つよい",
+      "term": "強い"
+    },
+    {
+      "entryID": "jlpt-n5-6ca61204d043b229dd06e23c0af84d73f6a203beee050fcc35cf44c5f9b9d356",
+      "meaning": "手",
+      "reading": "て",
+      "term": "手"
+    },
+    {
+      "entryID": "jlpt-n5-879eb98b5f2889f4ff975e93e08951d05e6fbd37a049f4624bce78721f3f0c44",
+      "meaning": "胶带；磁带",
+      "reading": "テープ",
+      "term": "テープ"
+    },
+    {
+      "entryID": "jlpt-n5-bbd8bf97f242dcd6c4c7da2f47aec6e64a7938852d34e55f45161d1a047fcc72",
+      "meaning": "磁带录音机",
+      "reading": "テープレコーダー",
+      "term": "テープレコーダー"
+    },
+    {
+      "entryID": "jlpt-n5-dc739074576c58b462de0e05f541f19d854c8b80b12c0cc5d734c15e81971030",
+      "meaning": "桌子；餐桌",
+      "reading": "テーブル",
+      "term": "テーブル"
+    },
+    {
+      "entryID": "jlpt-n5-62718ef78c723383dfdbdce565d3c2a176ca1f5244fe911c5e320f793e790cad",
+      "meaning": "出门；外出",
+      "reading": "でかける",
+      "term": "出かける"
+    },
+    {
+      "entryID": "jlpt-n5-f1d87c54d9351ca5ac717d65fad9ec05c254f1ef1ef9b0621ba79933bb466766",
+      "meaning": "信；书信",
+      "reading": "てがみ",
+      "term": "手紙"
+    },
+    {
+      "entryID": "jlpt-n5-300cce3172ff6021acb2dd13f8e2af3e3e9c6c91462799b229968b888b2daf63",
+      "meaning": "能够；会；完成",
+      "reading": "できる",
+      "term": "できる"
+    },
+    {
+      "entryID": "jlpt-n5-cf4712291dd43ae335ba2203d9c68867373a62b72016f0a14e998134b1696315",
+      "meaning": "出口",
+      "reading": "でぐち",
+      "term": "出口"
+    },
+    {
+      "entryID": "jlpt-n5-3d635f5f68b52bd5a1b33dde52cf20c7a0f2ff0ada4c3cc8bc23559ac4fc7a20",
+      "meaning": "测验；测试",
+      "reading": "テスト",
+      "term": "テスト"
+    },
+    {
+      "entryID": "jlpt-n5-b1d17fd6a6fa3149d3400dc762b96846cc56fe95f52cfa7077aa9dc19d7cb16b",
+      "meaning": "那么；既然这样",
+      "reading": "では",
+      "term": "では"
+    },
+    {
+      "entryID": "jlpt-n5-c50c7047772275c6f01192ac583d076a44949af9172c5856decec9f278c5cbba",
+      "meaning": "百货商店",
+      "reading": "デパート",
+      "term": "デパート"
+    },
+    {
+      "entryID": "jlpt-n5-d251c263ea0f5a75f6c7762325f0613743890296253b8fd0bd21dc9c105ab113",
+      "meaning": "但是；不过",
+      "reading": "でも",
+      "term": "でも"
+    },
+    {
+      "entryID": "jlpt-n5-b5a629dbd15b5c60aec17cc4b5f27db2f6aedc548d2da8297b52e74f19c89e3f",
+      "meaning": "出来；离开；出现",
+      "reading": "でる",
+      "term": "出る"
+    },
+    {
+      "entryID": "jlpt-n5-4f8a1e2e22ace9332e48afdb33c79fd82e39650756712d8d3fed7b6c9f34f3dc",
+      "meaning": "电视",
+      "reading": "テレビ",
+      "term": "テレビ"
+    },
+    {
+      "entryID": "jlpt-n5-ad10895e4d42ae54724652d8a923f496cc589b426cc9eedec3467449a25e1cb1",
+      "meaning": "天气",
+      "reading": "てんき",
+      "term": "天気"
+    },
+    {
+      "entryID": "jlpt-n5-235815fcfc72cef55a724dc0006d2dfbd0a627829fee678a7f7c81a9391204a5",
+      "meaning": "电；电灯",
+      "reading": "でんき",
+      "term": "電気"
+    },
+    {
+      "entryID": "jlpt-n5-3d13602b965a85420f77bf0c8bb505ca1d037a00644241012e3be5ca401b4642",
+      "meaning": "电车",
+      "reading": "でんしゃ",
+      "term": "電車"
+    },
+    {
+      "entryID": "jlpt-n5-e02e6be969b45d794e9118accb4ff863cde150c95e00bc06d611b7bcafe6c49e",
+      "meaning": "电话",
+      "reading": "でんわ",
+      "term": "電話"
+    },
+    {
+      "entryID": "jlpt-n5-019083d086df39b6aa285bf740528e0c5a1eb9346c77526472ee452fa2ab62e7",
+      "meaning": "门；拉门（日式）",
+      "reading": "と",
+      "term": "戸"
+    },
+    {
+      "entryID": "jlpt-n5-668111bab792e07c5b55516458625a11c8d1cd17bb8b6c0eca5f96fab43de310",
+      "meaning": "～次；～度；～度数",
+      "reading": "～ど",
+      "term": "～度"
+    },
+    {
+      "entryID": "jlpt-n5-45f5ef9043c092a852df49d261cfa96111deeaed25b0f317deef29fc00f930ee",
+      "meaning": "门（西式）",
+      "reading": "ドア",
+      "term": "ドア"
+    },
+    {
+      "entryID": "jlpt-n5-a6af386ad8c11fe6b23e485b2cc18f7c49b8d8ec7412d084de789bb290d3b390",
+      "meaning": "厕所；洗手间",
+      "reading": "トイレ",
+      "term": "トイレ"
+    },
+    {
+      "entryID": "jlpt-n5-2c086ce5a4bdd87f6b1d0c9b167fa28f7e3637dffcbea1ad081bc5be93e40c57",
+      "meaning": "怎样；如何",
+      "reading": "どう",
+      "term": "どう"
+    },
+    {
+      "entryID": "jlpt-n5-cd91c6ca8fb97e7057e55cc962453792033bd03ac180cd40d76d6d33e61b242f",
+      "meaning": "为什么",
+      "reading": "どうして",
+      "term": "どうして"
+    },
+    {
+      "entryID": "jlpt-n5-4ec8d6e4135f7fb73c9a1760a2e7bfbb3063b22564d1cb50316577d4cedbc819",
+      "meaning": "请；请用；不客气",
+      "reading": "どうぞ",
+      "term": "どうぞ"
+    },
+    {
+      "entryID": "jlpt-n5-ee44a97280d0306d1a312d73f24e1845c3dda1c36956ea4b364ff15bdf2f980c",
+      "meaning": "动物",
+      "reading": "どうぶつ",
+      "term": "動物"
+    },
+    {
+      "entryID": "jlpt-n5-df0d0e05bee2f9887b306140283ae4f912d2c6eda8afa08c8de6fa9087c51a47",
+      "meaning": "谢谢；很；总觉得",
+      "reading": "どうも",
+      "term": "どうも"
+    },
+    {
+      "entryID": "jlpt-n5-2e14fcc4f580200f7573ce5635ea737dd08fe7228d1d4bb5d09e06ee18599902",
+      "meaning": "十个",
+      "reading": "(〜を) とお",
+      "term": "十"
+    },
+    {
+      "entryID": "jlpt-n5-3b7544fda88d12deb254775e4852eebd04b16ea8ef0782a992ac7f3b73aab011",
+      "meaning": "远的；遥远的",
+      "reading": "とおい",
+      "term": "遠い"
+    },
+    {
+      "entryID": "jlpt-n5-4d0bf3cc894a034c06f5d7ac170d608d4e4b6587f458a1aa46956cf1cc0f5f7d",
+      "meaning": "十天；十号",
+      "reading": "とおか",
+      "term": "十日"
+    },
+    {
+      "entryID": "jlpt-n5-4fa7413585acde64af82080294cf4a90f21ab0805ad9ed3506f659aca0129f06",
+      "meaning": "～的时候",
+      "reading": "～とき",
+      "term": "～時"
+    },
+    {
+      "entryID": "jlpt-n5-17c18744cc5553a09505ee477ee4c80a8538ec2b8e6838481602da8a352b8b3c",
+      "meaning": "有时；偶尔",
+      "reading": "ときどき",
+      "term": "時々"
+    },
+    {
+      "entryID": "jlpt-n5-8f5ab807d90dc23323cc0b7edad4bc54d3f76ec5b947c702082e0f24126fd40f",
+      "meaning": "钟；手表",
+      "reading": "とけい",
+      "term": "時計"
+    },
+    {
+      "entryID": "jlpt-n5-0a718669086a0da51ac963dbfc42b68f4da222ec3167cc794f9bbe92e9693795",
+      "meaning": "哪里",
+      "reading": "どこ",
+      "term": "どこ"
+    },
+    {
+      "entryID": "jlpt-n5-51ffcb431e56df647189f2b7b021a4df6189a894a1a47e82d9d2323ff1ae29ee",
+      "meaning": "地方；场所",
+      "reading": "ところ",
+      "term": "所"
+    },
+    {
+      "entryID": "jlpt-n5-0f4324283d558e1feccc4e70ffd81c285ea2a1357025769716e8e09a7e912c81",
+      "meaning": "年；年龄",
+      "reading": "とし",
+      "term": "年"
+    },
+    {
+      "entryID": "jlpt-n5-2b7ab96a3167a8fd6383f76853986e575cafc4fa1d6edb5901d8962e12f0de09",
+      "meaning": "图书馆",
+      "reading": "としょかん",
+      "term": "図書館"
+    },
+    {
+      "entryID": "jlpt-n5-922f696f4cc44df93fd263d328c501f0927c393ade297258320c055043d46934",
+      "meaning": "哪一个；哪边；哪里（礼貌说法）",
+      "reading": "どちら",
+      "term": "どちら"
+    },
+    {
+      "entryID": "jlpt-n5-43df582cf17c5bc5bf3c40d8ea0f80df93023ef463821b5bcce69585b1ff63c2",
+      "meaning": "哪一个；哪边",
+      "reading": "どっち",
+      "term": "どっち"
+    },
+    {
+      "entryID": "jlpt-n5-b7662a63f5486648b57a40b4dc158a48e7f2ab9b447546ceeb4b582c05b10102",
+      "meaning": "非常；很",
+      "reading": "とても",
+      "term": "とても"
+    },
+    {
+      "entryID": "jlpt-n5-8aa296b4c416bf5292f95740809f4bba97fd18e53578353266c2ee1115786a73",
+      "meaning": "哪位；谁（敬语）",
+      "reading": "どなた",
+      "term": "どなた"
+    },
+    {
+      "entryID": "jlpt-n5-7276fe9ef831b6f88f2205291b0209b2b5cd72956e1cef36ad9aa3e4bb61476a",
+      "meaning": "旁边；隔壁",
+      "reading": "となり",
+      "term": "隣"
+    },
+    {
+      "entryID": "jlpt-n5-23cdfda65411375cb66b593afa724bb22b101f83f70d631565c7ea58219f5003",
+      "meaning": "哪个（连体词）",
+      "reading": "どの",
+      "term": "どの"
+    },
+    {
+      "entryID": "jlpt-n5-83265fd2632ca8682ede2ec237a971d3237fd727495e53ddcc3ad19de9a0494d",
+      "meaning": "飞；跳",
+      "reading": "とぶ",
+      "term": "飛ぶ"
+    },
+    {
+      "entryID": "jlpt-n5-2d48280521679d2bfbb468be21a8f1ca9b93b457d9e25e4216772ad2816358cc",
+      "meaning": "停止；停下（自动词）",
+      "reading": "とまる",
+      "term": "止まる"
+    },
+    {
+      "entryID": "jlpt-n5-2a541050f7e02037c1249b460fa1ffae8470f7432e302fea5b01071d0011bd94",
+      "meaning": "朋友",
+      "reading": "ともだち",
+      "term": "友達"
+    },
+    {
+      "entryID": "jlpt-n5-2d8708653e0f3f49bc5249cc7df5147f04d59b1be89142f24e14f6da0c8b9c82",
+      "meaning": "星期六",
+      "reading": "どようび",
+      "term": "土曜日"
+    },
+    {
+      "entryID": "jlpt-n5-07c75ad8fd3ea12b7c0b0e6e8ee22b51ff12a485e4c6889b5a93a6d6fd4f7451",
+      "meaning": "鸟；鸡",
+      "reading": "とり",
+      "term": "鳥"
+    },
+    {
+      "entryID": "jlpt-n5-9015d1b2b90fd1cbe5d2fe16aba9ead5d841feea4c8fc42cd7ed568b9ed62d22",
+      "meaning": "鸡肉",
+      "reading": "とりにく",
+      "term": "鶏肉"
+    },
+    {
+      "entryID": "jlpt-n5-a77e0a762a520187b1bd19f73524eca25d5c8080891cb85f5e9d655854b479c5",
+      "meaning": "拿；取得；选修",
+      "reading": "とる",
+      "term": "取る"
+    },
+    {
+      "entryID": "jlpt-n5-02d85788431aea733a78cd1f958dec74df22f5eb407fc19a1802a7d624ae10c4",
+      "meaning": "拍照；拍摄",
+      "reading": "とる",
+      "term": "撮る"
+    },
+    {
+      "entryID": "jlpt-n5-90559a52f1e435ba3a7383d46f649885f5ccb6ff05b45f1d306b744df759c680",
+      "meaning": "哪一个",
+      "reading": "どれ",
+      "term": "どれ"
+    },
+    {
+      "entryID": "jlpt-n5-127b62fcafbd0adbca3ad862124db8e24faf5d56fa9c45d8670e5d21c71da952",
+      "meaning": "什么样的",
+      "reading": "どんな",
+      "term": "どんな"
+    },
+    {
+      "entryID": "jlpt-n5-fa8353560f6dd7d1a16c2d3099b5f11e681299f8d9471d0272c1253ba8f7b18f",
+      "meaning": "没有；不存在",
+      "reading": "ない",
+      "term": "ない"
+    },
+    {
+      "entryID": "jlpt-n5-dee8e12c76bc17b00018027f93d05856ecca4261ec6419693f2d4d8a311f6eba",
+      "meaning": "刀；小刀",
+      "reading": "ナイフ",
+      "term": "ナイフ"
+    },
+    {
+      "entryID": "jlpt-n5-f11808be395f294d9852fd2e3f29810a30b1ff3299f7616b7c237d4f4e9c0f48",
+      "meaning": "里面；中间；之中",
+      "reading": "なか",
+      "term": "中"
+    },
+    {
+      "entryID": "jlpt-n5-89eda0fd9b13697776362d78cff03f1bdd3453e867d363eaf0c8974ada6bba71",
+      "meaning": "长的",
+      "reading": "ながい",
+      "term": "長い"
+    },
+    {
+      "entryID": "jlpt-n5-3a7190ac46cdee075863ecc6be7d9e3e76abb5a555ae393616ed921b6ae17b59",
+      "meaning": "鸣叫（动物）",
+      "reading": "なく",
+      "term": "鳴く"
+    },
+    {
+      "entryID": "jlpt-n5-5720b3395e7dc208f3298251f37516cd869ba73787626316216ab6eb31fc7b05",
+      "meaning": "丢失；弄丢（他动词）",
+      "reading": "なくす",
+      "term": "無くす"
+    },
+    {
+      "entryID": "jlpt-n5-b3dfa6502a6b3145bef99c83d1107b4405064bf17effc5055b877f0686c56602",
+      "meaning": "为什么",
+      "reading": "なぜ",
+      "term": "なぜ"
+    },
+    {
+      "entryID": "jlpt-n5-021c4ebbad0a60385470624d3829443f8acf22727fc9e2b4275b443086bed159",
+      "meaning": "夏天",
+      "reading": "なつ",
+      "term": "夏"
+    },
+    {
+      "entryID": "jlpt-n5-efa5ff67078027c967cd9df472b86674365e3b0f1e43b3bdf2bfa76e609665d5",
+      "meaning": "暑假",
+      "reading": "なつやすみ",
+      "term": "夏休み"
+    },
+    {
+      "entryID": "jlpt-n5-28dabc47eb78d50a2a8a192941f3bf9caa9221ea5e6731f4421907ef96bacd90",
+      "meaning": "等等；之类",
+      "reading": "～など",
+      "term": "～など"
+    },
+    {
+      "entryID": "jlpt-n5-27b88353d0f6d003af18ee18f3b9ceb6c86e3d190b754b1f61a98c7a5f599f05",
+      "meaning": "七个",
+      "reading": "ななつ",
+      "term": "七つ"
+    },
+    {
+      "entryID": "jlpt-n5-37abbf509f2e72f75313e7f816528e3b7ec5c32d6c2753b4f76e8c6b0578ebea",
+      "meaning": "什么",
+      "reading": "なん; なに",
+      "term": "何"
+    },
+    {
+      "entryID": "jlpt-n5-b9ab347045cace8f27a5a37ba96e8d2c409f915054f0ade8cf01b2fe34774f1d",
+      "meaning": "七天；七号",
+      "reading": "なのか",
+      "term": "七日"
+    },
+    {
+      "entryID": "jlpt-n5-02db150f422e6e06640d04ed9a3dc2277741c2f53d5ef29e4932ce646e219426",
+      "meaning": "名字；姓名",
+      "reading": "なまえ",
+      "term": "名前"
+    },
+    {
+      "entryID": "jlpt-n5-7983f042312af940cb11bca1fde16e8a1076c6d14e07f3b07897946388bbdd82",
+      "meaning": "学习；跟随老师学习",
+      "reading": "ならう",
+      "term": "習う"
+    },
+    {
+      "entryID": "jlpt-n5-f1015ab76e38d4eb1ad3dd56de6efbaeb525110136def7b8107ff8bbddf69b83",
+      "meaning": "排列；排队（自动词）",
+      "reading": "ならぶ",
+      "term": "並ぶ"
+    },
+    {
+      "entryID": "jlpt-n5-29812b8a0744c212d0658ab742d161028d1f1c6e81c746d75f19e7baa054659c",
+      "meaning": "排列；摆放（他动词）",
+      "reading": "ならべる",
+      "term": "並べる"
+    },
+    {
+      "entryID": "jlpt-n5-f3dfe0effd228bc43f5e2d28ba98c0a03116b7ca6c495c2c7141591ff6a626f7",
+      "meaning": "变成；成为",
+      "reading": "なる",
+      "term": "なる"
+    },
+    {
+      "entryID": "jlpt-n5-f5cec36fd847548c5fecde7cc309bd9fe74d8a12577d639ea882bbffacc44068",
+      "meaning": "什么样的～",
+      "reading": "なん～",
+      "term": "何～"
+    },
+    {
+      "entryID": "jlpt-n5-5891968e863fcb8241271bcb2a1df0278617b306f78f8339d1068c61dee61776",
+      "meaning": "二",
+      "reading": "に",
+      "term": "二"
+    },
+    {
+      "entryID": "jlpt-n5-2ad7e8f85330694f7ac38ff672a500787acb3a73f62fdbc96487d4b4123195d3",
+      "meaning": "热闹的",
+      "reading": "にぎやか",
+      "term": "にぎやか"
+    },
+    {
+      "entryID": "jlpt-n5-2378ba54647d91a06954f1a7779b2ac30fd7d8cb36ce782904fb763eb2dbf046",
+      "meaning": "肉",
+      "reading": "にく",
+      "term": "肉"
+    },
+    {
+      "entryID": "jlpt-n5-b47b559d54ec94e913d0787d0a05f3fda8bc2ae91cc6946c9360a1af452247a7",
+      "meaning": "西；西方",
+      "reading": "にし",
+      "term": "西"
+    },
+    {
+      "entryID": "jlpt-n5-d1b85c0e9ad77b655db17659998db212636daef90e5461ba88e1008152a1dd80",
+      "meaning": "～号；～天",
+      "reading": "～にち",
+      "term": "～日"
+    },
+    {
+      "entryID": "jlpt-n5-9392e63ef879dec1e2705d3949a70d68eddf857f1db55f4443f50a3899fbcf4b",
+      "meaning": "星期日",
+      "reading": "にちようび",
+      "term": "日曜日"
+    },
+    {
+      "entryID": "jlpt-n5-7a8ab158afc6300a065b1d63fea9e8d0f936f7aa0877b841cab573c1100c043e",
+      "meaning": "行李",
+      "reading": "にもつ",
+      "term": "荷物"
+    },
+    {
+      "entryID": "jlpt-n5-8b6e3fbe9556ee8f5b8e3b125d1ed14f6aa68e669271bbe1f779fdcad98176ab",
+      "meaning": "新闻；消息",
+      "reading": "ニュース",
+      "term": "ニュース"
+    },
+    {
+      "entryID": "jlpt-n5-d3f021ace966da4ef15834bbf46d237db2003ff4180d745fa5c381cba1c172e7",
+      "meaning": "院子；庭院",
+      "reading": "にわ",
+      "term": "庭"
+    },
+    {
+      "entryID": "jlpt-n5-6d61b75e7dab1521a2462fba9909ee35ce58887793c33a4a22cf3f76bced1a96",
+      "meaning": "～人（人数助数词）",
+      "reading": "～にん",
+      "term": "～人"
+    },
+    {
+      "entryID": "jlpt-n5-b4d8371821c2f858740a99f13424802657a85af46d651f9dc912c2aab3189823",
+      "meaning": "脱下（衣物）",
+      "reading": "ぬぐ",
+      "term": "脱ぐ"
+    },
+    {
+      "entryID": "jlpt-n5-da653c1b758d9dd3365bb3c81544934d2be20a15b63a682b6ad23e7d21862d89",
+      "meaning": "温的；不够热的",
+      "reading": "ぬるい",
+      "term": "温い"
+    },
+    {
+      "entryID": "jlpt-n5-a0a8f7392686d2cfb7cf99ebd6daa4e1c63bb2510ff4175a8e815b61496fad0b",
+      "meaning": "领带",
+      "reading": "ネクタイ",
+      "term": "ネクタイ"
+    },
+    {
+      "entryID": "jlpt-n5-d5ba38709abde9f89824cd2cc7c594d4c630d416b951cf541c03adb84ae29275",
+      "meaning": "猫",
+      "reading": "ねこ",
+      "term": "猫"
+    },
+    {
+      "entryID": "jlpt-n5-b170564eb9ac9ff4dc466b17278b1e18f74dec20f42ad379c0eff97ee3f01049",
+      "meaning": "睡觉；就寝",
+      "reading": "ねる",
+      "term": "寝る"
+    },
+    {
+      "entryID": "jlpt-n5-ebf379644667c030ae2179603ae98714f87ec30c50d9363882a617e1a5245d50",
+      "meaning": "～年",
+      "reading": "～ねん",
+      "term": "～年"
+    },
+    {
+      "entryID": "jlpt-n5-b7d27ebc0fe77d2d82dabd625e058fecbf6e37da84f43a85b2dacb890804d34b",
+      "meaning": "笔记本",
+      "reading": "ノート",
+      "term": "ノート"
+    },
+    {
+      "entryID": "jlpt-n5-17f14fdb05c2689c78d0f756372f814f006b3300810636272e9c83b96fb7d4f5",
+      "meaning": "登；攀登",
+      "reading": "のぼる",
+      "term": "登る"
+    },
+    {
+      "entryID": "jlpt-n5-ba35cb1e1964e2c51bacb81ffe952fc2eb7c083fc73d4691b24a1c4c24a516a9",
+      "meaning": "饮料",
+      "reading": "のみもの",
+      "term": "飲み物"
+    },
+    {
+      "entryID": "jlpt-n5-e55f2cff13f9afc7e531d3d0dae4be92fb27f5cd6a0d45d0ad7f29ff3cdd8313",
+      "meaning": "喝",
+      "reading": "のむ",
+      "term": "飲む"
+    },
+    {
+      "entryID": "jlpt-n5-2aefa43a38794fd59b6ac0c8ddfded04e7ebcb4a116429cc20d301f13bc0059d",
+      "meaning": "乘坐；上车",
+      "reading": "のる",
+      "term": "乗る"
+    },
+    {
+      "entryID": "jlpt-n5-83883237b3a7821226bc9c34b14b45f219d9ae060ff37fa90eaa2721127d88ce",
+      "meaning": "牙齿",
+      "reading": "は",
+      "term": "歯"
+    },
+    {
+      "entryID": "jlpt-n5-b8108efb1c4d6fb4205e15268ce8b75b4eed087c81f13107e49c5bf28561c1d0",
+      "meaning": "聚会；派对",
+      "reading": "パーティー",
+      "term": "パーティー"
+    },
+    {
+      "entryID": "jlpt-n5-d11ea65ba3e15bb9a5b4c52a5529d4f298c5fa1bd196565e2190ba5c53442e6d",
+      "meaning": "是；对",
+      "reading": "はい",
+      "term": "はい"
+    },
+    {
+      "entryID": "jlpt-n5-68b9dc603cb3c0acffc027254c45b8bdc74a3eb0fa5c4fa5cf7b3f067a7ca99a",
+      "meaning": "～杯（杯数助数词）",
+      "reading": "～はい",
+      "term": "～杯"
+    },
+    {
+      "entryID": "jlpt-n5-18673c3dce0db28aa2e4d7d8ff6ecda978b74a608c67c1af3d67e2639ea72a95",
+      "meaning": "烟灰缸",
+      "reading": "はいざら",
+      "term": "灰皿"
+    },
+    {
+      "entryID": "jlpt-n5-be5ecfb37b3140c60c21a63c7c4a0c6b3a377c6db61bb932365d5f7433bb1945",
+      "meaning": "进入；装有；容纳（自动词）",
+      "reading": "はいる",
+      "term": "入る"
+    },
+    {
+      "entryID": "jlpt-n5-838639322d27c92ad3a948843d004ec260ef710611aff5f03fc90abe0a08bd66",
+      "meaning": "明信片",
+      "reading": "はがき",
+      "term": "葉書"
+    },
+    {
+      "entryID": "jlpt-n5-71e6625310632144b901954aa1165620f5145e24fd1fde0d2304e3c6ce8730ff",
+      "meaning": "穿；穿上（下半身衣物或鞋袜）",
+      "reading": "はく",
+      "term": "はく"
+    },
+    {
+      "entryID": "jlpt-n5-fa780b1db98dc83a580e54cd6aff07191bd95846ba9558b555138926aaa1a6a7",
+      "meaning": "箱子；盒子",
+      "reading": "はこ",
+      "term": "箱"
+    },
+    {
+      "entryID": "jlpt-n5-63abbc29ae0af59ae93e26a35a01758e737ec07011d59399929d6d654a5fbaa9",
+      "meaning": "桥",
+      "reading": "はし",
+      "term": "橋"
+    },
+    {
+      "entryID": "jlpt-n5-d3a450541901981e86b196355fc5cf81a5ccb226e451e1a2e4fa150f96c753a2",
+      "meaning": "筷子",
+      "reading": "はし",
+      "term": "箸"
+    },
+    {
+      "entryID": "jlpt-n5-ce50280a122e731292c3a18378d1d62a9f1aaf4c78e6637b48deee84436b9af5",
+      "meaning": "开始（自动词）",
+      "reading": "はじまる",
+      "term": "始まる"
+    },
+    {
+      "entryID": "jlpt-n5-e58f44c612c5bc1f483da4ac0b96646d71e349a67f107782fec3388d543dcaab",
+      "meaning": "开始；开头",
+      "reading": "はじめ",
+      "term": "初め; 始め"
+    },
+    {
+      "entryID": "jlpt-n5-3ee2322dbfd76850d2431189ae074cc07ba98d34d961e86afea3f8a58c8ab96a",
+      "meaning": "第一次；初次",
+      "reading": "はじめて",
+      "term": "初めて"
+    },
+    {
+      "entryID": "jlpt-n5-c77c9634bb0f9e964b6f6eca3075ed135e2349fe3e4f36ed6cf891650d4686c9",
+      "meaning": "跑",
+      "reading": "はしる",
+      "term": "走る"
+    },
+    {
+      "entryID": "jlpt-n5-58bd0ee867d33d7a9113abd6e2d65bc35dfecdcf2f87901438c480d363a4d744",
+      "meaning": "公共汽车；浴缸；低音",
+      "reading": "バス",
+      "term": "バス"
+    },
+    {
+      "entryID": "jlpt-n5-b500d86d64d3ff72efa1445112581715cabd64d05f6789c4ce4161b4b8a97c7a",
+      "meaning": "黄油",
+      "reading": "バター",
+      "term": "バター"
+    },
+    {
+      "entryID": "jlpt-n5-9ad066ca0274464dd90e58c246d791004430a634286f41e4421a87fdf9016789",
+      "meaning": "二十岁",
+      "reading": "はたち",
+      "term": "二十歳"
+    },
+    {
+      "entryID": "jlpt-n5-f0e729d8be087145068d6a3698113c654e4ba7cb87297731295d26e59afeec31",
+      "meaning": "工作；劳动",
+      "reading": "はたらく",
+      "term": "働く"
+    },
+    {
+      "entryID": "jlpt-n5-e96c3aac7a77e6ab5a7dfc3ce2becb18a1629a78883f5740b4714b48d982bfbe",
+      "meaning": "八",
+      "reading": "はち",
+      "term": "八"
+    },
+    {
+      "entryID": "jlpt-n5-0715486ff51d32295cff3af41af911daae5a1d69cd34ed33097c21d374c2ff4b",
+      "meaning": "二十天；二十号",
+      "reading": "はつか",
+      "term": "二十日"
+    },
+    {
+      "entryID": "jlpt-n5-877c22b96f9b10f4be1e089f287c740742a312276ac94ac9e9c2a78b177489a9",
+      "meaning": "花",
+      "reading": "はな",
+      "term": "花"
+    },
+    {
+      "entryID": "jlpt-n5-722368466583561042b23a148c3c50675853ea685c6665884bc5e0003cab27ff",
+      "meaning": "鼻子",
+      "reading": "はな",
+      "term": "鼻"
+    },
+    {
+      "entryID": "jlpt-n5-e55316ba2f5e5079b46dc05baa75ebdf99d43c985be443a920a5d761580a2299",
+      "meaning": "谈话；故事",
+      "reading": "はなし",
+      "term": "話"
+    },
+    {
+      "entryID": "jlpt-n5-c5273ca13ca90aacadc69cc201daffe85251c4eb889cf207fb8f77dd1ba8b5b9",
+      "meaning": "说；讲",
+      "reading": "はなす",
+      "term": "話す"
+    },
+    {
+      "entryID": "jlpt-n5-d64af40d6b13abdf0196d8f6abe746b5d03f23703e877ff8bbc072b9f758af97",
+      "meaning": "母亲（对外谦称自己的母亲）",
+      "reading": "はは",
+      "term": "母"
+    },
+    {
+      "entryID": "jlpt-n5-1f8b0c51c1ca3ce37361097a7a4740e17127d57d18211c14c45bfdae4d678f6d",
+      "meaning": "早的",
+      "reading": "はやい",
+      "term": "早い"
+    },
+    {
+      "entryID": "jlpt-n5-3ab44f6922e90f1b4773bdc08ef786f7bd156eb5466105f9c6f41d35ae9853f5",
+      "meaning": "快的；迅速的",
+      "reading": "はやい",
+      "term": "速い"
+    },
+    {
+      "entryID": "jlpt-n5-f2fb111c972f6bb6005ce072055fb34762068738984f22c6a7ce9d5cbe783980",
+      "meaning": "春天",
+      "reading": "はる",
+      "term": "春"
+    },
+    {
+      "entryID": "jlpt-n5-589ad05ebc92d2c17f7450e874d07ceb8c8a8e662fd82d1093b62111e2d7189a",
+      "meaning": "贴；粘；张贴",
+      "reading": "はる",
+      "term": "貼る"
+    },
+    {
+      "entryID": "jlpt-n5-daef7c99819b7c007cc4e4655da0f161839960f92e41fe5f5cce34b678a4cb93",
+      "meaning": "晴天",
+      "reading": "はれ",
+      "term": "晴れ"
+    },
+    {
+      "entryID": "jlpt-n5-bf0b090e451d496206c06095097383c5394b5656ea4126c61ea619a1e01365df",
+      "meaning": "放晴（自动词）",
+      "reading": "はれる",
+      "term": "晴れる"
+    },
+    {
+      "entryID": "jlpt-n5-02a860351361b589327437b5d86a9236c7badf9a813ba0c4f80f23af6ca10fc2",
+      "meaning": "一半；半",
+      "reading": "はん",
+      "term": "半"
+    },
+    {
+      "entryID": "jlpt-n5-705e148ad02c46e5f0366b883b189bdbc0c439d0139726c955ab08fc1882c90d",
+      "meaning": "晚上",
+      "reading": "ばん",
+      "term": "晩"
+    },
+    {
+      "entryID": "jlpt-n5-f31d6f34e65d9a7098988047c1651d2bdc291d45a59e39a9fcbed2d06f3485d2",
+      "meaning": "～号；第～名",
+      "reading": "～ばん",
+      "term": "～番"
+    },
+    {
+      "entryID": "jlpt-n5-f19393044a4032d327aad46a5c71429da048a5ab67357343f017e9be85124f38",
+      "meaning": "面包",
+      "reading": "パン",
+      "term": "パン"
+    },
+    {
+      "entryID": "jlpt-n5-3fd62d444c1047f450ff3ecbda066710d34fba1cbb86891f578a22603b5e5d09",
+      "meaning": "手帕",
+      "reading": "ハンカチ",
+      "term": "ハンカチ"
+    },
+    {
+      "entryID": "jlpt-n5-e61a5fc72d3382357bff3579e84ee5f530324df46b44254d0865b6345bf1236d",
+      "meaning": "号码；编号",
+      "reading": "ばんごう",
+      "term": "番号"
+    },
+    {
+      "entryID": "jlpt-n5-2f0fab814307803357cbe501be2d643b3ec882cfa8d1ef6664110add856771b2",
+      "meaning": "晚饭；晚餐",
+      "reading": "ばんごはん",
+      "term": "晩御飯"
+    },
+    {
+      "entryID": "jlpt-n5-e46ff915085722a17c289c535cfd902cf950de9c2908ded85f2fa551f1adf0a7",
+      "meaning": "一半",
+      "reading": "はんぶん",
+      "term": "半分"
+    },
+    {
+      "entryID": "jlpt-n5-4d98d83ddc39472e4f7f4e54197cd984082439804b55f06fd054a483a965a0fb",
+      "meaning": "东；东方",
+      "reading": "ひがし",
+      "term": "東"
+    },
+    {
+      "entryID": "jlpt-n5-4fb042e171b1d11b1ab3a5be9be31aeb84f5f2a0e8a7076744b20b0a03c85d5d",
+      "meaning": "～只；～匹（小动物助数词）",
+      "reading": "～ひき",
+      "term": "～匹"
+    },
+    {
+      "entryID": "jlpt-n5-ea6eef3ebd37ee955d302ee7a257a8ae9c9af3e1825c26b3b92854fb08e50c4b",
+      "meaning": "拉；减去；查（词典）",
+      "reading": "ひく",
+      "term": "引く"
+    },
+    {
+      "entryID": "jlpt-n5-9d6e0848a578a574f42b125e7af19e443b9f587538c6f8fac3387fe164fbe453",
+      "meaning": "弹奏（弦乐器、钢琴等）",
+      "reading": "ひく",
+      "term": "弾く"
+    },
+    {
+      "entryID": "jlpt-n5-60ec52c3f0cccf739bd94e7fc4d32dc55541d32ae63a75aeb61973a3de74f0ff",
+      "meaning": "低的；矮的",
+      "reading": "ひくい",
+      "term": "低い"
+    },
+    {
+      "entryID": "jlpt-n5-2c6a205c3696c42d1b0461e21e0c33c405aec703875735628677dd4ef50ade14",
+      "meaning": "飞机",
+      "reading": "ひこうき",
+      "term": "飛行機"
+    },
+    {
+      "entryID": "jlpt-n5-ac4725f54a15f23305c66ae71fbe8279a6aa08bfbd7de548538404f1600948c2",
+      "meaning": "左边",
+      "reading": "ひだり",
+      "term": "左"
+    },
+    {
+      "entryID": "jlpt-n5-a9bc7a83ffc4ca5aa27d1d7cd066cdcc987022d6dab999dc2162dc08f1ad8469",
+      "meaning": "人",
+      "reading": "ひと",
+      "term": "人"
+    },
+    {
+      "entryID": "jlpt-n5-67c00dcf786936a338c19ce060d2ef89ad3cd22b759eb37d9bd7ee637c6d8d9c",
+      "meaning": "一个",
+      "reading": "ひとつ",
+      "term": "一つ"
+    },
+    {
+      "entryID": "jlpt-n5-e37267d0e2aee3df4db85afe87d96a8f849f0056c8e39fc6cb28b1eacdc5c57b",
+      "meaning": "一个月",
+      "reading": "ひとつき",
+      "term": "一月"
+    },
+    {
+      "entryID": "jlpt-n5-721a9f2613e60a5a660c164740b6c4a99d7969fdad12c45f6b6f8ff2bd557f8e",
+      "meaning": "一个人",
+      "reading": "ひとり",
+      "term": "一人"
+    },
+    {
+      "entryID": "jlpt-n5-639db1c2df8fdd2ed679357b1b73ae1186069b8c33a975155598b677f6ea9648",
+      "meaning": "空闲；闲暇",
+      "reading": "ひま",
+      "term": "暇"
+    },
+    {
+      "entryID": "jlpt-n5-3dbe823d3c6f4e4f0a7bf395091bd7b48bf8494fd6aa710206715a88a5985ca2",
+      "meaning": "一百",
+      "reading": "ひゃく",
+      "term": "百"
+    },
+    {
+      "entryID": "jlpt-n5-b6386998f990f3a7951c93ba4ad8ec97d1d0c89c0aadfaf4b31029143d859958",
+      "meaning": "医院",
+      "reading": "びょういん",
+      "term": "病院"
+    },
+    {
+      "entryID": "jlpt-n5-0432f25354e8d5312ecb19408db898d513ff6f6c81561ba1a701203f93ddaf8d",
+      "meaning": "病；疾病",
+      "reading": "びょうき",
+      "term": "病気"
+    },
+    {
+      "entryID": "jlpt-n5-5b86072a7559fdf8fd98e134f1f896b41cd693127ab3a96ce0a090e67f408b5e",
+      "meaning": "平假名",
+      "reading": "ひらがな",
+      "term": "平仮名"
+    },
+    {
+      "entryID": "jlpt-n5-76bb6051a02a3ba40717762cd1de0c66ac77737fbf00297e71c2df4728dade0d",
+      "meaning": "中午；白天",
+      "reading": "ひる",
+      "term": "昼"
+    },
+    {
+      "entryID": "jlpt-n5-70e329c172324632a5463daacfeda1f82a800e69f766d97282aa955f47422326",
+      "meaning": "午饭；午餐",
+      "reading": "ひるごはん",
+      "term": "昼御飯"
+    },
+    {
+      "entryID": "jlpt-n5-70c4b0f15a814542e6b088afb1804f1db1ce57ebcde1203a0082548dcce545c2",
+      "meaning": "宽阔的；宽敞的",
+      "reading": "ひろい",
+      "term": "広い"
+    },
+    {
+      "entryID": "jlpt-n5-5032211199fb5ad0f4fe8b3e6e5aae65f03b7dca712d081eda445215bed09ace",
+      "meaning": "胶卷；电影胶片",
+      "reading": "フィルム",
+      "term": "フィルム"
+    },
+    {
+      "entryID": "jlpt-n5-20c2664b426b5e6967e1751909748809b81aa9b16e2325b1063d32c216f0f717",
+      "meaning": "信封",
+      "reading": "ふうとう",
+      "term": "封筒"
+    },
+    {
+      "entryID": "jlpt-n5-afa80b6d8182f1b4eef1fb54f961b9a82b55b7f23eaf1ad82179bff1517e29cc",
+      "meaning": "游泳池",
+      "reading": "プール",
+      "term": "プール"
+    },
+    {
+      "entryID": "jlpt-n5-03e106523b637738e47fd10e83463d7edb70f5f9831001ac8dd476fef79404fa",
+      "meaning": "叉子",
+      "reading": "フォーク",
+      "term": "フォーク"
+    },
+    {
+      "entryID": "jlpt-n5-5b410db943842fd978e686f79f692f0034debf48d79eb2a9769d92d6d94086b4",
+      "meaning": "吹；刮（风）",
+      "reading": "ふく",
+      "term": "吹く"
+    },
+    {
+      "entryID": "jlpt-n5-2a9c94e05b10d97ec556645d339a26c1095b9a4d5dbb32d03aff478d3aa98d34",
+      "meaning": "衣服",
+      "reading": "ふく",
+      "term": "服"
+    },
+    {
+      "entryID": "jlpt-n5-daf25b8494dc537dcae368b05cd46b29a1db3f3818f515e2efe476b45cacee49",
+      "meaning": "两个",
+      "reading": "ふたつ",
+      "term": "二つ"
+    },
+    {
+      "entryID": "jlpt-n5-a66998490a0a2597c41f55fe9bd91a4604b278990cff971e63749ce12b97bdcd",
+      "meaning": "猪肉",
+      "reading": "ぶたにく",
+      "term": "豚肉"
+    },
+    {
+      "entryID": "jlpt-n5-db760baf62920457aed00cb8e88f26525a48076f79264570c22b00b2c826bde6",
+      "meaning": "两个人",
+      "reading": "ふたり",
+      "term": "二人"
+    },
+    {
+      "entryID": "jlpt-n5-e5b3a8ac0de4608297cb541f2b3789497a060f3ce60558224a26522c1474fb05",
+      "meaning": "两天；二号",
+      "reading": "ふつか",
+      "term": "二日"
+    },
+    {
+      "entryID": "jlpt-n5-40f6d13877348d946e26eb02420fe53f4f1d3b137ece49fe85de51cac13dcf0b",
+      "meaning": "粗的；胖的",
+      "reading": "ふとい",
+      "term": "太い"
+    },
+    {
+      "entryID": "jlpt-n5-773ca811fc1523533b7f4f3fef244fc5d3696d424b7db88f652ca8e3230b32f5",
+      "meaning": "冬天",
+      "reading": "ふゆ",
+      "term": "冬"
+    },
+    {
+      "entryID": "jlpt-n5-c940ba2d45cf6606ce225aac8fc41304d24c881e006d6dbe58fe43521227faeb",
+      "meaning": "下（雨、雪等）",
+      "reading": "ふる",
+      "term": "降る"
+    },
+    {
+      "entryID": "jlpt-n5-a9338b8644ede4294a6fcc2454d9096d252e5f8b17e7837c7715e7005e47cf55",
+      "meaning": "旧的；古老的（物品）",
+      "reading": "ふるい",
+      "term": "古い"
+    },
+    {
+      "entryID": "jlpt-n5-9c3f8ed272d14a3637544f4b0534290336736d3f8fdd68c7e381a1b737f87fa7",
+      "meaning": "～分钟",
+      "reading": "～ふん",
+      "term": "～分"
+    },
+    {
+      "entryID": "jlpt-n5-5edc5fc9fb78e3dd8976081000beb1e03ae4b7b8ad03f5c1491128462fef096e",
+      "meaning": "文章；句子",
+      "reading": "ぶんしょう",
+      "term": "文章"
+    },
+    {
+      "entryID": "jlpt-n5-dbd7e2027f1d548f4abfe9588c593eaac0d0e0dde17c125af9a6257fd4b1d4c5",
+      "meaning": "页",
+      "reading": "ページ",
+      "term": "ページ"
+    },
+    {
+      "entryID": "jlpt-n5-117472c35c73c3792db9410de85e08dc577c53373ea3b819a862fd8e2d287168",
+      "meaning": "不擅长的；水平差的",
+      "reading": "へた",
+      "term": "下手"
+    },
+    {
+      "entryID": "jlpt-n5-82005c3e3f6e7b0cd7501beb1b2b9c2a844bd41da361e72d3ac7b3e5b55b9baf",
+      "meaning": "床",
+      "reading": "ベッド",
+      "term": "ベッド"
+    },
+    {
+      "entryID": "jlpt-n5-884af07fd7749ae897d6a4686a3b0dd86dfa25d89032ca28faa50cfb85331762",
+      "meaning": "宠物",
+      "reading": "ペット",
+      "term": "ペット"
+    },
+    {
+      "entryID": "jlpt-n5-343563c226dc05dd4822a6395d0fa31f6e59eae22a697322a76f16e3614dde9b",
+      "meaning": "房间",
+      "reading": "へや",
+      "term": "部屋"
+    },
+    {
+      "entryID": "jlpt-n5-be3411b558291fcfdec3fb10b7135fbfd798322f7b00a41bf54de8996d506f20",
+      "meaning": "一带；附近",
+      "reading": "へん",
+      "term": "辺"
+    },
+    {
+      "entryID": "jlpt-n5-2502a0dd9527faa9c45e8d27d7c74f2083c0310f3b48e6e6d8f0f99f5deedbf0",
+      "meaning": "笔",
+      "reading": "ペン",
+      "term": "ペン"
+    },
+    {
+      "entryID": "jlpt-n5-7fd01b75db97e773e39033645dafc167fca4f118ae52d94ca3dc54ad5e6b4ecb",
+      "meaning": "学习；用功",
+      "reading": "べんきょう (する)",
+      "term": "勉強"
+    },
+    {
+      "entryID": "jlpt-n5-948f4fb32799f031cac6648c5652a0c78dc4868c7a0fc8a875aaca0d214da89a",
+      "meaning": "方便的",
+      "reading": "べんり",
+      "term": "便利"
+    },
+    {
+      "entryID": "jlpt-n5-e024a574308643001d60c488c16a9f635ce1cddccd91aa88a94c7fcb9e460b29",
+      "meaning": "帽子",
+      "reading": "ぼうし",
+      "term": "帽子"
+    },
+    {
+      "entryID": "jlpt-n5-e9b4c1f9815fe0a216370205c64df2a002525ca4bae06f030444159b7557d8ee",
+      "meaning": "圆珠笔",
+      "reading": "ボールペン",
+      "term": "ボールペン"
+    },
+    {
+      "entryID": "jlpt-n5-65ac72d0a5518849dd0df9ddfdcedd55bc8996248a7f38f474d9c56157415d56",
+      "meaning": "其他；其余",
+      "reading": "ほか",
+      "term": "外"
+    },
+    {
+      "entryID": "jlpt-n5-e0e86384dc5e4ab8aa54373a26d23e72382302dc7ce27a67aa69e9e393148717",
+      "meaning": "口袋",
+      "reading": "ポケット",
+      "term": "ポケット"
+    },
+    {
+      "entryID": "jlpt-n5-5351c5d17ef63164ba18335a8765cac2a7ec29f3b0be79cfed59b59f67f75704",
+      "meaning": "想要；希望得到",
+      "reading": "ほしい",
+      "term": "欲しい"
+    },
+    {
+      "entryID": "jlpt-n5-8db57e8a28b86e0d3eaf4bd0f6238d4373c36b9aae6a3fe2a2c52ece9e066e69",
+      "meaning": "邮筒；职位",
+      "reading": "ポスト",
+      "term": "ポスト"
+    },
+    {
+      "entryID": "jlpt-n5-28f872ac9d659d5b0ee0ba0da8e94c2c85e492e66247101880b15dc49e76f830",
+      "meaning": "细的；纤细的",
+      "reading": "ほそい",
+      "term": "細い"
+    },
+    {
+      "entryID": "jlpt-n5-8c355bec98944466dfbd9ae6df7bbdecf4291da022e01fd899ce034bad3d3c9b",
+      "meaning": "纽扣；按钮",
+      "reading": "ボタン",
+      "term": "ボタン"
+    },
+    {
+      "entryID": "jlpt-n5-f49c7d360a6eacd6a7148e0e8836788a9244b83c6313cbf4e5a7818a7c3e9a29",
+      "meaning": "酒店；宾馆",
+      "reading": "ホテル",
+      "term": "ホテル"
+    },
+    {
+      "entryID": "jlpt-n5-7d4be97048a8bee5bd09c644c09f2aa6b3d7348bebbdf4d7145b2dc3eadae289",
+      "meaning": "书",
+      "reading": "ほん",
+      "term": "本"
+    },
+    {
+      "entryID": "jlpt-n5-38c94d8c67a004d4e222e119c0f879dc07777d4d3922cf30566902ae325d17f9",
+      "meaning": "～根；～支（细长物助数词）",
+      "reading": "～ほん",
+      "term": "～本"
+    },
+    {
+      "entryID": "jlpt-n5-d6a4ca13fd61cc6491e77b249f67bd3773e54f0eeb959848254ffa55dd9a0767",
+      "meaning": "书架",
+      "reading": "ほんだな",
+      "term": "本棚"
+    },
+    {
+      "entryID": "jlpt-n5-e98d553b67648043c45ce37cb6c68fed98f59a51cd54bc6ed1c80a533590d91f",
+      "meaning": "真的；真实的",
+      "reading": "ほんとう",
+      "term": "本当"
+    },
+    {
+      "entryID": "jlpt-n5-0e09da21d6d899d55ecf5819892dc34d45a12fd869a23466982d43bcb9338d24",
+      "meaning": "～张；～片（扁平物助数词）",
+      "reading": "～まい",
+      "term": "～枚"
+    },
+    {
+      "entryID": "jlpt-n5-bf4b85decfebaa0139dd23f33698755b7f06226cc12253a5f1e48958d4da883b",
+      "meaning": "每天早晨",
+      "reading": "まいあさ",
+      "term": "毎朝"
+    },
+    {
+      "entryID": "jlpt-n5-db202a251bcf1cd86faff9da1c2049db37503191a9b02e852fa1973e7268cb6c",
+      "meaning": "每月",
+      "reading": "まいげつ; まいつき",
+      "term": "毎月"
+    },
+    {
+      "entryID": "jlpt-n5-188857cd6124ecd4823aaa2b30ae05c2dcaf57b58c1a6c7045c1c264b53c1b84",
+      "meaning": "每周",
+      "reading": "まいしゅう",
+      "term": "毎週"
+    },
+    {
+      "entryID": "jlpt-n5-49febdedb9356163826862b229e0d12e607f315b15a18187008a54dabe058b67",
+      "meaning": "每天",
+      "reading": "まいにち",
+      "term": "毎日"
+    },
+    {
+      "entryID": "jlpt-n5-8f99308a19c474da2ae69200f4666a4c81c61de3f18d62b682d38eff16d795f3",
+      "meaning": "每年",
+      "reading": "まいねん; まいとし",
+      "term": "毎年"
+    },
+    {
+      "entryID": "jlpt-n5-2697e0c8407401c1b6694708f29af16a741781e10c498543d7bf9a5a727133ae",
+      "meaning": "每天晚上",
+      "reading": "まいばん",
+      "term": "毎晩"
+    },
+    {
+      "entryID": "jlpt-n5-99d57fa757f989a977c88aa1bbf4f61f0f9ba979ab3bf0f8bd99b3adc088b0e7",
+      "meaning": "前面；以前",
+      "reading": "まえ",
+      "term": "前"
+    },
+    {
+      "entryID": "jlpt-n5-0462e89ac7a60cb8c26bb8815ddb26c73070f0df0d3023424cf1e504cf20a88e",
+      "meaning": "～前面",
+      "reading": "～まえ",
+      "term": "～前"
+    },
+    {
+      "entryID": "jlpt-n5-82ebb7749ca1ee6f2eda2c60d958f8c456b50bc9794ae610a21c53b948039443",
+      "meaning": "转弯；弯曲（自动词）",
+      "reading": "まがる",
+      "term": "曲る"
+    },
+    {
+      "entryID": "jlpt-n5-8f6539c1bb13d415b6b7ddb67da1872bd1461716be2ff5225e61d2ce65cfe795",
+      "meaning": "难吃的；不妙的",
+      "reading": "まずい",
+      "term": "まずい"
+    },
+    {
+      "entryID": "jlpt-n5-60e5086e5d179ca38a73ed6526e2afefa0798633155498054561f2a1ada74509",
+      "meaning": "又；还；再",
+      "reading": "また",
+      "term": "また"
+    },
+    {
+      "entryID": "jlpt-n5-145dfd54e00dc9f0568f5bea71ad0f552c676c24c34d02fb3c75ae544abfdcc9",
+      "meaning": "还；尚未",
+      "reading": "まだ",
+      "term": "まだ"
+    },
+    {
+      "entryID": "jlpt-n5-d5d340d032459468b67da602a03078a591b40d1d304afca6b2712c3198315cc9",
+      "meaning": "城镇；街道",
+      "reading": "まち",
+      "term": "町"
+    },
+    {
+      "entryID": "jlpt-n5-d08f9525c7df88b8d51610f95297aad3e1e4bc42666fb2dabd57f1b981335d85",
+      "meaning": "等待",
+      "reading": "まつ",
+      "term": "待つ"
+    },
+    {
+      "entryID": "jlpt-n5-a007f0a6118944de1f5869fdfe58e2615205c9a27f9fe71ba7b8d7a76a58fa04",
+      "meaning": "笔直；径直",
+      "reading": "まっすぐ",
+      "term": "まっすぐ"
+    },
+    {
+      "entryID": "jlpt-n5-cd2058869755e63f49eb26f864708fff5572e597cb371e3a3ed7feaca668caba",
+      "meaning": "火柴；比赛",
+      "reading": "マッチ",
+      "term": "マッチ"
+    },
+    {
+      "entryID": "jlpt-n5-0cd5490673986d719a7de903d0ae82eeae7aef8ac8528679350ccf3c3ec13958",
+      "meaning": "窗户",
+      "reading": "まど",
+      "term": "窓"
+    },
+    {
+      "entryID": "jlpt-n5-bcad6041019e26a6e5b123c1f70306c166f3b9bc9bf2e277a19e7cf65b632fd3",
+      "meaning": "圆的",
+      "reading": "まるい",
+      "term": "丸い; 円い"
+    },
+    {
+      "entryID": "jlpt-n5-7e90cd36ea40886b9c0c4a51247aad120097e4e5249e2d7db91bddb73df8e274",
+      "meaning": "一万",
+      "reading": "まん",
+      "term": "万"
+    },
+    {
+      "entryID": "jlpt-n5-583e7b992cf8905c6541f0a606926b90f0212c5c5f328e404945adce20eafa0c",
+      "meaning": "钢笔；自来水笔",
+      "reading": "まんねんひつ",
+      "term": "万年筆"
+    },
+    {
+      "entryID": "jlpt-n5-b06dc8ee3d259335f6c4417580ce5da39a6918b3ad535f6ceb592aa5f9dd2280",
+      "meaning": "刷；磨；擦亮",
+      "reading": "みがく",
+      "term": "磨く"
+    },
+    {
+      "entryID": "jlpt-n5-9607f34773cabe772674169e21ed19c3f4a4615e40fa22d71a1ad0f4224f663c",
+      "meaning": "右边",
+      "reading": "みぎ",
+      "term": "右"
+    },
+    {
+      "entryID": "jlpt-n5-8ef0d00b775f6e3577ec4f826ac6b522ada8499ede34ae6492f7a72db37bc98d",
+      "meaning": "短的（长度）",
+      "reading": "みじかい",
+      "term": "短い"
+    },
+    {
+      "entryID": "jlpt-n5-0deb3672bc2e531428c33f43ae951658a161fa98be1aa79c583d0fb852e16ecc",
+      "meaning": "水",
+      "reading": "みず",
+      "term": "水"
+    },
+    {
+      "entryID": "jlpt-n5-155fe2a1494f44b2ecce8ce689493e90ce89ee6852e73e7dcd69b95e34555fbb",
+      "meaning": "商店；店铺",
+      "reading": "みせ",
+      "term": "店"
+    },
+    {
+      "entryID": "jlpt-n5-46a7e6cc6f41e85f79f012888fb2c881bfaee3a58abb087e982466d357ff157f",
+      "meaning": "给看；展示（他动词）",
+      "reading": "みせる",
+      "term": "見せる"
+    },
+    {
+      "entryID": "jlpt-n5-3859dfbb79d78457a2e687b9a85756da17a96f2212bf245d67e1d62ca3b13afc",
+      "meaning": "道路；路；方向",
+      "reading": "みち",
+      "term": "道"
+    },
+    {
+      "entryID": "jlpt-n5-5e566703bc1c2b89c753d0dd3f42f6525da882ba604ac16174b0c33a010b5567",
+      "meaning": "三天；三号",
+      "reading": "みっか",
+      "term": "三日"
+    },
+    {
+      "entryID": "jlpt-n5-486d85117b961ab9eaa99951e474e499b30a47b3fd779b469474678abf31e85b",
+      "meaning": "三个",
+      "reading": "みっつ",
+      "term": "三つ"
+    },
+    {
+      "entryID": "jlpt-n5-3a55d8ae3170f0e6c07b85f62a7b455f590353a6a234e4c0e31786effc0e31bc",
+      "meaning": "绿色",
+      "reading": "みどり",
+      "term": "緑"
+    },
+    {
+      "entryID": "jlpt-n5-1d90db8bc0e5854b0c7c65f8b4e66cb0206a2c5614eb75b7abc37db8e0dada03",
+      "meaning": "大家；各位",
+      "reading": "みなさん",
+      "term": "皆さん"
+    },
+    {
+      "entryID": "jlpt-n5-2b9415a3d167f56b8922dcb02f6d410bc190fd05a4499032be1a40d147855f5c",
+      "meaning": "南；南方",
+      "reading": "みなみ",
+      "term": "南"
+    },
+    {
+      "entryID": "jlpt-n5-3263546bbe6ca4875f16cda48b9bfa6d63618f322537d3607760a7b5ca75ca1d",
+      "meaning": "耳朵",
+      "reading": "みみ",
+      "term": "耳"
+    },
+    {
+      "entryID": "jlpt-n5-bfc4fceedf9ac749ef0011bb02e308b9b1d404f086c20733058c17a4569a036a",
+      "meaning": "看；观看",
+      "reading": "みる",
+      "term": "見る"
+    },
+    {
+      "entryID": "jlpt-n5-e47c07bc4da73dd21c8c92b9f99f050eea28ea53a9bb0a06d4f2f3993059e906",
+      "meaning": "大家；全部",
+      "reading": "みんな",
+      "term": "みんな"
+    },
+    {
+      "entryID": "jlpt-n5-103d975860cf7f2e1fba045f9cad3d8848812485f82a71cea96cd5708df7ec42",
+      "meaning": "六天；六号",
+      "reading": "むいか",
+      "term": "六日"
+    },
+    {
+      "entryID": "jlpt-n5-be3930bff366532deb328c1ae967316c29a48cdff049b943cd8df2198b0472bf",
+      "meaning": "对面；那边",
+      "reading": "むこう",
+      "term": "向こう"
+    },
+    {
+      "entryID": "jlpt-n5-30e9bd829f1038b04c3223f078415d27ddbcdc7f94bd9fe76cb232b9128e638b",
+      "meaning": "难的；困难的",
+      "reading": "むずかしい",
+      "term": "難しい"
+    },
+    {
+      "entryID": "jlpt-n5-2b2f59cc1a5f688a8a52b3ae4d7802f17cd075165864f7b3daa46833a3782030",
+      "meaning": "六个",
+      "reading": "むっつ",
+      "term": "六つ"
+    },
+    {
+      "entryID": "jlpt-n5-9d7c9cf32407f1eb8276ed8c6d7ccc1dee06776b1ff97c3d98a3baf923a8991b",
+      "meaning": "村庄",
+      "reading": "むら",
+      "term": "村"
+    },
+    {
+      "entryID": "jlpt-n5-f086bc29990fcca3f026f1ce26dac08467885adf1c3451e158f37cf29f0e7b25",
+      "meaning": "眼睛",
+      "reading": "め",
+      "term": "目"
+    },
+    {
+      "entryID": "jlpt-n5-1fbbbd1d2b5dc18577f3e39fb9ce46eff2db9fdb22f57760996811a624c4fb22",
+      "meaning": "米；公尺",
+      "reading": "メートル",
+      "term": "メートル"
+    },
+    {
+      "entryID": "jlpt-n5-3c5a6f62f56dd5531bd77b1b628218cda91c182330467524ccf0c75882b37429",
+      "meaning": "眼镜",
+      "reading": "めがね",
+      "term": "眼鏡"
+    },
+    {
+      "entryID": "jlpt-n5-9e87676d14c45e61f8bc25e3bd2d96f4bc9ccde304096276fa0cf583365c2f26",
+      "meaning": "已经；再；还要",
+      "reading": "もう",
+      "term": "もう"
+    },
+    {
+      "entryID": "jlpt-n5-bd36c88b4998d17863ff03e3251ca7301517569a830ae3cadd796bed74d29b9b",
+      "meaning": "星期四",
+      "reading": "もくようび",
+      "term": "木曜日"
+    },
+    {
+      "entryID": "jlpt-n5-7b396195094b8fc2de57df1085c0d2f2e361e1f6c3764810cd08c8548ddbc34a",
+      "meaning": "喂（电话用语）",
+      "reading": "もしもし",
+      "term": "もしもし"
+    },
+    {
+      "entryID": "jlpt-n5-95b519ecf28049ea74094d6339396aa1ed20fe4d42e90a3eeafb89ea09731b92",
+      "meaning": "拿；携带；拥有",
+      "reading": "もつ",
+      "term": "持つ"
+    },
+    {
+      "entryID": "jlpt-n5-0f98b92fda8879be3f735d7a46367036a242911e5c3f2373c7f8d3ba5028fa55",
+      "meaning": "更多；更加",
+      "reading": "もっと",
+      "term": "もっと"
+    },
+    {
+      "entryID": "jlpt-n5-0891a7e0b321bf4a8a461bc3cc41c277ab41ecee7bb31094f13ba20423b21006",
+      "meaning": "东西；物品",
+      "reading": "もの",
+      "term": "物"
+    },
+    {
+      "entryID": "jlpt-n5-438e228de4a431c7c08db6ac0360bb222ac2cb29aae82342b1eab732c115a52d",
+      "meaning": "门；大门",
+      "reading": "もん",
+      "term": "門"
+    },
+    {
+      "entryID": "jlpt-n5-40519b841c02d3293877d88b8b4379aca7d4c557ab23bf2f173497a2e1393a5f",
+      "meaning": "问题；难题",
+      "reading": "もんだい",
+      "term": "問題"
+    },
+    {
+      "entryID": "jlpt-n5-a12bd3ca5db57c9c317c9e67d0ea667a9afed446f22202ba41eac2ca01732a3a",
+      "meaning": "～店；～铺；从事某职业的人",
+      "reading": "～や",
+      "term": "～屋"
+    },
+    {
+      "entryID": "jlpt-n5-e5a3fe69beae5cbbab0b5f095c337f35cffd20a2627573a5303c76ea85947633",
+      "meaning": "蔬菜水果店",
+      "reading": "やおや",
+      "term": "八百屋"
+    },
+    {
+      "entryID": "jlpt-n5-681843ce88856148260960a6b683381b04f82876aa5dffed871119cdf1a14f65",
+      "meaning": "蔬菜",
+      "reading": "やさい",
+      "term": "野菜"
+    },
+    {
+      "entryID": "jlpt-n5-b86f8220a87feb284e8ab1cb84f4d6f414faa24c53e4a130e151b1caacfca350",
+      "meaning": "容易的；简单的",
+      "reading": "やさしい",
+      "term": "易しい"
+    },
+    {
+      "entryID": "jlpt-n5-c8d61fc86996fc1b4d7b8185e1234f3679448a9ed865dbded5dda31217670a61",
+      "meaning": "便宜的",
+      "reading": "やすい",
+      "term": "安い"
+    },
+    {
+      "entryID": "jlpt-n5-f5e80c57e6bfaa0e8b0d991234d76401e24d1a3f9113a49df4eb8a952a3f1936",
+      "meaning": "休息；假日；缺席",
+      "reading": "やすみ",
+      "term": "休み"
+    },
+    {
+      "entryID": "jlpt-n5-942d96f4bcd7190070596cc8f7cd5212a3683cf52474165b35113487d2ec2d5d",
+      "meaning": "休息；请假",
+      "reading": "やすむ",
+      "term": "休む"
+    },
+    {
+      "entryID": "jlpt-n5-77fdd8c83b3d18d92c94be242218bf023d88ed0a437ce47c2e23c5824d283340",
+      "meaning": "八个",
+      "reading": "やっつ",
+      "term": "八つ"
+    },
+    {
+      "entryID": "jlpt-n5-8ceae3a0b3c6ae99f99d73368d9d049c8ca44f1a15e648a6db3720e1aecefa0c",
+      "meaning": "山",
+      "reading": "やま",
+      "term": "山"
+    },
+    {
+      "entryID": "jlpt-n5-615547290fb0f2addffc1d33bf00e203d424dd429672bb8f12991c5401afa558",
+      "meaning": "做；给（晚辈、动植物等）",
+      "reading": "やる",
+      "term": "やる"
+    },
+    {
+      "entryID": "jlpt-n5-6ba30f0e880facc02072db2531993358da8057491aa3666b1caa2f8a690874e9",
+      "meaning": "傍晚；黄昏",
+      "reading": "ゆうがた",
+      "term": "夕方"
+    },
+    {
+      "entryID": "jlpt-n5-5036c9c93e6fb879ae8e2255fcc174494199f547639678b4c401bda4c8a37dc7",
+      "meaning": "晚饭；晚餐",
+      "reading": "ゆうはん",
+      "term": "夕飯"
+    },
+    {
+      "entryID": "jlpt-n5-b0051a9c6698fe450d18da4659b131cead8929cf2acab72a9dce94fa7289d563",
+      "meaning": "邮局",
+      "reading": "ゆうびんきょく",
+      "term": "郵便局"
+    },
+    {
+      "entryID": "jlpt-n5-9c6ae66baf7236c8ffcd41d9a0f1387a2f2876a276775b8007f81b25ea70a0a1",
+      "meaning": "昨晚",
+      "reading": "ゆうべ",
+      "term": "昨夜"
+    },
+    {
+      "entryID": "jlpt-n5-84bcc695ef605e9cc892e4b19f83e8f12c1ec2cf99877afadeb8e4c1d25170a4",
+      "meaning": "有名的；著名的",
+      "reading": "ゆうめい",
+      "term": "有名"
+    },
+    {
+      "entryID": "jlpt-n5-e848437436531e93b836d9463c66381d620c1f5e7fb5d5a29c9ef492f0e4b283",
+      "meaning": "雪",
+      "reading": "ゆき",
+      "term": "雪"
+    },
+    {
+      "entryID": "jlpt-n5-8ac096a537b1ad6ffe9374cfc47ce67114460a582c931b3b377a9875258749e6",
+      "meaning": "慢慢地；悠闲地",
+      "reading": "ゆっくりと",
+      "term": "ゆっくりと"
+    },
+    {
+      "entryID": "jlpt-n5-03beecdf6d12b953607cb33ab89b1da1bc6d5f1b55c56505dfe145eb8700a51d",
+      "meaning": "八天；八号",
+      "reading": "ようか",
+      "term": "八日"
+    },
+    {
+      "entryID": "jlpt-n5-7ac705bbe521603801c3c3b96a94ba11a57e8ae4787463f9c5b38518172b2704",
+      "meaning": "西式服装",
+      "reading": "ようふく",
+      "term": "洋服"
+    },
+    {
+      "entryID": "jlpt-n5-aa36de799baad68c96bffad0751be7bc000c852cbdefdd79fb5944af45d351be",
+      "meaning": "经常；好好地；熟练地",
+      "reading": "よく",
+      "term": "よく"
+    },
+    {
+      "entryID": "jlpt-n5-934a8eb1f96a6ae796494a2321bd61048d7bc77eb2250414bcc36e97b7c20f2a",
+      "meaning": "旁边；侧面；宽度",
+      "reading": "よこ",
+      "term": "横"
+    },
+    {
+      "entryID": "jlpt-n5-89d86a6615a990393504df1d84f1902ccae8c88942c9b8dd8010b17a233a3f29",
+      "meaning": "四天；四号",
+      "reading": "よっか",
+      "term": "四日"
+    },
+    {
+      "entryID": "jlpt-n5-9260044c246a7f4d1d0fdba64e50258ef22c83e083d26bc8e59f74beb2abb26b",
+      "meaning": "四个",
+      "reading": "よっつ",
+      "term": "四つ"
+    },
+    {
+      "entryID": "jlpt-n5-6c4b092b788d1840f1a99c750c67213c2fb719795bcb58925e799e6b915d9caf",
+      "meaning": "呼叫；称呼；邀请",
+      "reading": "よぶ",
+      "term": "呼ぶ"
+    },
+    {
+      "entryID": "jlpt-n5-f2a6205dc15a5e1cb028f8e43f7c620084d6733bd550da031c25f4e5bfbe9ac2",
+      "meaning": "读；阅读",
+      "reading": "よむ",
+      "term": "読む"
+    },
+    {
+      "entryID": "jlpt-n5-397bb6930931820ca7c7b5b025f030909c429fb2a6ff0bedb0f31142706c42f4",
+      "meaning": "夜晚；晚上",
+      "reading": "よる",
+      "term": "夜"
+    },
+    {
+      "entryID": "jlpt-n5-bb3cd68cb17181ad96b012a359b6c1039be420d7a4d5b02e3c87e5307d1ad839",
+      "meaning": "弱的；虚弱的",
+      "reading": "よわい",
+      "term": "弱い"
+    },
+    {
+      "entryID": "jlpt-n5-872a7a6771fe5427b5b203f4c40215dd4b6932f2fd09fb890ec6bc895dce0520",
+      "meaning": "下个月",
+      "reading": "らいげつ",
+      "term": "来月"
+    },
+    {
+      "entryID": "jlpt-n5-7eb091660c988a8ed6ca72d1722ee6aea3de31831ce9a8b24a02d283bf48b9c1",
+      "meaning": "下周",
+      "reading": "らいしゅう",
+      "term": "来週"
+    },
+    {
+      "entryID": "jlpt-n5-6ebe1d8f3aeef46ebe93da3c0df837d31124b0b3be7771bed633651fac7a3a3c",
+      "meaning": "明年",
+      "reading": "らいねん",
+      "term": "来年"
+    },
+    {
+      "entryID": "jlpt-n5-6ab6414ea2710d037c7fa523fca6e07e678cff3dd5fb6ca4556b2134e9448e8b",
+      "meaning": "收音机",
+      "reading": "ラジオ",
+      "term": "ラジオ"
+    },
+    {
+      "entryID": "jlpt-n5-02948f1d17b9c24b0ab44e1724409542be6c824e455af6d6e94894e2bbd7420c",
+      "meaning": "收录机；盒式磁带收音机",
+      "reading": "ラジオカセ",
+      "term": "ラジオカセ"
+    },
+    {
+      "entryID": "jlpt-n5-14300220fcc3af4894e536e045e46e2aa8df8410e19b0157be42053c8933905e",
+      "meaning": "出色的；气派的",
+      "reading": "りっぱ",
+      "term": "りっぱ"
+    },
+    {
+      "entryID": "jlpt-n5-5fb8b747771cb8f3a5b3ead68cd7ec5c52b795d7924b652414642f8944498eaf",
+      "meaning": "留学生",
+      "reading": "りゅうがくせい",
+      "term": "留学生"
+    },
+    {
+      "entryID": "jlpt-n5-f9e7b5220f3a7ea4081b38c20441c340c778bdc99f9cd98d8357f00b74980e19",
+      "meaning": "父母；双亲",
+      "reading": "りょうしん",
+      "term": "両親"
+    },
+    {
+      "entryID": "jlpt-n5-c380e989c11d7057034f03e94c95f2f222a243ea070601b582955db41c52e61b",
+      "meaning": "烹饪；菜肴",
+      "reading": "りょうり",
+      "term": "料理"
+    },
+    {
+      "entryID": "jlpt-n5-bf70dc7b95fcdc07a6c5ad366bf84640e0d408eef4f56b400f5b0a1930326fa8",
+      "meaning": "旅行",
+      "reading": "りょこう",
+      "term": "旅行"
+    },
+    {
+      "entryID": "jlpt-n5-4cb97633bd489879dbab355a31509181d991207a2bbeae3a683c77be4917cbe8",
+      "meaning": "零",
+      "reading": "れい",
+      "term": "零"
+    },
+    {
+      "entryID": "jlpt-n5-49d151e6c153f4edcabb8ae64b92b6eb2fd909c181a6c365afc19042d95eef8c",
+      "meaning": "冰箱",
+      "reading": "れいぞうこ",
+      "term": "冷蔵庫"
+    },
+    {
+      "entryID": "jlpt-n5-5f316c2d4c808d9bea2f7322c0976d6eb6f6aa8f20263f0684e23f23d0371eef",
+      "meaning": "唱片；记录",
+      "reading": "レコード",
+      "term": "レコード"
+    },
+    {
+      "entryID": "jlpt-n5-c3e4bcd778fa500b827f567ce980ac832e2b6585212a02c6f7ca35d07e19f00b",
+      "meaning": "餐厅；饭店",
+      "reading": "レストラン",
+      "term": "レストラン"
+    },
+    {
+      "entryID": "jlpt-n5-e07e36a210d68194b4fbfade60fe222a70410729be463be8f0abe3aea7893a0d",
+      "meaning": "练习",
+      "reading": "れんしゅう (する)",
+      "term": "練習"
+    },
+    {
+      "entryID": "jlpt-n5-b3a254a0429fad8cf41960948d606b67d7785366fabe4f2da6dd747cfd01a6af",
+      "meaning": "走廊",
+      "reading": "ろうか",
+      "term": "廊下"
+    },
+    {
+      "entryID": "jlpt-n5-353c32acc6f82a38f25c051aaafed1b0a0ecd397c6fd66d9c93061557dc3e925",
+      "meaning": "六",
+      "reading": "ろく",
+      "term": "六"
+    },
+    {
+      "entryID": "jlpt-n5-b0caf6f43b59e04778d5b2cdf4d8bc1740815d573cbf76ceab7296164b3baff5",
+      "meaning": "衬衫；商务衬衫",
+      "reading": "ワイシャツ",
+      "term": "ワイシャツ"
+    },
+    {
+      "entryID": "jlpt-n5-d0ddcd776a46b44504835f9da8ae793cfb5621e04999fe6f7866ee09d679906d",
+      "meaning": "年轻的",
+      "reading": "わかい",
+      "term": "若い"
+    },
+    {
+      "entryID": "jlpt-n5-e507629bcb1d3a1fd11d73ec15c5d7819648e099c04afadfe66d16e68ba22d2d",
+      "meaning": "明白；理解",
+      "reading": "わかる",
+      "term": "分かる"
+    },
+    {
+      "entryID": "jlpt-n5-9d7b9ae8575d9b887365357ca6cfa3524b3438b01a2c8b69e0c4dc603f2dc727",
+      "meaning": "忘记",
+      "reading": "わすれる",
+      "term": "忘れる"
+    },
+    {
+      "entryID": "jlpt-n5-c7eaf3a3786f246e0e395f0c1aaa177ecfb7ab531f12ca8318e09ccb73096539",
+      "meaning": "我；自己",
+      "reading": "わたし",
+      "term": "私"
+    },
+    {
+      "entryID": "jlpt-n5-20b4c634aadd2761adada1acea5164c8d7557694bfc0e13e3e34b2190e2d2206",
+      "meaning": "我（正式、谦逊说法）；私事",
+      "reading": "わたくし",
+      "term": "私"
+    },
+    {
+      "entryID": "jlpt-n5-d8cfcd5466ddd6b2d662784aafe2e328cd0900c1ae659790c1ec1e33995df2ce",
+      "meaning": "交给；递给；使通过（他动词）",
+      "reading": "わたす",
+      "term": "渡す"
+    },
+    {
+      "entryID": "jlpt-n5-e893ca67e4b1c3c0c870302507d2d410c12a9ff9db0c2d29d994da87a2425431",
+      "meaning": "渡过；穿过（自动词）",
+      "reading": "わたる",
+      "term": "渡る"
+    },
+    {
+      "entryID": "jlpt-n5-e6965fadb041c8e643d1271255c13c8c79df03bb85130fa3e5ede8a0fc2957a4",
+      "meaning": "坏的；不好的；有过错的",
+      "reading": "わるい",
+      "term": "悪い"
+    }
+  ],
+  "metadata": {
+    "classification": "jlpt",
+    "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+    "language": "ja",
+    "level": "n5",
+    "tags": [
+      "jlpt",
+      "n5",
+      "vocabulary",
+      "chinese"
+    ],
+    "title": "JLPT N5 日语词汇"
+  },
+  "packID": "com.dai1012.jlpt.n5",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

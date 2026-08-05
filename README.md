@@ -145,3 +145,18 @@ python3 scripts/validate_release.py
 | `com.dai1012.test.travel` | v1 | 5 | 旅行场景，classification=travel |
 
 内容均标注「测试词包」，仅用于联调验证，非真实学习数据。
+
+## 第三方词包来源与许可证
+
+### JLPT N5 日语词汇
+
+- 上游项目：`jamsinclair/open-anki-jlpt-decks`
+- 原始数据：<https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/main/src/n5.csv>
+- 项目主页：<https://github.com/jamsinclair/open-anki-jlpt-decks>
+- 上游版权：Copyright (c) 2020 Jamie Sinclair
+- 许可证：MIT，完整文本见 `sources/jlpt-n5.LICENSE.txt`
+
+本仓库保持原始 CSV 的词条顺序，将 `expression`/`reading` 转换为
+`term`/`reading`，并将英文 `meaning` 翻译、校订为简体中文。每条 `entryID`
+仅由上游原始 `guid` 的 UTF-8 字节计算 SHA-256 后生成，格式为
+`jlpt-n5-<64 位小写十六进制>`；修改中文释义不会改变 `entryID`。
