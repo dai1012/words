@@ -4,7 +4,7 @@ JapaneseWordWatch（iPhone）Issue 006 远程词库下载功能的发布仓库�
 `catalog.json` 读取词包清单，按清单下载 `packs/*.json` 并安装。本仓库只负责
 词库数据与发布自动化，不包含 App 代码。
 
-- App 仓库：https://github.com/dai1012/JapaneseWordWatch
+- App 仓库：
 - catalog Raw URL：`https://raw.githubusercontent.com/dai1012/words/main/catalog.json`
 
 ## 目录结构
