@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.test.travel",
+  "packVersion": 1,
+  "metadata": {
+    "title": "测试旅行词包（Test Travel）",
+    "language": "ja",
+    "classification": "travel",
+    "level": "beginner",
+    "description": "Issue 006 联调用旅行场景测试词包，内容非真实学习数据。",
+    "tags": ["travel", "test"]
+  },
+  "entries": [
+    {
+      "entryID": "test-travel-001",
+      "term": "駅",
+      "reading": "えき",
+      "meaning": "车站（测试词包）"
+    },
+    {
+      "entryID": "test-travel-002",
+      "term": "切符",
+      "reading": "きっぷ",
+      "meaning": "车票（测试词包）"
+    },
+    {
+      "entryID": "test-travel-003",
+      "term": "ホテル",
+      "reading": "ホテル",
+      "meaning": "酒店（测试词包）"
+    },
+    {
+      "entryID": "test-travel-004",
+      "term": "両替",
+      "reading": "りょうがえ",
+      "meaning": "兑换货币（测试词包）"
+    },
+    {
+      "entryID": "test-travel-005",
+      "term": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "出发（测试词包）"
+    }
+  ]
+}

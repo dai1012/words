@@ -1,0 +1,43 @@
+{
+  "catalogVersion": 1,
+  "generatedAt": "2026-08-05T10:19:49Z",
+  "packs": [
+    {
+      "classification": "test",
+      "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
+      "entryCount": 5,
+      "fileSize": 1243,
+      "fileURL": "packs/test-basic.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.test.basic",
+      "packVersion": 1,
+      "sha256": "4a5dc0eca4a3341f67a0aa3c84739a4238b647c2fad649c24c685c7842456b6a",
+      "tags": [
+        "test",
+        "basic"
+      ],
+      "title": "测试基础词包（Test Basic）"
+    },
+    {
+      "classification": "travel",
+      "description": "Issue 006 联调用旅行场景测试词包，内容非真实学习数据。",
+      "entryCount": 5,
+      "fileSize": 1172,
+      "fileURL": "packs/test-travel.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.test.travel",
+      "packVersion": 1,
+      "sha256": "e575671c6d87445f24dccbb6c1650c66b8fd180e0001692a2c7c36faf77cac0a",
+      "tags": [
+        "travel",
+        "test"
+      ],
+      "title": "测试旅行词包（Test Travel）"
+    }
+  ],
+  "schemaVersion": 1
+}

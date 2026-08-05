@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "entryID": "test-basic-001",
+      "meaning": "早上好（测试词包）",
+      "reading": "おはよう",
+      "term": "おはよう"
+    },
+    {
+      "entryID": "test-basic-002",
+      "meaning": "谢谢（测试词包）",
+      "reading": "ありがとう",
+      "term": "ありがとう"
+    },
+    {
+      "entryID": "test-basic-003",
+      "meaning": "对不起 / 打扰了（测试词包）",
+      "reading": "すみません",
+      "term": "すみません"
+    },
+    {
+      "entryID": "test-basic-004",
+      "meaning": "是 / 对（测试词包）",
+      "reading": "はい",
+      "term": "はい"
+    },
+    {
+      "entryID": "test-basic-005",
+      "meaning": "不是 / 不（测试词包）",
+      "reading": "いいえ",
+      "term": "いいえ"
+    }
+  ],
+  "entryCount": 5,
+  "metadata": {
+    "classification": "test",
+    "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "test",
+      "basic"
+    ],
+    "title": "测试基础词包（Test Basic）"
+  },
+  "packID": "com.dai1012.test.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
