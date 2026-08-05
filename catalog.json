@@ -1,7 +1,87 @@
 {
-  "catalogVersion": 2,
-  "generatedAt": "2026-08-05T14:32:26Z",
+  "catalogVersion": 3,
+  "generatedAt": "2026-08-05T15:21:18Z",
   "packs": [
+    {
+      "classification": "jlpt",
+      "description": "JLPT N1 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "entryCount": 2699,
+      "fileSize": 549879,
+      "fileURL": "packs/jlpt-n1.json",
+      "language": "ja",
+      "level": "n1",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jlpt.n1",
+      "packVersion": 1,
+      "sha256": "6cefefe00263f5976a126bbb2fa52c26f4eb83b68514681866c80e9264bd7aa8",
+      "tags": [
+        "jlpt",
+        "n1",
+        "vocabulary",
+        "chinese"
+      ],
+      "title": "JLPT N1 日语词汇"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N2 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "entryCount": 1905,
+      "fileSize": 388407,
+      "fileURL": "packs/jlpt-n2.json",
+      "language": "ja",
+      "level": "n2",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jlpt.n2",
+      "packVersion": 1,
+      "sha256": "19c888890acc56e6cc1a7a367f7625a89da245cb184d171cb073e68e8d9fce84",
+      "tags": [
+        "jlpt",
+        "n2",
+        "vocabulary",
+        "chinese"
+      ],
+      "title": "JLPT N2 日语词汇"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N3 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "entryCount": 2140,
+      "fileSize": 429231,
+      "fileURL": "packs/jlpt-n3.json",
+      "language": "ja",
+      "level": "n3",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jlpt.n3",
+      "packVersion": 1,
+      "sha256": "f581f0a2e03137a93a65d576faf8110e2f8b4045b7d51662db11a5d3353c16b2",
+      "tags": [
+        "jlpt",
+        "n3",
+        "vocabulary",
+        "chinese"
+      ],
+      "title": "JLPT N3 日语词汇"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N4 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "entryCount": 668,
+      "fileSize": 134586,
+      "fileURL": "packs/jlpt-n4.json",
+      "language": "ja",
+      "level": "n4",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jlpt.n4",
+      "packVersion": 1,
+      "sha256": "fa0d190929e036d346cf1ee96f9667da3ee2cbbe123bf8c7c0c101cd64b67d63",
+      "tags": [
+        "jlpt",
+        "n4",
+        "vocabulary",
+        "chinese"
+      ],
+      "title": "JLPT N4 日语词汇"
+    },
     {
       "classification": "jlpt",
       "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",

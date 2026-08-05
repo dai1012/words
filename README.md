@@ -160,3 +160,8 @@ python3 scripts/validate_release.py
 `term`/`reading`，并将英文 `meaning` 翻译、校订为简体中文。每条 `entryID`
 仅由上游原始 `guid` 的 UTF-8 字节计算 SHA-256 后生成，格式为
 `jlpt-n5-<64 位小写十六进制>`；修改中文释义不会改变 `entryID`。
+
+该 MIT 许可及来源说明同时适用于本仓库的 JLPT N1–N5 词包。上游数据修正记录：N4
+`ごらんになる`、`かまう` 的空 reading 分别补为 expression 原文；N2 上游第二次出现
+的完全重复词条 `やかん / やかん / kettle`（guid `tkW,zBf(b9`）仅保留首次出现，
+N2 发布词条数为 1905。
