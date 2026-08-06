@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 7,
-  "generatedAt": "2026-08-06T07:49:07Z",
+  "catalogVersion": 8,
+  "generatedAt": "2026-08-06T09:23:09Z",
   "packs": [
     {
       "classification": "jlpt",
@@ -89,7 +89,10 @@
     {
       "classification": "jlpt",
       "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
-      "directoryPath": [],
+      "directoryPath": [
+        "中日",
+        "JLPT"
+      ],
       "entryCount": 718,
       "fileSize": 141855,
       "fileURL": "packs/jlpt-n5.json",
