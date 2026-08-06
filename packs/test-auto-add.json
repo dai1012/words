@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "entryID": "test-auto-add-001",
+      "meaning": "新增；追加",
+      "reading": "ついか",
+      "term": "追加"
+    },
+    {
+      "entryID": "test-auto-add-002",
+      "meaning": "确认",
+      "reading": "かくにん",
+      "term": "確認"
+    }
+  ],
+  "entryCount": 2,
+  "metadata": {
+    "classification": "test",
+    "description": "用于验证 GitHub Actions 自动新增词包和 catalog descriptor。",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "test",
+      "automation"
+    ],
+    "title": "自动新增测试词包"
+  },
+  "packID": "com.dai1012.test.auto-add",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
