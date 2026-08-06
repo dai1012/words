@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "packID": "com.dai1012.test.basic",
-  "packVersion": 1,
+  "packVersion": 2,
   "metadata": {
     "title": "测试基础词包（Test Basic）",
     "language": "ja",
