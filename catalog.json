@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 5,
-  "generatedAt": "2026-08-06T04:52:25Z",
+  "catalogVersion": 6,
+  "generatedAt": "2026-08-06T04:58:22Z",
   "packs": [
     {
       "classification": "jlpt",
@@ -101,24 +101,6 @@
         "chinese"
       ],
       "title": "JLPT N5 日语词汇"
-    },
-    {
-      "classification": "test",
-      "description": "用于验证 GitHub Actions 自动新增词包和 catalog descriptor。",
-      "entryCount": 2,
-      "fileSize": 684,
-      "fileURL": "packs/test-auto-add.json",
-      "language": "ja",
-      "level": "beginner",
-      "minimumAppVersion": "1.0.0",
-      "packID": "com.dai1012.test.auto-add",
-      "packVersion": 1,
-      "sha256": "ce3d6ea836316ecf6ff89706cc8337769c7fb576b1b9aabb9781933541ae1cc5",
-      "tags": [
-        "test",
-        "automation"
-      ],
-      "title": "自动新增测试词包"
     },
     {
       "classification": "test",
