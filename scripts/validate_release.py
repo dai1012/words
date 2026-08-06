@@ -23,6 +23,7 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -140,6 +141,28 @@ def validate_file_url(value: str, catalog_relative: bool) -> None:
             check(not value.startswith("?"), f"fileURL 禁止 query-only: {value!r}")
 
 
+def validate_directory_path(value, where: str) -> None:
+    """Issue 011：descriptor.directoryPath 必填数组，逐段校验目录名规则。
+
+    允许中文/日文/英文/数字/Emoji/中间空格及其他 Unicode；拒绝空/空白/./..
+    /前后空格/分隔符/Unicode Cc 控制字符（与 build_catalog.py 同规则）。
+    不同层级允许同名段（如 A/A），不做数组内去重。
+    """
+    check(isinstance(value, list), f"{where}.directoryPath 必须是数组: {value!r}")
+    for index, segment in enumerate(value):
+        check(isinstance(segment, str),
+              f"{where}.directoryPath[{index}] 必须是字符串: {segment!r}")
+        check(segment.strip() != "" and segment not in (".", ".."),
+              f"{where}.directoryPath[{index}] 非法: {segment!r}"
+              f"（不能为空、纯空白、'.' 或 '..'）")
+        check(segment == segment.strip(),
+              f"{where}.directoryPath[{index}] 非法: {segment!r}（不允许前导或尾随空格）")
+        check("/" not in segment and "\\" not in segment,
+              f"{where}.directoryPath[{index}] 非法: {segment!r}（不允许包含 '/' 或 '\\'）")
+        check(not any(unicodedata.category(ch) == "Cc" for ch in segment),
+              f"{where}.directoryPath[{index}] 非法: {segment!r}（不允许 Unicode 控制字符）")
+
+
 def validate_tags(tags, where: str) -> None:
     check(isinstance(tags, list), f"{where}.tags 必须是数组")
     seen = set()
@@ -212,6 +235,7 @@ def validate_catalog(catalog: dict, catalog_bytes: bytes) -> dict:
         check(isinstance(sha256, str) and re.fullmatch(r"[0-9a-f]{64}", sha256),
               f"catalog.packs[{index}].sha256 非法: {sha256!r}")
         validate_minimum_app_version(entry.get("minimumAppVersion"))
+        validate_directory_path(entry.get("directoryPath"), f"catalog.packs[{index}]")
         description = entry.get("description")
         check(description is None or (isinstance(description, str) and description.strip() != ""),
               f"catalog.packs[{index}].description 非法: {description!r}")
@@ -224,6 +248,8 @@ def validate_pack(pack: dict, pack_bytes: bytes, catalog_pack_ids: set) -> str:
           f"pack 超出大小限制 {PACK_MAX_BYTES} bytes: {len(pack_bytes)}")
     check(pack.get("schemaVersion") == SCHEMA_VERSION,
           f"pack schemaVersion 必须是 {SCHEMA_VERSION}: {pack.get('schemaVersion')!r}")
+    check("directoryPath" not in pack,
+          "pack 不得包含 directoryPath（Issue 011：该字段只存在于 catalog descriptor）")
     pack_id = pack.get("packID")
     validate_pack_id(pack_id)
     check(pack_id in catalog_pack_ids, f"packID {pack_id!r} 不在 catalog 中")
