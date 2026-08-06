@@ -29,9 +29,15 @@
       "meaning": "不是 / 不（测试词包）",
       "reading": "いいえ",
       "term": "いいえ"
+    },
+    {
+      "entryID": "test-basic-006",
+      "meaning": "自动更新测试",
+      "reading": "じどうこうしん",
+      "term": "自動更新"
     }
   ],
-  "entryCount": 5,
+  "entryCount": 6,
   "metadata": {
     "classification": "test",
     "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
@@ -44,6 +50,6 @@
     "title": "测试基础词包（Test Basic）"
   },
   "packID": "com.dai1012.test.basic",
-  "packVersion": 1,
+  "packVersion": 2,
   "schemaVersion": 1
 }

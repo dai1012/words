@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 3,
-  "generatedAt": "2026-08-05T15:21:18Z",
+  "catalogVersion": 4,
+  "generatedAt": "2026-08-06T04:46:40Z",
   "packs": [
     {
       "classification": "jlpt",
@@ -105,15 +105,15 @@
     {
       "classification": "test",
       "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
-      "entryCount": 5,
-      "fileSize": 1243,
+      "entryCount": 6,
+      "fileSize": 1401,
       "fileURL": "packs/test-basic.json",
       "language": "ja",
       "level": "beginner",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.test.basic",
-      "packVersion": 1,
-      "sha256": "4a5dc0eca4a3341f67a0aa3c84739a4238b647c2fad649c24c685c7842456b6a",
+      "packVersion": 2,
+      "sha256": "ae3fe7f8eabdfb9e23894a6b6040663c605b27de4a048c31f0fde3b7502ba993",
       "tags": [
         "test",
         "basic"
