@@ -207,7 +207,7 @@ packVersion = 1
 然后提交：
 
 ```bash
-cd /Users/YOUR_USERNAME/work/words
+cd /Users/xxxxxx/work/words
 
 git add sources/my-new-pack.source.json
 git commit -m "feat: add example word pack"
@@ -534,7 +534,7 @@ meaning
 修改完成后，可以先运行：
 
 ```bash
-cd /Users/YOUR_USERNAME/work/words
+cd /Users/xxxxxx/work/words
 
 python3 -m json.tool sources/修改的文件.source.json >/dev/null
 ```
