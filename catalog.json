@@ -1,10 +1,11 @@
 {
-  "catalogVersion": 6,
-  "generatedAt": "2026-08-06T04:58:22Z",
+  "catalogVersion": 7,
+  "generatedAt": "2026-08-06T07:49:07Z",
   "packs": [
     {
       "classification": "jlpt",
       "description": "JLPT N1 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "directoryPath": [],
       "entryCount": 2699,
       "fileSize": 549879,
       "fileURL": "packs/jlpt-n1.json",
@@ -25,6 +26,7 @@
     {
       "classification": "jlpt",
       "description": "JLPT N2 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "directoryPath": [],
       "entryCount": 1905,
       "fileSize": 388407,
       "fileURL": "packs/jlpt-n2.json",
@@ -45,6 +47,7 @@
     {
       "classification": "jlpt",
       "description": "JLPT N3 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "directoryPath": [],
       "entryCount": 2140,
       "fileSize": 429231,
       "fileURL": "packs/jlpt-n3.json",
@@ -65,6 +68,7 @@
     {
       "classification": "jlpt",
       "description": "JLPT N4 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "directoryPath": [],
       "entryCount": 668,
       "fileSize": 134586,
       "fileURL": "packs/jlpt-n4.json",
@@ -85,6 +89,7 @@
     {
       "classification": "jlpt",
       "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
+      "directoryPath": [],
       "entryCount": 718,
       "fileSize": 141855,
       "fileURL": "packs/jlpt-n5.json",
@@ -105,6 +110,7 @@
     {
       "classification": "test",
       "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
+      "directoryPath": [],
       "entryCount": 6,
       "fileSize": 1401,
       "fileURL": "packs/test-basic.json",
@@ -123,6 +129,7 @@
     {
       "classification": "travel",
       "description": "Issue 006 联调用旅行场景测试词包，内容非真实学习数据。",
+      "directoryPath": [],
       "entryCount": 5,
       "fileSize": 1172,
       "fileURL": "packs/test-travel.json",

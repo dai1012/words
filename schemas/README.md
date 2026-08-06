@@ -29,6 +29,7 @@
       "language": "ja",
       "classification": "test",
       "level": "beginner",
+      "directoryPath": ["中日", "商务"],
       "entryCount": 5,
       "fileURL": "packs/test-basic.json",
       "fileSize": 1243,
@@ -71,6 +72,7 @@
 | `classification`/`level`/`tag` | 小写 slug `^[a-z0-9]+(?:-[a-z0-9]+)*$` |
 | 可选字段（`level`/`description`/`tags`） | 缺失省略 key；**显式 `null` 非法** |
 | `fileURL` | 相对路径（无 `/` 开头、无 `..`、percent-encoding 合法）或绝对 https；App 解析相对 URL 到 catalog 目录 |
+| `directoryPath`（descriptor 可选，Issue 011） | 字符串数组；source 相对 `sources/` 的父目录，从最外层到最内层；根目录 source 为 `[]`；段禁止空/纯空白/`.`/`..`/前导尾随空格/`/`/`\`/Unicode 控制字符（category `Cc`，按 `unicodedata.category` 判断）；允许中文/日文/英文/Emoji/中间空格；只存在于 catalog descriptor，pack JSON 无此字段；仅影响 App 浏览位置，不参与身份、安装、更新、收藏与同步判断；source 顶层或 metadata 手写该字段时 build 失败 |
 | `entryCount` | 与 `entries` 实际数量一致 |
 | `fileSize`/`sha256` | 与 pack 文件原始字节完全一致（`fileSize`=字节数，`sha256`=小写 64 位 hex） |
 

@@ -46,7 +46,9 @@ GitHub Actions 自动更新 catalog.json
 ```text
 words/
 ├── sources/
-│   └── *.source.json
+│   ├── *.source.json
+│   └── 任意子目录/
+│       └── *.source.json
 ├── packs/
 │   └── *.json
 ├── catalog.json
@@ -76,7 +78,23 @@ words/
 ```text
 sources/jlpt-n5.source.json
 sources/test-basic.source.json
+sources/中日/JLPT/N1.source.json
 ```
+
+source 可以放在任意深度的子目录中（目录名不限语言、层数不限）。source
+相对 `sources/` 的父目录会自动写入 catalog 的 `directoryPath`，App 下载页面
+按该路径动态显示目录浏览层级；App 不直接读取 `sources/`，只读取 catalog。
+目录名称（中文、日文、英文等）原样保留，App 不写死任何目录名。
+
+规则：
+
+- source 的 basename（如 `N1.source.json` 的 `N1`）在全部 sources 中必须唯一，
+  因为 pack 输出文件名由 basename 派生；同名会构建失败
+- 只移动 source 到其他目录、不改内容时，pack 文件、下载地址与版本均不变，
+  不需要提高 packVersion
+- 目录名不允许 Unicode 控制字符（换行、Tab 等）；允许中文、日文、英文、
+  Emoji、中间空格
+- 不要在 source 中手写 directoryPath，构建会失败（该字段由目录结构自动生成）
 
 ## packs/
 
@@ -204,6 +222,13 @@ sources/my-new-pack.source.json
 packVersion = 1
 ```
 
+source 可以放在任意深度子目录，例如 `sources/中日/商务/基础.source.json`；
+父目录自动成为 App 中的目录层级（中日 / 商务），无需修改 App 代码。
+
+注意：source 的 basename 必须在全仓库唯一。如果两个 source 同名（例如
+`sources/a/基础.source.json` 与 `sources/b/基础.source.json`），构建会失败，
+因为两者会生成同一个 pack 输出文件。
+
 然后提交：
 
 ```bash
@@ -275,6 +300,14 @@ git pull --ff-only
 - 修改 tags
 - 修改 classification
 - 修改 level
+
+以下操作**不算内容变化**，不需要提高 packVersion：
+
+- 只移动 source 到其他目录（basename 不变）：App 中浏览位置变化，pack 文件、
+  下载地址、版本均不变
+- 目录改名（basename 不变）：同上
+- source 文件改名（词条内容不变）：pack 输出文件名变化，App 中已安装状态
+  不受影响（按 packID 识别）
 
 修改后：
 
@@ -674,6 +707,7 @@ catalog 内容没有变化
 - minimumAppVersion
 - catalogVersion
 - generatedAt
+- directoryPath（由 source 相对 `sources/` 的目录自动生成；source 文件不要手写该字段）
 
 其中：
 
@@ -803,6 +837,8 @@ catalog.json
 - 把 Personal Access Token 写入仓库
 - 修改 JapaneseWordWatch 来配合普通词库更新
 - 在 source 中填写 entryCount、SHA-256 或 fileSize
+- 在 source 中手写 directoryPath
+- 让两个 source 使用相同的 basename
 - 同时手工修改 source、pack 和 catalog
 
 ---

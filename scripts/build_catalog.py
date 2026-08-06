@@ -27,6 +27,7 @@ import re
 import shutil
 import sys
 import tempfile
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -137,6 +138,34 @@ def validate_metadata(metadata: dict, pack_id: str) -> None:
         seen.add(tag)
 
 
+def relative_path(path: Path, root: Path) -> str:
+    """仓库相对路径，用于错误信息与校验输出。"""
+    return str(path.relative_to(root))
+
+
+def validate_directory_path(directory_path, source_path: Path, root: Path) -> None:
+    """Issue 011：directoryPath 目录段校验。拒绝空/空白/./.. /前后空格/分隔符/
+    Unicode Cc 控制字符。
+
+    允许中文、日文、英文、数字、Emoji、中间空格及其他正常 Unicode 字符；
+    不同层级允许同名段（如 A/A），不做数组内去重。
+    控制字符会破坏 SwiftUI 单行目录显示、对齐和可读性，故按 Unicode category
+    Cc 拒绝（覆盖换行、回车、Tab、U+0000～U+001F、U+007F 等）。
+    """
+    rel = relative_path(source_path, root)
+    for segment in directory_path:
+        if not isinstance(segment, str):
+            raise BuildError(f"{rel}: directoryPath 段必须为字符串: {segment!r}")
+        if is_blank(segment) or segment in (".", ".."):
+            raise BuildError(f"{rel}: 非法目录段 {segment!r}（不能为空、纯空白、'.' 或 '..'）")
+        if segment != segment.strip():
+            raise BuildError(f"{rel}: 非法目录段 {segment!r}（不允许前导或尾随空格）")
+        if "/" in segment or "\\" in segment:
+            raise BuildError(f"{rel}: 非法目录段 {segment!r}（不允许包含 '/' 或 '\\'）")
+        if any(unicodedata.category(ch) == "Cc" for ch in segment):
+            raise BuildError(f"{rel}: 非法目录段 {segment!r}（不允许 Unicode 控制字符）")
+
+
 def build_pack(source: dict, source_path: Path) -> dict:
     """source → pack（不含 entryCount，落盘前补全）。"""
     if source.get("schemaVersion") != SCHEMA_VERSION:
@@ -172,8 +201,12 @@ def optional_metadata_fields(metadata: dict) -> dict:
     return out
 
 
-def catalog_entry(pack: dict, filename: str, pack_bytes: bytes) -> dict:
-    """descriptor：元数据来自 source，大小/哈希/计数来自最终 bytes。"""
+def catalog_entry(pack: dict, filename: str, pack_bytes: bytes, directory_path: list) -> dict:
+    """descriptor：元数据来自 source，大小/哈希/计数来自最终 bytes。
+
+    directoryPath 只存在于 descriptor（Issue 011），pack 正文不含该字段；
+    根目录 source 显式写空数组。
+    """
     metadata = pack["metadata"]
     entry = {
         "packID": pack["packID"],
@@ -186,6 +219,7 @@ def catalog_entry(pack: dict, filename: str, pack_bytes: bytes) -> dict:
         "fileSize": len(pack_bytes),
         "sha256": hashlib.sha256(pack_bytes).hexdigest(),
         "minimumAppVersion": MINIMUM_APP_VERSION,
+        "directoryPath": directory_path,
     }
     entry.update(optional_metadata_fields(metadata))
     return entry
@@ -217,19 +251,48 @@ def compare_pack(existing_bytes: bytes, new_bytes: bytes, pack_id: str, source_v
 
 
 def build_all(root: Path) -> dict:
-    """返回 {pack_id: {"filename", "bytes", "pack"}}；任何 source 错误立即 fail closed。"""
+    """返回 {pack_id: {"filename", "bytes", "pack", "directory_path"}}；任何错误立即 fail closed。
+
+    Issue 011：递归扫描 sources/**/*.source.json；directoryPath 由 source 相对
+    sources/ 的父目录自动生成，source 文件不得手写或覆盖该字段。写文件前检测
+    最终 pack 输出文件名唯一性，冲突 fail closed（不覆盖、不写盘）。
+    """
     sources_dir = root / "sources"
     if not sources_dir.is_dir():
         raise BuildError(f"{sources_dir}: 目录不存在")
     built = {}
-    for source_path in sorted(sources_dir.glob("*.source.json")):
+    filenames = {}
+    for source_path in sorted(sources_dir.rglob("*.source.json")):
         source = load_json(source_path)
+        if source.get("directoryPath") is not None or (
+            isinstance(source.get("metadata"), dict) and "directoryPath" in source["metadata"]
+        ):
+            raise BuildError(
+                f"{relative_path(source_path, root)}: directoryPath 由 sources 目录结构"
+                f"自动生成，请删除 source 中手写的 directoryPath。"
+            )
         pack = build_pack(source, source_path)
         filename = f"{source_path.stem[:-len('.source')]}.json"
         pack_id = pack["packID"]
         if pack_id in built:
-            raise BuildError(f"重复 packID: {pack_id}（{source_path}）")
-        built[pack_id] = {"filename": filename, "bytes": serialize(pack), "pack": pack}
+            raise BuildError(f"重复 packID: {pack_id}（{relative_path(source_path, root)}）")
+        directory_path = list(source_path.relative_to(sources_dir).parent.parts)
+        validate_directory_path(directory_path, source_path, root)
+        if filename in filenames:
+            raise BuildError(
+                f"pack 输出文件名冲突：{filename}\n"
+                f"  {relative_path(filenames[filename], root)}\n"
+                f"  {relative_path(source_path, root)}\n"
+                f"两个 source 的 basename 相同，会生成同一个 pack 文件。"
+                f"请修改其中一个 source 的 basename。"
+            )
+        filenames[filename] = source_path
+        built[pack_id] = {
+            "filename": filename,
+            "bytes": serialize(pack),
+            "pack": pack,
+            "directory_path": directory_path,
+        }
     if not built:
         raise BuildError("sources/ 中没有 *.source.json 文件")
     return built
@@ -252,7 +315,7 @@ def build_catalog(root: Path, built: dict, now=None) -> dict:
     entries = []
     for pack_id in sorted(built):
         item = built[pack_id]
-        entries.append(catalog_entry(item["pack"], item["filename"], item["bytes"]))
+        entries.append(catalog_entry(item["pack"], item["filename"], item["bytes"], item["directory_path"]))
 
     existing = read_existing_catalog(root)
     if existing is not None and existing.get("packs") == entries:
