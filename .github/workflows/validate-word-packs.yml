@@ -2,13 +2,30 @@ name: validate-word-packs
 
 on:
   push:
+    branches:
+      - main
+    paths:
+      - "sources/**"
+      - "scripts/build_catalog.py"
+      - "scripts/validate_release.py"
+      - ".github/workflows/validate-word-packs.yml"
   pull_request:
+    paths:
+      - "sources/**"
+      - "scripts/build_catalog.py"
+      - "scripts/validate_release.py"
+      - ".github/workflows/validate-word-packs.yml"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: word-pack-catalog-main
+  cancel-in-progress: false
 
 jobs:
-  validate:
+  validate-pull-request:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,3 +41,55 @@ jobs:
 
       - name: Validate release
         run: python3 scripts/validate_release.py
+
+  generate-and-commit:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate packs and catalog
+        run: python3 scripts/build_catalog.py
+
+      - name: Validate generated files (no drift)
+        run: python3 scripts/build_catalog.py --check
+
+      - name: Validate release
+        run: python3 scripts/validate_release.py
+
+      - name: Commit generated files when changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git status --short --untracked-files=all | awk '{print substr($0, 4)}' | grep -qvE '^(catalog\.json|packs/[^/]+\.json)$'; then
+            echo "Unexpected working tree changes detected" >&2
+            git status --short --untracked-files=all >&2
+            exit 1
+          fi
+
+          if [[ -z "$(git status --porcelain -- catalog.json packs/)" ]]; then
+            echo "No generated changes; nothing to commit."
+            exit 0
+          fi
+
+          git add catalog.json packs/
+
+          if git diff --cached --name-only | grep -qvE '^(catalog\.json|packs/[^/]+\.json)$'; then
+            echo "Unexpected staged file detected" >&2
+            git diff --cached --name-only >&2
+            exit 1
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: regenerate word pack catalog [skip ci]"
+          git push origin HEAD:main

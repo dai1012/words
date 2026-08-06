@@ -271,10 +271,39 @@ def build_catalog(root: Path, built: dict, now=None) -> dict:
     }
 
 
-def write_atomically(root: Path, built: dict, catalog: dict) -> None:
+def stale_pack_paths(root: Path, built: dict) -> list[Path]:
+    """返回 catalog 明确登记、但已没有对应 source 的旧生成 pack。"""
+    existing = read_existing_catalog(root)
+    if existing is None:
+        return []
+    current_filenames = {item["filename"] for item in built.values()}
+    stale = []
+    for entry in existing.get("packs", []):
+        if not isinstance(entry, dict):
+            continue
+        file_url = entry.get("fileURL")
+        if not isinstance(file_url, str) or not file_url.startswith("packs/"):
+            continue
+        filename = file_url[len("packs/"):]
+        # 只接受 catalog 生成器自身的单层 .json 命名；未知文件不在删除范围内。
+        if not filename or "/" in filename or not filename.endswith(".json"):
+            continue
+        if filename in current_filenames:
+            continue
+        path = root / "packs" / filename
+        if path.is_file():
+            stale.append(path)
+    return sorted(stale)
+
+
+def write_atomically(root: Path, built: dict, catalog: dict, stale: list[Path]) -> None:
     """临时目录生成 → 校验 → 原子替换；失败清理临时目录。"""
     tmp_dir = Path(tempfile.mkdtemp(prefix=".build-tmp-", dir=root))
     try:
+        stale_dir = tmp_dir / "stale"
+        stale_dir.mkdir()
+        for path in stale:
+            os.replace(path, stale_dir / path.name)
         for pack_id, item in built.items():
             (tmp_dir / item["filename"]).write_bytes(item["bytes"])
         catalog_bytes = serialize(catalog)
@@ -290,7 +319,7 @@ def write_atomically(root: Path, built: dict, catalog: dict) -> None:
         shutil.rmtree(tmp_dir, ignore_errors=True)
 
 
-def check_clean(root: Path, built: dict, catalog: dict) -> None:
+def check_clean(root: Path, built: dict, catalog: dict, stale: list[Path]) -> None:
     """--check：与现有文件逐字节比较，任何差异非零退出。"""
     for pack_id, item in built.items():
         target = root / "packs" / item["filename"]
@@ -298,6 +327,9 @@ def check_clean(root: Path, built: dict, catalog: dict) -> None:
             raise BuildError(f"{pack_id}: {target} 缺失，需要构建")
         if target.read_bytes() != item["bytes"]:
             raise BuildError(f"{pack_id}: {target} 与重新构建结果不一致（手工漂移？）")
+    if stale:
+        paths = "\n".join(f"  {path}" for path in stale)
+        raise BuildError(f"发现 stale pack（source 已不存在）：\n{paths}")
     catalog_bytes = serialize(catalog)
     target = root / "catalog.json"
     if not target.exists():
@@ -329,10 +361,11 @@ def main(argv=None) -> int:
             if existing.exists():
                 compare_pack(existing.read_bytes(), item["bytes"], pack_id, item["pack"]["packVersion"])
         catalog = build_catalog(root, built)
+        stale = stale_pack_paths(root, built)
         if args.check:
-            check_clean(root, built, catalog)
+            check_clean(root, built, catalog, stale)
         else:
-            write_atomically(root, built, catalog)
+            write_atomically(root, built, catalog, stale)
         summarize(built, catalog)
         return 0
     except BuildError as e:
