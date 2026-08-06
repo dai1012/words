@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.test.auto-add",
+  "packVersion": 1,
+  "metadata": {
+    "title": "自动新增测试词包",
+    "language": "ja",
+    "classification": "test",
+    "level": "beginner",
+    "description": "用于验证 GitHub Actions 自动新增词包和 catalog descriptor。",
+    "tags": [
+      "test",
+      "automation"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "test-auto-add-001",
+      "term": "追加",
+      "reading": "ついか",
+      "meaning": "新增；追加"
+    },
+    {
+      "entryID": "test-auto-add-002",
+      "term": "確認",
+      "reading": "かくにん",
+      "meaning": "确认"
+    }
+  ]
+}
