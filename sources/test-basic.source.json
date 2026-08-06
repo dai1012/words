@@ -43,6 +43,12 @@
       "term": "いいえ",
       "reading": "いいえ",
       "meaning": "不是 / 不（测试词包）"
-    }
+    },
+    {
+      "entryID": "test-basic-006",
+      "term": "自動更新",
+      "reading": "じどうこうしん",
+      "meaning": "自动更新测试"
+   }
   ]
 }
