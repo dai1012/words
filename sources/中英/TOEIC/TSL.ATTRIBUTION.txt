@@ -1,0 +1,30 @@
+TOEIC Service List 1.2 (TSL 1.2)
+
+Authors:
+Charles Browne
+Brent Culligan
+
+Official source:
+https://www.newgeneralservicelist.com/toeic-service-list
+
+License:
+Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)
+
+License URL:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution notice:
+
+The TOEIC word selection of this word pack (toeic-core) is based on the
+TOEIC Service List 1.2 (TSL 1.2) by Charles Browne and Brent Culligan.
+This adaptation / derivative portion is distributed under the terms of
+CC BY-SA 4.0, with attribution to the original authors as above.
+
+This notice applies only to the TSL-derived portion of this word pack.
+Phonetic and Chinese meaning data in this word pack are derived from
+ECDICT and are licensed under the MIT License (see ECDICT.LICENSE.txt
+in this directory).
+
+Note: this file does not imply that the entire words repository or
+other word packs are licensed under CC BY-SA.
