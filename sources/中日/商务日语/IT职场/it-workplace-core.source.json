@@ -1,0 +1,729 @@
+{
+  "entries": [
+    {
+      "entryID": "itwork-11670149fc73de2bf2c2a6e554ae4d4e5ecc48eb779248e0b73a420bb323bbd0",
+      "meaning": "资料提供请求（Request For Information 的缩写）",
+      "reading": "アールエフアイ",
+      "term": "ＲＦＩ"
+    },
+    {
+      "entryID": "itwork-566521ed284b83907478909d7508e891aa48184fe1630157c8a537f3d139a4eb",
+      "meaning": "提案请求或提案请求书（Request For Proposal 的缩写）",
+      "reading": "アールエフピー",
+      "term": "ＲＦＰ"
+    },
+    {
+      "entryID": "itwork-2df6cb2e3a7fc552ddeec0dc51e8e68608e016b7d1043b98cbefbdcfb511d8e0",
+      "meaning": "将以往手工进行的操作系统、中间件等导入与配置用代码描述并执行，从而自动构建基础设施的技术（Infrastructure As Code 的缩写）",
+      "reading": "アイエーシー",
+      "term": "ＩａＣ"
+    },
+    {
+      "entryID": "itwork-7694d40e204b546e7faa700db7dc6868ea1fa3ebb787d6fcdbc65d3644fe7ab1",
+      "meaning": "信息技术（Information Technology 的缩写）",
+      "reading": "アイティ",
+      "term": "ＩＴ"
+    },
+    {
+      "entryID": "itwork-ab5c800625c3bc39f1b6827582414b376fcc1990ba49303f3e7dd053f1176d33",
+      "meaning": "高度信息通信网络社会形成基本法（平成12年法律第144号）。随《数字社会形成基本法》（令和3年法律第35号）施行而废止",
+      "reading": "アイティキホンホウ",
+      "term": "ＩＴ基本法"
+    },
+    {
+      "entryID": "itwork-f7100b31fd387a89794b88e5ef9d3cf868353c740f3f44bae490ac92d0d2acd5",
+      "meaning": "内阁官房信息通信技术（IT）综合战略室。2021年8月废止",
+      "reading": "アイティシツ",
+      "term": "ＩＴ室"
+    },
+    {
+      "entryID": "itwork-23055fbe2564a1c23d6d0b96aab95a54b0b857d47bf6bd1eebc4417459a7814e",
+      "meaning": "能够恰当推进信息系统整备项目并实施运维管理的人才。随相关方针修订，标准指南中已不再使用该词",
+      "reading": "アイティジンザイ",
+      "term": "ＩＴ人材"
+    },
+    {
+      "entryID": "itwork-9dc6a5bb69cd6048664dd600478dd914ad845024bdf49bd9809789ce2cac1cf4",
+      "meaning": "信息活用能力",
+      "reading": "アイティリテラシー",
+      "term": "ＩＴリテラシー"
+    },
+    {
+      "entryID": "itwork-6e5b6ae6b80f15c591ee81db64efae9e8f62214fd3e58a9abe1499869023ef73",
+      "meaning": "将设计、开发分为称为迭代的短周期推进，每轮迭代结束即可确认功能动作的开发方法；适用于着手时需求尚未定型、预计变更较多的项目",
+      "reading": "アジャイルガタカイハツ",
+      "term": "アジャイル型開発"
+    },
+    {
+      "entryID": "itwork-d7ce68f3d8b592edcc0d0ab528e61eb11cb217a78d49b94b55cfa4efe8d6e802",
+      "meaning": "软件产品以外的、信息系统固有的软件程序",
+      "reading": "アプリケーションプログラム",
+      "term": "アプリケーションプログラム"
+    },
+    {
+      "entryID": "itwork-668e0bf149ffe9e7ba8c66c21a7cc0f4f6d2ed64ee0a8c731dcf266198dac6d1",
+      "meaning": "向用户提供 CPU 功能、存储、网络等基础设施资源的服务；用户可在其上构建操作系统及任意功能（Infrastructure as a Service 的缩写）",
+      "reading": "イアース",
+      "term": "IaaS"
+    },
+    {
+      "entryID": "itwork-ba9b1f247fda3748306867e9e3348e6dff24e9f9592676fc03ce4d43ee369bc3",
+      "meaning": "在招标公告之前，就采购规格书草案征求企业意见",
+      "reading": "イケンショウセイ",
+      "term": "意見招請"
+    },
+    {
+      "entryID": "itwork-d012d39f06ade9d6e335520c9375beceb01352df2b3fde5343faac8a0305fd75",
+      "meaning": "按时间顺序推进各阶段、原则上上一阶段完成后才开始下一阶段的开发方法；适用于着手时需求已明确、预计变更较少的项目",
+      "reading": "ウォータフォールガタカイハツ",
+      "term": "ウォータフォール型開発"
+    },
+    {
+      "entryID": "itwork-e96adf2297f049600d4eb8e9be07a636ea0901ac581aa32c4bb2663ceb9c6380",
+      "meaning": "原则上不改变系统的设计规格与构成，以维持系统运行状态为目的的行为及其附带行为",
+      "reading": "ウンヨウ",
+      "term": "運用"
+    },
+    {
+      "entryID": "itwork-2eda0f357844c092e0a0f25379723ca32f53fc805876f0ed83cdf9245d7a7e1d",
+      "meaning": "支持信息系统用户使用的业务，包括操作培训、帮助台业务、呼叫中心业务等",
+      "reading": "ウンヨウサポートギョウム",
+      "term": "運用サポート業務"
+    },
+    {
+      "entryID": "itwork-f78acec7c3390a6d1d4f4deec180f0d6047e3fb712cc3116638048894da299b4",
+      "meaning": "不同系统之间交换信息的通用机制；便于系统集成，提高开发效率（Application Programming Interface 的缩写）",
+      "reading": "エーピーアイ",
+      "term": "ＡＰＩ"
+    },
+    {
+      "entryID": "itwork-0ba64962113554f9082011c297b1383d7a31737b9945edab6b71ff3962b07e20",
+      "meaning": "特别提款权，国际货币基金组织（IMF）的官方汇率综合货币单位（Special Drawing Right 的缩写）",
+      "reading": "エスディアール",
+      "term": "ＳＤＲ"
+    },
+    {
+      "entryID": "itwork-7604218b66c3624d91029f0378d714300664062b953f5adbb0c744a1776ce2c4",
+      "meaning": "国家网络安全统括室（National Cybersecurity Office 的缩写）",
+      "reading": "エヌシーオー",
+      "term": "ＮＣＯ"
+    },
+    {
+      "entryID": "itwork-db49d275a3ffecda264fbd44e4d79e10b8957e7ca8bf832412816264b122ea40",
+      "meaning": "应用程序的总代码行数；一般按行数估算开发规模，再除以开发生产率并乘以单价得出估算金额（lines of code 的缩写）",
+      "reading": "エルオーシー",
+      "term": "ＬＯＣ"
+    },
+    {
+      "entryID": "itwork-c424d04309d6e857f487d07d47cacef517ee6aed7f0c80f800885c5391067e81",
+      "meaning": "负责经费与收入的预算、决算、会计审计及国有财产管理等官房职能的部门",
+      "reading": "カイケイタントウブモン",
+      "term": "会計担当部門"
+    },
+    {
+      "entryID": "itwork-40e9796c09b9ec346b112eea5f0f04c259ea73dfe21d841e0681b05fb48b1c29",
+      "meaning": "对新概念、服务或工具进行可行性、有效性等验证或演示（Proof of Concept，简称 PoC）",
+      "reading": "ガイネンケンショウ",
+      "term": "概念検証"
+    },
+    {
+      "entryID": "itwork-bf23b4e78c865aba9820dc842ab5cfded13a53e83cffaa75cbd438492e6f8372",
+      "meaning": "依据高度信息通信网络社会推进战略本部令设置的合议制机关，旨在确立政府整体信息化推进体制；简称 CIO 联络会议。2021年8月废止",
+      "reading": "カクフショウジョウホウカトウカツセキニンシャ（シーアイオー）レンラクカイギ",
+      "term": "各府省情報化統括責任者（ＣＩＯ）連絡会議"
+    },
+    {
+      "entryID": "itwork-8d8f1e3ed69a05578c76fa9c2b8287d7aeb63343f19319556e99bd992dad0def",
+      "meaning": "针对政府信息系统的特定技术课题，为便于 PJMO 各部门应对或实现政府整体统一应对而汇总的参考文件",
+      "reading": "ギジュツレポート",
+      "term": "技術レポート"
+    },
+    {
+      "entryID": "itwork-12cca7b06d1ea1b1c9d95899f2d20b759408e3e19e5d643bb2c8361e57f8b523",
+      "meaning": "对新建的信息系统变更或追加设计规格、施加改动的行为",
+      "reading": "キノウカイシュウ",
+      "term": "機能改修"
+    },
+    {
+      "entryID": "itwork-736cd84df659e6f5a2e41662dc0c762125612c656a41c7bcf665a2906f6c1799",
+      "meaning": "系统需求中与功能相关的内容",
+      "reading": "キノウヨウケン",
+      "term": "機能要件"
+    },
+    {
+      "entryID": "itwork-9d1bb09b7ffc926551d059e649bf0f08be0660a5101554f587dfb087d78e49e4",
+      "meaning": "对业务实施部门职员在系统运行中执行的作业（数据制作、数据受理与登记等）提供作业支持的行为",
+      "reading": "ギョウムウンヨウシエン",
+      "term": "業務運用支援"
+    },
+    {
+      "entryID": "itwork-bbb7b5387fbf8470697235d46fe36a400c29e49499bd1a6aff0e02971bacbaf0",
+      "meaning": "管辖项目对象范围内业务实施的部门",
+      "reading": "ギョウムジッシブモン",
+      "term": "業務実施部門"
+    },
+    {
+      "entryID": "itwork-ff40c6bb4869c4c2bc92e185a404e373fc2cb5e9c3041a355a784b05854ea566",
+      "meaning": "业务实施部门的管理者；参与项目，负责该部门相关案件的企划立案与协调",
+      "reading": "ギョウムジッシブモンカンリシャ",
+      "term": "業務実施部門管理者"
+    },
+    {
+      "entryID": "itwork-614ab75af6f770893bf7ab2cf60d5909a8d0aaf67c230b18ef60f4ce93100e8e",
+      "meaning": "业务的目的、希望达成的目标以及达成目标的流程等",
+      "reading": "ギョウムヨウケン",
+      "term": "業務要件"
+    },
+    {
+      "entryID": "itwork-2de852b72689d3e3cbaaab6f6812ce18ac3a9a3d3bbf525f5659ade18ea5fee1",
+      "meaning": "通过网络访问可扩展、可灵活共享的物理或虚拟资源，用户可自由配置与管理资源的服务；构成要素包括 SaaS、PaaS、IaaS",
+      "reading": "クラウドサービス",
+      "term": "クラウドサービス"
+    },
+    {
+      "entryID": "itwork-088154d0ecec9e4185576af16bff73501b402ebe7b89917c197c59bd3c2ea81c",
+      "meaning": "提供云服务的企业，亦称云服务提供商",
+      "reading": "クラウドサービステイキョウシャ",
+      "term": "クラウドサービス提供者"
+    },
+    {
+      "entryID": "itwork-13820381579078daac0e2d5f0ac444b885adc4bb7907f1727c72ca47c79174bc",
+      "meaning": "利用托管服务、IaC 等云服务的特色功能构建信息系统的推进方针",
+      "reading": "クラウドネイティブ",
+      "term": "クラウドネイティブ"
+    },
+    {
+      "entryID": "itwork-9c173f27b824f4bf80dd129699e722d08b78863077aee75a01b858d59ea721c4",
+      "meaning": "事务事业的执行及预算的执行能以更少费用实施的属性",
+      "reading": "ケイザイセイ",
+      "term": "経済性"
+    },
+    {
+      "entryID": "itwork-8d3ba723554b51ce84810ba1481bcd5b51a5f2d7ac95c4afefe78659142de74f",
+      "meaning": "可定量评估政策目标、项目目的达成程度的指标（重要目标达成指标；Key Goal Indicator 的缩写）",
+      "reading": "ケイジーアイ",
+      "term": "ＫＧＩ"
+    },
+    {
+      "entryID": "itwork-c39e182bc028fd3377b938ae3b6f66ac9b61e7a90b744950f8716b7343097411",
+      "meaning": "为监测实现目标、战略而设定的具体业务过程指标中特别重要的部分，是为达成 KGI 而应管理的指标（重要业绩评价指标；Key Performance Indicator 的缩写）",
+      "reading": "ケイピーアイ",
+      "term": "ＫＰＩ"
+    },
+    {
+      "entryID": "itwork-6b01fce4dbeaeeb9a6c439a1828b1b8cc1d1618b5fc0035c6308b57080acd8f8",
+      "meaning": "更换硬件、软件产品、应用程序等的行为，或更换时发生的一系列行为的统称",
+      "reading": "コウカイ",
+      "term": "更改"
+    },
+    {
+      "entryID": "itwork-eb48ea587bc2cbbce6a1e9757af33d4f250daced4f407090a68fad749ce29531",
+      "meaning": "《政府机关数字改革所需具备 IT・安全知识人才的确保与培养综合强化方针》中记载的高度数字人才",
+      "reading": "コウドデジタルジンザイ",
+      "term": "高度デジタル人材"
+    },
+    {
+      "entryID": "itwork-432fc234b87aeed892b949c278cce9422af0c9ba0de3d7214d2d9625d7baf0ae",
+      "meaning": "负责宣传事务等官房职能的部门",
+      "reading": "コウホウタントウブモン",
+      "term": "広報担当部門"
+    },
+    {
+      "entryID": "itwork-6968fa4db8a79c6f5de34c648f56e98ab6711428a77e806739efc52e47ca7183",
+      "meaning": "实施业务时，以相同费用获得更大成果、或相对于费用获得最大成果的属性",
+      "reading": "コウリツセイ",
+      "term": "効率性"
+    },
+    {
+      "entryID": "itwork-3494340fc42c8dd89c0880d83e249e92e1bc84667e30e7e42d22ef764a94de32",
+      "meaning": "除担任网络安全战略本部事务局外，还负责监视分析各部门信息系统的不正当活动等网络安全综合协调的组织；简称 NCO",
+      "reading": "コッカサイバートウカツシツ",
+      "term": "国家サイバー統括室"
+    },
+    {
+      "entryID": "itwork-34544f40422b34c61f2e062589bc4b7d17dff6d62aa992548e20a59404b0e904",
+      "meaning": "以服务形式向用户提供特定业务应用、沟通、运维管理、开发、安全等功能（Software as a Service 的缩写）",
+      "reading": "サース",
+      "term": "SaaS"
+    },
+    {
+      "entryID": "itwork-061256ee80e991170e1df7b943571e427dd2e3f7434313472d66f51953c71845",
+      "meaning": "公共服务基本法规定的公共服务，以及为执行相关业务的职员顺利开展工作而建立的机制",
+      "reading": "サービス",
+      "term": "サービス"
+    },
+    {
+      "entryID": "itwork-46949d61c7f0413cbf4098c22c63dc61d679204156bcfdfa2138d25b7e1f3c96",
+      "meaning": "辅佐数字统括责任者并指挥监督各省信息系统运维管理与网络安全对策的实际责任者；亦称副数字统括责任者",
+      "reading": "サイバーサキュリティジョウホウカシンギカントウ",
+      "term": "サイバーセキュリティ・情報化審議官等"
+    },
+    {
+      "entryID": "itwork-7d33748b94df0ac59dd38eb08380851455c24656ef6759961cb02b5a8e62fcbf",
+      "meaning": "信息化统括责任者（Chief Information Officer 的缩写）。信息化统括责任者自2021年9月起改称数字统括责任者",
+      "reading": "シーアイオー",
+      "term": "ＣＩＯ"
+    },
+    {
+      "entryID": "itwork-79c221cdc41b13c07c9c255f85ead1771bb2fd2eab558965823d99c327537403",
+      "meaning": "各省信息化统括责任者（CIO）联络会议。2021年8月废止",
+      "reading": "シーアイオーレンラクカイギ",
+      "term": "ＣＩＯ連絡会議"
+    },
+    {
+      "entryID": "itwork-23fd42b67dc9d0cb61e9aea84d5ab7bdab1134e7dd23d7b1c1810663e5305b6a",
+      "meaning": "内阁官房信息通信技术（IT）综合战略室及总务省行政管理局。2021年8月废止",
+      "reading": "シーアイオーレンラクカイギジムキョク",
+      "term": "ＣＩＯ連絡会議事務局"
+    },
+    {
+      "entryID": "itwork-78d9ce2f90c6f8b0f70130a3aa970152af2737e45ee49160589f3948bf826ef3",
+      "meaning": "依据标准指南别纸5《关于系统档案的定义》定义的信息系统可靠性水平；由四级构成，级别Ⅳ为可靠性要求最高的信息系统",
+      "reading": "システムプロファイル",
+      "term": "システムプロファイル"
+    },
+    {
+      "entryID": "itwork-185e0bb177a8e7ab9df06501b23f0b135633fb24c235f213ec3b5e9f5eb421e7",
+      "meaning": "为实现业务需求，用户使用信息系统执行的内容整体",
+      "reading": "システムヨウケン",
+      "term": "システム要件"
+    },
+    {
+      "entryID": "itwork-70887e0668ead88d13b19644cce3d6452ab3baedc97ee46fba730c5a8da9c055",
+      "meaning": "标准指南及其附属文件、解说书的下位文件，汇总特定领域项目成功的经验与教训等实践性参考文件",
+      "reading": "ジッセンガイドブック",
+      "term": "実践ガイドブック"
+    },
+    {
+      "entryID": "itwork-91f5da9b471bf78f191c05152994dc49536c1acadd1231d7021b35a9cb5ac6d9",
+      "meaning": "统括本组织综合性、计划性行政信息化推进的责任者；亦称府省 CIO。自2021年9月起改称数字统括责任者",
+      "reading": "ジョウホウカトウカツセキニンシャ",
+      "term": "情報化統括責任者"
+    },
+    {
+      "entryID": "itwork-b8ab6fdd579d56eeafabdf1bda3b9ca4dd1d38317b1728a98c82c29ce07e1c06",
+      "meaning": "服务与业务运营不可或缺的电磁记录文档、音乐影像书籍等内容及其数据，构成系统的 IT 环境、软件与媒体，以及相关许可与合同",
+      "reading": "ジョウホウシサン",
+      "term": "情報資産"
+    },
+    {
+      "entryID": "itwork-3a1e58a4c2b491032c26c65bd035619fd6a0fc9bd648ed846a1ff0a99a4bcd22",
+      "meaning": "国家行政机关开展的信息系统整备与管理相关事业经费，即标准指南别纸2《信息系统经费区分》所列经费",
+      "reading": "ジョウホウシステムカンケイヨサン",
+      "term": "情報システム関係予算"
+    },
+    {
+      "entryID": "itwork-5e4d3cf433f05327e8c5b5853c2af3f711f3bdc3a8ea8cf6894a177acee9aa96",
+      "meaning": "信息系统部门的管理者；参与项目，负责该部门相关案件的企划立案与协调，并辅佐信息系统责任者",
+      "reading": "ジョウホウシステムカンリシャ",
+      "term": "情報システム管理者"
+    },
+    {
+      "entryID": "itwork-70cb92b35f0177e156a385faba9800ce959e26dc7da524aad0046e8c47ec088a",
+      "meaning": "信息系统部门的责任者；承担项目中信息化相关事务",
+      "reading": "ジョウホウシステムセキニンシャ",
+      "term": "情報システム責任者"
+    },
+    {
+      "entryID": "itwork-8262bd65e190414b0e0ac3b31b92ea8f9383de3dd00de57d8a88bc832c4069e5",
+      "meaning": "在信息安全对策的技术事项上辅佐信息系统安全责任者，并依据其规定的步骤与判断实施所管系统安全对策的人员",
+      "reading": "ジョウホウシステムセキュリティカンリシャ",
+      "term": "情報システムセキュリティ管理者"
+    },
+    {
+      "entryID": "itwork-30118e77e387cfb43ba4e233ce027b4ce4cf385a231c792cd2c6b67e4b92630e",
+      "meaning": "各信息系统的信息安全对策与运维责任者；由信息安全责任者指名，须在系统全生命周期恰当实施安全对策",
+      "reading": "ジョウホウシステムセキュリティセキニンシャ",
+      "term": "情報システムセキュリティ責任者"
+    },
+    {
+      "entryID": "itwork-b55b8fa8a5021e919590a020014ff64e38d9270ece565ca9dafac588675901a4",
+      "meaning": "管辖项目对象范围内政府信息系统整备与管理的部门",
+      "reading": "ジョウホウシステムブモン",
+      "term": "情報システム部門"
+    },
+    {
+      "entryID": "itwork-0ea96b2053714402447e8e91f16a76db4c130198944dc108856e0cd22f29acd0",
+      "meaning": "由府省 LAN、通信网络系统、软件、搭载程序的计算机及其周边设备等构成、通过通信网络一体化进行信息处理的计算机体系",
+      "reading": "ジョウホウシステム",
+      "term": "情報システム"
+    },
+    {
+      "entryID": "itwork-348ad7642587b98f8ee312e5337ae0f33bb4a1be7be5cf82d48f41b7c5605de2",
+      "meaning": "负责信息安全相关事务等官房职能的部门",
+      "reading": "ジョウホウセキュリティタントウブモン",
+      "term": "情報セキュリティ担当部門"
+    },
+    {
+      "entryID": "itwork-aee4ffd8bb5ab567a8869da79da91f01d189cc56bab30cb1a4a3b5e1045d16c4",
+      "meaning": "就政府信息系统的整备与管理及相关服务、业务改革，向企业请求提供信息（Request For Information，简称 RFI）",
+      "reading": "シリョウテイキョウイライ",
+      "term": "資料提供依頼"
+    },
+    {
+      "entryID": "itwork-bbe106e66d97a6488ded63cda9892feed220343e1062ade11c01511eba6397aa",
+      "meaning": "负责职员任免、薪酬、惩戒、服务等人事及教养训练事务、机构与定员事务等官房职能的部门",
+      "reading": "ジンジタントウブモン",
+      "term": "人事担当部門"
+    },
+    {
+      "entryID": "itwork-9f0106f59aa40ad2543b4d415af4862db595de57742dfd3aa1a383751bf85eb3",
+      "meaning": "不采用改造现有软件产品等方法，而是全新开发",
+      "reading": "スクラッチカイハツ",
+      "term": "スクラッチ開発"
+    },
+    {
+      "entryID": "itwork-01b1c35e40c7cd2c5ecc13588c91c766d1802b7faadc59f4a66567b0bb5abfb2",
+      "meaning": "单独使用的计算机终端（含独立联网使用的终端及仅用于连接其他组织信息系统的专用终端）或其集合体",
+      "reading": "スタンドアロンコンピュータ",
+      "term": "スタンドアロンコンピュータ"
+    },
+    {
+      "entryID": "itwork-7e8f6350dbf0b2533b596222b65782851022879fdd60a620be3c9addb8ccfe7a",
+      "meaning": "直接管辖项目对象范围业务相关制度、负责制度变更或业务设计的部门，即承担企划立案的部门",
+      "reading": "セイドショカンブモン",
+      "term": "制度所管部門"
+    },
+    {
+      "entryID": "itwork-8ebe02bbaacb8d75880cfd2d14b4fb2b60b6fe28171997eefa1bc64361fc3351",
+      "meaning": "制度所管部门的管理者；参与项目，负责该部门相关案件的企划立案与协调",
+      "reading": "セイドショカンブモンカンリシャ",
+      "term": "制度所管部門管理者"
+    },
+    {
+      "entryID": "itwork-e55284ad157c43ce9db291efae491130473093177eda78ae542e95ced6f79893",
+      "meaning": "依据网络安全基本法（平成26年法律第104号）制定的国家机关等网络安全对策基准；简称统一基准群",
+      "reading": "セイフキカントウノサイバーセキュリティタイサクノタメノトウイツキジュングン",
+      "term": "政府機関等のサイバーセキュリティ対策のための統一基準群"
+    },
+    {
+      "entryID": "itwork-57a627edcc4fa2c6c6ccde58da0a6c4a54fbdd3019ba8f8419afa14175691d76",
+      "meaning": "内阁信息通信政策监。2021年8月废止",
+      "reading": "セイフシーアイオー",
+      "term": "政府ＣＩＯ"
+    },
+    {
+      "entryID": "itwork-e6c54e0f3cf378adfe998857f716e5766f99ea778c624ef79e3c83ec5cfe098a",
+      "meaning": "依据《关于引入 CIO 辅佐官库制度的通知》配置的 CIO 辅佐官。2021年8月废止",
+      "reading": "セイフシーアイオーホサカン",
+      "term": "政府ＣＩＯ補佐官"
+    },
+    {
+      "entryID": "itwork-00f4ce7522d61d1749da91cab43108fffa0ceb4351a725872edfd3bf980a9571",
+      "meaning": "为府省 CIO、府省副 CIO、PMO 职员及 PJMO 提供技术与专业支援、由政府 CIO 按各省情况指派的辅佐官。2021年8月废止；2021年9月起各省可自行设置数字统括顾问",
+      "reading": "セイフシーアイオーホサカン（カクフショウタントウ）",
+      "term": "政府ＣＩＯ補佐官（各府省担当）"
+    },
+    {
+      "entryID": "itwork-d0a2a677b01312edea6a12af120798a829615c6603ab291a89e9ffa8b5d3b2e4",
+      "meaning": "各省为实施服务与业务而使用的信息系统",
+      "reading": "セイフジョウホウシステム",
+      "term": "政府情報システム"
+    },
+    {
+      "entryID": "itwork-7bcf4bf6c076ccb98c8e77201e68a038e629117a24066e47f85738d0b5c3162f",
+      "meaning": "由总务省整备管理、供各省统一管理政府信息系统相关信息的数据库；简称 ODB。2020年9月停止运用",
+      "reading": "セイフジョウホウシステムカンリデータベース",
+      "term": "政府情報システム管理データベース"
+    },
+    {
+      "entryID": "itwork-602301fe28c249327442c472f1e8ce5867ab7377c5411e47ed89e1657b605230",
+      "meaning": "《政府机关数字改革所需具备 IT・安全知识人才的确保与培养综合强化方针》中记载的政府数字人才",
+      "reading": "セイフデジタルジンザイ",
+      "term": "政府デジタル人材"
+    },
+    {
+      "entryID": "itwork-dc225c6330667906aa0facdcae763ea0ada05594ea10303704d191727e1b3a92",
+      "meaning": "现成的软件程序",
+      "reading": "ソフトウェアセイヒン",
+      "term": "ソフトウェア製品"
+    },
+    {
+      "entryID": "itwork-67e6e98f8d6781de9530b2f5c7a171daf79a678766af5d47485f03e25899687c",
+      "meaning": "按项目成果物单位定义所需作业，并记载所需人员、工时与期间的文件（Work Breakdown Structure 的缩写）",
+      "reading": "ダブリュビーエス",
+      "term": "ＷＢＳ"
+    },
+    {
+      "entryID": "itwork-4d7ba4703cbe401094be61f02eb53b578d717a52e5ec15ec508ce24091e99836",
+      "meaning": "除府省 LAN 外，为连接政府共通网络等多个 LAN 或信息处理系统而构建的通信网络及其控制计算机群",
+      "reading": "ツウシンネットワークシステム",
+      "term": "通信ネットワークシステム"
+    },
+    {
+      "entryID": "itwork-a5582ec11333748fee1b3010a6a75a056595a8e961ece553ad42027121f10ac8",
+      "meaning": "为审查采购而接受投标企业提案（Request For Proposal，简称 RFP）",
+      "reading": "テイアンイライ",
+      "term": "提案依頼"
+    },
+    {
+      "entryID": "itwork-114a1dc44cae420a937180935b8688a49a3c5cacb2cc788b2c18497277c2150a",
+      "meaning": "表示数据的名称、结构、定义及数据间关系等内容；一般在需求定义时创建，随工程推进逐步具体化、详细化",
+      "reading": "データモデル",
+      "term": "データモデル"
+    },
+    {
+      "entryID": "itwork-e2a5a50e02579f18d419aa43efc5aa0164569e78ff052946426efd8b558d6dc6",
+      "meaning": "规定政府信息系统标准整备与管理的手续、方法、基本方针及各组织角色等的体系化政府共通规则；简称标准指南",
+      "reading": "デジタル・ガバメントスイシンヒョウジュンガイドライン",
+      "term": "デジタル・ガバメント推進標準ガイドライン"
+    },
+    {
+      "entryID": "itwork-4e1e5f4e4fcf78d6ef05bae82d8dd69c5f20d993f3983b04e4b8218149c0eac5",
+      "meaning": "标准指南的下位文件，就与政府信息系统整备管理直接相关的特定领域，规定手续、方法及组织角色的政府共通规则；简称标准指南附属文件",
+      "reading": "デジタル・ガバメントスイシンヒョウジュンガイドラインフゾクブンショ",
+      "term": "デジタル・ガバメント推進標準ガイドライン附属文書"
+    },
+    {
+      "entryID": "itwork-746862d3a53b100e8dcbacafba5c2afab5831f298de52c2a0c9761f841abdc25",
+      "meaning": "推进数字社会形成相关施策的会议体",
+      "reading": "デジタルシャカイスイシンカイギ",
+      "term": "デジタル社会推進会議"
+    },
+    {
+      "entryID": "itwork-1db064b52c10eecc436a95db7343151c7d28eb5a277dc91ca3a53401fe8a780d",
+      "meaning": "数字社会推进会议下设、由数字监及会议干事组成的会议体，负责重点计划中具体施策的验证评估及政府统一方针的调整等",
+      "reading": "デジタルシャカイスイシンカイギカンジカイ",
+      "term": "デジタル社会推進会議幹事会"
+    },
+    {
+      "entryID": "itwork-7b4667aa2da9eef51198c323c2321925609650960379896967309efb8c1e2011",
+      "meaning": "《政府机关数字改革所需具备 IT・安全知识人才的确保与培养综合强化方针》中记载的政府数字人才、高度数字人才与一般职员的总称",
+      "reading": "デジタルジンザイ",
+      "term": "デジタル人材"
+    },
+    {
+      "entryID": "itwork-725c00799999e8ce135bebcd0a38afdcabb6e0f2a7b3980176ecf863cc305432",
+      "meaning": "数字厅确保与培养的高度数字人才",
+      "reading": "デジタルチョウミンカンジンザイ",
+      "term": "デジタル庁民間人材"
+    },
+    {
+      "entryID": "itwork-67958c5015691aa161893fe602f00ba7e90ef47c0cf503559dbfdd6ae9dc2571",
+      "meaning": "为数字统括责任者、副数字统括责任者、PMO 职员及 PJMO 提供技术与专业支援、由各省设置的人员",
+      "reading": "デジタルトウカツアドバイザー",
+      "term": "デジタル統括アドバイザー"
+    },
+    {
+      "entryID": "itwork-2299a1e3ff808e3c62b5eeb5bd1920ab45f281343e5856bd08abed740b582b79",
+      "meaning": "统括本组织综合性、计划性行政数字化推进的责任人",
+      "reading": "デジタルトウカツセキニンシャ",
+      "term": "デジタル統括責任者"
+    },
+    {
+      "entryID": "itwork-48e20d0dca91e3e30ef3d385135a0c3abebd10afb3c4d2aa47fc02155d9cbbdb",
+      "meaning": "国家机关等网络安全对策统一基准群",
+      "reading": "トウイツキジュングン",
+      "term": "統一基準群"
+    },
+    {
+      "entryID": "itwork-d30e2c0c862afb642993e829a4b1bc78462130838aeb33e0c4cf6afa243ed6ab",
+      "meaning": "用于识别、定位互联网等网络上各计算机的地址的上位部分",
+      "reading": "ドメイン",
+      "term": "ドメイン"
+    },
+    {
+      "entryID": "itwork-102dc19181ab6b3fc8b969d38cfe14d33844b10904c0ef2b2fe682c335c7a03c",
+      "meaning": "担任高度信息通信网络社会推进战略本部（IT 综合战略本部）事务局，并承担 IT 活用综合调整的组织；简称 IT 室。2021年8月废止",
+      "reading": "ナイカクカンボウジョウホウツウシンギジュツアイティソウゴウセンリャクシツ",
+      "term": "内閣官房情報通信技術（ＩＴ）総合戦略室"
+    },
+    {
+      "entryID": "itwork-db48466f9b1510472d3940e7153833fa73f65861b046ded4d529e117e686b456",
+      "meaning": "政府 CIO 的别称。2021年8月废止",
+      "reading": "ナイカクジョウホウツウシンセイサクカン",
+      "term": "内閣情報通信政策監"
+    },
+    {
+      "entryID": "itwork-cd47b0a65a074ebccdd575d2f33d2c6ae343f7a9f7dea60e78e0e5e00c8b0615",
+      "meaning": "在 IaaS 服务基础上，还将操作系统、基本功能、开发环境与运维管理环境作为服务提供；用户组合基本功能构建信息系统（Platform as a Service 的缩写）",
+      "reading": "パース",
+      "term": "PaaS"
+    },
+    {
+      "entryID": "itwork-1283c815b02fdf31cdcbf4b0cc5563c0f391a06be7ee4c95de42f5cf8e6afd4e",
+      "meaning": "在高级专业人才与一般行政部门之间起桥梁作用的网络安全・IT 人才。随相关方针修订，标准指南中已不再使用该词",
+      "reading": "ハシワタシジンザイ",
+      "term": "橋渡し人材"
+    },
+    {
+      "entryID": "itwork-b3030329388d7f18aa39693a9e7c9a3fa8caf2901e4bcafe8376b194b7c0014e",
+      "meaning": "将信息系统分为小功能单位，反复进行设计、编程、测试，逐步添加功能与改良直至完成整个系统的开发方法",
+      "reading": "ハンプクガタカイハツ",
+      "term": "反復型開発"
+    },
+    {
+      "entryID": "itwork-56d5d4bfb79550fe5bd12a7b8ce15214d5eb135cbc6af6d00d684c7da64d361d",
+      "meaning": "府省整体管理组织（Portfolio Management Office 的缩写）",
+      "reading": "ピーエムオー",
+      "term": "ＰＭＯ"
+    },
+    {
+      "entryID": "itwork-43b5096ca1a9cacdf0af20b4b202ab3ad6b123dd49359a364cc306a67b7ff375",
+      "meaning": "概念验证（Proof of Concept 的缩写）",
+      "reading": "ピーオーシー／ポック",
+      "term": "ＰｏＣ"
+    },
+    {
+      "entryID": "itwork-15ba2fc6e311457cb7a73d780efb009062a68c086a38c6c26f770494ff0c6f7a",
+      "meaning": "项目推进组织（ProJect Management Office 的缩写）",
+      "reading": "ピージェイエムオー",
+      "term": "ＰＪＭＯ"
+    },
+    {
+      "entryID": "itwork-99df6298161397b830557067ef7f1ebf5365197ec6a61129c34890f5c2c6a987",
+      "meaning": "功能需求以外的信息系统需求，具体包括性能、可靠性、扩展性、运维性、安全性等",
+      "reading": "ヒキノウヨウケン",
+      "term": "非機能要件"
+    },
+    {
+      "entryID": "itwork-818b2ea315a156b40210eb8f19ba077242014e9618dc0f51963b66e0eb8a8f05",
+      "meaning": "数字政府推进标准指南",
+      "reading": "ヒョウジュンガイドライン",
+      "term": "標準ガイドライン"
+    },
+    {
+      "entryID": "itwork-148124167fa524a65495bd3c745054664b1227bd10883a67d8d3f98abca6be82",
+      "meaning": "标准指南及其相关指针类文件构成的文件体系",
+      "reading": "ヒョウジュンガイドライングン",
+      "term": "標準ガイドライン群"
+    },
+    {
+      "entryID": "itwork-255a63729d136af0ca6787efa0d55040717a6203504155b4295344db333699b8",
+      "meaning": "数字政府推进标准指南附属文件",
+      "reading": "ヒョウジュンガイドラインフゾクブンショ",
+      "term": "標準ガイドライン附属文書"
+    },
+    {
+      "entryID": "itwork-38fe6ddd22a27d52a50383722a0e487eca9d08ab5f74a9da3aafe17a63f495a4",
+      "meaning": "清点软件输入输出等功能数量，按复杂度对各功能加权后汇总得到的点数；一般除以开发生产率并乘以单价得出估算金额",
+      "reading": "ファンクションポイント",
+      "term": "ファンクションポイント"
+    },
+    {
+      "entryID": "itwork-0c79560d2591dc9a47c0701bfe11f00fceac725d39ffb367970a1dd8e57a5feb",
+      "meaning": "各省网络安全・信息化审议官等",
+      "reading": "フクデジタルトウカツセキニンシャ",
+      "term": "副デジタル統括責任者"
+    },
+    {
+      "entryID": "itwork-6940c8b8156cde2d799502393ee29fd3cbd0bad90e6b1a63b7f646ef08bf7f52",
+      "meaning": "为府省 CIO、府省副 CIO、PMO 职员及 PJMO 提供技术与专业支援、由各省录用的人员；2021年9月起改称数字统括顾问",
+      "reading": "フショウサイヨウシーアイオーホサカン",
+      "term": "府省採用ＣＩＯ補佐官"
+    },
+    {
+      "entryID": "itwork-4e214b699ce7832e8e9e2405dfed29f869ae3ca749f5befe028450ac2182af9f",
+      "meaning": "各省信息化统括责任者；2021年9月起改称数字统括责任者",
+      "reading": "フショウシーアイオー",
+      "term": "府省ＣＩＯ"
+    },
+    {
+      "entryID": "itwork-985c5ac5d9a5c3c961d15403f74eb44047e2d6b59a6503dcd92100d52b2a36aa",
+      "meaning": "政府 CIO 辅佐官（各省担当）与府省录用 CIO 辅佐官的总称。2021年8月废止",
+      "reading": "フショウシーアイオーホサカン",
+      "term": "府省ＣＩＯ補佐官"
+    },
+    {
+      "entryID": "itwork-77d7797ca813961073b2b05b5bca86ba1c4cc53aa867cee6d1bd8e0f72779bdd",
+      "meaning": "承担府省内 IT 施策整体管理功能的组织；亦称 PMO",
+      "reading": "フショウナイゼンタイカンリソシキ",
+      "term": "府省内全体管理組織"
+    },
+    {
+      "entryID": "itwork-3f13a1377f8000403d8560d43d2dc24ccfde3eca06700703edf42f2fdc640543",
+      "meaning": "为行政组织事务执行而一体化整备管理的通信网络、电子邮件、电子公告板等群件应用功能及客户端环境的系统",
+      "reading": "フショウナイラン",
+      "term": "府省内ＬＡＮ"
+    },
+    {
+      "entryID": "itwork-823f3de71448fe63837a119d7f2ba5bd51c49760f65850ee1e80ec2e609f49a1",
+      "meaning": "各省网络安全・信息化审议官等；2021年9月起改称副数字统括责任者",
+      "reading": "フショウフクシーアイオー",
+      "term": "府省副ＣＩＯ"
+    },
+    {
+      "entryID": "itwork-61bc332bf3a689db00889febcc20889f8ae6335badb8c3d9657a2c532a97c9ec",
+      "meaning": "为在特定期间实现特定目的与目标，针对特定对象范围实施的工作集合",
+      "reading": "プロジェクト",
+      "term": "プロジェクト"
+    },
+    {
+      "entryID": "itwork-c25ea1b132426835018ea0347525be502c829aaf0b30e1cca112ab3fdf18df9c",
+      "meaning": "项目推进被认定存在严重问题时，为重整项目或防止复发而由外部专家组成的项目验证委员会",
+      "reading": "プロジェクトケンショウイインカイ",
+      "term": "プロジェクト検証委員会"
+    },
+    {
+      "entryID": "itwork-596a0e654701b10e3cbb16bffc3a971967b5b5b589d168e077f5c0c5304878db",
+      "meaning": "为实现项目目标，尤其在项目管理方面辅佐项目推进责任者的人员",
+      "reading": "プロジェクトスイシンカンリシャ",
+      "term": "プロジェクト推進管理者"
+    },
+    {
+      "entryID": "itwork-362a89476eabfea0867e963cd4b48579a8392addea071b8ffcf8dbcfef982c9f",
+      "meaning": "对项目目标达成负责的责任者，总括服务、业务改革及数字政府推进相关企划立案事务",
+      "reading": "プロジェクトスイシンセキニンシャ",
+      "term": "プロジェクト推進責任者"
+    },
+    {
+      "entryID": "itwork-e5295bb81509e9731e86c21a4197880aec6cc6f669b34d72b9b9535066119499",
+      "meaning": "执行项目并管理其进度等功能的组织；亦称 PJMO",
+      "reading": "プロジェクトスイシンソシキ",
+      "term": "プロジェクト推進組織"
+    },
+    {
+      "entryID": "itwork-06e9b0bd398e1fba3e987ba8aed30b09950ad29b23a86d9f81592059c7e6928f",
+      "meaning": "销售公司或信息系统开发公司",
+      "reading": "ベンダー",
+      "term": "ベンダー"
+    },
+    {
+      "entryID": "itwork-91e55e8637ae0f1877e751946e5604239607cc3ee215c0aa6000f9b40a0fcdc9",
+      "meaning": "被特定供应商的产品、服务或系统锁定，其他厂商难以进入的状态",
+      "reading": "ベンダーロックイン",
+      "term": "ベンダーロックイン"
+    },
+    {
+      "entryID": "itwork-69346ce15d5a65acdb914a8932cf960eb500ca51a6943bbff76595b36da086f8",
+      "meaning": "以维持功能与质量、使系统按设计规格运作为目的的行为及其附带行为；按对象分为应用程序维护、硬件维护、软件产品维护、数据维护等",
+      "reading": "ホシュ",
+      "term": "保守"
+    },
+    {
+      "entryID": "itwork-842f73918f466c48b04496ceaf2faa476dfc4dd3b0d67df4daaee780e3febdff",
+      "meaning": "将服务器、存储、数据库、安全对策、运维与维护等信息系统机制作为按量计费服务使用；由云服务提供商承担运维与维护，可减轻用户负担",
+      "reading": "マネージドサービス",
+      "term": "マネージドサービス"
+    },
+    {
+      "entryID": "itwork-3fdce5320a7f2e07fbbab639df30e80f2f9cc9dad321e7526504ca93b450f948",
+      "meaning": "事务事业的执行及预算执行的结果达成预期目的或取得效果的属性",
+      "reading": "ユウコウセイ",
+      "term": "有効性"
+    },
+    {
+      "entryID": "itwork-f93cfd90f03282c9cf51b9d54715cd88f01a3bc7ded0fd391e98776e53d1bd70",
+      "meaning": "在信息系统相关采购（设计开发、功能改修、运维或维护等业务委托及构成系统的设备或软件产品等的采购）中，明确必要需求的行为或其内容",
+      "reading": "ヨウケンテイギ",
+      "term": "要件定義"
+    }
+  ],
+  "metadata": {
+    "classification": "business-japanese",
+    "description": "IT职场日语・基础。Japanese terms / readings / definitions are derived from デジタル庁「DS-130 標準ガイドライン群用語集」(https://www.digital.go.jp/resources/standard_guidelines), licensed under 公共データ利用規約 第1.0版 (PDL1.0, https://www.digital.go.jp/resources/open_data/public_data_license_v1.0). Chinese meanings are translated/adapted by this project from the source definitions. 本词包属于加工内容，不代表デジタル庁原文。详细 attribution 见仓库 sources/中日/商务日语/IT职场/DIGITAL_AGENCY.ATTRIBUTION.txt。",
+    "language": "ja",
+    "level": "it-workplace",
+    "tags": [
+      "business-japanese",
+      "it",
+      "workplace",
+      "chinese",
+      "pdl1-0"
+    ],
+    "title": "IT职场日语・基础"
+  },
+  "packID": "com.dai1012.business-ja.it-workplace.core",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
