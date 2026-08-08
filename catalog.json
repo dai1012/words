@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 12,
-  "generatedAt": "2026-08-08T12:27:57Z",
+  "catalogVersion": 13,
+  "generatedAt": "2026-08-08T15:06:42Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -11,14 +11,14 @@
         "IT职场"
       ],
       "entryCount": 118,
-      "fileSize": 40010,
+      "fileSize": 35806,
       "fileURL": "packs/it-workplace-core.json",
       "language": "ja",
       "level": "it-workplace",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.business-ja.it-workplace.core",
-      "packVersion": 1,
-      "sha256": "a136a14895b7fe99857566a720bd6a126018931243b958eb76d2eca63a312a6c",
+      "packVersion": 2,
+      "sha256": "e0050787c3d7ad6ce4c77a2d668f800dc73f95ce5d248e508ced26750ada68ae",
       "tags": [
         "business-japanese",
         "it",
