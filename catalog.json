@@ -1,7 +1,30 @@
 {
-  "catalogVersion": 8,
-  "generatedAt": "2026-08-06T09:23:09Z",
+  "catalogVersion": 9,
+  "generatedAt": "2026-08-08T03:51:36Z",
   "packs": [
+    {
+      "classification": "ielts",
+      "description": "IELTS 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），IELTS 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
+      "directoryPath": [
+        "中英",
+        "IELTS"
+      ],
+      "entryCount": 5040,
+      "fileSize": 1195025,
+      "fileURL": "packs/ielts-core.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.ielts.core",
+      "packVersion": 1,
+      "sha256": "1f7a0f5e1bc826711439a12c4cc66a9ac33f19054cc22196d6fc6453d14fb651",
+      "tags": [
+        "ielts",
+        "english",
+        "chinese"
+      ],
+      "title": "IELTS 核心词汇"
+    },
     {
       "classification": "jlpt",
       "description": "JLPT N1 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
