@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 10,
-  "generatedAt": "2026-08-08T10:58:14Z",
+  "catalogVersion": 11,
+  "generatedAt": "2026-08-08T12:11:27Z",
   "packs": [
     {
       "classification": "ielts",
@@ -193,6 +193,30 @@
         "chinese"
       ],
       "title": "TOEFL 核心词汇"
+    },
+    {
+      "classification": "toeic",
+      "description": "TOEIC 核心词汇（中英）。TOEIC word selection based on TOEIC Service List 1.2 (TSL 1.2) by Charles Browne and Brent Culligan, licensed under CC BY-SA 4.0 (https://www.newgeneralservicelist.com/toeic-service-list, https://creativecommons.org/licenses/by-sa/4.0/); phonetic and Chinese meanings derived from ECDICT, licensed under MIT (https://github.com/skywind3000/ECDICT). 本 TOEIC pack 的 TSL-derived/adapted 部分按 CC BY-SA 4.0 分发。详细 attribution / license 文件位于仓库 sources/中英/TOEIC/。",
+      "directoryPath": [
+        "中英",
+        "TOEIC"
+      ],
+      "entryCount": 1250,
+      "fileSize": 285717,
+      "fileURL": "packs/toeic-core.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.toeic.core",
+      "packVersion": 1,
+      "sha256": "1905d2900ff855b482458b40d81b3a592d4c8f127a5001c62709781c3bc659e2",
+      "tags": [
+        "toeic",
+        "english",
+        "chinese",
+        "cc-by-sa-4-0"
+      ],
+      "title": "TOEIC 核心词汇"
     }
   ],
   "schemaVersion": 1
