@@ -1,7 +1,33 @@
 {
-  "catalogVersion": 11,
-  "generatedAt": "2026-08-08T12:11:27Z",
+  "catalogVersion": 12,
+  "generatedAt": "2026-08-08T12:27:57Z",
   "packs": [
+    {
+      "classification": "business-japanese",
+      "description": "IT职场日语・基础。Japanese terms / readings / definitions are derived from デジタル庁「DS-130 標準ガイドライン群用語集」(https://www.digital.go.jp/resources/standard_guidelines), licensed under 公共データ利用規約 第1.0版 (PDL1.0, https://www.digital.go.jp/resources/open_data/public_data_license_v1.0). Chinese meanings are translated/adapted by this project from the source definitions. 本词包属于加工内容，不代表デジタル庁原文。详细 attribution 见仓库 sources/中日/商务日语/IT职场/DIGITAL_AGENCY.ATTRIBUTION.txt。",
+      "directoryPath": [
+        "中日",
+        "商务日语",
+        "IT职场"
+      ],
+      "entryCount": 118,
+      "fileSize": 40010,
+      "fileURL": "packs/it-workplace-core.json",
+      "language": "ja",
+      "level": "it-workplace",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.business-ja.it-workplace.core",
+      "packVersion": 1,
+      "sha256": "a136a14895b7fe99857566a720bd6a126018931243b958eb76d2eca63a312a6c",
+      "tags": [
+        "business-japanese",
+        "it",
+        "workplace",
+        "chinese",
+        "pdl1-0"
+      ],
+      "title": "IT职场日语・基础"
+    },
     {
       "classification": "ielts",
       "description": "IELTS 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），IELTS 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
