@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 9,
-  "generatedAt": "2026-08-08T03:51:36Z",
+  "catalogVersion": 10,
+  "generatedAt": "2026-08-08T10:58:14Z",
   "packs": [
     {
       "classification": "ielts",
@@ -170,6 +170,29 @@
         "test"
       ],
       "title": "测试旅行词包（Test Travel）"
+    },
+    {
+      "classification": "toefl",
+      "description": "TOEFL 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），TOEFL 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
+      "directoryPath": [
+        "中英",
+        "TOEFL"
+      ],
+      "entryCount": 6974,
+      "fileSize": 1620177,
+      "fileURL": "packs/toefl-core.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.toefl.core",
+      "packVersion": 1,
+      "sha256": "8977881cbc87013104a10c84a6d4493160c6e8377b8f9c695a238be794ff850a",
+      "tags": [
+        "toefl",
+        "english",
+        "chinese"
+      ],
+      "title": "TOEFL 核心词汇"
     }
   ],
   "schemaVersion": 1
