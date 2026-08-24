@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "ms-basic-001",
+      "meaning": "你好",
+      "reading": "hai",
+      "term": "hai"
+    },
+    {
+      "entryID": "ms-basic-002",
+      "meaning": "谢谢",
+      "reading": "te-RI-ma KA-sih",
+      "term": "terima kasih"
+    },
+    {
+      "entryID": "ms-basic-003",
+      "meaning": "对不起",
+      "reading": "ma-AF",
+      "term": "maaf"
+    },
+    {
+      "entryID": "ms-basic-004",
+      "meaning": "是",
+      "reading": "ya",
+      "term": "ya"
+    },
+    {
+      "entryID": "ms-basic-005",
+      "meaning": "不是",
+      "reading": "TEE-dak",
+      "term": "tidak"
+    },
+    {
+      "entryID": "ms-basic-006",
+      "meaning": "再见（对留下的人说）",
+      "reading": "se-LA-mat TING-gal",
+      "term": "selamat tinggal"
+    },
+    {
+      "entryID": "ms-basic-007",
+      "meaning": "水",
+      "reading": "a-IR",
+      "term": "air"
+    },
+    {
+      "entryID": "ms-basic-008",
+      "meaning": "米饭；饭",
+      "reading": "NA-si",
+      "term": "nasi"
+    },
+    {
+      "entryID": "ms-basic-009",
+      "meaning": "家；房子",
+      "reading": "ROO-mah",
+      "term": "rumah"
+    },
+    {
+      "entryID": "ms-basic-010",
+      "meaning": "学校",
+      "reading": "se-KO-lah",
+      "term": "sekolah"
+    },
+    {
+      "entryID": "ms-basic-011",
+      "meaning": "朋友",
+      "reading": "KA-wan",
+      "term": "kawan"
+    },
+    {
+      "entryID": "ms-basic-012",
+      "meaning": "名字",
+      "reading": "NA-ma",
+      "term": "nama"
+    },
+    {
+      "entryID": "ms-basic-013",
+      "meaning": "中国",
+      "reading": "CHEE-na",
+      "term": "China"
+    },
+    {
+      "entryID": "ms-basic-014",
+      "meaning": "今天",
+      "reading": "HA-ri EE-ni",
+      "term": "hari ini"
+    },
+    {
+      "entryID": "ms-basic-015",
+      "meaning": "明天",
+      "reading": "e-SOK",
+      "term": "esok"
+    },
+    {
+      "entryID": "ms-basic-016",
+      "meaning": "现在",
+      "reading": "se-KA-rang",
+      "term": "sekarang"
+    },
+    {
+      "entryID": "ms-basic-017",
+      "meaning": "时间",
+      "reading": "MA-sa",
+      "term": "masa"
+    },
+    {
+      "entryID": "ms-basic-018",
+      "meaning": "人",
+      "reading": "O-rang",
+      "term": "orang"
+    },
+    {
+      "entryID": "ms-basic-019",
+      "meaning": "男人",
+      "reading": "le-LA-ki",
+      "term": "lelaki"
+    },
+    {
+      "entryID": "ms-basic-020",
+      "meaning": "女人",
+      "reading": "pe-rem-POO-an",
+      "term": "perempuan"
+    },
+    {
+      "entryID": "ms-basic-021",
+      "meaning": "妈妈",
+      "reading": "EE-boo",
+      "term": "ibu"
+    },
+    {
+      "entryID": "ms-basic-022",
+      "meaning": "爸爸",
+      "reading": "BA-pa",
+      "term": "bapa"
+    },
+    {
+      "entryID": "ms-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "ke-LOO-ar-ga",
+      "term": "keluarga"
+    },
+    {
+      "entryID": "ms-basic-024",
+      "meaning": "钱",
+      "reading": "wang",
+      "term": "wang"
+    },
+    {
+      "entryID": "ms-basic-025",
+      "meaning": "书",
+      "reading": "BOO-koo",
+      "term": "buku"
+    },
+    {
+      "entryID": "ms-basic-026",
+      "meaning": "包；袋子",
+      "reading": "beg",
+      "term": "beg"
+    },
+    {
+      "entryID": "ms-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FON",
+      "term": "telefon"
+    },
+    {
+      "entryID": "ms-basic-028",
+      "meaning": "咖啡",
+      "reading": "KO-pi",
+      "term": "kopi"
+    },
+    {
+      "entryID": "ms-basic-029",
+      "meaning": "茶",
+      "reading": "teh",
+      "term": "teh"
+    },
+    {
+      "entryID": "ms-basic-030",
+      "meaning": "汽车",
+      "reading": "ke-RE-ta",
+      "term": "kereta"
+    },
+    {
+      "entryID": "ms-basic-031",
+      "meaning": "火车",
+      "reading": "ke-RE-ta A-pi",
+      "term": "kereta api"
+    },
+    {
+      "entryID": "ms-basic-032",
+      "meaning": "街道；路",
+      "reading": "JA-lan",
+      "term": "jalan"
+    },
+    {
+      "entryID": "ms-basic-033",
+      "meaning": "市场",
+      "reading": "PA-sar",
+      "term": "pasar"
+    },
+    {
+      "entryID": "ms-basic-034",
+      "meaning": "大的",
+      "reading": "be-SAR",
+      "term": "besar"
+    },
+    {
+      "entryID": "ms-basic-035",
+      "meaning": "小的",
+      "reading": "ke-CHEEL",
+      "term": "kecil"
+    },
+    {
+      "entryID": "ms-basic-036",
+      "meaning": "好的",
+      "reading": "ba-IK",
+      "term": "baik"
+    },
+    {
+      "entryID": "ms-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "BO-rook",
+      "term": "buruk"
+    },
+    {
+      "entryID": "ms-basic-038",
+      "meaning": "多",
+      "reading": "BAN-yak",
+      "term": "banyak"
+    },
+    {
+      "entryID": "ms-basic-039",
+      "meaning": "少",
+      "reading": "se-DEE-kit",
+      "term": "sedikit"
+    },
+    {
+      "entryID": "ms-basic-040",
+      "meaning": "漂亮的",
+      "reading": "CHAN-tik",
+      "term": "cantik"
+    },
+    {
+      "entryID": "ms-basic-041",
+      "meaning": "高兴的",
+      "reading": "gem-BEE-ra",
+      "term": "gembira"
+    },
+    {
+      "entryID": "ms-basic-042",
+      "meaning": "吃",
+      "reading": "MA-kan",
+      "term": "makan"
+    },
+    {
+      "entryID": "ms-basic-043",
+      "meaning": "喝",
+      "reading": "MEE-noom",
+      "term": "minum"
+    },
+    {
+      "entryID": "ms-basic-044",
+      "meaning": "去",
+      "reading": "PER-gi",
+      "term": "pergi"
+    },
+    {
+      "entryID": "ms-basic-045",
+      "meaning": "来",
+      "reading": "DA-tang",
+      "term": "datang"
+    },
+    {
+      "entryID": "ms-basic-046",
+      "meaning": "说；讲",
+      "reading": "CHA-kap",
+      "term": "cakap"
+    },
+    {
+      "entryID": "ms-basic-047",
+      "meaning": "学习",
+      "reading": "be-LA-jar",
+      "term": "belajar"
+    },
+    {
+      "entryID": "ms-basic-048",
+      "meaning": "爱",
+      "reading": "CHIN-ta",
+      "term": "cinta"
+    },
+    {
+      "entryID": "ms-basic-049",
+      "meaning": "一",
+      "reading": "SA-too",
+      "term": "satu"
+    },
+    {
+      "entryID": "ms-basic-050",
+      "meaning": "什么",
+      "reading": "A-pa",
+      "term": "apa"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "malay",
+    "description": "面向中文用户的马来语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为马来语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "ms",
+    "level": "beginner",
+    "tags": [
+      "malay",
+      "beginner",
+      "chinese"
+    ],
+    "title": "马来语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.ms.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

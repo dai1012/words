@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "tr-basic-001",
+      "meaning": "你好",
+      "reading": "mer-ha-BA",
+      "term": "merhaba"
+    },
+    {
+      "entryID": "tr-basic-002",
+      "meaning": "谢谢",
+      "reading": "te-shek-kür-LER",
+      "term": "teşekkürler"
+    },
+    {
+      "entryID": "tr-basic-003",
+      "meaning": "对不起",
+      "reading": "ö-zür di-le-RIM",
+      "term": "özür dilerim"
+    },
+    {
+      "entryID": "tr-basic-004",
+      "meaning": "是",
+      "reading": "e-VET",
+      "term": "evet"
+    },
+    {
+      "entryID": "tr-basic-005",
+      "meaning": "不是",
+      "reading": "ha-YIR",
+      "term": "hayır"
+    },
+    {
+      "entryID": "tr-basic-006",
+      "meaning": "再见（对留下的人说）",
+      "reading": "hosh-CHA KAL",
+      "term": "hoşça kal"
+    },
+    {
+      "entryID": "tr-basic-007",
+      "meaning": "水",
+      "reading": "soo",
+      "term": "su"
+    },
+    {
+      "entryID": "tr-basic-008",
+      "meaning": "面包",
+      "reading": "ek-MEK",
+      "term": "ekmek"
+    },
+    {
+      "entryID": "tr-basic-009",
+      "meaning": "家；房子",
+      "reading": "ev",
+      "term": "ev"
+    },
+    {
+      "entryID": "tr-basic-010",
+      "meaning": "学校",
+      "reading": "o-KOOL",
+      "term": "okul"
+    },
+    {
+      "entryID": "tr-basic-011",
+      "meaning": "朋友",
+      "reading": "ar-ka-DASH",
+      "term": "arkadaş"
+    },
+    {
+      "entryID": "tr-basic-012",
+      "meaning": "名字",
+      "reading": "i-SIM",
+      "term": "isim"
+    },
+    {
+      "entryID": "tr-basic-013",
+      "meaning": "中国",
+      "reading": "CHIN",
+      "term": "Çin"
+    },
+    {
+      "entryID": "tr-basic-014",
+      "meaning": "今天",
+      "reading": "boo-GÜN",
+      "term": "bugün"
+    },
+    {
+      "entryID": "tr-basic-015",
+      "meaning": "明天",
+      "reading": "ya-RIN",
+      "term": "yarın"
+    },
+    {
+      "entryID": "tr-basic-016",
+      "meaning": "现在",
+      "reading": "shim-DI",
+      "term": "şimdi"
+    },
+    {
+      "entryID": "tr-basic-017",
+      "meaning": "时间",
+      "reading": "za-MAN",
+      "term": "zaman"
+    },
+    {
+      "entryID": "tr-basic-018",
+      "meaning": "人",
+      "reading": "in-SAN",
+      "term": "insan"
+    },
+    {
+      "entryID": "tr-basic-019",
+      "meaning": "男人",
+      "reading": "a-DAM",
+      "term": "adam"
+    },
+    {
+      "entryID": "tr-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "ka-DIN",
+      "term": "kadın"
+    },
+    {
+      "entryID": "tr-basic-021",
+      "meaning": "妈妈",
+      "reading": "AN-ne",
+      "term": "anne"
+    },
+    {
+      "entryID": "tr-basic-022",
+      "meaning": "爸爸",
+      "reading": "ba-BA",
+      "term": "baba"
+    },
+    {
+      "entryID": "tr-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "a-I-LE",
+      "term": "aile"
+    },
+    {
+      "entryID": "tr-basic-024",
+      "meaning": "钱",
+      "reading": "pa-RA",
+      "term": "para"
+    },
+    {
+      "entryID": "tr-basic-025",
+      "meaning": "书",
+      "reading": "ki-TAP",
+      "term": "kitap"
+    },
+    {
+      "entryID": "tr-basic-026",
+      "meaning": "包；袋子",
+      "reading": "chan-TA",
+      "term": "çanta"
+    },
+    {
+      "entryID": "tr-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FON",
+      "term": "telefon"
+    },
+    {
+      "entryID": "tr-basic-028",
+      "meaning": "咖啡",
+      "reading": "kah-VE",
+      "term": "kahve"
+    },
+    {
+      "entryID": "tr-basic-029",
+      "meaning": "茶",
+      "reading": "chai",
+      "term": "çay"
+    },
+    {
+      "entryID": "tr-basic-030",
+      "meaning": "汽车",
+      "reading": "a-ra-BA",
+      "term": "araba"
+    },
+    {
+      "entryID": "tr-basic-031",
+      "meaning": "火车",
+      "reading": "tren",
+      "term": "tren"
+    },
+    {
+      "entryID": "tr-basic-032",
+      "meaning": "街道",
+      "reading": "so-KAK",
+      "term": "sokak"
+    },
+    {
+      "entryID": "tr-basic-033",
+      "meaning": "市场；星期日",
+      "reading": "pa-ZAR",
+      "term": "pazar"
+    },
+    {
+      "entryID": "tr-basic-034",
+      "meaning": "大的",
+      "reading": "bü-YÜK",
+      "term": "büyük"
+    },
+    {
+      "entryID": "tr-basic-035",
+      "meaning": "小的",
+      "reading": "kü-CHÜK",
+      "term": "küçük"
+    },
+    {
+      "entryID": "tr-basic-036",
+      "meaning": "好的",
+      "reading": "ee-YEE",
+      "term": "iyi"
+    },
+    {
+      "entryID": "tr-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "kö-TÜ",
+      "term": "kötü"
+    },
+    {
+      "entryID": "tr-basic-038",
+      "meaning": "多；非常",
+      "reading": "chok",
+      "term": "çok"
+    },
+    {
+      "entryID": "tr-basic-039",
+      "meaning": "少",
+      "reading": "az",
+      "term": "az"
+    },
+    {
+      "entryID": "tr-basic-040",
+      "meaning": "漂亮的",
+      "reading": "gü-ZEL",
+      "term": "güzel"
+    },
+    {
+      "entryID": "tr-basic-041",
+      "meaning": "高兴的",
+      "reading": "mut-LOO",
+      "term": "mutlu"
+    },
+    {
+      "entryID": "tr-basic-042",
+      "meaning": "吃；食物",
+      "reading": "ye-MEK",
+      "term": "yemek"
+    },
+    {
+      "entryID": "tr-basic-043",
+      "meaning": "喝",
+      "reading": "ich-MEK",
+      "term": "içmek"
+    },
+    {
+      "entryID": "tr-basic-044",
+      "meaning": "去",
+      "reading": "git-MEK",
+      "term": "gitmek"
+    },
+    {
+      "entryID": "tr-basic-045",
+      "meaning": "来",
+      "reading": "gel-MEK",
+      "term": "gelmek"
+    },
+    {
+      "entryID": "tr-basic-046",
+      "meaning": "说；讲",
+      "reading": "ko-nush-MAK",
+      "term": "konuşmak"
+    },
+    {
+      "entryID": "tr-basic-047",
+      "meaning": "学习",
+      "reading": "öög-ren-MEK",
+      "term": "öğrenmek"
+    },
+    {
+      "entryID": "tr-basic-048",
+      "meaning": "爱",
+      "reading": "ask",
+      "term": "aşk"
+    },
+    {
+      "entryID": "tr-basic-049",
+      "meaning": "一",
+      "reading": "bir",
+      "term": "bir"
+    },
+    {
+      "entryID": "tr-basic-050",
+      "meaning": "什么",
+      "reading": "ne",
+      "term": "ne"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "turkish",
+    "description": "面向中文用户的土耳其语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为土耳其语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "tr",
+    "level": "beginner",
+    "tags": [
+      "turkish",
+      "beginner",
+      "chinese"
+    ],
+    "title": "土耳其语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.tr.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

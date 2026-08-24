@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "nl-basic-001",
+      "meaning": "你好",
+      "reading": "HA-lo",
+      "term": "hallo"
+    },
+    {
+      "entryID": "nl-basic-002",
+      "meaning": "谢谢",
+      "reading": "dank ye",
+      "term": "dank je"
+    },
+    {
+      "entryID": "nl-basic-003",
+      "meaning": "对不起",
+      "reading": "SOR-ree",
+      "term": "sorry"
+    },
+    {
+      "entryID": "nl-basic-004",
+      "meaning": "是",
+      "reading": "yaa",
+      "term": "ja"
+    },
+    {
+      "entryID": "nl-basic-005",
+      "meaning": "不是",
+      "reading": "nay",
+      "term": "nee"
+    },
+    {
+      "entryID": "nl-basic-006",
+      "meaning": "再见",
+      "reading": "tot SEENS",
+      "term": "tot ziens"
+    },
+    {
+      "entryID": "nl-basic-007",
+      "meaning": "水",
+      "reading": "WA-ter",
+      "term": "water"
+    },
+    {
+      "entryID": "nl-basic-008",
+      "meaning": "面包",
+      "reading": "broht",
+      "term": "brood"
+    },
+    {
+      "entryID": "nl-basic-009",
+      "meaning": "家；房子",
+      "reading": "hows",
+      "term": "huis"
+    },
+    {
+      "entryID": "nl-basic-010",
+      "meaning": "学校",
+      "reading": "skohl",
+      "term": "school"
+    },
+    {
+      "entryID": "nl-basic-011",
+      "meaning": "朋友",
+      "reading": "vreent",
+      "term": "vriend"
+    },
+    {
+      "entryID": "nl-basic-012",
+      "meaning": "名字",
+      "reading": "naam",
+      "term": "naam"
+    },
+    {
+      "entryID": "nl-basic-013",
+      "meaning": "中国",
+      "reading": "CHEE-na",
+      "term": "China"
+    },
+    {
+      "entryID": "nl-basic-014",
+      "meaning": "今天",
+      "reading": "van-DAHKH",
+      "term": "vandaag"
+    },
+    {
+      "entryID": "nl-basic-015",
+      "meaning": "明天；早上",
+      "reading": "MOR-khen",
+      "term": "morgen"
+    },
+    {
+      "entryID": "nl-basic-016",
+      "meaning": "现在",
+      "reading": "nuu",
+      "term": "nu"
+    },
+    {
+      "entryID": "nl-basic-017",
+      "meaning": "时间",
+      "reading": "teit",
+      "term": "tijd"
+    },
+    {
+      "entryID": "nl-basic-018",
+      "meaning": "人",
+      "reading": "mens",
+      "term": "mens"
+    },
+    {
+      "entryID": "nl-basic-019",
+      "meaning": "男人",
+      "reading": "man",
+      "term": "man"
+    },
+    {
+      "entryID": "nl-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "vrow",
+      "term": "vrouw"
+    },
+    {
+      "entryID": "nl-basic-021",
+      "meaning": "妈妈",
+      "reading": "MA-ma",
+      "term": "mama"
+    },
+    {
+      "entryID": "nl-basic-022",
+      "meaning": "爸爸",
+      "reading": "PA-pa",
+      "term": "papa"
+    },
+    {
+      "entryID": "nl-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MEE-lee",
+      "term": "familie"
+    },
+    {
+      "entryID": "nl-basic-024",
+      "meaning": "钱",
+      "reading": "khelt",
+      "term": "geld"
+    },
+    {
+      "entryID": "nl-basic-025",
+      "meaning": "书",
+      "reading": "book",
+      "term": "boek"
+    },
+    {
+      "entryID": "nl-basic-026",
+      "meaning": "包；袋子",
+      "reading": "tas",
+      "term": "tas"
+    },
+    {
+      "entryID": "nl-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FONE",
+      "term": "telefoon"
+    },
+    {
+      "entryID": "nl-basic-028",
+      "meaning": "咖啡",
+      "reading": "KO-fee",
+      "term": "koffie"
+    },
+    {
+      "entryID": "nl-basic-029",
+      "meaning": "茶",
+      "reading": "tay",
+      "term": "thee"
+    },
+    {
+      "entryID": "nl-basic-030",
+      "meaning": "汽车",
+      "reading": "OW-toe",
+      "term": "auto"
+    },
+    {
+      "entryID": "nl-basic-031",
+      "meaning": "火车",
+      "reading": "train",
+      "term": "trein"
+    },
+    {
+      "entryID": "nl-basic-032",
+      "meaning": "街道",
+      "reading": "straat",
+      "term": "straat"
+    },
+    {
+      "entryID": "nl-basic-033",
+      "meaning": "市场",
+      "reading": "markt",
+      "term": "markt"
+    },
+    {
+      "entryID": "nl-basic-034",
+      "meaning": "大的",
+      "reading": "khroht",
+      "term": "groot"
+    },
+    {
+      "entryID": "nl-basic-035",
+      "meaning": "小的",
+      "reading": "klein",
+      "term": "klein"
+    },
+    {
+      "entryID": "nl-basic-036",
+      "meaning": "好的",
+      "reading": "khoot",
+      "term": "goed"
+    },
+    {
+      "entryID": "nl-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "slekht",
+      "term": "slecht"
+    },
+    {
+      "entryID": "nl-basic-038",
+      "meaning": "多",
+      "reading": "vayl",
+      "term": "veel"
+    },
+    {
+      "entryID": "nl-basic-039",
+      "meaning": "少",
+      "reading": "VAY-nikh",
+      "term": "weinig"
+    },
+    {
+      "entryID": "nl-basic-040",
+      "meaning": "漂亮的",
+      "reading": "mohy",
+      "term": "mooi"
+    },
+    {
+      "entryID": "nl-basic-041",
+      "meaning": "高兴的",
+      "reading": "blei",
+      "term": "blij"
+    },
+    {
+      "entryID": "nl-basic-042",
+      "meaning": "吃；食物",
+      "reading": "AY-ten",
+      "term": "eten"
+    },
+    {
+      "entryID": "nl-basic-043",
+      "meaning": "喝",
+      "reading": "DRIN-ken",
+      "term": "drinken"
+    },
+    {
+      "entryID": "nl-basic-044",
+      "meaning": "去",
+      "reading": "khaan",
+      "term": "gaan"
+    },
+    {
+      "entryID": "nl-basic-045",
+      "meaning": "来",
+      "reading": "KO-men",
+      "term": "komen"
+    },
+    {
+      "entryID": "nl-basic-046",
+      "meaning": "说；讲",
+      "reading": "PRAA-ten",
+      "term": "praten"
+    },
+    {
+      "entryID": "nl-basic-047",
+      "meaning": "学习",
+      "reading": "LEH-ren",
+      "term": "leren"
+    },
+    {
+      "entryID": "nl-basic-048",
+      "meaning": "爱",
+      "reading": "LEEF-de",
+      "term": "liefde"
+    },
+    {
+      "entryID": "nl-basic-049",
+      "meaning": "一",
+      "reading": "ayn",
+      "term": "één"
+    },
+    {
+      "entryID": "nl-basic-050",
+      "meaning": "什么",
+      "reading": "wat",
+      "term": "wat"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "dutch",
+    "description": "面向中文用户的荷兰语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为荷兰语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "nl",
+    "level": "beginner",
+    "tags": [
+      "dutch",
+      "beginner",
+      "chinese"
+    ],
+    "title": "荷兰语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.nl.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

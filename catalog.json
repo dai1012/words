@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 15,
-  "generatedAt": "2026-08-24T15:09:15Z",
+  "catalogVersion": 16,
+  "generatedAt": "2026-08-24T16:18:19Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -30,6 +30,75 @@
       "title": "IT职场日语・基础"
     },
     {
+      "classification": "arabic",
+      "description": "面向中文用户的阿拉伯语入门基础试点词包（首批 50 词，现代标准语）。词条为本项目原创编写：term 为阿拉伯语词形（无元音符号常规拼写），reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中阿-Chinese-Arabic"
+      ],
+      "entryCount": 50,
+      "fileSize": 7035,
+      "fileURL": "packs/ar-basic.json",
+      "language": "ar",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ar.basic",
+      "packVersion": 1,
+      "sha256": "0eb612b8e4d47ad3394b3e483b7e38bc7c3e459d7f43acf66a94b534793dadd3",
+      "tags": [
+        "arabic",
+        "beginner",
+        "chinese"
+      ],
+      "title": "阿拉伯语入门基础词汇"
+    },
+    {
+      "classification": "german",
+      "description": "面向中文用户的德语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为德语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中德-Chinese-German"
+      ],
+      "entryCount": 50,
+      "fileSize": 6791,
+      "fileURL": "packs/de-basic.json",
+      "language": "de",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.de.basic",
+      "packVersion": 1,
+      "sha256": "4e73568f87c85b0091381e9e5b48c166f8e412482fbaa7a59602a2a8970c6fd0",
+      "tags": [
+        "german",
+        "beginner",
+        "chinese"
+      ],
+      "title": "德语入门基础词汇"
+    },
+    {
+      "classification": "greek",
+      "description": "面向中文用户的希腊语入门基础试点词包（首批 50 词，现代希腊语）。词条为本项目原创编写：term 为希腊语词形，reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中希-Chinese-Greek"
+      ],
+      "entryCount": 50,
+      "fileSize": 7229,
+      "fileURL": "packs/el-basic.json",
+      "language": "el",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.el.basic",
+      "packVersion": 1,
+      "sha256": "a19292c5b699fe9c1365f7e39722846623297956e2907692c285b8e1b4bce1dc",
+      "tags": [
+        "greek",
+        "beginner",
+        "chinese"
+      ],
+      "title": "希腊语入门基础词汇"
+    },
+    {
       "classification": "spanish",
       "description": "面向中文用户的西班牙语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为西班牙语词形，reading 为音节切分读音标注（大写音节为重读音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
       "directoryPath": [
@@ -53,6 +122,144 @@
       "title": "西班牙语入门基础词汇"
     },
     {
+      "classification": "filipino",
+      "description": "面向中文用户的菲律宾语入门基础试点词包（首批 50 词，以他加禄语为基础的标准语）。词条为本项目原创编写：term 为菲律宾语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中菲-Chinese-Filipino"
+      ],
+      "entryCount": 50,
+      "fileSize": 7130,
+      "fileURL": "packs/fil-basic.json",
+      "language": "fil",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.fil.basic",
+      "packVersion": 1,
+      "sha256": "323c66c5b6cd7f15128d297570a6b0bb75104ffd53c7e623456474544d6a2dd6",
+      "tags": [
+        "filipino",
+        "beginner",
+        "chinese"
+      ],
+      "title": "菲律宾语入门基础词汇"
+    },
+    {
+      "classification": "french",
+      "description": "面向中文用户的法语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为法语词形，reading 为自拟 ASCII 近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中法-Chinese-French"
+      ],
+      "entryCount": 50,
+      "fileSize": 6777,
+      "fileURL": "packs/fr-basic.json",
+      "language": "fr",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.fr.basic",
+      "packVersion": 1,
+      "sha256": "b0270ad42a5347a4c22ec1cb153f4ef985cb790b3b7c832bf81755e9dc01a60f",
+      "tags": [
+        "french",
+        "beginner",
+        "chinese"
+      ],
+      "title": "法语入门基础词汇"
+    },
+    {
+      "classification": "hebrew",
+      "description": "面向中文用户的希伯来语入门基础试点词包（首批 50 词，现代希伯来语）。词条为本项目原创编写：term 为希伯来语词形（无元音符号常规拼写），reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中希伯来-Chinese-Hebrew"
+      ],
+      "entryCount": 50,
+      "fileSize": 6975,
+      "fileURL": "packs/he-basic.json",
+      "language": "he",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.he.basic",
+      "packVersion": 1,
+      "sha256": "3e5cbbda637c28925a226db85f442c47279d0dfba6a7a1e34c508a60c72cf27e",
+      "tags": [
+        "hebrew",
+        "beginner",
+        "chinese"
+      ],
+      "title": "希伯来语入门基础词汇"
+    },
+    {
+      "classification": "hindi",
+      "description": "面向中文用户的印地语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为印地语天城文词形，reading 为自拟实用发音转写（长元音双写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中印-Chinese-Hindi"
+      ],
+      "entryCount": 50,
+      "fileSize": 7229,
+      "fileURL": "packs/hi-basic.json",
+      "language": "hi",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.hi.basic",
+      "packVersion": 1,
+      "sha256": "51bdb2901ff9ef7a66b0d1415521bdb132f17d17ac37fcd93f9d0e71e28afbbe",
+      "tags": [
+        "hindi",
+        "beginner",
+        "chinese"
+      ],
+      "title": "印地语入门基础词汇"
+    },
+    {
+      "classification": "indonesian",
+      "description": "面向中文用户的印尼语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为印尼语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中印尼-Chinese-Indonesian"
+      ],
+      "entryCount": 50,
+      "fileSize": 6905,
+      "fileURL": "packs/id-basic.json",
+      "language": "id",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.id.basic",
+      "packVersion": 1,
+      "sha256": "c9e6ad777972bf95514d9539155eb0216f6a5e7febd15eadaf63dc6e4cd65b21",
+      "tags": [
+        "indonesian",
+        "beginner",
+        "chinese"
+      ],
+      "title": "印尼语入门基础词汇"
+    },
+    {
+      "classification": "italian",
+      "description": "面向中文用户的意大利语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为意大利语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中意-Chinese-Italian"
+      ],
+      "entryCount": 50,
+      "fileSize": 6899,
+      "fileURL": "packs/it-basic.json",
+      "language": "it",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.it.basic",
+      "packVersion": 1,
+      "sha256": "831f0d4ebcb83bff738454368c081e84f658b7ce5eb46b06ca420ad097961821",
+      "tags": [
+        "italian",
+        "beginner",
+        "chinese"
+      ],
+      "title": "意大利语入门基础词汇"
+    },
+    {
       "classification": "korean",
       "description": "面向中文用户的韩语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为韩语词形，reading 为韩国国立国语院《国文的罗马字标记法》(RR) 转写，meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
       "directoryPath": [
@@ -74,6 +281,190 @@
         "chinese"
       ],
       "title": "韩语入门基础词汇"
+    },
+    {
+      "classification": "malay",
+      "description": "面向中文用户的马来语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为马来语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中马来-Chinese-Malay"
+      ],
+      "entryCount": 50,
+      "fileSize": 6878,
+      "fileURL": "packs/ms-basic.json",
+      "language": "ms",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ms.basic",
+      "packVersion": 1,
+      "sha256": "d1119c6b8fdde102444b0f0b3fe8770677627d2bd2067c47c334b52a32061185",
+      "tags": [
+        "malay",
+        "beginner",
+        "chinese"
+      ],
+      "title": "马来语入门基础词汇"
+    },
+    {
+      "classification": "dutch",
+      "description": "面向中文用户的荷兰语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为荷兰语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中荷-Chinese-Dutch"
+      ],
+      "entryCount": 50,
+      "fileSize": 6754,
+      "fileURL": "packs/nl-basic.json",
+      "language": "nl",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.nl.basic",
+      "packVersion": 1,
+      "sha256": "54467b51b32068c0312c6c8f3f9e8fbff5f44f2462d6debf1b4a2310a10639a1",
+      "tags": [
+        "dutch",
+        "beginner",
+        "chinese"
+      ],
+      "title": "荷兰语入门基础词汇"
+    },
+    {
+      "classification": "polish",
+      "description": "面向中文用户的波兰语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为波兰语词形，reading 为自拟近似音节标音（重读音节大写，重音固定在倒数第二音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中波-Chinese-Polish"
+      ],
+      "entryCount": 50,
+      "fileSize": 6994,
+      "fileURL": "packs/pl-basic.json",
+      "language": "pl",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.pl.basic",
+      "packVersion": 1,
+      "sha256": "a68b2423ecc6dba1e9180c5bad08d68961559a1321a24c6d61ae23bd29b06138",
+      "tags": [
+        "polish",
+        "beginner",
+        "chinese"
+      ],
+      "title": "波兰语入门基础词汇"
+    },
+    {
+      "classification": "portuguese",
+      "description": "面向中文用户的葡萄牙语入门基础试点词包（首批 50 词，巴西葡语发音基准）。词条为本项目原创编写：term 为葡萄牙语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中葡-Chinese-Portuguese"
+      ],
+      "entryCount": 50,
+      "fileSize": 6874,
+      "fileURL": "packs/pt-basic.json",
+      "language": "pt",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.pt.basic",
+      "packVersion": 1,
+      "sha256": "ef89e7e67104fdb0283ec4c4c31feb86fb99c8428357a0365b9493a6af313c7e",
+      "tags": [
+        "portuguese",
+        "beginner",
+        "chinese"
+      ],
+      "title": "葡萄牙语入门基础词汇"
+    },
+    {
+      "classification": "russian",
+      "description": "面向中文用户的俄语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为俄语西里尔词形，reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中俄-Chinese-Russian"
+      ],
+      "entryCount": 50,
+      "fileSize": 7209,
+      "fileURL": "packs/ru-basic.json",
+      "language": "ru",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ru.basic",
+      "packVersion": 1,
+      "sha256": "058971d15d7b44476d06a705f44920d58dea05c9b7e07a2024266da4afc5928f",
+      "tags": [
+        "russian",
+        "beginner",
+        "chinese"
+      ],
+      "title": "俄语入门基础词汇"
+    },
+    {
+      "classification": "swedish",
+      "description": "面向中文用户的瑞典语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为瑞典语词形，reading 为自拟近似音节标音（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中瑞-Chinese-Swedish"
+      ],
+      "entryCount": 50,
+      "fileSize": 6757,
+      "fileURL": "packs/sv-basic.json",
+      "language": "sv",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.sv.basic",
+      "packVersion": 1,
+      "sha256": "3af0c586d24356959446aeec61689c4c6a6970848f418cdc32a598dd5e27e25a",
+      "tags": [
+        "swedish",
+        "beginner",
+        "chinese"
+      ],
+      "title": "瑞典语入门基础词汇"
+    },
+    {
+      "classification": "turkish",
+      "description": "面向中文用户的土耳其语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为土耳其语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中土-Chinese-Turkish"
+      ],
+      "entryCount": 50,
+      "fileSize": 6891,
+      "fileURL": "packs/tr-basic.json",
+      "language": "tr",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.tr.basic",
+      "packVersion": 1,
+      "sha256": "2a29ad359da213223bfab3b82aae64310efdd45863f1551e64af91466fc97775",
+      "tags": [
+        "turkish",
+        "beginner",
+        "chinese"
+      ],
+      "title": "土耳其语入门基础词汇"
+    },
+    {
+      "classification": "vietnamese",
+      "description": "面向中文用户的越南语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为越南语国语字词形（含声调符号），reading 为去声调字母形式，meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中越-Chinese-Vietnamese"
+      ],
+      "entryCount": 50,
+      "fileSize": 6837,
+      "fileURL": "packs/vi-basic.json",
+      "language": "vi",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.vi.basic",
+      "packVersion": 1,
+      "sha256": "bf288c69017c696837bad3ef91287f4ba56498f3fd3671046cc48b939ca5abc7",
+      "tags": [
+        "vietnamese",
+        "beginner",
+        "chinese"
+      ],
+      "title": "越南语入门基础词汇"
     },
     {
       "classification": "ielts",

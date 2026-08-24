@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "sv-basic-001",
+      "meaning": "你好",
+      "reading": "hay",
+      "term": "hej"
+    },
+    {
+      "entryID": "sv-basic-002",
+      "meaning": "谢谢",
+      "reading": "tak",
+      "term": "tack"
+    },
+    {
+      "entryID": "sv-basic-003",
+      "meaning": "对不起",
+      "reading": "fur-LOT",
+      "term": "förlåt"
+    },
+    {
+      "entryID": "sv-basic-004",
+      "meaning": "是",
+      "reading": "ya",
+      "term": "ja"
+    },
+    {
+      "entryID": "sv-basic-005",
+      "meaning": "不是",
+      "reading": "nay",
+      "term": "nej"
+    },
+    {
+      "entryID": "sv-basic-006",
+      "meaning": "再见",
+      "reading": "hay doh",
+      "term": "hej då"
+    },
+    {
+      "entryID": "sv-basic-007",
+      "meaning": "水",
+      "reading": "VAT-ten",
+      "term": "vatten"
+    },
+    {
+      "entryID": "sv-basic-008",
+      "meaning": "面包",
+      "reading": "brud",
+      "term": "bröd"
+    },
+    {
+      "entryID": "sv-basic-009",
+      "meaning": "家；房子",
+      "reading": "hoos",
+      "term": "hus"
+    },
+    {
+      "entryID": "sv-basic-010",
+      "meaning": "学校",
+      "reading": "SKOO-la",
+      "term": "skola"
+    },
+    {
+      "entryID": "sv-basic-011",
+      "meaning": "朋友",
+      "reading": "ven",
+      "term": "vän"
+    },
+    {
+      "entryID": "sv-basic-012",
+      "meaning": "名字",
+      "reading": "namn",
+      "term": "namn"
+    },
+    {
+      "entryID": "sv-basic-013",
+      "meaning": "中国",
+      "reading": "SHEE-na",
+      "term": "Kina"
+    },
+    {
+      "entryID": "sv-basic-014",
+      "meaning": "今天",
+      "reading": "ee-DAHG",
+      "term": "idag"
+    },
+    {
+      "entryID": "sv-basic-015",
+      "meaning": "明天",
+      "reading": "ee-MOR-ron",
+      "term": "imorgon"
+    },
+    {
+      "entryID": "sv-basic-016",
+      "meaning": "现在",
+      "reading": "noo",
+      "term": "nu"
+    },
+    {
+      "entryID": "sv-basic-017",
+      "meaning": "时间",
+      "reading": "teed",
+      "term": "tid"
+    },
+    {
+      "entryID": "sv-basic-018",
+      "meaning": "人",
+      "reading": "MEN-nis-ka",
+      "term": "människa"
+    },
+    {
+      "entryID": "sv-basic-019",
+      "meaning": "男人",
+      "reading": "mahn",
+      "term": "man"
+    },
+    {
+      "entryID": "sv-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "KVIN-na",
+      "term": "kvinna"
+    },
+    {
+      "entryID": "sv-basic-021",
+      "meaning": "妈妈",
+      "reading": "MAM-ma",
+      "term": "mamma"
+    },
+    {
+      "entryID": "sv-basic-022",
+      "meaning": "爸爸",
+      "reading": "PAP-pa",
+      "term": "pappa"
+    },
+    {
+      "entryID": "sv-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MEL-y",
+      "term": "familj"
+    },
+    {
+      "entryID": "sv-basic-024",
+      "meaning": "钱",
+      "reading": "PENG-ar",
+      "term": "pengar"
+    },
+    {
+      "entryID": "sv-basic-025",
+      "meaning": "书",
+      "reading": "book",
+      "term": "bok"
+    },
+    {
+      "entryID": "sv-basic-026",
+      "meaning": "包；袋子",
+      "reading": "VES-ka",
+      "term": "väska"
+    },
+    {
+      "entryID": "sv-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FON",
+      "term": "telefon"
+    },
+    {
+      "entryID": "sv-basic-028",
+      "meaning": "咖啡",
+      "reading": "KAF-fe",
+      "term": "kaffe"
+    },
+    {
+      "entryID": "sv-basic-029",
+      "meaning": "茶",
+      "reading": "teh",
+      "term": "te"
+    },
+    {
+      "entryID": "sv-basic-030",
+      "meaning": "汽车",
+      "reading": "beel",
+      "term": "bil"
+    },
+    {
+      "entryID": "sv-basic-031",
+      "meaning": "火车",
+      "reading": "tog",
+      "term": "tåg"
+    },
+    {
+      "entryID": "sv-basic-032",
+      "meaning": "街道",
+      "reading": "GAH-ta",
+      "term": "gata"
+    },
+    {
+      "entryID": "sv-basic-033",
+      "meaning": "市场",
+      "reading": "MARK-nahd",
+      "term": "marknad"
+    },
+    {
+      "entryID": "sv-basic-034",
+      "meaning": "大的",
+      "reading": "stoor",
+      "term": "stor"
+    },
+    {
+      "entryID": "sv-basic-035",
+      "meaning": "小的",
+      "reading": "LEE-ten",
+      "term": "liten"
+    },
+    {
+      "entryID": "sv-basic-036",
+      "meaning": "好的",
+      "reading": "brah",
+      "term": "bra"
+    },
+    {
+      "entryID": "sv-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "DOH-lig",
+      "term": "dålig"
+    },
+    {
+      "entryID": "sv-basic-038",
+      "meaning": "多；非常",
+      "reading": "MUE-ket",
+      "term": "mycket"
+    },
+    {
+      "entryID": "sv-basic-039",
+      "meaning": "少",
+      "reading": "foh",
+      "term": "få"
+    },
+    {
+      "entryID": "sv-basic-040",
+      "meaning": "漂亮的",
+      "reading": "VAK-ker",
+      "term": "vacker"
+    },
+    {
+      "entryID": "sv-basic-041",
+      "meaning": "高兴的",
+      "reading": "glahd",
+      "term": "glad"
+    },
+    {
+      "entryID": "sv-basic-042",
+      "meaning": "吃",
+      "reading": "EH-ta",
+      "term": "äta"
+    },
+    {
+      "entryID": "sv-basic-043",
+      "meaning": "喝",
+      "reading": "DRIK-ka",
+      "term": "dricka"
+    },
+    {
+      "entryID": "sv-basic-044",
+      "meaning": "去；走",
+      "reading": "goh",
+      "term": "gå"
+    },
+    {
+      "entryID": "sv-basic-045",
+      "meaning": "来",
+      "reading": "KOM-ma",
+      "term": "komma"
+    },
+    {
+      "entryID": "sv-basic-046",
+      "meaning": "说；讲",
+      "reading": "PRAH-ta",
+      "term": "prata"
+    },
+    {
+      "entryID": "sv-basic-047",
+      "meaning": "学习",
+      "reading": "LEH-ra say",
+      "term": "lära sig"
+    },
+    {
+      "entryID": "sv-basic-048",
+      "meaning": "爱",
+      "reading": "SHAIR-lek",
+      "term": "kärlek"
+    },
+    {
+      "entryID": "sv-basic-049",
+      "meaning": "一",
+      "reading": "en",
+      "term": "en"
+    },
+    {
+      "entryID": "sv-basic-050",
+      "meaning": "什么",
+      "reading": "vahd",
+      "term": "vad"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "swedish",
+    "description": "面向中文用户的瑞典语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为瑞典语词形，reading 为自拟近似音节标音（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "sv",
+    "level": "beginner",
+    "tags": [
+      "swedish",
+      "beginner",
+      "chinese"
+    ],
+    "title": "瑞典语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.sv.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

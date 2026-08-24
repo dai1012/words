@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "de-basic-001",
+      "meaning": "你好",
+      "reading": "HAL-lo",
+      "term": "Hallo"
+    },
+    {
+      "entryID": "de-basic-002",
+      "meaning": "谢谢",
+      "reading": "DAN-ke",
+      "term": "Danke"
+    },
+    {
+      "entryID": "de-basic-003",
+      "meaning": "对不起；打扰了",
+      "reading": "ent-SOOL-di-goong",
+      "term": "Entschuldigung"
+    },
+    {
+      "entryID": "de-basic-004",
+      "meaning": "是",
+      "reading": "ya",
+      "term": "Ja"
+    },
+    {
+      "entryID": "de-basic-005",
+      "meaning": "不是",
+      "reading": "nine",
+      "term": "Nein"
+    },
+    {
+      "entryID": "de-basic-006",
+      "meaning": "再见",
+      "reading": "auf VEE-der-zay-en",
+      "term": "Auf Wiedersehen"
+    },
+    {
+      "entryID": "de-basic-007",
+      "meaning": "水",
+      "reading": "WAS-ser",
+      "term": "Wasser"
+    },
+    {
+      "entryID": "de-basic-008",
+      "meaning": "面包",
+      "reading": "brot",
+      "term": "Brot"
+    },
+    {
+      "entryID": "de-basic-009",
+      "meaning": "家；房子",
+      "reading": "hous",
+      "term": "Haus"
+    },
+    {
+      "entryID": "de-basic-010",
+      "meaning": "学校",
+      "reading": "SHOO-le",
+      "term": "Schule"
+    },
+    {
+      "entryID": "de-basic-011",
+      "meaning": "朋友",
+      "reading": "froynt",
+      "term": "Freund"
+    },
+    {
+      "entryID": "de-basic-012",
+      "meaning": "名字",
+      "reading": "NA-me",
+      "term": "Name"
+    },
+    {
+      "entryID": "de-basic-013",
+      "meaning": "中国",
+      "reading": "CHEE-na",
+      "term": "China"
+    },
+    {
+      "entryID": "de-basic-014",
+      "meaning": "今天",
+      "reading": "HOY-te",
+      "term": "heute"
+    },
+    {
+      "entryID": "de-basic-015",
+      "meaning": "明天",
+      "reading": "MOR-gen",
+      "term": "morgen"
+    },
+    {
+      "entryID": "de-basic-016",
+      "meaning": "现在",
+      "reading": "yetzt",
+      "term": "jetzt"
+    },
+    {
+      "entryID": "de-basic-017",
+      "meaning": "时间",
+      "reading": "tsait",
+      "term": "Zeit"
+    },
+    {
+      "entryID": "de-basic-018",
+      "meaning": "人",
+      "reading": "mensh",
+      "term": "Mensch"
+    },
+    {
+      "entryID": "de-basic-019",
+      "meaning": "男人",
+      "reading": "man",
+      "term": "Mann"
+    },
+    {
+      "entryID": "de-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "frow",
+      "term": "Frau"
+    },
+    {
+      "entryID": "de-basic-021",
+      "meaning": "妈妈",
+      "reading": "MA-ma",
+      "term": "Mama"
+    },
+    {
+      "entryID": "de-basic-022",
+      "meaning": "爸爸",
+      "reading": "PA-pa",
+      "term": "Papa"
+    },
+    {
+      "entryID": "de-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MEE-lye",
+      "term": "Familie"
+    },
+    {
+      "entryID": "de-basic-024",
+      "meaning": "钱",
+      "reading": "gelt",
+      "term": "Geld"
+    },
+    {
+      "entryID": "de-basic-025",
+      "meaning": "书",
+      "reading": "bookh",
+      "term": "Buch"
+    },
+    {
+      "entryID": "de-basic-026",
+      "meaning": "包；袋子",
+      "reading": "TA-she",
+      "term": "Tasche"
+    },
+    {
+      "entryID": "de-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FON",
+      "term": "Telefon"
+    },
+    {
+      "entryID": "de-basic-028",
+      "meaning": "咖啡",
+      "reading": "KA-fe",
+      "term": "Kaffee"
+    },
+    {
+      "entryID": "de-basic-029",
+      "meaning": "茶",
+      "reading": "tee",
+      "term": "Tee"
+    },
+    {
+      "entryID": "de-basic-030",
+      "meaning": "汽车",
+      "reading": "OW-to",
+      "term": "Auto"
+    },
+    {
+      "entryID": "de-basic-031",
+      "meaning": "火车",
+      "reading": "tsook",
+      "term": "Zug"
+    },
+    {
+      "entryID": "de-basic-032",
+      "meaning": "街道",
+      "reading": "SHTRA-se",
+      "term": "Straße"
+    },
+    {
+      "entryID": "de-basic-033",
+      "meaning": "市场",
+      "reading": "markt",
+      "term": "Markt"
+    },
+    {
+      "entryID": "de-basic-034",
+      "meaning": "大的",
+      "reading": "groos",
+      "term": "groß"
+    },
+    {
+      "entryID": "de-basic-035",
+      "meaning": "小的",
+      "reading": "klein",
+      "term": "klein"
+    },
+    {
+      "entryID": "de-basic-036",
+      "meaning": "好的",
+      "reading": "goot",
+      "term": "gut"
+    },
+    {
+      "entryID": "de-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "shlesht",
+      "term": "schlecht"
+    },
+    {
+      "entryID": "de-basic-038",
+      "meaning": "多",
+      "reading": "feel",
+      "term": "viel"
+    },
+    {
+      "entryID": "de-basic-039",
+      "meaning": "少",
+      "reading": "VAY-nikh",
+      "term": "wenig"
+    },
+    {
+      "entryID": "de-basic-040",
+      "meaning": "漂亮的",
+      "reading": "shön",
+      "term": "schön"
+    },
+    {
+      "entryID": "de-basic-041",
+      "meaning": "高兴的",
+      "reading": "froh",
+      "term": "froh"
+    },
+    {
+      "entryID": "de-basic-042",
+      "meaning": "吃",
+      "reading": "ES-sen",
+      "term": "essen"
+    },
+    {
+      "entryID": "de-basic-043",
+      "meaning": "喝",
+      "reading": "TRIN-ken",
+      "term": "trinken"
+    },
+    {
+      "entryID": "de-basic-044",
+      "meaning": "去",
+      "reading": "GAY-en",
+      "term": "gehen"
+    },
+    {
+      "entryID": "de-basic-045",
+      "meaning": "来",
+      "reading": "KOM-men",
+      "term": "kommen"
+    },
+    {
+      "entryID": "de-basic-046",
+      "meaning": "说；讲",
+      "reading": "SHPRE-hen",
+      "term": "sprechen"
+    },
+    {
+      "entryID": "de-basic-047",
+      "meaning": "学习",
+      "reading": "LER-nen",
+      "term": "lernen"
+    },
+    {
+      "entryID": "de-basic-048",
+      "meaning": "爱",
+      "reading": "LEE-be",
+      "term": "Liebe"
+    },
+    {
+      "entryID": "de-basic-049",
+      "meaning": "一",
+      "reading": "ains",
+      "term": "eins"
+    },
+    {
+      "entryID": "de-basic-050",
+      "meaning": "什么",
+      "reading": "vas",
+      "term": "was"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "german",
+    "description": "面向中文用户的德语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为德语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "de",
+    "level": "beginner",
+    "tags": [
+      "german",
+      "beginner",
+      "chinese"
+    ],
+    "title": "德语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.de.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

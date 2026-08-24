@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "ar-basic-001",
+      "meaning": "你好",
+      "reading": "mar-HA-ban",
+      "term": "مرحبا"
+    },
+    {
+      "entryID": "ar-basic-002",
+      "meaning": "谢谢",
+      "reading": "SHOO-kran",
+      "term": "شكرا"
+    },
+    {
+      "entryID": "ar-basic-003",
+      "meaning": "对不起",
+      "reading": "A-sif",
+      "term": "آسف"
+    },
+    {
+      "entryID": "ar-basic-004",
+      "meaning": "是",
+      "reading": "na-am",
+      "term": "نعم"
+    },
+    {
+      "entryID": "ar-basic-005",
+      "meaning": "不是",
+      "reading": "la",
+      "term": "لا"
+    },
+    {
+      "entryID": "ar-basic-006",
+      "meaning": "再见",
+      "reading": "ma-a s-SALAM-a",
+      "term": "مع السلامة"
+    },
+    {
+      "entryID": "ar-basic-007",
+      "meaning": "水",
+      "reading": "MAH",
+      "term": "ماء"
+    },
+    {
+      "entryID": "ar-basic-008",
+      "meaning": "面包",
+      "reading": "KHUBZ",
+      "term": "خبز"
+    },
+    {
+      "entryID": "ar-basic-009",
+      "meaning": "家；房子",
+      "reading": "BAIT",
+      "term": "بيت"
+    },
+    {
+      "entryID": "ar-basic-010",
+      "meaning": "学校",
+      "reading": "mad-ra-SA",
+      "term": "مدرسة"
+    },
+    {
+      "entryID": "ar-basic-011",
+      "meaning": "朋友",
+      "reading": "sa-DEEQ",
+      "term": "صديق"
+    },
+    {
+      "entryID": "ar-basic-012",
+      "meaning": "名字",
+      "reading": "ISM",
+      "term": "اسم"
+    },
+    {
+      "entryID": "ar-basic-013",
+      "meaning": "中国",
+      "reading": "as-SIN",
+      "term": "الصين"
+    },
+    {
+      "entryID": "ar-basic-014",
+      "meaning": "今天",
+      "reading": "al-YAWM",
+      "term": "اليوم"
+    },
+    {
+      "entryID": "ar-basic-015",
+      "meaning": "明天",
+      "reading": "GHADAN",
+      "term": "غدا"
+    },
+    {
+      "entryID": "ar-basic-016",
+      "meaning": "现在",
+      "reading": "al-AAN",
+      "term": "الآن"
+    },
+    {
+      "entryID": "ar-basic-017",
+      "meaning": "时间",
+      "reading": "WAQT",
+      "term": "وقت"
+    },
+    {
+      "entryID": "ar-basic-018",
+      "meaning": "人",
+      "reading": "in-SAN",
+      "term": "إنسان"
+    },
+    {
+      "entryID": "ar-basic-019",
+      "meaning": "男人",
+      "reading": "RA-jul",
+      "term": "رجل"
+    },
+    {
+      "entryID": "ar-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "im-ra-A",
+      "term": "امرأة"
+    },
+    {
+      "entryID": "ar-basic-021",
+      "meaning": "妈妈",
+      "reading": "umm",
+      "term": "أم"
+    },
+    {
+      "entryID": "ar-basic-022",
+      "meaning": "爸爸",
+      "reading": "ab",
+      "term": "أب"
+    },
+    {
+      "entryID": "ar-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "a-I-la",
+      "term": "عائلة"
+    },
+    {
+      "entryID": "ar-basic-024",
+      "meaning": "钱",
+      "reading": "MAL",
+      "term": "مال"
+    },
+    {
+      "entryID": "ar-basic-025",
+      "meaning": "书",
+      "reading": "ki-TAB",
+      "term": "كتاب"
+    },
+    {
+      "entryID": "ar-basic-026",
+      "meaning": "包；袋子",
+      "reading": "ha-qee-BA",
+      "term": "حقيبة"
+    },
+    {
+      "entryID": "ar-basic-027",
+      "meaning": "电话",
+      "reading": "HA-tif",
+      "term": "هاتف"
+    },
+    {
+      "entryID": "ar-basic-028",
+      "meaning": "咖啡",
+      "reading": "KAH-wa",
+      "term": "قهوة"
+    },
+    {
+      "entryID": "ar-basic-029",
+      "meaning": "茶",
+      "reading": "shai",
+      "term": "شاي"
+    },
+    {
+      "entryID": "ar-basic-030",
+      "meaning": "汽车",
+      "reading": "say-ya-RA",
+      "term": "سيارة"
+    },
+    {
+      "entryID": "ar-basic-031",
+      "meaning": "火车",
+      "reading": "qi-TAR",
+      "term": "قطار"
+    },
+    {
+      "entryID": "ar-basic-032",
+      "meaning": "街道",
+      "reading": "SHA-ri",
+      "term": "شارع"
+    },
+    {
+      "entryID": "ar-basic-033",
+      "meaning": "市场",
+      "reading": "SOOQ",
+      "term": "سوق"
+    },
+    {
+      "entryID": "ar-basic-034",
+      "meaning": "大的",
+      "reading": "ka-BEER",
+      "term": "كبير"
+    },
+    {
+      "entryID": "ar-basic-035",
+      "meaning": "小的",
+      "reading": "sa-GHEER",
+      "term": "صغير"
+    },
+    {
+      "entryID": "ar-basic-036",
+      "meaning": "好的",
+      "reading": "JAyyid",
+      "term": "جيد"
+    },
+    {
+      "entryID": "ar-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "sa-EE",
+      "term": "سيء"
+    },
+    {
+      "entryID": "ar-basic-038",
+      "meaning": "多",
+      "reading": "ka-THEER",
+      "term": "كثير"
+    },
+    {
+      "entryID": "ar-basic-039",
+      "meaning": "少",
+      "reading": "qa-LEEL",
+      "term": "قليل"
+    },
+    {
+      "entryID": "ar-basic-040",
+      "meaning": "漂亮的",
+      "reading": "ja-MEEL",
+      "term": "جميل"
+    },
+    {
+      "entryID": "ar-basic-041",
+      "meaning": "高兴的",
+      "reading": "sa-EED",
+      "term": "سعيد"
+    },
+    {
+      "entryID": "ar-basic-042",
+      "meaning": "吃（他）",
+      "reading": "ya-KUL",
+      "term": "يأكل"
+    },
+    {
+      "entryID": "ar-basic-043",
+      "meaning": "喝（他）",
+      "reading": "yash-RAB",
+      "term": "يشرب"
+    },
+    {
+      "entryID": "ar-basic-044",
+      "meaning": "去（他）",
+      "reading": "yaz-HAB",
+      "term": "يذهب"
+    },
+    {
+      "entryID": "ar-basic-045",
+      "meaning": "来（他）",
+      "reading": "ya-TEE",
+      "term": "يأتي"
+    },
+    {
+      "entryID": "ar-basic-046",
+      "meaning": "说；讲（他）",
+      "reading": "yat-kal-LIM",
+      "term": "يتكلم"
+    },
+    {
+      "entryID": "ar-basic-047",
+      "meaning": "学习（他）",
+      "reading": "yas-DURUS",
+      "term": "يدرس"
+    },
+    {
+      "entryID": "ar-basic-048",
+      "meaning": "爱",
+      "reading": "HUBB",
+      "term": "حب"
+    },
+    {
+      "entryID": "ar-basic-049",
+      "meaning": "一",
+      "reading": "WA-hid",
+      "term": "واحد"
+    },
+    {
+      "entryID": "ar-basic-050",
+      "meaning": "什么",
+      "reading": "MA-dha",
+      "term": "ماذا"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "arabic",
+    "description": "面向中文用户的阿拉伯语入门基础试点词包（首批 50 词，现代标准语）。词条为本项目原创编写：term 为阿拉伯语词形（无元音符号常规拼写），reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "ar",
+    "level": "beginner",
+    "tags": [
+      "arabic",
+      "beginner",
+      "chinese"
+    ],
+    "title": "阿拉伯语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.ar.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

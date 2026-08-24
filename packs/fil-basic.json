@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "fil-basic-001",
+      "meaning": "你好",
+      "reading": "ku-MOOS-ta",
+      "term": "kumusta"
+    },
+    {
+      "entryID": "fil-basic-002",
+      "meaning": "谢谢",
+      "reading": "sa-LA-lat",
+      "term": "salamat"
+    },
+    {
+      "entryID": "fil-basic-003",
+      "meaning": "对不起",
+      "reading": "pa-oom-MAN-hin",
+      "term": "paumanhin"
+    },
+    {
+      "entryID": "fil-basic-004",
+      "meaning": "是",
+      "reading": "o-o",
+      "term": "oo"
+    },
+    {
+      "entryID": "fil-basic-005",
+      "meaning": "不是",
+      "reading": "HIN-di",
+      "term": "hindi"
+    },
+    {
+      "entryID": "fil-basic-006",
+      "meaning": "再见",
+      "reading": "pa-A-lam",
+      "term": "paalam"
+    },
+    {
+      "entryID": "fil-basic-007",
+      "meaning": "水",
+      "reading": "TOO-big",
+      "term": "tubig"
+    },
+    {
+      "entryID": "fil-basic-008",
+      "meaning": "米饭；饭",
+      "reading": "KA-nin",
+      "term": "kanin"
+    },
+    {
+      "entryID": "fil-basic-009",
+      "meaning": "家；房子",
+      "reading": "BA-high",
+      "term": "bahay"
+    },
+    {
+      "entryID": "fil-basic-010",
+      "meaning": "学校",
+      "reading": "pa-a-RA-lan",
+      "term": "paaralan"
+    },
+    {
+      "entryID": "fil-basic-011",
+      "meaning": "朋友",
+      "reading": "ka-I-bi-gan",
+      "term": "kaibigan"
+    },
+    {
+      "entryID": "fil-basic-012",
+      "meaning": "名字",
+      "reading": "pa-NGA-lan",
+      "term": "pangalan"
+    },
+    {
+      "entryID": "fil-basic-013",
+      "meaning": "中国",
+      "reading": "TSI-na",
+      "term": "Tsina"
+    },
+    {
+      "entryID": "fil-basic-014",
+      "meaning": "今天；现在",
+      "reading": "NGA-yon",
+      "term": "ngayon"
+    },
+    {
+      "entryID": "fil-basic-015",
+      "meaning": "明天；开（门）",
+      "reading": "BOO-kas",
+      "term": "bukas"
+    },
+    {
+      "entryID": "fil-basic-016",
+      "meaning": "小时；时间",
+      "reading": "O-ras",
+      "term": "oras"
+    },
+    {
+      "entryID": "fil-basic-017",
+      "meaning": "时间；天气",
+      "reading": "PA-na-hon",
+      "term": "panahon"
+    },
+    {
+      "entryID": "fil-basic-018",
+      "meaning": "人",
+      "reading": "ta-O",
+      "term": "tao"
+    },
+    {
+      "entryID": "fil-basic-019",
+      "meaning": "男人",
+      "reading": "la-LA-ki",
+      "term": "lalaki"
+    },
+    {
+      "entryID": "fil-basic-020",
+      "meaning": "女人",
+      "reading": "ba-BA-e",
+      "term": "babae"
+    },
+    {
+      "entryID": "fil-basic-021",
+      "meaning": "妈妈",
+      "reading": "EE-na",
+      "term": "ina"
+    },
+    {
+      "entryID": "fil-basic-022",
+      "meaning": "爸爸",
+      "reading": "AH-ma",
+      "term": "ama"
+    },
+    {
+      "entryID": "fil-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "pam-EE-lya",
+      "term": "pamilya"
+    },
+    {
+      "entryID": "fil-basic-024",
+      "meaning": "钱",
+      "reading": "PE-ra",
+      "term": "pera"
+    },
+    {
+      "entryID": "fil-basic-025",
+      "meaning": "书",
+      "reading": "LIB-ro",
+      "term": "libro"
+    },
+    {
+      "entryID": "fil-basic-026",
+      "meaning": "包；袋子",
+      "reading": "bag",
+      "term": "bag"
+    },
+    {
+      "entryID": "fil-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-PO-no",
+      "term": "telepono"
+    },
+    {
+      "entryID": "fil-basic-028",
+      "meaning": "咖啡",
+      "reading": "KA-peh",
+      "term": "kape"
+    },
+    {
+      "entryID": "fil-basic-029",
+      "meaning": "茶",
+      "reading": "tsa-AH",
+      "term": "tsaa"
+    },
+    {
+      "entryID": "fil-basic-030",
+      "meaning": "汽车",
+      "reading": "KOT-seh",
+      "term": "kotse"
+    },
+    {
+      "entryID": "fil-basic-031",
+      "meaning": "火车",
+      "reading": "tren",
+      "term": "tren"
+    },
+    {
+      "entryID": "fil-basic-032",
+      "meaning": "街道；公路",
+      "reading": "kal-SA-da",
+      "term": "kalsada"
+    },
+    {
+      "entryID": "fil-basic-033",
+      "meaning": "市场",
+      "reading": "pa-LENG-keh",
+      "term": "palengke"
+    },
+    {
+      "entryID": "fil-basic-034",
+      "meaning": "大的",
+      "reading": "ma-LA-ki",
+      "term": "malaki"
+    },
+    {
+      "entryID": "fil-basic-035",
+      "meaning": "小的",
+      "reading": "ma-LEE-it",
+      "term": "maliit"
+    },
+    {
+      "entryID": "fil-basic-036",
+      "meaning": "好的",
+      "reading": "ma-BOO-ti",
+      "term": "mabuti"
+    },
+    {
+      "entryID": "fil-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "ma-SA-ma",
+      "term": "masama"
+    },
+    {
+      "entryID": "fil-basic-038",
+      "meaning": "多",
+      "reading": "ma-RA-mi",
+      "term": "marami"
+    },
+    {
+      "entryID": "fil-basic-039",
+      "meaning": "少",
+      "reading": "ka-OON-ti",
+      "term": "kaunti"
+    },
+    {
+      "entryID": "fil-basic-040",
+      "meaning": "漂亮的",
+      "reading": "ma-GAN-da",
+      "term": "maganda"
+    },
+    {
+      "entryID": "fil-basic-041",
+      "meaning": "高兴的",
+      "reading": "ma-SA-ya",
+      "term": "masaya"
+    },
+    {
+      "entryID": "fil-basic-042",
+      "meaning": "吃（完成体）",
+      "reading": "koo-MA-in",
+      "term": "kumain"
+    },
+    {
+      "entryID": "fil-basic-043",
+      "meaning": "喝（完成体）",
+      "reading": "oo-ME-nom",
+      "term": "uminom"
+    },
+    {
+      "entryID": "fil-basic-044",
+      "meaning": "去（完成体）",
+      "reading": "poo-MOON-ta",
+      "term": "pumunta"
+    },
+    {
+      "entryID": "fil-basic-045",
+      "meaning": "来；到达（完成体）",
+      "reading": "doo-MA-ting",
+      "term": "dumating"
+    },
+    {
+      "entryID": "fil-basic-046",
+      "meaning": "说；讲话",
+      "reading": "mag-sa-LEE-ta",
+      "term": "magsalita"
+    },
+    {
+      "entryID": "fil-basic-047",
+      "meaning": "学习；学会",
+      "reading": "ma-TOO-to",
+      "term": "matuto"
+    },
+    {
+      "entryID": "fil-basic-048",
+      "meaning": "爱",
+      "reading": "pag-I-big",
+      "term": "pag-ibig"
+    },
+    {
+      "entryID": "fil-basic-049",
+      "meaning": "一",
+      "reading": "EE-sa",
+      "term": "isa"
+    },
+    {
+      "entryID": "fil-basic-050",
+      "meaning": "什么",
+      "reading": "A-no",
+      "term": "ano"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "filipino",
+    "description": "面向中文用户的菲律宾语入门基础试点词包（首批 50 词，以他加禄语为基础的标准语）。词条为本项目原创编写：term 为菲律宾语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "fil",
+    "level": "beginner",
+    "tags": [
+      "filipino",
+      "beginner",
+      "chinese"
+    ],
+    "title": "菲律宾语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.fil.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "fr-basic-001",
+      "meaning": "你好",
+      "reading": "bon-ZHOOR",
+      "term": "bonjour"
+    },
+    {
+      "entryID": "fr-basic-002",
+      "meaning": "谢谢",
+      "reading": "mer-SI",
+      "term": "merci"
+    },
+    {
+      "entryID": "fr-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "par-DON",
+      "term": "pardon"
+    },
+    {
+      "entryID": "fr-basic-004",
+      "meaning": "是",
+      "reading": "oui",
+      "term": "oui"
+    },
+    {
+      "entryID": "fr-basic-005",
+      "meaning": "不是",
+      "reading": "non",
+      "term": "non"
+    },
+    {
+      "entryID": "fr-basic-006",
+      "meaning": "再见",
+      "reading": "o-re-VWAR",
+      "term": "au revoir"
+    },
+    {
+      "entryID": "fr-basic-007",
+      "meaning": "水",
+      "reading": "O",
+      "term": "eau"
+    },
+    {
+      "entryID": "fr-basic-008",
+      "meaning": "面包",
+      "reading": "PAN",
+      "term": "pain"
+    },
+    {
+      "entryID": "fr-basic-009",
+      "meaning": "家；房子",
+      "reading": "mai-ZON",
+      "term": "maison"
+    },
+    {
+      "entryID": "fr-basic-010",
+      "meaning": "学校",
+      "reading": "ey-KOL",
+      "term": "école"
+    },
+    {
+      "entryID": "fr-basic-011",
+      "meaning": "朋友",
+      "reading": "a-MI",
+      "term": "ami"
+    },
+    {
+      "entryID": "fr-basic-012",
+      "meaning": "名字",
+      "reading": "NON",
+      "term": "nom"
+    },
+    {
+      "entryID": "fr-basic-013",
+      "meaning": "中国",
+      "reading": "SHIN",
+      "term": "Chine"
+    },
+    {
+      "entryID": "fr-basic-014",
+      "meaning": "今天",
+      "reading": "o-zhur-DWEE",
+      "term": "aujourd'hui"
+    },
+    {
+      "entryID": "fr-basic-015",
+      "meaning": "明天",
+      "reading": "duh-MAN",
+      "term": "demain"
+    },
+    {
+      "entryID": "fr-basic-016",
+      "meaning": "现在",
+      "reading": "MAN-TE-NAN",
+      "term": "maintenant"
+    },
+    {
+      "entryID": "fr-basic-017",
+      "meaning": "小时；时间",
+      "reading": "ERR",
+      "term": "heure"
+    },
+    {
+      "entryID": "fr-basic-018",
+      "meaning": "人",
+      "reading": "per-SON",
+      "term": "personne"
+    },
+    {
+      "entryID": "fr-basic-019",
+      "meaning": "男人",
+      "reading": "OM",
+      "term": "homme"
+    },
+    {
+      "entryID": "fr-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "FAM",
+      "term": "femme"
+    },
+    {
+      "entryID": "fr-basic-021",
+      "meaning": "妈妈",
+      "reading": "ma-MAN",
+      "term": "maman"
+    },
+    {
+      "entryID": "fr-basic-022",
+      "meaning": "爸爸",
+      "reading": "pa-PA",
+      "term": "papa"
+    },
+    {
+      "entryID": "fr-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MIY",
+      "term": "famille"
+    },
+    {
+      "entryID": "fr-basic-024",
+      "meaning": "钱",
+      "reading": "ar-ZHAN",
+      "term": "argent"
+    },
+    {
+      "entryID": "fr-basic-025",
+      "meaning": "书",
+      "reading": "LEEVR",
+      "term": "livre"
+    },
+    {
+      "entryID": "fr-basic-026",
+      "meaning": "包；袋子",
+      "reading": "SAC",
+      "term": "sac"
+    },
+    {
+      "entryID": "fr-basic-027",
+      "meaning": "电话",
+      "reading": "tey-le-FON",
+      "term": "téléphone"
+    },
+    {
+      "entryID": "fr-basic-028",
+      "meaning": "咖啡",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "fr-basic-029",
+      "meaning": "茶",
+      "reading": "TE",
+      "term": "thé"
+    },
+    {
+      "entryID": "fr-basic-030",
+      "meaning": "汽车",
+      "reading": "vwa-TUR",
+      "term": "voiture"
+    },
+    {
+      "entryID": "fr-basic-031",
+      "meaning": "火车",
+      "reading": "TRAN",
+      "term": "train"
+    },
+    {
+      "entryID": "fr-basic-032",
+      "meaning": "街道",
+      "reading": "RU",
+      "term": "rue"
+    },
+    {
+      "entryID": "fr-basic-033",
+      "meaning": "市场",
+      "reading": "mar-SHE",
+      "term": "marché"
+    },
+    {
+      "entryID": "fr-basic-034",
+      "meaning": "大的",
+      "reading": "GRAN",
+      "term": "grand"
+    },
+    {
+      "entryID": "fr-basic-035",
+      "meaning": "小的",
+      "reading": "pe-TEE",
+      "term": "petit"
+    },
+    {
+      "entryID": "fr-basic-036",
+      "meaning": "好的",
+      "reading": "BON",
+      "term": "bon"
+    },
+    {
+      "entryID": "fr-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "mo-VE",
+      "term": "mauvais"
+    },
+    {
+      "entryID": "fr-basic-038",
+      "meaning": "多；非常",
+      "reading": "bo-KOO",
+      "term": "beaucoup"
+    },
+    {
+      "entryID": "fr-basic-039",
+      "meaning": "少",
+      "reading": "PU",
+      "term": "peu"
+    },
+    {
+      "entryID": "fr-basic-040",
+      "meaning": "漂亮的",
+      "reading": "BO",
+      "term": "beau"
+    },
+    {
+      "entryID": "fr-basic-041",
+      "meaning": "高兴的",
+      "reading": "kon-TAN",
+      "term": "content"
+    },
+    {
+      "entryID": "fr-basic-042",
+      "meaning": "吃",
+      "reading": "man-ZHE",
+      "term": "manger"
+    },
+    {
+      "entryID": "fr-basic-043",
+      "meaning": "喝",
+      "reading": "BWAR",
+      "term": "boire"
+    },
+    {
+      "entryID": "fr-basic-044",
+      "meaning": "去",
+      "reading": "a-LE",
+      "term": "aller"
+    },
+    {
+      "entryID": "fr-basic-045",
+      "meaning": "来",
+      "reading": "ve-NIR",
+      "term": "venir"
+    },
+    {
+      "entryID": "fr-basic-046",
+      "meaning": "说；讲",
+      "reading": "par-LE",
+      "term": "parler"
+    },
+    {
+      "entryID": "fr-basic-047",
+      "meaning": "学习",
+      "reading": "a-PRANDR",
+      "term": "apprendre"
+    },
+    {
+      "entryID": "fr-basic-048",
+      "meaning": "爱",
+      "reading": "a-MOOR",
+      "term": "amour"
+    },
+    {
+      "entryID": "fr-basic-049",
+      "meaning": "一",
+      "reading": "UN",
+      "term": "un"
+    },
+    {
+      "entryID": "fr-basic-050",
+      "meaning": "什么",
+      "reading": "KWA",
+      "term": "quoi"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "french",
+    "description": "面向中文用户的法语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为法语词形，reading 为自拟 ASCII 近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "fr",
+    "level": "beginner",
+    "tags": [
+      "french",
+      "beginner",
+      "chinese"
+    ],
+    "title": "法语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.fr.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

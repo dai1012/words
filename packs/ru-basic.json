@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "ru-basic-001",
+      "meaning": "你好（非正式）",
+      "reading": "pree-VYET",
+      "term": "привет"
+    },
+    {
+      "entryID": "ru-basic-002",
+      "meaning": "谢谢",
+      "reading": "spa-SEE-ba",
+      "term": "спасибо"
+    },
+    {
+      "entryID": "ru-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "iz-vi-NEE-tye",
+      "term": "извините"
+    },
+    {
+      "entryID": "ru-basic-004",
+      "meaning": "是",
+      "reading": "da",
+      "term": "да"
+    },
+    {
+      "entryID": "ru-basic-005",
+      "meaning": "不是；没有",
+      "reading": "nyet",
+      "term": "нет"
+    },
+    {
+      "entryID": "ru-basic-006",
+      "meaning": "再见",
+      "reading": "da svi-DA-ni-ya",
+      "term": "до свидания"
+    },
+    {
+      "entryID": "ru-basic-007",
+      "meaning": "水",
+      "reading": "va-DA",
+      "term": "вода"
+    },
+    {
+      "entryID": "ru-basic-008",
+      "meaning": "面包",
+      "reading": "khlyep",
+      "term": "хлеб"
+    },
+    {
+      "entryID": "ru-basic-009",
+      "meaning": "家；房子",
+      "reading": "dom",
+      "term": "дом"
+    },
+    {
+      "entryID": "ru-basic-010",
+      "meaning": "学校",
+      "reading": "SHKO-la",
+      "term": "школа"
+    },
+    {
+      "entryID": "ru-basic-011",
+      "meaning": "朋友",
+      "reading": "drook",
+      "term": "друг"
+    },
+    {
+      "entryID": "ru-basic-012",
+      "meaning": "名字",
+      "reading": "EE-mya",
+      "term": "имя"
+    },
+    {
+      "entryID": "ru-basic-013",
+      "meaning": "中国",
+      "reading": "kee-TAI",
+      "term": "Китай"
+    },
+    {
+      "entryID": "ru-basic-014",
+      "meaning": "今天",
+      "reading": "see-VOD-nya",
+      "term": "сегодня"
+    },
+    {
+      "entryID": "ru-basic-015",
+      "meaning": "明天",
+      "reading": "ZAV-tra",
+      "term": "завтра"
+    },
+    {
+      "entryID": "ru-basic-016",
+      "meaning": "现在",
+      "reading": "see-CHAS",
+      "term": "сейчас"
+    },
+    {
+      "entryID": "ru-basic-017",
+      "meaning": "时间",
+      "reading": "VRE-mya",
+      "term": "время"
+    },
+    {
+      "entryID": "ru-basic-018",
+      "meaning": "人",
+      "reading": "che-lo-VYEK",
+      "term": "человек"
+    },
+    {
+      "entryID": "ru-basic-019",
+      "meaning": "男人",
+      "reading": "moosh-SHEE-na",
+      "term": "мужчина"
+    },
+    {
+      "entryID": "ru-basic-020",
+      "meaning": "女人",
+      "reading": "ZHEN-shchi-na",
+      "term": "женщина"
+    },
+    {
+      "entryID": "ru-basic-021",
+      "meaning": "妈妈",
+      "reading": "MA-ma",
+      "term": "мама"
+    },
+    {
+      "entryID": "ru-basic-022",
+      "meaning": "爸爸",
+      "reading": "PA-pa",
+      "term": "папа"
+    },
+    {
+      "entryID": "ru-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "sim-YA",
+      "term": "семья"
+    },
+    {
+      "entryID": "ru-basic-024",
+      "meaning": "钱",
+      "reading": "DYEN-gi",
+      "term": "деньги"
+    },
+    {
+      "entryID": "ru-basic-025",
+      "meaning": "书",
+      "reading": "KNEE-ga",
+      "term": "книга"
+    },
+    {
+      "entryID": "ru-basic-026",
+      "meaning": "包；袋子",
+      "reading": "SOOM-ka",
+      "term": "сумка"
+    },
+    {
+      "entryID": "ru-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FON",
+      "term": "телефон"
+    },
+    {
+      "entryID": "ru-basic-028",
+      "meaning": "咖啡",
+      "reading": "KO-fye",
+      "term": "кофе"
+    },
+    {
+      "entryID": "ru-basic-029",
+      "meaning": "茶",
+      "reading": "chai",
+      "term": "чай"
+    },
+    {
+      "entryID": "ru-basic-030",
+      "meaning": "汽车",
+      "reading": "ma-SHEE-na",
+      "term": "машина"
+    },
+    {
+      "entryID": "ru-basic-031",
+      "meaning": "火车",
+      "reading": "PO-eztd",
+      "term": "поезд"
+    },
+    {
+      "entryID": "ru-basic-032",
+      "meaning": "街道",
+      "reading": "OO-li-tsa",
+      "term": "улица"
+    },
+    {
+      "entryID": "ru-basic-033",
+      "meaning": "市场",
+      "reading": "RY-nak",
+      "term": "рынок"
+    },
+    {
+      "entryID": "ru-basic-034",
+      "meaning": "大的",
+      "reading": "bal-SHOY",
+      "term": "большой"
+    },
+    {
+      "entryID": "ru-basic-035",
+      "meaning": "小的",
+      "reading": "MA-len-kii",
+      "term": "маленький"
+    },
+    {
+      "entryID": "ru-basic-036",
+      "meaning": "好的",
+      "reading": "kha-RO-shii",
+      "term": "хороший"
+    },
+    {
+      "entryID": "ru-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "pla-KHOY",
+      "term": "плохой"
+    },
+    {
+      "entryID": "ru-basic-038",
+      "meaning": "多",
+      "reading": "MNO-ga",
+      "term": "много"
+    },
+    {
+      "entryID": "ru-basic-039",
+      "meaning": "少",
+      "reading": "MA-la",
+      "term": "мало"
+    },
+    {
+      "entryID": "ru-basic-040",
+      "meaning": "漂亮的",
+      "reading": "kra-SEE-vyi",
+      "term": "красивый"
+    },
+    {
+      "entryID": "ru-basic-041",
+      "meaning": "高兴的",
+      "reading": "RA-dast-nii",
+      "term": "радостный"
+    },
+    {
+      "entryID": "ru-basic-042",
+      "meaning": "吃；有",
+      "reading": "yest",
+      "term": "есть"
+    },
+    {
+      "entryID": "ru-basic-043",
+      "meaning": "喝",
+      "reading": "peet",
+      "term": "пить"
+    },
+    {
+      "entryID": "ru-basic-044",
+      "meaning": "去；走",
+      "reading": "it-TEE",
+      "term": "идти"
+    },
+    {
+      "entryID": "ru-basic-045",
+      "meaning": "来；到达",
+      "reading": "pri-kha-DEET",
+      "term": "приходить"
+    },
+    {
+      "entryID": "ru-basic-046",
+      "meaning": "说；讲",
+      "reading": "ga-va-REET",
+      "term": "говорить"
+    },
+    {
+      "entryID": "ru-basic-047",
+      "meaning": "学习",
+      "reading": "oo-CHEET-sya",
+      "term": "учиться"
+    },
+    {
+      "entryID": "ru-basic-048",
+      "meaning": "爱",
+      "reading": "lyu-BOF",
+      "term": "любовь"
+    },
+    {
+      "entryID": "ru-basic-049",
+      "meaning": "一",
+      "reading": "a-DIN",
+      "term": "один"
+    },
+    {
+      "entryID": "ru-basic-050",
+      "meaning": "什么",
+      "reading": "shto",
+      "term": "что"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "russian",
+    "description": "面向中文用户的俄语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为俄语西里尔词形，reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "ru",
+    "level": "beginner",
+    "tags": [
+      "russian",
+      "beginner",
+      "chinese"
+    ],
+    "title": "俄语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.ru.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

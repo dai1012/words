@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "pl-basic-001",
+      "meaning": "你好；再见",
+      "reading": "cheshch",
+      "term": "cześć"
+    },
+    {
+      "entryID": "pl-basic-002",
+      "meaning": "谢谢",
+      "reading": "jen-KOO-yeh",
+      "term": "dziękuję"
+    },
+    {
+      "entryID": "pl-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "pshe-PRA-sham",
+      "term": "przepraszam"
+    },
+    {
+      "entryID": "pl-basic-004",
+      "meaning": "是",
+      "reading": "tak",
+      "term": "tak"
+    },
+    {
+      "entryID": "pl-basic-005",
+      "meaning": "不是",
+      "reading": "nyeh",
+      "term": "nie"
+    },
+    {
+      "entryID": "pl-basic-006",
+      "meaning": "再见",
+      "reading": "do vi-DZE-nya",
+      "term": "do widzenia"
+    },
+    {
+      "entryID": "pl-basic-007",
+      "meaning": "水",
+      "reading": "VO-da",
+      "term": "woda"
+    },
+    {
+      "entryID": "pl-basic-008",
+      "meaning": "面包",
+      "reading": "hleb",
+      "term": "chleb"
+    },
+    {
+      "entryID": "pl-basic-009",
+      "meaning": "家；房子",
+      "reading": "dom",
+      "term": "dom"
+    },
+    {
+      "entryID": "pl-basic-010",
+      "meaning": "学校",
+      "reading": "SKHO-wa",
+      "term": "szkoła"
+    },
+    {
+      "entryID": "pl-basic-011",
+      "meaning": "朋友",
+      "reading": "pshy-YA-chel",
+      "term": "przyjaciel"
+    },
+    {
+      "entryID": "pl-basic-012",
+      "meaning": "名字",
+      "reading": "EE-myen",
+      "term": "imię"
+    },
+    {
+      "entryID": "pl-basic-013",
+      "meaning": "中国",
+      "reading": "HEE-ni",
+      "term": "Chiny"
+    },
+    {
+      "entryID": "pl-basic-014",
+      "meaning": "今天",
+      "reading": "DZHI-shy",
+      "term": "dzisiaj"
+    },
+    {
+      "entryID": "pl-basic-015",
+      "meaning": "明天",
+      "reading": "YOO-tro",
+      "term": "jutro"
+    },
+    {
+      "entryID": "pl-basic-016",
+      "meaning": "现在",
+      "reading": "TE-ras",
+      "term": "teraz"
+    },
+    {
+      "entryID": "pl-basic-017",
+      "meaning": "时间",
+      "reading": "chas",
+      "term": "czas"
+    },
+    {
+      "entryID": "pl-basic-018",
+      "meaning": "人",
+      "reading": "CHWO-vyek",
+      "term": "człowiek"
+    },
+    {
+      "entryID": "pl-basic-019",
+      "meaning": "男人",
+      "reading": "mensh-SHCHIZ-na",
+      "term": "mężczyzna"
+    },
+    {
+      "entryID": "pl-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "ko-BYE-ta",
+      "term": "kobieta"
+    },
+    {
+      "entryID": "pl-basic-021",
+      "meaning": "妈妈",
+      "reading": "MA-ma",
+      "term": "mama"
+    },
+    {
+      "entryID": "pl-basic-022",
+      "meaning": "爸爸",
+      "reading": "TA-ta",
+      "term": "tata"
+    },
+    {
+      "entryID": "pl-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "ro-DZHEE-na",
+      "term": "rodzina"
+    },
+    {
+      "entryID": "pl-basic-024",
+      "meaning": "钱",
+      "reading": "pye-NYON-dzheh",
+      "term": "pieniądze"
+    },
+    {
+      "entryID": "pl-basic-025",
+      "meaning": "书",
+      "reading": "KSHONSH-ka",
+      "term": "książka"
+    },
+    {
+      "entryID": "pl-basic-026",
+      "meaning": "包；袋子",
+      "reading": "TOR-ba",
+      "term": "torba"
+    },
+    {
+      "entryID": "pl-basic-027",
+      "meaning": "电话",
+      "reading": "te-LE-fon",
+      "term": "telefon"
+    },
+    {
+      "entryID": "pl-basic-028",
+      "meaning": "咖啡",
+      "reading": "KA-va",
+      "term": "kawa"
+    },
+    {
+      "entryID": "pl-basic-029",
+      "meaning": "茶",
+      "reading": "her-BA-ta",
+      "term": "herbata"
+    },
+    {
+      "entryID": "pl-basic-030",
+      "meaning": "汽车",
+      "reading": "sa-MO-khoot",
+      "term": "samochód"
+    },
+    {
+      "entryID": "pl-basic-031",
+      "meaning": "火车",
+      "reading": "PO-choñk",
+      "term": "pociąg"
+    },
+    {
+      "entryID": "pl-basic-032",
+      "meaning": "街道",
+      "reading": "oo-LEE-tsa",
+      "term": "ulica"
+    },
+    {
+      "entryID": "pl-basic-033",
+      "meaning": "市场；广场",
+      "reading": "RI-nek",
+      "term": "rynek"
+    },
+    {
+      "entryID": "pl-basic-034",
+      "meaning": "大的",
+      "reading": "DOO-zhy",
+      "term": "duży"
+    },
+    {
+      "entryID": "pl-basic-035",
+      "meaning": "小的",
+      "reading": "MA-wy",
+      "term": "mały"
+    },
+    {
+      "entryID": "pl-basic-036",
+      "meaning": "好的",
+      "reading": "DOB-ri",
+      "term": "dobry"
+    },
+    {
+      "entryID": "pl-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "zwy",
+      "term": "zły"
+    },
+    {
+      "entryID": "pl-basic-038",
+      "meaning": "多",
+      "reading": "DOO-zho",
+      "term": "dużo"
+    },
+    {
+      "entryID": "pl-basic-039",
+      "meaning": "少",
+      "reading": "MA-wo",
+      "term": "mało"
+    },
+    {
+      "entryID": "pl-basic-040",
+      "meaning": "漂亮的",
+      "reading": "WAD-ni",
+      "term": "ładny"
+    },
+    {
+      "entryID": "pl-basic-041",
+      "meaning": "高兴的",
+      "reading": "shchensh-LEE-vi",
+      "term": "szczęśliwy"
+    },
+    {
+      "entryID": "pl-basic-042",
+      "meaning": "吃",
+      "reading": "yeshch",
+      "term": "jeść"
+    },
+    {
+      "entryID": "pl-basic-043",
+      "meaning": "喝",
+      "reading": "pyech",
+      "term": "pić"
+    },
+    {
+      "entryID": "pl-basic-044",
+      "meaning": "去；走",
+      "reading": "ishch",
+      "term": "iść"
+    },
+    {
+      "entryID": "pl-basic-045",
+      "meaning": "来",
+      "reading": "pshishch",
+      "term": "przyjść"
+    },
+    {
+      "entryID": "pl-basic-046",
+      "meaning": "说；讲",
+      "reading": "MOO-veech",
+      "term": "mówić"
+    },
+    {
+      "entryID": "pl-basic-047",
+      "meaning": "学习",
+      "reading": "OO-chich sheh",
+      "term": "uczyć się"
+    },
+    {
+      "entryID": "pl-basic-048",
+      "meaning": "爱",
+      "reading": "MEE-woshch",
+      "term": "miłość"
+    },
+    {
+      "entryID": "pl-basic-049",
+      "meaning": "一",
+      "reading": "YE-den",
+      "term": "jeden"
+    },
+    {
+      "entryID": "pl-basic-050",
+      "meaning": "什么",
+      "reading": "tso",
+      "term": "co"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "polish",
+    "description": "面向中文用户的波兰语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为波兰语词形，reading 为自拟近似音节标音（重读音节大写，重音固定在倒数第二音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "pl",
+    "level": "beginner",
+    "tags": [
+      "polish",
+      "beginner",
+      "chinese"
+    ],
+    "title": "波兰语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.pl.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

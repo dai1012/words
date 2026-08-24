@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "id-basic-001",
+      "meaning": "你好",
+      "reading": "HA-lo",
+      "term": "halo"
+    },
+    {
+      "entryID": "id-basic-002",
+      "meaning": "谢谢",
+      "reading": "te-RI-ma KA-sih",
+      "term": "terima kasih"
+    },
+    {
+      "entryID": "id-basic-003",
+      "meaning": "对不起",
+      "reading": "ma-AF",
+      "term": "maaf"
+    },
+    {
+      "entryID": "id-basic-004",
+      "meaning": "是",
+      "reading": "ya",
+      "term": "ya"
+    },
+    {
+      "entryID": "id-basic-005",
+      "meaning": "不是",
+      "reading": "TEE-dak",
+      "term": "tidak"
+    },
+    {
+      "entryID": "id-basic-006",
+      "meaning": "再见（对留下的人说）",
+      "reading": "se-LA-mat TING-gal",
+      "term": "selamat tinggal"
+    },
+    {
+      "entryID": "id-basic-007",
+      "meaning": "水",
+      "reading": "a-IR",
+      "term": "air"
+    },
+    {
+      "entryID": "id-basic-008",
+      "meaning": "米饭；饭",
+      "reading": "NA-si",
+      "term": "nasi"
+    },
+    {
+      "entryID": "id-basic-009",
+      "meaning": "家；房子",
+      "reading": "ROO-mah",
+      "term": "rumah"
+    },
+    {
+      "entryID": "id-basic-010",
+      "meaning": "学校",
+      "reading": "se-KO-lah",
+      "term": "sekolah"
+    },
+    {
+      "entryID": "id-basic-011",
+      "meaning": "朋友",
+      "reading": "te-MAN",
+      "term": "teman"
+    },
+    {
+      "entryID": "id-basic-012",
+      "meaning": "名字",
+      "reading": "NA-ma",
+      "term": "nama"
+    },
+    {
+      "entryID": "id-basic-013",
+      "meaning": "中国",
+      "reading": "ti-ONG-kok",
+      "term": "Tiongkok"
+    },
+    {
+      "entryID": "id-basic-014",
+      "meaning": "今天",
+      "reading": "HA-ri EE-ni",
+      "term": "hari ini"
+    },
+    {
+      "entryID": "id-basic-015",
+      "meaning": "明天",
+      "reading": "be-SOK",
+      "term": "besok"
+    },
+    {
+      "entryID": "id-basic-016",
+      "meaning": "现在",
+      "reading": "se-KA-rang",
+      "term": "sekarang"
+    },
+    {
+      "entryID": "id-basic-017",
+      "meaning": "时间",
+      "reading": "WAK-too",
+      "term": "waktu"
+    },
+    {
+      "entryID": "id-basic-018",
+      "meaning": "人",
+      "reading": "O-rang",
+      "term": "orang"
+    },
+    {
+      "entryID": "id-basic-019",
+      "meaning": "男人",
+      "reading": "LA-ki LA-ki",
+      "term": "laki-laki"
+    },
+    {
+      "entryID": "id-basic-020",
+      "meaning": "女人",
+      "reading": "pe-rem-POO-an",
+      "term": "perempuan"
+    },
+    {
+      "entryID": "id-basic-021",
+      "meaning": "妈妈",
+      "reading": "EE-boo",
+      "term": "ibu"
+    },
+    {
+      "entryID": "id-basic-022",
+      "meaning": "爸爸",
+      "reading": "A-yah",
+      "term": "ayah"
+    },
+    {
+      "entryID": "id-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "ke-LOO-ar-ga",
+      "term": "keluarga"
+    },
+    {
+      "entryID": "id-basic-024",
+      "meaning": "钱",
+      "reading": "OO-ang",
+      "term": "uang"
+    },
+    {
+      "entryID": "id-basic-025",
+      "meaning": "书",
+      "reading": "BOO-koo",
+      "term": "buku"
+    },
+    {
+      "entryID": "id-basic-026",
+      "meaning": "包；袋子",
+      "reading": "tas",
+      "term": "tas"
+    },
+    {
+      "entryID": "id-basic-027",
+      "meaning": "电话",
+      "reading": "te-LE-pon",
+      "term": "telepon"
+    },
+    {
+      "entryID": "id-basic-028",
+      "meaning": "咖啡",
+      "reading": "KO-pi",
+      "term": "kopi"
+    },
+    {
+      "entryID": "id-basic-029",
+      "meaning": "茶",
+      "reading": "teh",
+      "term": "teh"
+    },
+    {
+      "entryID": "id-basic-030",
+      "meaning": "汽车",
+      "reading": "MO-bil",
+      "term": "mobil"
+    },
+    {
+      "entryID": "id-basic-031",
+      "meaning": "火车",
+      "reading": "ke-RE-ta A-pi",
+      "term": "kereta api"
+    },
+    {
+      "entryID": "id-basic-032",
+      "meaning": "街道；路",
+      "reading": "JA-lan",
+      "term": "jalan"
+    },
+    {
+      "entryID": "id-basic-033",
+      "meaning": "市场",
+      "reading": "PA-sar",
+      "term": "pasar"
+    },
+    {
+      "entryID": "id-basic-034",
+      "meaning": "大的",
+      "reading": "be-SAR",
+      "term": "besar"
+    },
+    {
+      "entryID": "id-basic-035",
+      "meaning": "小的",
+      "reading": "ke-CHIL",
+      "term": "kecil"
+    },
+    {
+      "entryID": "id-basic-036",
+      "meaning": "好的",
+      "reading": "ba-IK",
+      "term": "baik"
+    },
+    {
+      "entryID": "id-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "BO-rook",
+      "term": "buruk"
+    },
+    {
+      "entryID": "id-basic-038",
+      "meaning": "多",
+      "reading": "BAN-yak",
+      "term": "banyak"
+    },
+    {
+      "entryID": "id-basic-039",
+      "meaning": "少",
+      "reading": "se-DEE-kit",
+      "term": "sedikit"
+    },
+    {
+      "entryID": "id-basic-040",
+      "meaning": "漂亮的",
+      "reading": "CHAN-tik",
+      "term": "cantik"
+    },
+    {
+      "entryID": "id-basic-041",
+      "meaning": "高兴的",
+      "reading": "se-NANG",
+      "term": "senang"
+    },
+    {
+      "entryID": "id-basic-042",
+      "meaning": "吃",
+      "reading": "MA-kan",
+      "term": "makan"
+    },
+    {
+      "entryID": "id-basic-043",
+      "meaning": "喝",
+      "reading": "MEE-noom",
+      "term": "minum"
+    },
+    {
+      "entryID": "id-basic-044",
+      "meaning": "去",
+      "reading": "PER-gi",
+      "term": "pergi"
+    },
+    {
+      "entryID": "id-basic-045",
+      "meaning": "来",
+      "reading": "DA-tang",
+      "term": "datang"
+    },
+    {
+      "entryID": "id-basic-046",
+      "meaning": "说；讲",
+      "reading": "bi-CHA-ra",
+      "term": "bicara"
+    },
+    {
+      "entryID": "id-basic-047",
+      "meaning": "学习",
+      "reading": "be-LA-jar",
+      "term": "belajar"
+    },
+    {
+      "entryID": "id-basic-048",
+      "meaning": "爱",
+      "reading": "CHIN-ta",
+      "term": "cinta"
+    },
+    {
+      "entryID": "id-basic-049",
+      "meaning": "一",
+      "reading": "SA-too",
+      "term": "satu"
+    },
+    {
+      "entryID": "id-basic-050",
+      "meaning": "什么",
+      "reading": "A-pa",
+      "term": "apa"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "indonesian",
+    "description": "面向中文用户的印尼语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为印尼语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "id",
+    "level": "beginner",
+    "tags": [
+      "indonesian",
+      "beginner",
+      "chinese"
+    ],
+    "title": "印尼语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.id.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

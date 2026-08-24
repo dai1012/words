@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "it-basic-001",
+      "meaning": "你好；再见",
+      "reading": "CHOW",
+      "term": "ciao"
+    },
+    {
+      "entryID": "it-basic-002",
+      "meaning": "谢谢",
+      "reading": "GRA-tsyeh",
+      "term": "grazie"
+    },
+    {
+      "entryID": "it-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "SKOO-za",
+      "term": "scusa"
+    },
+    {
+      "entryID": "it-basic-004",
+      "meaning": "是",
+      "reading": "si",
+      "term": "sì"
+    },
+    {
+      "entryID": "it-basic-005",
+      "meaning": "不是",
+      "reading": "no",
+      "term": "no"
+    },
+    {
+      "entryID": "it-basic-006",
+      "meaning": "再见",
+      "reading": "ar-ri-ve-DER-chi",
+      "term": "arrivederci"
+    },
+    {
+      "entryID": "it-basic-007",
+      "meaning": "水",
+      "reading": "AK-kwa",
+      "term": "acqua"
+    },
+    {
+      "entryID": "it-basic-008",
+      "meaning": "面包",
+      "reading": "PA-ne",
+      "term": "pane"
+    },
+    {
+      "entryID": "it-basic-009",
+      "meaning": "家；房子",
+      "reading": "KA-za",
+      "term": "casa"
+    },
+    {
+      "entryID": "it-basic-010",
+      "meaning": "学校",
+      "reading": "SKWO-la",
+      "term": "scuola"
+    },
+    {
+      "entryID": "it-basic-011",
+      "meaning": "朋友",
+      "reading": "a-MI-ko",
+      "term": "amico"
+    },
+    {
+      "entryID": "it-basic-012",
+      "meaning": "名字",
+      "reading": "NO-me",
+      "term": "nome"
+    },
+    {
+      "entryID": "it-basic-013",
+      "meaning": "中国",
+      "reading": "CHEE-na",
+      "term": "Cina"
+    },
+    {
+      "entryID": "it-basic-014",
+      "meaning": "今天",
+      "reading": "O-jji",
+      "term": "oggi"
+    },
+    {
+      "entryID": "it-basic-015",
+      "meaning": "明天",
+      "reading": "do-MA-ni",
+      "term": "domani"
+    },
+    {
+      "entryID": "it-basic-016",
+      "meaning": "现在",
+      "reading": "a-DES-so",
+      "term": "adesso"
+    },
+    {
+      "entryID": "it-basic-017",
+      "meaning": "时间；天气",
+      "reading": "TEM-po",
+      "term": "tempo"
+    },
+    {
+      "entryID": "it-basic-018",
+      "meaning": "人",
+      "reading": "per-SO-na",
+      "term": "persona"
+    },
+    {
+      "entryID": "it-basic-019",
+      "meaning": "男人",
+      "reading": "WO-mo",
+      "term": "uomo"
+    },
+    {
+      "entryID": "it-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "DON-na",
+      "term": "donna"
+    },
+    {
+      "entryID": "it-basic-021",
+      "meaning": "妈妈",
+      "reading": "MAM-ma",
+      "term": "mamma"
+    },
+    {
+      "entryID": "it-basic-022",
+      "meaning": "爸爸",
+      "reading": "pa-PA",
+      "term": "papà"
+    },
+    {
+      "entryID": "it-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MI-lya",
+      "term": "famiglia"
+    },
+    {
+      "entryID": "it-basic-024",
+      "meaning": "钱",
+      "reading": "SOOL-di",
+      "term": "soldi"
+    },
+    {
+      "entryID": "it-basic-025",
+      "meaning": "书",
+      "reading": "LEE-bro",
+      "term": "libro"
+    },
+    {
+      "entryID": "it-basic-026",
+      "meaning": "包；袋子",
+      "reading": "BOR-sa",
+      "term": "borsa"
+    },
+    {
+      "entryID": "it-basic-027",
+      "meaning": "电话",
+      "reading": "te-LE-fo-no",
+      "term": "telefono"
+    },
+    {
+      "entryID": "it-basic-028",
+      "meaning": "咖啡",
+      "reading": "kaf-FE",
+      "term": "caffè"
+    },
+    {
+      "entryID": "it-basic-029",
+      "meaning": "茶",
+      "reading": "te",
+      "term": "tè"
+    },
+    {
+      "entryID": "it-basic-030",
+      "meaning": "汽车",
+      "reading": "OW-to",
+      "term": "auto"
+    },
+    {
+      "entryID": "it-basic-031",
+      "meaning": "火车",
+      "reading": "TRE-no",
+      "term": "treno"
+    },
+    {
+      "entryID": "it-basic-032",
+      "meaning": "街道；路",
+      "reading": "STRA-da",
+      "term": "strada"
+    },
+    {
+      "entryID": "it-basic-033",
+      "meaning": "市场",
+      "reading": "mer-KA-to",
+      "term": "mercato"
+    },
+    {
+      "entryID": "it-basic-034",
+      "meaning": "大的",
+      "reading": "GRAN-de",
+      "term": "grande"
+    },
+    {
+      "entryID": "it-basic-035",
+      "meaning": "小的",
+      "reading": "PIK-ko-lo",
+      "term": "piccolo"
+    },
+    {
+      "entryID": "it-basic-036",
+      "meaning": "好的",
+      "reading": "BWO-no",
+      "term": "buono"
+    },
+    {
+      "entryID": "it-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "kat-TEE-vo",
+      "term": "cattivo"
+    },
+    {
+      "entryID": "it-basic-038",
+      "meaning": "多；非常",
+      "reading": "MOL-to",
+      "term": "molto"
+    },
+    {
+      "entryID": "it-basic-039",
+      "meaning": "少",
+      "reading": "PO-ko",
+      "term": "poco"
+    },
+    {
+      "entryID": "it-basic-040",
+      "meaning": "漂亮的",
+      "reading": "BEL-lo",
+      "term": "bello"
+    },
+    {
+      "entryID": "it-basic-041",
+      "meaning": "高兴的",
+      "reading": "fe-LEE-che",
+      "term": "felice"
+    },
+    {
+      "entryID": "it-basic-042",
+      "meaning": "吃",
+      "reading": "man-JA-reh",
+      "term": "mangiare"
+    },
+    {
+      "entryID": "it-basic-043",
+      "meaning": "喝",
+      "reading": "BE-reh",
+      "term": "bere"
+    },
+    {
+      "entryID": "it-basic-044",
+      "meaning": "去",
+      "reading": "an-DA-reh",
+      "term": "andare"
+    },
+    {
+      "entryID": "it-basic-045",
+      "meaning": "来",
+      "reading": "ve-NEE-reh",
+      "term": "venire"
+    },
+    {
+      "entryID": "it-basic-046",
+      "meaning": "说；讲",
+      "reading": "par-LA-reh",
+      "term": "parlare"
+    },
+    {
+      "entryID": "it-basic-047",
+      "meaning": "学习",
+      "reading": "im-pa-RA-reh",
+      "term": "imparare"
+    },
+    {
+      "entryID": "it-basic-048",
+      "meaning": "爱",
+      "reading": "a-MO-reh",
+      "term": "amore"
+    },
+    {
+      "entryID": "it-basic-049",
+      "meaning": "一",
+      "reading": "OO-no",
+      "term": "uno"
+    },
+    {
+      "entryID": "it-basic-050",
+      "meaning": "什么；东西",
+      "reading": "KO-za",
+      "term": "cosa"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "italian",
+    "description": "面向中文用户的意大利语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为意大利语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "it",
+    "level": "beginner",
+    "tags": [
+      "italian",
+      "beginner",
+      "chinese"
+    ],
+    "title": "意大利语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.it.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

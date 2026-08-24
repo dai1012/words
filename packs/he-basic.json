@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "he-basic-001",
+      "meaning": "你好；和平",
+      "reading": "sha-LOM",
+      "term": "שלום"
+    },
+    {
+      "entryID": "he-basic-002",
+      "meaning": "谢谢",
+      "reading": "to-DA",
+      "term": "תודה"
+    },
+    {
+      "entryID": "he-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "sli-KHA",
+      "term": "סליחה"
+    },
+    {
+      "entryID": "he-basic-004",
+      "meaning": "是",
+      "reading": "ken",
+      "term": "כן"
+    },
+    {
+      "entryID": "he-basic-005",
+      "meaning": "不是",
+      "reading": "lo",
+      "term": "לא"
+    },
+    {
+      "entryID": "he-basic-006",
+      "meaning": "再见",
+      "reading": "le-hit-ra-OT",
+      "term": "להתראות"
+    },
+    {
+      "entryID": "he-basic-007",
+      "meaning": "水",
+      "reading": "MA-yim",
+      "term": "מים"
+    },
+    {
+      "entryID": "he-basic-008",
+      "meaning": "面包",
+      "reading": "LE-khem",
+      "term": "לחם"
+    },
+    {
+      "entryID": "he-basic-009",
+      "meaning": "家；房子",
+      "reading": "BAIT",
+      "term": "בית"
+    },
+    {
+      "entryID": "he-basic-010",
+      "meaning": "学校",
+      "reading": "beyt SEFER",
+      "term": "בית ספר"
+    },
+    {
+      "entryID": "he-basic-011",
+      "meaning": "朋友",
+      "reading": "kha-BER",
+      "term": "חבר"
+    },
+    {
+      "entryID": "he-basic-012",
+      "meaning": "名字",
+      "reading": "shem",
+      "term": "שם"
+    },
+    {
+      "entryID": "he-basic-013",
+      "meaning": "中国",
+      "reading": "SIN",
+      "term": "סין"
+    },
+    {
+      "entryID": "he-basic-014",
+      "meaning": "今天",
+      "reading": "ha-YOM",
+      "term": "היום"
+    },
+    {
+      "entryID": "he-basic-015",
+      "meaning": "明天",
+      "reading": "ma-KHAR",
+      "term": "מחר"
+    },
+    {
+      "entryID": "he-basic-016",
+      "meaning": "现在",
+      "reading": "akh-SHAV",
+      "term": "עכשיו"
+    },
+    {
+      "entryID": "he-basic-017",
+      "meaning": "时间",
+      "reading": "zman",
+      "term": "זמן"
+    },
+    {
+      "entryID": "he-basic-018",
+      "meaning": "人",
+      "reading": "a-DAM",
+      "term": "אדם"
+    },
+    {
+      "entryID": "he-basic-019",
+      "meaning": "男人",
+      "reading": "GEVER",
+      "term": "גבר"
+    },
+    {
+      "entryID": "he-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "ee-SHA",
+      "term": "אישה"
+    },
+    {
+      "entryID": "he-basic-021",
+      "meaning": "妈妈",
+      "reading": "EE-ma",
+      "term": "אמא"
+    },
+    {
+      "entryID": "he-basic-022",
+      "meaning": "爸爸",
+      "reading": "A-ba",
+      "term": "אבא"
+    },
+    {
+      "entryID": "he-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "mish-PA-kha",
+      "term": "משפחה"
+    },
+    {
+      "entryID": "he-basic-024",
+      "meaning": "钱",
+      "reading": "KE-sef",
+      "term": "כסף"
+    },
+    {
+      "entryID": "he-basic-025",
+      "meaning": "书",
+      "reading": "SE-fer",
+      "term": "ספר"
+    },
+    {
+      "entryID": "he-basic-026",
+      "meaning": "包；袋子",
+      "reading": "TIK",
+      "term": "תיק"
+    },
+    {
+      "entryID": "he-basic-027",
+      "meaning": "电话",
+      "reading": "te-LE-fon",
+      "term": "טלפון"
+    },
+    {
+      "entryID": "he-basic-028",
+      "meaning": "咖啡",
+      "reading": "ka-FE",
+      "term": "קפה"
+    },
+    {
+      "entryID": "he-basic-029",
+      "meaning": "茶",
+      "reading": "te",
+      "term": "תה"
+    },
+    {
+      "entryID": "he-basic-030",
+      "meaning": "汽车",
+      "reading": "me-kho-NIT",
+      "term": "מכונית"
+    },
+    {
+      "entryID": "he-basic-031",
+      "meaning": "火车",
+      "reading": "rekh-VET",
+      "term": "רכבת"
+    },
+    {
+      "entryID": "he-basic-032",
+      "meaning": "街道",
+      "reading": "re-KHOV",
+      "term": "רחוב"
+    },
+    {
+      "entryID": "he-basic-033",
+      "meaning": "市场",
+      "reading": "shok",
+      "term": "שוק"
+    },
+    {
+      "entryID": "he-basic-034",
+      "meaning": "大的",
+      "reading": "ga-DOL",
+      "term": "גדול"
+    },
+    {
+      "entryID": "he-basic-035",
+      "meaning": "小的",
+      "reading": "ka-TAN",
+      "term": "קטן"
+    },
+    {
+      "entryID": "he-basic-036",
+      "meaning": "好的",
+      "reading": "tov",
+      "term": "טוב"
+    },
+    {
+      "entryID": "he-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "ra",
+      "term": "רע"
+    },
+    {
+      "entryID": "he-basic-038",
+      "meaning": "多",
+      "reading": "har-BE",
+      "term": "הרבה"
+    },
+    {
+      "entryID": "he-basic-039",
+      "meaning": "少",
+      "reading": "me-AT",
+      "term": "מעט"
+    },
+    {
+      "entryID": "he-basic-040",
+      "meaning": "漂亮的",
+      "reading": "ya-FA",
+      "term": "יפה"
+    },
+    {
+      "entryID": "he-basic-041",
+      "meaning": "高兴的",
+      "reading": "sa-ME-akh",
+      "term": "שמח"
+    },
+    {
+      "entryID": "he-basic-042",
+      "meaning": "吃",
+      "reading": "le-e-KHOL",
+      "term": "לאכול"
+    },
+    {
+      "entryID": "he-basic-043",
+      "meaning": "喝",
+      "reading": "lisht-TOT",
+      "term": "לשתות"
+    },
+    {
+      "entryID": "he-basic-044",
+      "meaning": "去；走",
+      "reading": "la-LE-khet",
+      "term": "ללכת"
+    },
+    {
+      "entryID": "he-basic-045",
+      "meaning": "来",
+      "reading": "la-VO",
+      "term": "לבוא"
+    },
+    {
+      "entryID": "he-basic-046",
+      "meaning": "说；讲",
+      "reading": "le-da-BER",
+      "term": "לדבר"
+    },
+    {
+      "entryID": "he-basic-047",
+      "meaning": "学习",
+      "reading": "lil-MOD",
+      "term": "ללמוד"
+    },
+    {
+      "entryID": "he-basic-048",
+      "meaning": "爱",
+      "reading": "a-ha-VA",
+      "term": "אהבה"
+    },
+    {
+      "entryID": "he-basic-049",
+      "meaning": "一",
+      "reading": "e-khad",
+      "term": "אחד"
+    },
+    {
+      "entryID": "he-basic-050",
+      "meaning": "什么",
+      "reading": "ma",
+      "term": "מה"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "hebrew",
+    "description": "面向中文用户的希伯来语入门基础试点词包（首批 50 词，现代希伯来语）。词条为本项目原创编写：term 为希伯来语词形（无元音符号常规拼写），reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "he",
+    "level": "beginner",
+    "tags": [
+      "hebrew",
+      "beginner",
+      "chinese"
+    ],
+    "title": "希伯来语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.he.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

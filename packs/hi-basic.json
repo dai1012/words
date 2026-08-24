@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "hi-basic-001",
+      "meaning": "你好",
+      "reading": "na-MAS-te",
+      "term": "नमस्ते"
+    },
+    {
+      "entryID": "hi-basic-002",
+      "meaning": "谢谢",
+      "reading": "dhan-ya-VAAD",
+      "term": "धन्यवाद"
+    },
+    {
+      "entryID": "hi-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "maaf KEE-ji-ye",
+      "term": "माफ़ कीजिए"
+    },
+    {
+      "entryID": "hi-basic-004",
+      "meaning": "是",
+      "reading": "haan",
+      "term": "हाँ"
+    },
+    {
+      "entryID": "hi-basic-005",
+      "meaning": "不是",
+      "reading": "na-HEEN",
+      "term": "नहीं"
+    },
+    {
+      "entryID": "hi-basic-006",
+      "meaning": "再见",
+      "reading": "al-vi-DAAD",
+      "term": "अलविदा"
+    },
+    {
+      "entryID": "hi-basic-007",
+      "meaning": "水",
+      "reading": "PAA-ni",
+      "term": "पानी"
+    },
+    {
+      "entryID": "hi-basic-008",
+      "meaning": "面包；薄饼",
+      "reading": "RO-ti",
+      "term": "रोटी"
+    },
+    {
+      "entryID": "hi-basic-009",
+      "meaning": "家；房子",
+      "reading": "ghar",
+      "term": "घर"
+    },
+    {
+      "entryID": "hi-basic-010",
+      "meaning": "学校",
+      "reading": "skool",
+      "term": "स्कूल"
+    },
+    {
+      "entryID": "hi-basic-011",
+      "meaning": "朋友",
+      "reading": "dost",
+      "term": "दोस्त"
+    },
+    {
+      "entryID": "hi-basic-012",
+      "meaning": "名字",
+      "reading": "naam",
+      "term": "नाम"
+    },
+    {
+      "entryID": "hi-basic-013",
+      "meaning": "中国",
+      "reading": "cheen",
+      "term": "चीन"
+    },
+    {
+      "entryID": "hi-basic-014",
+      "meaning": "今天",
+      "reading": "aaj",
+      "term": "आज"
+    },
+    {
+      "entryID": "hi-basic-015",
+      "meaning": "明天/昨天（同形，依语境）",
+      "reading": "kal",
+      "term": "कल"
+    },
+    {
+      "entryID": "hi-basic-016",
+      "meaning": "现在",
+      "reading": "ab",
+      "term": "अब"
+    },
+    {
+      "entryID": "hi-basic-017",
+      "meaning": "时间",
+      "reading": "sa-MAY",
+      "term": "समय"
+    },
+    {
+      "entryID": "hi-basic-018",
+      "meaning": "人",
+      "reading": "in-SAAN",
+      "term": "इंसान"
+    },
+    {
+      "entryID": "hi-basic-019",
+      "meaning": "男人",
+      "reading": "AAD-mi",
+      "term": "आदमी"
+    },
+    {
+      "entryID": "hi-basic-020",
+      "meaning": "女人",
+      "reading": "AU-rat",
+      "term": "औरत"
+    },
+    {
+      "entryID": "hi-basic-021",
+      "meaning": "妈妈",
+      "reading": "maan",
+      "term": "माँ"
+    },
+    {
+      "entryID": "hi-basic-022",
+      "meaning": "爸爸",
+      "reading": "pi-TAA",
+      "term": "पिता"
+    },
+    {
+      "entryID": "hi-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "pa-ri-VAAR",
+      "term": "परिवार"
+    },
+    {
+      "entryID": "hi-basic-024",
+      "meaning": "钱",
+      "reading": "PAI-sa",
+      "term": "पैसा"
+    },
+    {
+      "entryID": "hi-basic-025",
+      "meaning": "书",
+      "reading": "ki-TAAB",
+      "term": "किताब"
+    },
+    {
+      "entryID": "hi-basic-026",
+      "meaning": "包；袋子",
+      "reading": "THAI-laa",
+      "term": "थैला"
+    },
+    {
+      "entryID": "hi-basic-027",
+      "meaning": "电话",
+      "reading": "fon",
+      "term": "फ़ोन"
+    },
+    {
+      "entryID": "hi-basic-028",
+      "meaning": "咖啡",
+      "reading": "KOF-fee",
+      "term": "कॉफ़ी"
+    },
+    {
+      "entryID": "hi-basic-029",
+      "meaning": "茶",
+      "reading": "chaay",
+      "term": "चाय"
+    },
+    {
+      "entryID": "hi-basic-030",
+      "meaning": "汽车；车",
+      "reading": "GAA-dee",
+      "term": "गाड़ी"
+    },
+    {
+      "entryID": "hi-basic-031",
+      "meaning": "火车",
+      "reading": "tren",
+      "term": "ट्रेन"
+    },
+    {
+      "entryID": "hi-basic-032",
+      "meaning": "街道；路",
+      "reading": "SA-dak",
+      "term": "सड़क"
+    },
+    {
+      "entryID": "hi-basic-033",
+      "meaning": "市场",
+      "reading": "ba-ZAAR",
+      "term": "बाज़ार"
+    },
+    {
+      "entryID": "hi-basic-034",
+      "meaning": "大的",
+      "reading": "ba-DAA",
+      "term": "बड़ा"
+    },
+    {
+      "entryID": "hi-basic-035",
+      "meaning": "小的",
+      "reading": "CHHO-ta",
+      "term": "छोटा"
+    },
+    {
+      "entryID": "hi-basic-036",
+      "meaning": "好的",
+      "reading": "ach-chhaa",
+      "term": "अच्छा"
+    },
+    {
+      "entryID": "hi-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "boo-RAA",
+      "term": "बुरा"
+    },
+    {
+      "entryID": "hi-basic-038",
+      "meaning": "多",
+      "reading": "ZYAA-daa",
+      "term": "ज़्यादा"
+    },
+    {
+      "entryID": "hi-basic-039",
+      "meaning": "少",
+      "reading": "kam",
+      "term": "कम"
+    },
+    {
+      "entryID": "hi-basic-040",
+      "meaning": "漂亮的",
+      "reading": "SOON-dar",
+      "term": "सुंदर"
+    },
+    {
+      "entryID": "hi-basic-041",
+      "meaning": "高兴的",
+      "reading": "khush",
+      "term": "खुश"
+    },
+    {
+      "entryID": "hi-basic-042",
+      "meaning": "吃；食物",
+      "reading": "KHAA-naa",
+      "term": "खाना"
+    },
+    {
+      "entryID": "hi-basic-043",
+      "meaning": "喝",
+      "reading": "PEE-naa",
+      "term": "पीना"
+    },
+    {
+      "entryID": "hi-basic-044",
+      "meaning": "去",
+      "reading": "JAA-naa",
+      "term": "जाना"
+    },
+    {
+      "entryID": "hi-basic-045",
+      "meaning": "来",
+      "reading": "AA-naa",
+      "term": "आना"
+    },
+    {
+      "entryID": "hi-basic-046",
+      "meaning": "说；讲",
+      "reading": "BOL-naa",
+      "term": "बोलना"
+    },
+    {
+      "entryID": "hi-basic-047",
+      "meaning": "学习",
+      "reading": "SEEKH-naa",
+      "term": "सीखना"
+    },
+    {
+      "entryID": "hi-basic-048",
+      "meaning": "爱",
+      "reading": "pyaar",
+      "term": "प्यार"
+    },
+    {
+      "entryID": "hi-basic-049",
+      "meaning": "一",
+      "reading": "ek",
+      "term": "एक"
+    },
+    {
+      "entryID": "hi-basic-050",
+      "meaning": "什么",
+      "reading": "kyaa",
+      "term": "क्या"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "hindi",
+    "description": "面向中文用户的印地语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为印地语天城文词形，reading 为自拟实用发音转写（长元音双写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "hi",
+    "level": "beginner",
+    "tags": [
+      "hindi",
+      "beginner",
+      "chinese"
+    ],
+    "title": "印地语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.hi.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

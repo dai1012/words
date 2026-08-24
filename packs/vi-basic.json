@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "vi-basic-001",
+      "meaning": "你好",
+      "reading": "xin chao",
+      "term": "xin chào"
+    },
+    {
+      "entryID": "vi-basic-002",
+      "meaning": "谢谢",
+      "reading": "cam on",
+      "term": "cảm ơn"
+    },
+    {
+      "entryID": "vi-basic-003",
+      "meaning": "对不起",
+      "reading": "xin loi",
+      "term": "xin lỗi"
+    },
+    {
+      "entryID": "vi-basic-004",
+      "meaning": "是；有",
+      "reading": "co",
+      "term": "có"
+    },
+    {
+      "entryID": "vi-basic-005",
+      "meaning": "不是；不",
+      "reading": "khong",
+      "term": "không"
+    },
+    {
+      "entryID": "vi-basic-006",
+      "meaning": "再见",
+      "reading": "tam biet",
+      "term": "tạm biệt"
+    },
+    {
+      "entryID": "vi-basic-007",
+      "meaning": "水；国家",
+      "reading": "nuoc",
+      "term": "nước"
+    },
+    {
+      "entryID": "vi-basic-008",
+      "meaning": "米饭；饭",
+      "reading": "com",
+      "term": "cơm"
+    },
+    {
+      "entryID": "vi-basic-009",
+      "meaning": "家；房子",
+      "reading": "nha",
+      "term": "nhà"
+    },
+    {
+      "entryID": "vi-basic-010",
+      "meaning": "学校",
+      "reading": "truong hoc",
+      "term": "trường học"
+    },
+    {
+      "entryID": "vi-basic-011",
+      "meaning": "朋友",
+      "reading": "ban",
+      "term": "bạn"
+    },
+    {
+      "entryID": "vi-basic-012",
+      "meaning": "名字",
+      "reading": "ten",
+      "term": "tên"
+    },
+    {
+      "entryID": "vi-basic-013",
+      "meaning": "中国",
+      "reading": "Trung Quoc",
+      "term": "Trung Quốc"
+    },
+    {
+      "entryID": "vi-basic-014",
+      "meaning": "今天",
+      "reading": "hom nay",
+      "term": "hôm nay"
+    },
+    {
+      "entryID": "vi-basic-015",
+      "meaning": "明天",
+      "reading": "ngay mai",
+      "term": "ngày mai"
+    },
+    {
+      "entryID": "vi-basic-016",
+      "meaning": "现在",
+      "reading": "bay gio",
+      "term": "bây giờ"
+    },
+    {
+      "entryID": "vi-basic-017",
+      "meaning": "时间",
+      "reading": "thoi gian",
+      "term": "thời gian"
+    },
+    {
+      "entryID": "vi-basic-018",
+      "meaning": "人",
+      "reading": "nguoi",
+      "term": "người"
+    },
+    {
+      "entryID": "vi-basic-019",
+      "meaning": "男人",
+      "reading": "dan ong",
+      "term": "đàn ông"
+    },
+    {
+      "entryID": "vi-basic-020",
+      "meaning": "女人",
+      "reading": "dan ba",
+      "term": "đàn bà"
+    },
+    {
+      "entryID": "vi-basic-021",
+      "meaning": "妈妈",
+      "reading": "me",
+      "term": "mẹ"
+    },
+    {
+      "entryID": "vi-basic-022",
+      "meaning": "爸爸",
+      "reading": "cha",
+      "term": "cha"
+    },
+    {
+      "entryID": "vi-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "gia dinh",
+      "term": "gia đình"
+    },
+    {
+      "entryID": "vi-basic-024",
+      "meaning": "钱",
+      "reading": "tien",
+      "term": "tiền"
+    },
+    {
+      "entryID": "vi-basic-025",
+      "meaning": "书",
+      "reading": "sach",
+      "term": "sách"
+    },
+    {
+      "entryID": "vi-basic-026",
+      "meaning": "包；袋子",
+      "reading": "tui",
+      "term": "túi"
+    },
+    {
+      "entryID": "vi-basic-027",
+      "meaning": "电话",
+      "reading": "dien thoai",
+      "term": "điện thoại"
+    },
+    {
+      "entryID": "vi-basic-028",
+      "meaning": "咖啡",
+      "reading": "ca phe",
+      "term": "cà phê"
+    },
+    {
+      "entryID": "vi-basic-029",
+      "meaning": "茶",
+      "reading": "tra",
+      "term": "trà"
+    },
+    {
+      "entryID": "vi-basic-030",
+      "meaning": "汽车",
+      "reading": "xe hoi",
+      "term": "xe hơi"
+    },
+    {
+      "entryID": "vi-basic-031",
+      "meaning": "火车",
+      "reading": "tau hoa",
+      "term": "tàu hỏa"
+    },
+    {
+      "entryID": "vi-basic-032",
+      "meaning": "街道",
+      "reading": "duong pho",
+      "term": "đường phố"
+    },
+    {
+      "entryID": "vi-basic-033",
+      "meaning": "市场",
+      "reading": "cho",
+      "term": "chợ"
+    },
+    {
+      "entryID": "vi-basic-034",
+      "meaning": "大的",
+      "reading": "to",
+      "term": "to"
+    },
+    {
+      "entryID": "vi-basic-035",
+      "meaning": "小的",
+      "reading": "nho",
+      "term": "nhỏ"
+    },
+    {
+      "entryID": "vi-basic-036",
+      "meaning": "好的",
+      "reading": "tot",
+      "term": "tốt"
+    },
+    {
+      "entryID": "vi-basic-037",
+      "meaning": "坏的；难看的",
+      "reading": "xau",
+      "term": "xấu"
+    },
+    {
+      "entryID": "vi-basic-038",
+      "meaning": "多",
+      "reading": "nhieu",
+      "term": "nhiều"
+    },
+    {
+      "entryID": "vi-basic-039",
+      "meaning": "少",
+      "reading": "it",
+      "term": "ít"
+    },
+    {
+      "entryID": "vi-basic-040",
+      "meaning": "漂亮的",
+      "reading": "dep",
+      "term": "đẹp"
+    },
+    {
+      "entryID": "vi-basic-041",
+      "meaning": "高兴的",
+      "reading": "vui",
+      "term": "vui"
+    },
+    {
+      "entryID": "vi-basic-042",
+      "meaning": "吃",
+      "reading": "an",
+      "term": "ăn"
+    },
+    {
+      "entryID": "vi-basic-043",
+      "meaning": "喝",
+      "reading": "uong",
+      "term": "uống"
+    },
+    {
+      "entryID": "vi-basic-044",
+      "meaning": "去",
+      "reading": "di",
+      "term": "đi"
+    },
+    {
+      "entryID": "vi-basic-045",
+      "meaning": "来；到达",
+      "reading": "den",
+      "term": "đến"
+    },
+    {
+      "entryID": "vi-basic-046",
+      "meaning": "说；讲",
+      "reading": "noi",
+      "term": "nói"
+    },
+    {
+      "entryID": "vi-basic-047",
+      "meaning": "学习",
+      "reading": "hoc",
+      "term": "học"
+    },
+    {
+      "entryID": "vi-basic-048",
+      "meaning": "爱",
+      "reading": "yeu",
+      "term": "yêu"
+    },
+    {
+      "entryID": "vi-basic-049",
+      "meaning": "一",
+      "reading": "mot",
+      "term": "một"
+    },
+    {
+      "entryID": "vi-basic-050",
+      "meaning": "什么",
+      "reading": "gi",
+      "term": "gì"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "vietnamese",
+    "description": "面向中文用户的越南语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为越南语国语字词形（含声调符号），reading 为去声调字母形式，meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "vi",
+    "level": "beginner",
+    "tags": [
+      "vietnamese",
+      "beginner",
+      "chinese"
+    ],
+    "title": "越南语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.vi.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "el-basic-001",
+      "meaning": "你好（非正式）",
+      "reading": "YAH soo",
+      "term": "γεια σου"
+    },
+    {
+      "entryID": "el-basic-002",
+      "meaning": "谢谢",
+      "reading": "ef-cha-ri-STO",
+      "term": "ευχαριστώ"
+    },
+    {
+      "entryID": "el-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "see-GNO-mee",
+      "term": "συγγνώμη"
+    },
+    {
+      "entryID": "el-basic-004",
+      "meaning": "是",
+      "reading": "ne",
+      "term": "ναι"
+    },
+    {
+      "entryID": "el-basic-005",
+      "meaning": "不是",
+      "reading": "O-khee",
+      "term": "όχι"
+    },
+    {
+      "entryID": "el-basic-006",
+      "meaning": "再见",
+      "reading": "an-DEE-o",
+      "term": "αντίο"
+    },
+    {
+      "entryID": "el-basic-007",
+      "meaning": "水",
+      "reading": "ne-RO",
+      "term": "νερό"
+    },
+    {
+      "entryID": "el-basic-008",
+      "meaning": "面包",
+      "reading": "pso-MEE",
+      "term": "ψωμί"
+    },
+    {
+      "entryID": "el-basic-009",
+      "meaning": "家；房子",
+      "reading": "SPEE-ti",
+      "term": "σπίτι"
+    },
+    {
+      "entryID": "el-basic-010",
+      "meaning": "学校",
+      "reading": "skho-LEE-o",
+      "term": "σχολείο"
+    },
+    {
+      "entryID": "el-basic-011",
+      "meaning": "朋友",
+      "reading": "FEE-los",
+      "term": "φίλος"
+    },
+    {
+      "entryID": "el-basic-012",
+      "meaning": "名字",
+      "reading": "O-no-ma",
+      "term": "όνομα"
+    },
+    {
+      "entryID": "el-basic-013",
+      "meaning": "中国",
+      "reading": "KEE-na",
+      "term": "Κίνα"
+    },
+    {
+      "entryID": "el-basic-014",
+      "meaning": "今天",
+      "reading": "SEE-me-ra",
+      "term": "σήμερα"
+    },
+    {
+      "entryID": "el-basic-015",
+      "meaning": "明天",
+      "reading": "AV-ree-o",
+      "term": "αύριο"
+    },
+    {
+      "entryID": "el-basic-016",
+      "meaning": "现在",
+      "reading": "TO-ra",
+      "term": "τώρα"
+    },
+    {
+      "entryID": "el-basic-017",
+      "meaning": "小时；时间",
+      "reading": "O-ra",
+      "term": "ώρα"
+    },
+    {
+      "entryID": "el-basic-018",
+      "meaning": "人",
+      "reading": "AN-thro-pos",
+      "term": "άνθρωπος"
+    },
+    {
+      "entryID": "el-basic-019",
+      "meaning": "男人",
+      "reading": "AN-dhras",
+      "term": "άνδρας"
+    },
+    {
+      "entryID": "el-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "yee-NE-ka",
+      "term": "γυναίκα"
+    },
+    {
+      "entryID": "el-basic-021",
+      "meaning": "妈妈",
+      "reading": "ma-MA",
+      "term": "μαμά"
+    },
+    {
+      "entryID": "el-basic-022",
+      "meaning": "爸爸",
+      "reading": "ba-BAS",
+      "term": "μπαμπάς"
+    },
+    {
+      "entryID": "el-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "ee-ko-YE-ni-a",
+      "term": "οικογένεια"
+    },
+    {
+      "entryID": "el-basic-024",
+      "meaning": "钱",
+      "reading": "KHREE-ma-ta",
+      "term": "χρήματα"
+    },
+    {
+      "entryID": "el-basic-025",
+      "meaning": "书",
+      "reading": "vi-VLEE-o",
+      "term": "βιβλίο"
+    },
+    {
+      "entryID": "el-basic-026",
+      "meaning": "包；袋子",
+      "reading": "TSA-nda",
+      "term": "τσάντα"
+    },
+    {
+      "entryID": "el-basic-027",
+      "meaning": "电话",
+      "reading": "ti-LE-fo-no",
+      "term": "τηλέφωνο"
+    },
+    {
+      "entryID": "el-basic-028",
+      "meaning": "咖啡",
+      "reading": "ka-FES",
+      "term": "καφές"
+    },
+    {
+      "entryID": "el-basic-029",
+      "meaning": "茶",
+      "reading": "TSAI",
+      "term": "τσάι"
+    },
+    {
+      "entryID": "el-basic-030",
+      "meaning": "汽车",
+      "reading": "av-to-KEE-ni-to",
+      "term": "αυτοκίνητο"
+    },
+    {
+      "entryID": "el-basic-031",
+      "meaning": "火车",
+      "reading": "TRE-no",
+      "term": "τρένο"
+    },
+    {
+      "entryID": "el-basic-032",
+      "meaning": "街道；路",
+      "reading": "DHRO-mos",
+      "term": "δρόμος"
+    },
+    {
+      "entryID": "el-basic-033",
+      "meaning": "市场",
+      "reading": "a-go-RA",
+      "term": "αγορά"
+    },
+    {
+      "entryID": "el-basic-034",
+      "meaning": "大的",
+      "reading": "me-GA-los",
+      "term": "μεγάλος"
+    },
+    {
+      "entryID": "el-basic-035",
+      "meaning": "小的",
+      "reading": "mee-KROS",
+      "term": "μικρός"
+    },
+    {
+      "entryID": "el-basic-036",
+      "meaning": "好的",
+      "reading": "ka-LOS",
+      "term": "καλός"
+    },
+    {
+      "entryID": "el-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "ka-KOS",
+      "term": "κακός"
+    },
+    {
+      "entryID": "el-basic-038",
+      "meaning": "多",
+      "reading": "po-LA",
+      "term": "πολλά"
+    },
+    {
+      "entryID": "el-basic-039",
+      "meaning": "少",
+      "reading": "LEE-ga",
+      "term": "λίγα"
+    },
+    {
+      "entryID": "el-basic-040",
+      "meaning": "漂亮的",
+      "reading": "O-mor-fos",
+      "term": "όμορφος"
+    },
+    {
+      "entryID": "el-basic-041",
+      "meaning": "高兴的；幸福的",
+      "reading": "ef-ti-HIS",
+      "term": "ευτυχής"
+    },
+    {
+      "entryID": "el-basic-042",
+      "meaning": "吃",
+      "reading": "TRO-o",
+      "term": "τρώω"
+    },
+    {
+      "entryID": "el-basic-043",
+      "meaning": "喝",
+      "reading": "PEE-no",
+      "term": "πίνω"
+    },
+    {
+      "entryID": "el-basic-044",
+      "meaning": "去",
+      "reading": "pee-GE-no",
+      "term": "πηγαίνω"
+    },
+    {
+      "entryID": "el-basic-045",
+      "meaning": "来",
+      "reading": "ER-kho-me",
+      "term": "έρχομαι"
+    },
+    {
+      "entryID": "el-basic-046",
+      "meaning": "说；讲",
+      "reading": "mee-LA-o",
+      "term": "μιλάω"
+    },
+    {
+      "entryID": "el-basic-047",
+      "meaning": "学习",
+      "reading": "ma-THE-no",
+      "term": "μαθαίνω"
+    },
+    {
+      "entryID": "el-basic-048",
+      "meaning": "爱",
+      "reading": "a-GA-pee",
+      "term": "αγάπη"
+    },
+    {
+      "entryID": "el-basic-049",
+      "meaning": "一",
+      "reading": "E-na",
+      "term": "ένα"
+    },
+    {
+      "entryID": "el-basic-050",
+      "meaning": "什么",
+      "reading": "ti",
+      "term": "τι"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "greek",
+    "description": "面向中文用户的希腊语入门基础试点词包（首批 50 词，现代希腊语）。词条为本项目原创编写：term 为希腊语词形，reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "el",
+    "level": "beginner",
+    "tags": [
+      "greek",
+      "beginner",
+      "chinese"
+    ],
+    "title": "希腊语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.el.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

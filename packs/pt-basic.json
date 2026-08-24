@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "pt-basic-001",
+      "meaning": "你好",
+      "reading": "o-LA",
+      "term": "olá"
+    },
+    {
+      "entryID": "pt-basic-002",
+      "meaning": "谢谢（男性说）",
+      "reading": "o-bri-GA-do",
+      "term": "obrigado"
+    },
+    {
+      "entryID": "pt-basic-003",
+      "meaning": "对不起；借过",
+      "reading": "des-KOOL-pa",
+      "term": "desculpa"
+    },
+    {
+      "entryID": "pt-basic-004",
+      "meaning": "是",
+      "reading": "seen",
+      "term": "sim"
+    },
+    {
+      "entryID": "pt-basic-005",
+      "meaning": "不是",
+      "reading": "nown",
+      "term": "não"
+    },
+    {
+      "entryID": "pt-basic-006",
+      "meaning": "再见",
+      "reading": "chow",
+      "term": "tchau"
+    },
+    {
+      "entryID": "pt-basic-007",
+      "meaning": "水",
+      "reading": "A-gwa",
+      "term": "água"
+    },
+    {
+      "entryID": "pt-basic-008",
+      "meaning": "面包",
+      "reading": "pown",
+      "term": "pão"
+    },
+    {
+      "entryID": "pt-basic-009",
+      "meaning": "家；房子",
+      "reading": "KA-za",
+      "term": "casa"
+    },
+    {
+      "entryID": "pt-basic-010",
+      "meaning": "学校",
+      "reading": "es-KO-la",
+      "term": "escola"
+    },
+    {
+      "entryID": "pt-basic-011",
+      "meaning": "朋友",
+      "reading": "a-MEE-goo",
+      "term": "amigo"
+    },
+    {
+      "entryID": "pt-basic-012",
+      "meaning": "名字",
+      "reading": "NO-mee",
+      "term": "nome"
+    },
+    {
+      "entryID": "pt-basic-013",
+      "meaning": "中国",
+      "reading": "SHEE-na",
+      "term": "China"
+    },
+    {
+      "entryID": "pt-basic-014",
+      "meaning": "今天",
+      "reading": "O-zhee",
+      "term": "hoje"
+    },
+    {
+      "entryID": "pt-basic-015",
+      "meaning": "明天",
+      "reading": "a-man-YAN",
+      "term": "amanhã"
+    },
+    {
+      "entryID": "pt-basic-016",
+      "meaning": "现在",
+      "reading": "a-GO-ra",
+      "term": "agora"
+    },
+    {
+      "entryID": "pt-basic-017",
+      "meaning": "小时；钟点",
+      "reading": "O-ra",
+      "term": "hora"
+    },
+    {
+      "entryID": "pt-basic-018",
+      "meaning": "人",
+      "reading": "pe-SO-a",
+      "term": "pessoa"
+    },
+    {
+      "entryID": "pt-basic-019",
+      "meaning": "男人",
+      "reading": "O-meng",
+      "term": "homem"
+    },
+    {
+      "entryID": "pt-basic-020",
+      "meaning": "女人；妻子",
+      "reading": "moo-YER",
+      "term": "mulher"
+    },
+    {
+      "entryID": "pt-basic-021",
+      "meaning": "妈妈",
+      "reading": "mang",
+      "term": "mãe"
+    },
+    {
+      "entryID": "pt-basic-022",
+      "meaning": "爸爸",
+      "reading": "pai",
+      "term": "pai"
+    },
+    {
+      "entryID": "pt-basic-023",
+      "meaning": "家庭；家人",
+      "reading": "fa-MEE-lya",
+      "term": "família"
+    },
+    {
+      "entryID": "pt-basic-024",
+      "meaning": "钱",
+      "reading": "jee-NYEY-roo",
+      "term": "dinheiro"
+    },
+    {
+      "entryID": "pt-basic-025",
+      "meaning": "书",
+      "reading": "LEE-vroo",
+      "term": "livro"
+    },
+    {
+      "entryID": "pt-basic-026",
+      "meaning": "包；袋子",
+      "reading": "BOW-sa",
+      "term": "bolsa"
+    },
+    {
+      "entryID": "pt-basic-027",
+      "meaning": "电话",
+      "reading": "te-le-FO-nee",
+      "term": "telefone"
+    },
+    {
+      "entryID": "pt-basic-028",
+      "meaning": "咖啡",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "pt-basic-029",
+      "meaning": "茶",
+      "reading": "sha",
+      "term": "chá"
+    },
+    {
+      "entryID": "pt-basic-030",
+      "meaning": "汽车",
+      "reading": "KA-hoo",
+      "term": "carro"
+    },
+    {
+      "entryID": "pt-basic-031",
+      "meaning": "火车",
+      "reading": "treng",
+      "term": "trem"
+    },
+    {
+      "entryID": "pt-basic-032",
+      "meaning": "街道",
+      "reading": "ROO-a",
+      "term": "rua"
+    },
+    {
+      "entryID": "pt-basic-033",
+      "meaning": "市场",
+      "reading": "mer-KA-doo",
+      "term": "mercado"
+    },
+    {
+      "entryID": "pt-basic-034",
+      "meaning": "大的",
+      "reading": "GRAN-jee",
+      "term": "grande"
+    },
+    {
+      "entryID": "pt-basic-035",
+      "meaning": "小的",
+      "reading": "pe-KEE-noo",
+      "term": "pequeno"
+    },
+    {
+      "entryID": "pt-basic-036",
+      "meaning": "好的",
+      "reading": "bon",
+      "term": "bom"
+    },
+    {
+      "entryID": "pt-basic-037",
+      "meaning": "坏的；差的",
+      "reading": "mow",
+      "term": "mau"
+    },
+    {
+      "entryID": "pt-basic-038",
+      "meaning": "多；非常",
+      "reading": "MOOYN-too",
+      "term": "muito"
+    },
+    {
+      "entryID": "pt-basic-039",
+      "meaning": "少",
+      "reading": "POW-koo",
+      "term": "pouco"
+    },
+    {
+      "entryID": "pt-basic-040",
+      "meaning": "漂亮的",
+      "reading": "bo-NEE-too",
+      "term": "bonito"
+    },
+    {
+      "entryID": "pt-basic-041",
+      "meaning": "高兴的",
+      "reading": "fe-LEES",
+      "term": "feliz"
+    },
+    {
+      "entryID": "pt-basic-042",
+      "meaning": "吃",
+      "reading": "ko-MER",
+      "term": "comer"
+    },
+    {
+      "entryID": "pt-basic-043",
+      "meaning": "喝",
+      "reading": "be-BER",
+      "term": "beber"
+    },
+    {
+      "entryID": "pt-basic-044",
+      "meaning": "去",
+      "reading": "eer",
+      "term": "ir"
+    },
+    {
+      "entryID": "pt-basic-045",
+      "meaning": "来",
+      "reading": "veer",
+      "term": "vir"
+    },
+    {
+      "entryID": "pt-basic-046",
+      "meaning": "说；讲",
+      "reading": "fa-LAR",
+      "term": "falar"
+    },
+    {
+      "entryID": "pt-basic-047",
+      "meaning": "学习",
+      "reading": "a-pren-DER",
+      "term": "aprender"
+    },
+    {
+      "entryID": "pt-basic-048",
+      "meaning": "爱",
+      "reading": "a-MOR",
+      "term": "amor"
+    },
+    {
+      "entryID": "pt-basic-049",
+      "meaning": "一",
+      "reading": "oon",
+      "term": "um"
+    },
+    {
+      "entryID": "pt-basic-050",
+      "meaning": "什么",
+      "reading": "kee",
+      "term": "que"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "portuguese",
+    "description": "面向中文用户的葡萄牙语入门基础试点词包（首批 50 词，巴西葡语发音基准）。词条为本项目原创编写：term 为葡萄牙语词形，reading 为自拟近似音节标音（重音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "pt",
+    "level": "beginner",
+    "tags": [
+      "portuguese",
+      "beginner",
+      "chinese"
+    ],
+    "title": "葡萄牙语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.pt.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
