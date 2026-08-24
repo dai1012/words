@@ -66,6 +66,7 @@
 | `schemaVersion` | 必须是整数 `1`；两阶段 decode，`!= 1` 直接拒绝 |
 | `packID` | `^[a-z0-9]+(?:[.-][a-z0-9]+)*$`，3–128 字符，至少一个 `.` |
 | `entryID` | `^[a-z0-9][a-z0-9._-]{0,127}$`，作用域内唯一 |
+| `entries[]` 顺序 | 词条实际身份是 `packID + entryIndex`（位置索引）；entryID 是 pack 内稳定业务标识，但不是当前收藏/隐藏/同步的索引身份。已发布词包未经版本化迁移，不得删除、插入或重排既有 entries；允许原位修改字段值与在末尾追加 |
 | `packVersion`/`catalogVersion` | `>= 1` 整数 |
 | `generatedAt` | 精确 RFC 3339 UTC，真实日历日期 |
 | `language` | `^[a-z]{2,3}(?:-[a-z0-9]{2,8})*$` |
@@ -82,6 +83,13 @@
 App Swift validator 的替代品。两者是独立实现，任何 schema 变更必须先在
 App 仓库（Issue 005 的 Swift validator 及其测试）落地，再同步到这里。
 App 安装 pack 时仍会执行完整的 Swift 校验（structure/semantic/integrity）。
+
+补充边界：descriptor.directoryPath 的目录段合法性（禁止空段、`.`/`..`、
+前后空格、路径分隔符、Unicode 控制字符等）目前只由本仓库的
+`scripts/build_catalog.py` 与 `scripts/validate_release.py` 校验。App 端
+Swift validator 不做目录段规则检查：解码层仅要求数组为字符串数组、缺失
+默认 `[]`、显式 null 解码失败。也就是说，目录段规则一旦在生成侧放松，
+App 不会拦截——本仓库构建脚本是这条规则的唯一防线。
 
 ## 发布后验证（真实 Raw URL）
 

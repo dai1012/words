@@ -76,15 +76,21 @@ words/
 例如：
 
 ```text
-sources/jlpt-n5.source.json
+sources/CN/中日/JLPT/jlpt-n5.source.json
+sources/CN/中英/IELTS/ielts-core.source.json
 sources/test-basic.source.json
-sources/中日/JLPT/N1.source.json
 ```
 
 source 可以放在任意深度的子目录中（目录名不限语言、层数不限）。source
 相对 `sources/` 的父目录会自动写入 catalog 的 `directoryPath`，App 下载页面
 按该路径动态显示目录浏览层级；App 不直接读取 `sources/`，只读取 catalog。
 目录名称（中文、日文、英文等）原样保留，App 不写死任何目录名。
+
+市场目录约定：顶层 `CN/` 表示面向中文用户的市场入口（不表示词条语言）；
+其下一层目录表示学习方向，如 `中日`＝中文学习者学日语、`中英`＝中文学习
+者学英语、`中西`＝中文学习者学西班牙语。未来新增其他市场（如 `JP/`、
+`EN/`）时沿用同样约定。测试词包（test-basic / test-travel）为联调夹具，
+保留在根目录，不属于任何市场。
 
 规则：
 
@@ -492,6 +498,32 @@ test-basic-001
 jlpt-n5-完整SHA256
 ```
 
+## entries 数组顺序与词条身份
+
+JapaneseWordWatch 当前实际的词条身份是 `packID + entryIndex`，即词条在
+entries 数组中的零基位置索引；收藏、隐藏与同步均按该位置识别词条。
+entryID 仍是 pack 内稳定的业务标识（grammar 与唯一性受 schema 校验），
+但不是当前收藏/隐藏/同步使用的索引身份。
+
+因此，已发布词包的 entries 数组必须按位置保持稳定。
+
+允许：
+
+- 原位修改 term、reading、meaning
+- 原位增加 details、watch 等非身份字段（以 App 版本支持为前提）
+- 仅在数组末尾追加新词条（新 entryID 必须全包唯一）
+
+禁止：
+
+- 在已有词条前插入
+- 删除已有词条
+- 对已有词条排序或重排
+- 通过去重、清洗、合并改变既有索引
+
+未经版本化迁移，不得删除、插入或重排既有 entries；否则设备上的旧收藏
+与隐藏记录会静默指向其他词条。稳定性边界的权威说明见 JapaneseWordWatch
+仓库 `Models/WordID.swift` 头部注释。
+
 ## term
 
 日语词。
@@ -833,6 +865,8 @@ catalog.json
 - 修改词包内容却忘记提高 packVersion
 - 重复使用 entryID
 - 修改已发布词条的 entryID
+- 在既有词条前插入、删除或重排已发布词包的 entries
+- 通过去重、清洗、合并改变已发布词包的既有词条索引
 - 使用 force push
 - 把 Personal Access Token 写入仓库
 - 修改 JapaneseWordWatch 来配合普通词库更新

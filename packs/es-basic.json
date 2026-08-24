@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "es-basic-001",
+      "meaning": "你好",
+      "reading": "ho-LA",
+      "term": "hola"
+    },
+    {
+      "entryID": "es-basic-002",
+      "meaning": "谢谢",
+      "reading": "GRA-sias",
+      "term": "gracias"
+    },
+    {
+      "entryID": "es-basic-003",
+      "meaning": "再见",
+      "reading": "a-DIOS",
+      "term": "adiós"
+    },
+    {
+      "entryID": "es-basic-004",
+      "meaning": "是",
+      "reading": "SI",
+      "term": "sí"
+    },
+    {
+      "entryID": "es-basic-005",
+      "meaning": "不；不是",
+      "reading": "no",
+      "term": "no"
+    },
+    {
+      "entryID": "es-basic-006",
+      "meaning": "水",
+      "reading": "A-gua",
+      "term": "agua"
+    },
+    {
+      "entryID": "es-basic-007",
+      "meaning": "家；房子",
+      "reading": "CA-sa",
+      "term": "casa"
+    },
+    {
+      "entryID": "es-basic-008",
+      "meaning": "学校",
+      "reading": "es-CUE-la",
+      "term": "escuela"
+    },
+    {
+      "entryID": "es-basic-009",
+      "meaning": "朋友（男性）",
+      "reading": "a-MI-go",
+      "term": "amigo"
+    },
+    {
+      "entryID": "es-basic-010",
+      "meaning": "名字",
+      "reading": "NOM-bre",
+      "term": "nombre"
+    },
+    {
+      "entryID": "es-basic-011",
+      "meaning": "中国",
+      "reading": "CHI-na",
+      "term": "China"
+    },
+    {
+      "entryID": "es-basic-012",
+      "meaning": "西班牙",
+      "reading": "es-PA-ña",
+      "term": "España"
+    },
+    {
+      "entryID": "es-basic-013",
+      "meaning": "日本",
+      "reading": "ja-PON",
+      "term": "Japón"
+    },
+    {
+      "entryID": "es-basic-014",
+      "meaning": "今天",
+      "reading": "oy",
+      "term": "hoy"
+    },
+    {
+      "entryID": "es-basic-015",
+      "meaning": "明天；早上",
+      "reading": "ma-ÑA-na",
+      "term": "mañana"
+    },
+    {
+      "entryID": "es-basic-016",
+      "meaning": "昨天",
+      "reading": "a-YER",
+      "term": "ayer"
+    },
+    {
+      "entryID": "es-basic-017",
+      "meaning": "现在",
+      "reading": "a-O-ra",
+      "term": "ahora"
+    },
+    {
+      "entryID": "es-basic-018",
+      "meaning": "时间；天气",
+      "reading": "TIEM-po",
+      "term": "tiempo"
+    },
+    {
+      "entryID": "es-basic-019",
+      "meaning": "小时；钟点",
+      "reading": "O-ra",
+      "term": "hora"
+    },
+    {
+      "entryID": "es-basic-020",
+      "meaning": "人",
+      "reading": "per-SON-a",
+      "term": "persona"
+    },
+    {
+      "entryID": "es-basic-021",
+      "meaning": "男人",
+      "reading": "OM-bre",
+      "term": "hombre"
+    },
+    {
+      "entryID": "es-basic-022",
+      "meaning": "女人；妻子",
+      "reading": "mu-JER",
+      "term": "mujer"
+    },
+    {
+      "entryID": "es-basic-023",
+      "meaning": "妈妈",
+      "reading": "ma-MA",
+      "term": "mamá"
+    },
+    {
+      "entryID": "es-basic-024",
+      "meaning": "爸爸",
+      "reading": "pa-PA",
+      "term": "papá"
+    },
+    {
+      "entryID": "es-basic-025",
+      "meaning": "家庭；家人",
+      "reading": "fa-MI-lia",
+      "term": "familia"
+    },
+    {
+      "entryID": "es-basic-026",
+      "meaning": "钱",
+      "reading": "di-NE-ro",
+      "term": "dinero"
+    },
+    {
+      "entryID": "es-basic-027",
+      "meaning": "书",
+      "reading": "LI-bro",
+      "term": "libro"
+    },
+    {
+      "entryID": "es-basic-028",
+      "meaning": "背包；书包",
+      "reading": "mo-CHI-la",
+      "term": "mochila"
+    },
+    {
+      "entryID": "es-basic-029",
+      "meaning": "电话",
+      "reading": "te-LE-fo-no",
+      "term": "teléfono"
+    },
+    {
+      "entryID": "es-basic-030",
+      "meaning": "咖啡",
+      "reading": "ca-FÉ",
+      "term": "café"
+    },
+    {
+      "entryID": "es-basic-031",
+      "meaning": "是（本质属性）",
+      "reading": "ser",
+      "term": "ser"
+    },
+    {
+      "entryID": "es-basic-032",
+      "meaning": "在；处于（状态位置）",
+      "reading": "es-TAR",
+      "term": "estar"
+    },
+    {
+      "entryID": "es-basic-033",
+      "meaning": "有",
+      "reading": "te-NER",
+      "term": "tener"
+    },
+    {
+      "entryID": "es-basic-034",
+      "meaning": "做",
+      "reading": "ha-CER",
+      "term": "hacer"
+    },
+    {
+      "entryID": "es-basic-035",
+      "meaning": "去",
+      "reading": "ir",
+      "term": "ir"
+    },
+    {
+      "entryID": "es-basic-036",
+      "meaning": "来",
+      "reading": "ve-NIR",
+      "term": "venir"
+    },
+    {
+      "entryID": "es-basic-037",
+      "meaning": "看见",
+      "reading": "ver",
+      "term": "ver"
+    },
+    {
+      "entryID": "es-basic-038",
+      "meaning": "吃",
+      "reading": "co-MER",
+      "term": "comer"
+    },
+    {
+      "entryID": "es-basic-039",
+      "meaning": "喝",
+      "reading": "be-BER",
+      "term": "beber"
+    },
+    {
+      "entryID": "es-basic-040",
+      "meaning": "睡觉",
+      "reading": "dor-MIR",
+      "term": "dormir"
+    },
+    {
+      "entryID": "es-basic-041",
+      "meaning": "读",
+      "reading": "le-ER",
+      "term": "leer"
+    },
+    {
+      "entryID": "es-basic-042",
+      "meaning": "写",
+      "reading": "es-cri-BIR",
+      "term": "escribir"
+    },
+    {
+      "entryID": "es-basic-043",
+      "meaning": "学习；学会",
+      "reading": "ap-ren-DER",
+      "term": "aprender"
+    },
+    {
+      "entryID": "es-basic-044",
+      "meaning": "大的",
+      "reading": "GRAN-de",
+      "term": "grande"
+    },
+    {
+      "entryID": "es-basic-045",
+      "meaning": "小的",
+      "reading": "pe-QUE-ño",
+      "term": "pequeño"
+    },
+    {
+      "entryID": "es-basic-046",
+      "meaning": "好的",
+      "reading": "BUE-no",
+      "term": "bueno"
+    },
+    {
+      "entryID": "es-basic-047",
+      "meaning": "坏的；差的",
+      "reading": "MA-lo",
+      "term": "malo"
+    },
+    {
+      "entryID": "es-basic-048",
+      "meaning": "多的",
+      "reading": "MU-cho",
+      "term": "mucho"
+    },
+    {
+      "entryID": "es-basic-049",
+      "meaning": "少的",
+      "reading": "PO-co",
+      "term": "poco"
+    },
+    {
+      "entryID": "es-basic-050",
+      "meaning": "工作",
+      "reading": "tra-BA-jo",
+      "term": "trabajo"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "spanish",
+    "description": "面向中文用户的西班牙语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为西班牙语词形，reading 为音节切分读音标注（大写音节为重读音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "es",
+    "level": "beginner",
+    "tags": [
+      "spanish",
+      "beginner",
+      "chinese"
+    ],
+    "title": "西班牙语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.es.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

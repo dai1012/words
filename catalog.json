@@ -1,11 +1,12 @@
 {
-  "catalogVersion": 13,
-  "generatedAt": "2026-08-08T15:06:42Z",
+  "catalogVersion": 15,
+  "generatedAt": "2026-08-24T15:09:15Z",
   "packs": [
     {
       "classification": "business-japanese",
       "description": "IT职场日语・基础。Japanese terms / readings / definitions are derived from デジタル庁「DS-130 標準ガイドライン群用語集」(https://www.digital.go.jp/resources/standard_guidelines), licensed under 公共データ利用規約 第1.0版 (PDL1.0, https://www.digital.go.jp/resources/open_data/public_data_license_v1.0). Chinese meanings are translated/adapted by this project from the source definitions. 本词包属于加工内容，不代表デジタル庁原文。详细 attribution 见仓库 sources/中日/商务日语/IT职场/DIGITAL_AGENCY.ATTRIBUTION.txt。",
       "directoryPath": [
+        "CN",
         "中日",
         "商务日语",
         "IT职场"
@@ -29,9 +30,56 @@
       "title": "IT职场日语・基础"
     },
     {
+      "classification": "spanish",
+      "description": "面向中文用户的西班牙语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为西班牙语词形，reading 为音节切分读音标注（大写音节为重读音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中西"
+      ],
+      "entryCount": 50,
+      "fileSize": 6912,
+      "fileURL": "packs/es-basic.json",
+      "language": "es",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.es.basic",
+      "packVersion": 1,
+      "sha256": "d323ae54daff2c4055fc9ae1843d9caf580b8535c3775153445c45714fedf5e9",
+      "tags": [
+        "spanish",
+        "beginner",
+        "chinese"
+      ],
+      "title": "西班牙语入门基础词汇"
+    },
+    {
+      "classification": "korean",
+      "description": "面向中文用户的韩语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为韩语词形，reading 为韩国国立国语院《国文的罗马字标记法》(RR) 转写，meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+      "directoryPath": [
+        "CN",
+        "中韩"
+      ],
+      "entryCount": 50,
+      "fileSize": 6894,
+      "fileURL": "packs/ko-basic.json",
+      "language": "ko",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ko.basic",
+      "packVersion": 1,
+      "sha256": "6b07f175022ed6539bcbdadd143bad6c0af2129f7921625243cd00e42ed5c678",
+      "tags": [
+        "korean",
+        "beginner",
+        "chinese"
+      ],
+      "title": "韩语入门基础词汇"
+    },
+    {
       "classification": "ielts",
       "description": "IELTS 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），IELTS 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
       "directoryPath": [
+        "CN",
         "中英",
         "IELTS"
       ],
@@ -54,7 +102,11 @@
     {
       "classification": "jlpt",
       "description": "JLPT N1 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
-      "directoryPath": [],
+      "directoryPath": [
+        "CN",
+        "中日",
+        "JLPT"
+      ],
       "entryCount": 2699,
       "fileSize": 549879,
       "fileURL": "packs/jlpt-n1.json",
@@ -75,7 +127,11 @@
     {
       "classification": "jlpt",
       "description": "JLPT N2 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
-      "directoryPath": [],
+      "directoryPath": [
+        "CN",
+        "中日",
+        "JLPT"
+      ],
       "entryCount": 1905,
       "fileSize": 388407,
       "fileURL": "packs/jlpt-n2.json",
@@ -96,7 +152,11 @@
     {
       "classification": "jlpt",
       "description": "JLPT N3 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
-      "directoryPath": [],
+      "directoryPath": [
+        "CN",
+        "中日",
+        "JLPT"
+      ],
       "entryCount": 2140,
       "fileSize": 429231,
       "fileURL": "packs/jlpt-n3.json",
@@ -117,7 +177,11 @@
     {
       "classification": "jlpt",
       "description": "JLPT N4 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经机器翻译并校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
-      "directoryPath": [],
+      "directoryPath": [
+        "CN",
+        "中日",
+        "JLPT"
+      ],
       "entryCount": 668,
       "fileSize": 134586,
       "fileURL": "packs/jlpt-n4.json",
@@ -139,6 +203,7 @@
       "classification": "jlpt",
       "description": "JLPT N5 日语词汇。词条源自 open-anki-jlpt-decks，中文释义经校订；详见 README 与 sources/jlpt-n5.LICENSE.txt。",
       "directoryPath": [
+        "CN",
         "中日",
         "JLPT"
       ],
@@ -201,6 +266,7 @@
       "classification": "toefl",
       "description": "TOEFL 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），TOEFL 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
       "directoryPath": [
+        "CN",
         "中英",
         "TOEFL"
       ],
@@ -224,6 +290,7 @@
       "classification": "toeic",
       "description": "TOEIC 核心词汇（中英）。TOEIC word selection based on TOEIC Service List 1.2 (TSL 1.2) by Charles Browne and Brent Culligan, licensed under CC BY-SA 4.0 (https://www.newgeneralservicelist.com/toeic-service-list, https://creativecommons.org/licenses/by-sa/4.0/); phonetic and Chinese meanings derived from ECDICT, licensed under MIT (https://github.com/skywind3000/ECDICT). 本 TOEIC pack 的 TSL-derived/adapted 部分按 CC BY-SA 4.0 分发。详细 attribution / license 文件位于仓库 sources/中英/TOEIC/。",
       "directoryPath": [
+        "CN",
         "中英",
         "TOEIC"
       ],

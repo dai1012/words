@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "ko-basic-001",
+      "meaning": "你好",
+      "reading": "annyeonghaseyo",
+      "term": "안녕하세요"
+    },
+    {
+      "entryID": "ko-basic-002",
+      "meaning": "谢谢",
+      "reading": "gamsahamnida",
+      "term": "감사합니다"
+    },
+    {
+      "entryID": "ko-basic-003",
+      "meaning": "对不起",
+      "reading": "joesonghamnida",
+      "term": "죄송합니다"
+    },
+    {
+      "entryID": "ko-basic-004",
+      "meaning": "是；好的",
+      "reading": "ne",
+      "term": "네"
+    },
+    {
+      "entryID": "ko-basic-005",
+      "meaning": "不是",
+      "reading": "aniyo",
+      "term": "아니요"
+    },
+    {
+      "entryID": "ko-basic-006",
+      "meaning": "再见（对离开的人说）",
+      "reading": "jal gayo",
+      "term": "잘 가요"
+    },
+    {
+      "entryID": "ko-basic-007",
+      "meaning": "再见（对留下的人说）",
+      "reading": "jal isseoyo",
+      "term": "잘 있어요"
+    },
+    {
+      "entryID": "ko-basic-008",
+      "meaning": "水",
+      "reading": "mul",
+      "term": "물"
+    },
+    {
+      "entryID": "ko-basic-009",
+      "meaning": "米饭；饭",
+      "reading": "bap",
+      "term": "밥"
+    },
+    {
+      "entryID": "ko-basic-010",
+      "meaning": "家",
+      "reading": "jip",
+      "term": "집"
+    },
+    {
+      "entryID": "ko-basic-011",
+      "meaning": "学校",
+      "reading": "hakgyo",
+      "term": "학교"
+    },
+    {
+      "entryID": "ko-basic-012",
+      "meaning": "朋友",
+      "reading": "chingu",
+      "term": "친구"
+    },
+    {
+      "entryID": "ko-basic-013",
+      "meaning": "名字",
+      "reading": "ireum",
+      "term": "이름"
+    },
+    {
+      "entryID": "ko-basic-014",
+      "meaning": "中国",
+      "reading": "jungguk",
+      "term": "중국"
+    },
+    {
+      "entryID": "ko-basic-015",
+      "meaning": "韩国",
+      "reading": "hanguk",
+      "term": "한국"
+    },
+    {
+      "entryID": "ko-basic-016",
+      "meaning": "日本",
+      "reading": "ilbon",
+      "term": "일본"
+    },
+    {
+      "entryID": "ko-basic-017",
+      "meaning": "今天",
+      "reading": "oneul",
+      "term": "오늘"
+    },
+    {
+      "entryID": "ko-basic-018",
+      "meaning": "明天",
+      "reading": "naeil",
+      "term": "내일"
+    },
+    {
+      "entryID": "ko-basic-019",
+      "meaning": "昨天",
+      "reading": "eoje",
+      "term": "어제"
+    },
+    {
+      "entryID": "ko-basic-020",
+      "meaning": "现在",
+      "reading": "jigeum",
+      "term": "지금"
+    },
+    {
+      "entryID": "ko-basic-021",
+      "meaning": "时间",
+      "reading": "sigan",
+      "term": "시간"
+    },
+    {
+      "entryID": "ko-basic-022",
+      "meaning": "人",
+      "reading": "saram",
+      "term": "사람"
+    },
+    {
+      "entryID": "ko-basic-023",
+      "meaning": "男人",
+      "reading": "namja",
+      "term": "남자"
+    },
+    {
+      "entryID": "ko-basic-024",
+      "meaning": "女人",
+      "reading": "yeoja",
+      "term": "여자"
+    },
+    {
+      "entryID": "ko-basic-025",
+      "meaning": "妈妈",
+      "reading": "eomma",
+      "term": "엄마"
+    },
+    {
+      "entryID": "ko-basic-026",
+      "meaning": "爸爸",
+      "reading": "abeoji",
+      "term": "아버지"
+    },
+    {
+      "entryID": "ko-basic-027",
+      "meaning": "家人；家庭",
+      "reading": "gajog",
+      "term": "가족"
+    },
+    {
+      "entryID": "ko-basic-028",
+      "meaning": "钱",
+      "reading": "don",
+      "term": "돈"
+    },
+    {
+      "entryID": "ko-basic-029",
+      "meaning": "书",
+      "reading": "chaek",
+      "term": "책"
+    },
+    {
+      "entryID": "ko-basic-030",
+      "meaning": "包；书包",
+      "reading": "gabang",
+      "term": "가방"
+    },
+    {
+      "entryID": "ko-basic-031",
+      "meaning": "电话",
+      "reading": "jeonhwa",
+      "term": "전화"
+    },
+    {
+      "entryID": "ko-basic-032",
+      "meaning": "咖啡",
+      "reading": "keopi",
+      "term": "커피"
+    },
+    {
+      "entryID": "ko-basic-033",
+      "meaning": "好吃；有味道",
+      "reading": "masitda",
+      "term": "맛있다"
+    },
+    {
+      "entryID": "ko-basic-034",
+      "meaning": "做",
+      "reading": "hada",
+      "term": "하다"
+    },
+    {
+      "entryID": "ko-basic-035",
+      "meaning": "去",
+      "reading": "gada",
+      "term": "가다"
+    },
+    {
+      "entryID": "ko-basic-036",
+      "meaning": "来",
+      "reading": "oda",
+      "term": "오다"
+    },
+    {
+      "entryID": "ko-basic-037",
+      "meaning": "看",
+      "reading": "boda",
+      "term": "보다"
+    },
+    {
+      "entryID": "ko-basic-038",
+      "meaning": "吃",
+      "reading": "meokda",
+      "term": "먹다"
+    },
+    {
+      "entryID": "ko-basic-039",
+      "meaning": "喝",
+      "reading": "masida",
+      "term": "마시다"
+    },
+    {
+      "entryID": "ko-basic-040",
+      "meaning": "睡觉",
+      "reading": "jada",
+      "term": "자다"
+    },
+    {
+      "entryID": "ko-basic-041",
+      "meaning": "读",
+      "reading": "ikda",
+      "term": "읽다"
+    },
+    {
+      "entryID": "ko-basic-042",
+      "meaning": "写；使用",
+      "reading": "sseuda",
+      "term": "쓰다"
+    },
+    {
+      "entryID": "ko-basic-043",
+      "meaning": "学习",
+      "reading": "baeuda",
+      "term": "배우다"
+    },
+    {
+      "entryID": "ko-basic-044",
+      "meaning": "大",
+      "reading": "keuda",
+      "term": "크다"
+    },
+    {
+      "entryID": "ko-basic-045",
+      "meaning": "小",
+      "reading": "jakda",
+      "term": "작다"
+    },
+    {
+      "entryID": "ko-basic-046",
+      "meaning": "好；喜欢",
+      "reading": "johta",
+      "term": "좋다"
+    },
+    {
+      "entryID": "ko-basic-047",
+      "meaning": "坏",
+      "reading": "nappeuda",
+      "term": "나쁘다"
+    },
+    {
+      "entryID": "ko-basic-048",
+      "meaning": "多",
+      "reading": "manta",
+      "term": "많다"
+    },
+    {
+      "entryID": "ko-basic-049",
+      "meaning": "少",
+      "reading": "jeokda",
+      "term": "적다"
+    },
+    {
+      "entryID": "ko-basic-050",
+      "meaning": "爱",
+      "reading": "sarang",
+      "term": "사랑"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "korean",
+    "description": "面向中文用户的韩语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为韩语词形，reading 为韩国国立国语院《国文的罗马字标记法》(RR) 转写，meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
+    "language": "ko",
+    "level": "beginner",
+    "tags": [
+      "korean",
+      "beginner",
+      "chinese"
+    ],
+    "title": "韩语入门基础词汇"
+  },
+  "packID": "com.dai1012.cn.ko.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
