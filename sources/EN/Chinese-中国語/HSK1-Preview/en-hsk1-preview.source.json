@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.en.zh.hsk1.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "Chinese HSK1 Preview Vocabulary",
+    "language": "zh",
+    "classification": "hsk",
+    "level": "preview",
+    "description": "A Preview vocabulary pack for English speakers learning Chinese: a small representative selection demonstrating exam-direction coverage (HSK level-1 scope); not a complete exam wordlist; not affiliated with or endorsed by any examination body. Headwords reference the publicly published GF0025-2021 standard's level-1 vocabulary scope (facts only); pinyin and English glosses authored by this project. Full vocabulary may later be generated on demand by in-app AI.",
+    "tags": [
+      "hsk",
+      "preview",
+      "english"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "hsk1-preview-001",
+      "term": "我",
+      "reading": "wǒ",
+      "meaning": "I"
+    },
+    {
+      "entryID": "hsk1-preview-002",
+      "term": "你",
+      "reading": "nǐ",
+      "meaning": "you"
+    },
+    {
+      "entryID": "hsk1-preview-003",
+      "term": "他",
+      "reading": "tā",
+      "meaning": "he"
+    },
+    {
+      "entryID": "hsk1-preview-004",
+      "term": "她",
+      "reading": "tā",
+      "meaning": "she"
+    },
+    {
+      "entryID": "hsk1-preview-005",
+      "term": "这",
+      "reading": "zhè",
+      "meaning": "this"
+    },
+    {
+      "entryID": "hsk1-preview-006",
+      "term": "那",
+      "reading": "nà",
+      "meaning": "that"
+    },
+    {
+      "entryID": "hsk1-preview-007",
+      "term": "哪",
+      "reading": "nǎ",
+      "meaning": "which"
+    },
+    {
+      "entryID": "hsk1-preview-008",
+      "term": "谁",
+      "reading": "shéi",
+      "meaning": "who"
+    },
+    {
+      "entryID": "hsk1-preview-009",
+      "term": "什么",
+      "reading": "shénme",
+      "meaning": "what"
+    },
+    {
+      "entryID": "hsk1-preview-010",
+      "term": "多少",
+      "reading": "duōshao",
+      "meaning": "how many"
+    },
+    {
+      "entryID": "hsk1-preview-011",
+      "term": "一",
+      "reading": "yī",
+      "meaning": "one"
+    },
+    {
+      "entryID": "hsk1-preview-012",
+      "term": "二",
+      "reading": "èr",
+      "meaning": "two"
+    },
+    {
+      "entryID": "hsk1-preview-013",
+      "term": "三",
+      "reading": "sān",
+      "meaning": "three"
+    },
+    {
+      "entryID": "hsk1-preview-014",
+      "term": "人",
+      "reading": "rén",
+      "meaning": "person"
+    },
+    {
+      "entryID": "hsk1-preview-015",
+      "term": "家",
+      "reading": "jiā",
+      "meaning": "home; family"
+    },
+    {
+      "entryID": "hsk1-preview-016",
+      "term": "学校",
+      "reading": "xuéxiào",
+      "meaning": "school"
+    },
+    {
+      "entryID": "hsk1-preview-017",
+      "term": "老师",
+      "reading": "lǎoshī",
+      "meaning": "teacher"
+    },
+    {
+      "entryID": "hsk1-preview-018",
+      "term": "学生",
+      "reading": "xuésheng",
+      "meaning": "student"
+    },
+    {
+      "entryID": "hsk1-preview-019",
+      "term": "同学",
+      "reading": "tóngxué",
+      "meaning": "classmate"
+    },
+    {
+      "entryID": "hsk1-preview-020",
+      "term": "医生",
+      "reading": "yīshēng",
+      "meaning": "doctor"
+    },
+    {
+      "entryID": "hsk1-preview-021",
+      "term": "爸爸",
+      "reading": "bàba",
+      "meaning": "dad"
+    },
+    {
+      "entryID": "hsk1-preview-022",
+      "term": "妈妈",
+      "reading": "māma",
+      "meaning": "mom"
+    },
+    {
+      "entryID": "hsk1-preview-023",
+      "term": "儿子",
+      "reading": "érzi",
+      "meaning": "son"
+    },
+    {
+      "entryID": "hsk1-preview-024",
+      "term": "女儿",
+      "reading": "nǚér",
+      "meaning": "daughter"
+    },
+    {
+      "entryID": "hsk1-preview-025",
+      "term": "猫",
+      "reading": "māo",
+      "meaning": "cat"
+    },
+    {
+      "entryID": "hsk1-preview-026",
+      "term": "狗",
+      "reading": "gǒu",
+      "meaning": "dog"
+    },
+    {
+      "entryID": "hsk1-preview-027",
+      "term": "水",
+      "reading": "shuǐ",
+      "meaning": "water"
+    },
+    {
+      "entryID": "hsk1-preview-028",
+      "term": "茶",
+      "reading": "chá",
+      "meaning": "tea"
+    },
+    {
+      "entryID": "hsk1-preview-029",
+      "term": "苹果",
+      "reading": "píngguǒ",
+      "meaning": "apple"
+    },
+    {
+      "entryID": "hsk1-preview-030",
+      "term": "书",
+      "reading": "shū",
+      "meaning": "book"
+    },
+    {
+      "entryID": "hsk1-preview-031",
+      "term": "桌子",
+      "reading": "zhuōzi",
+      "meaning": "table"
+    },
+    {
+      "entryID": "hsk1-preview-032",
+      "term": "椅子",
+      "reading": "yǐzi",
+      "meaning": "chair"
+    },
+    {
+      "entryID": "hsk1-preview-033",
+      "term": "饭",
+      "reading": "fàn",
+      "meaning": "cooked rice; meal"
+    },
+    {
+      "entryID": "hsk1-preview-034",
+      "term": "菜",
+      "reading": "cài",
+      "meaning": "dish; vegetable"
+    },
+    {
+      "entryID": "hsk1-preview-035",
+      "term": "商店",
+      "reading": "shāngdiàn",
+      "meaning": "shop"
+    },
+    {
+      "entryID": "hsk1-preview-036",
+      "term": "饭店",
+      "reading": "fàndiàn",
+      "meaning": "restaurant"
+    },
+    {
+      "entryID": "hsk1-preview-037",
+      "term": "火车站",
+      "reading": "huǒchēzhàn",
+      "meaning": "railway station"
+    },
+    {
+      "entryID": "hsk1-preview-038",
+      "term": "出租车",
+      "reading": "chūzūchē",
+      "meaning": "taxi"
+    },
+    {
+      "entryID": "hsk1-preview-039",
+      "term": "飞机",
+      "reading": "fēijī",
+      "meaning": "airplane"
+    },
+    {
+      "entryID": "hsk1-preview-040",
+      "term": "北京",
+      "reading": "Běijīng",
+      "meaning": "Beijing"
+    },
+    {
+      "entryID": "hsk1-preview-041",
+      "term": "中国",
+      "reading": "Zhōngguó",
+      "meaning": "China"
+    },
+    {
+      "entryID": "hsk1-preview-042",
+      "term": "今天",
+      "reading": "jīntiān",
+      "meaning": "today"
+    },
+    {
+      "entryID": "hsk1-preview-043",
+      "term": "明天",
+      "reading": "míngtiān",
+      "meaning": "tomorrow"
+    },
+    {
+      "entryID": "hsk1-preview-044",
+      "term": "现在",
+      "reading": "xiànzài",
+      "meaning": "now"
+    },
+    {
+      "entryID": "hsk1-preview-045",
+      "term": "早上",
+      "reading": "zǎoshang",
+      "meaning": "morning"
+    },
+    {
+      "entryID": "hsk1-preview-046",
+      "term": "喜欢",
+      "reading": "xǐhuan",
+      "meaning": "to like"
+    },
+    {
+      "entryID": "hsk1-preview-047",
+      "term": "会",
+      "reading": "huì",
+      "meaning": "can; know how to"
+    },
+    {
+      "entryID": "hsk1-preview-048",
+      "term": "有",
+      "reading": "yǒu",
+      "meaning": "to have"
+    },
+    {
+      "entryID": "hsk1-preview-049",
+      "term": "是",
+      "reading": "shì",
+      "meaning": "to be"
+    },
+    {
+      "entryID": "hsk1-preview-050",
+      "term": "在",
+      "reading": "zài",
+      "meaning": "at; to be located"
+    },
+    {
+      "entryID": "hsk1-preview-051",
+      "term": "看",
+      "reading": "kàn",
+      "meaning": "to look; to see"
+    },
+    {
+      "entryID": "hsk1-preview-052",
+      "term": "吃饭",
+      "reading": "chīfàn",
+      "meaning": "to eat (a meal)"
+    },
+    {
+      "entryID": "hsk1-preview-053",
+      "term": "喝",
+      "reading": "hē",
+      "meaning": "to drink"
+    },
+    {
+      "entryID": "hsk1-preview-054",
+      "term": "买",
+      "reading": "mǎi",
+      "meaning": "to buy"
+    },
+    {
+      "entryID": "hsk1-preview-055",
+      "term": "谢谢",
+      "reading": "xièxie",
+      "meaning": "thanks"
+    },
+    {
+      "entryID": "hsk1-preview-056",
+      "term": "再见",
+      "reading": "zàijiàn",
+      "meaning": "goodbye"
+    },
+    {
+      "entryID": "hsk1-preview-057",
+      "term": "不客气",
+      "reading": "búkèqi",
+      "meaning": "you're welcome"
+    },
+    {
+      "entryID": "hsk1-preview-058",
+      "term": "对不起",
+      "reading": "duìbuqǐ",
+      "meaning": "sorry"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "entryID": "jlpt-n5-preview-001",
+      "meaning": "cat",
+      "reading": "ねこ",
+      "term": "猫"
+    },
+    {
+      "entryID": "jlpt-n5-preview-002",
+      "meaning": "dog",
+      "reading": "いぬ",
+      "term": "犬"
+    },
+    {
+      "entryID": "jlpt-n5-preview-003",
+      "meaning": "bird",
+      "reading": "とり",
+      "term": "鳥"
+    },
+    {
+      "entryID": "jlpt-n5-preview-004",
+      "meaning": "fish",
+      "reading": "さかな",
+      "term": "魚"
+    },
+    {
+      "entryID": "jlpt-n5-preview-005",
+      "meaning": "mountain",
+      "reading": "やま",
+      "term": "山"
+    },
+    {
+      "entryID": "jlpt-n5-preview-006",
+      "meaning": "river",
+      "reading": "かわ",
+      "term": "川"
+    },
+    {
+      "entryID": "jlpt-n5-preview-007",
+      "meaning": "sky",
+      "reading": "そら",
+      "term": "空"
+    },
+    {
+      "entryID": "jlpt-n5-preview-008",
+      "meaning": "sea",
+      "reading": "うみ",
+      "term": "海"
+    },
+    {
+      "entryID": "jlpt-n5-preview-009",
+      "meaning": "flower",
+      "reading": "はな",
+      "term": "花"
+    },
+    {
+      "entryID": "jlpt-n5-preview-010",
+      "meaning": "rain",
+      "reading": "あめ",
+      "term": "雨"
+    },
+    {
+      "entryID": "jlpt-n5-preview-011",
+      "meaning": "snow",
+      "reading": "ゆき",
+      "term": "雪"
+    },
+    {
+      "entryID": "jlpt-n5-preview-012",
+      "meaning": "moon; month",
+      "reading": "つき",
+      "term": "月"
+    },
+    {
+      "entryID": "jlpt-n5-preview-013",
+      "meaning": "sun",
+      "reading": "たいよう",
+      "term": "太陽"
+    },
+    {
+      "entryID": "jlpt-n5-preview-014",
+      "meaning": "star",
+      "reading": "ほし",
+      "term": "星"
+    },
+    {
+      "entryID": "jlpt-n5-preview-015",
+      "meaning": "tree",
+      "reading": "き",
+      "term": "木"
+    },
+    {
+      "entryID": "jlpt-n5-preview-016",
+      "meaning": "hand",
+      "reading": "て",
+      "term": "手"
+    },
+    {
+      "entryID": "jlpt-n5-preview-017",
+      "meaning": "foot; leg",
+      "reading": "あし",
+      "term": "足"
+    },
+    {
+      "entryID": "jlpt-n5-preview-018",
+      "meaning": "eye",
+      "reading": "め",
+      "term": "目"
+    },
+    {
+      "entryID": "jlpt-n5-preview-019",
+      "meaning": "mouth",
+      "reading": "くち",
+      "term": "口"
+    },
+    {
+      "entryID": "jlpt-n5-preview-020",
+      "meaning": "ear",
+      "reading": "みみ",
+      "term": "耳"
+    },
+    {
+      "entryID": "jlpt-n5-preview-021",
+      "meaning": "morning",
+      "reading": "あさ",
+      "term": "朝"
+    },
+    {
+      "entryID": "jlpt-n5-preview-022",
+      "meaning": "night",
+      "reading": "よる",
+      "term": "夜"
+    },
+    {
+      "entryID": "jlpt-n5-preview-023",
+      "meaning": "daytime",
+      "reading": "ひる",
+      "term": "昼"
+    },
+    {
+      "entryID": "jlpt-n5-preview-024",
+      "meaning": "last week",
+      "reading": "せんしゅう",
+      "term": "先週"
+    },
+    {
+      "entryID": "jlpt-n5-preview-025",
+      "meaning": "this year",
+      "reading": "ことし",
+      "term": "今年"
+    },
+    {
+      "entryID": "jlpt-n5-preview-026",
+      "meaning": "every day",
+      "reading": "まいにち",
+      "term": "毎日"
+    },
+    {
+      "entryID": "jlpt-n5-preview-027",
+      "meaning": "rest; holiday",
+      "reading": "やすみ",
+      "term": "休み"
+    },
+    {
+      "entryID": "jlpt-n5-preview-028",
+      "meaning": "work; job",
+      "reading": "しごと",
+      "term": "仕事"
+    },
+    {
+      "entryID": "jlpt-n5-preview-029",
+      "meaning": "teacher",
+      "reading": "せんせい",
+      "term": "先生"
+    },
+    {
+      "entryID": "jlpt-n5-preview-030",
+      "meaning": "doctor",
+      "reading": "いしゃ",
+      "term": "医者"
+    },
+    {
+      "entryID": "jlpt-n5-preview-031",
+      "meaning": "company employee",
+      "reading": "かいしゃいん",
+      "term": "会社員"
+    },
+    {
+      "entryID": "jlpt-n5-preview-032",
+      "meaning": "older brother",
+      "reading": "あに",
+      "term": "兄"
+    },
+    {
+      "entryID": "jlpt-n5-preview-033",
+      "meaning": "older sister",
+      "reading": "あね",
+      "term": "姉"
+    },
+    {
+      "entryID": "jlpt-n5-preview-034",
+      "meaning": "younger brother",
+      "reading": "おとうと",
+      "term": "弟"
+    },
+    {
+      "entryID": "jlpt-n5-preview-035",
+      "meaning": "younger sister",
+      "reading": "いもうと",
+      "term": "妹"
+    },
+    {
+      "entryID": "jlpt-n5-preview-036",
+      "meaning": "grandmother",
+      "reading": "そぼ",
+      "term": "祖母"
+    },
+    {
+      "entryID": "jlpt-n5-preview-037",
+      "meaning": "grandfather",
+      "reading": "そふ",
+      "term": "祖父"
+    },
+    {
+      "entryID": "jlpt-n5-preview-038",
+      "meaning": "room",
+      "reading": "へや",
+      "term": "部屋"
+    },
+    {
+      "entryID": "jlpt-n5-preview-039",
+      "meaning": "window",
+      "reading": "まど",
+      "term": "窓"
+    },
+    {
+      "entryID": "jlpt-n5-preview-040",
+      "meaning": "door",
+      "reading": "ドア",
+      "term": "ドア"
+    },
+    {
+      "entryID": "jlpt-n5-preview-041",
+      "meaning": "desk",
+      "reading": "つくえ",
+      "term": "机"
+    },
+    {
+      "entryID": "jlpt-n5-preview-042",
+      "meaning": "chair",
+      "reading": "いす",
+      "term": "椅子"
+    },
+    {
+      "entryID": "jlpt-n5-preview-043",
+      "meaning": "newspaper",
+      "reading": "しんぶん",
+      "term": "新聞"
+    },
+    {
+      "entryID": "jlpt-n5-preview-044",
+      "meaning": "magazine",
+      "reading": "ざっし",
+      "term": "雑誌"
+    },
+    {
+      "entryID": "jlpt-n5-preview-045",
+      "meaning": "dictionary",
+      "reading": "じしょ",
+      "term": "辞書"
+    },
+    {
+      "entryID": "jlpt-n5-preview-046",
+      "meaning": "notebook",
+      "reading": "ノート",
+      "term": "ノート"
+    },
+    {
+      "entryID": "jlpt-n5-preview-047",
+      "meaning": "photograph",
+      "reading": "しゃしん",
+      "term": "写真"
+    },
+    {
+      "entryID": "jlpt-n5-preview-048",
+      "meaning": "music",
+      "reading": "おんがく",
+      "term": "音楽"
+    },
+    {
+      "entryID": "jlpt-n5-preview-049",
+      "meaning": "movie",
+      "reading": "えいが",
+      "term": "映画"
+    },
+    {
+      "entryID": "jlpt-n5-preview-050",
+      "meaning": "cooking; dish",
+      "reading": "りょうり",
+      "term": "料理"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "jlpt",
+    "description": "A Preview vocabulary pack for English speakers learning Japanese: about 50 representative JLPT N5-level words demonstrating exam-direction coverage; it is NOT a complete N5 wordlist and is not affiliated with or endorsed by the Japan Foundation or JEES. Entries are originally curated by this project based on the publicly known N5 scope (no official wordlist exists); no third-party wordlist content has been copied. Full vocabulary may later be generated on demand by in-app AI.",
+    "language": "ja",
+    "level": "preview",
+    "tags": [
+      "jlpt",
+      "n5",
+      "preview",
+      "english"
+    ],
+    "title": "Japanese JLPT N5 Preview Vocabulary"
+  },
+  "packID": "com.dai1012.en.ja.jlpt.n5.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "entryID": "goethe-a1-preview-001",
+      "meaning": "hello",
+      "reading": "Guten Tag",
+      "term": "Guten Tag"
+    },
+    {
+      "entryID": "goethe-a1-preview-002",
+      "meaning": "please",
+      "reading": "Bitte",
+      "term": "Bitte"
+    },
+    {
+      "entryID": "goethe-a1-preview-003",
+      "meaning": "bye",
+      "reading": "Tschüss",
+      "term": "Tschüss"
+    },
+    {
+      "entryID": "goethe-a1-preview-004",
+      "meaning": "milk",
+      "reading": "Milch",
+      "term": "Milch"
+    },
+    {
+      "entryID": "goethe-a1-preview-005",
+      "meaning": "cheese",
+      "reading": "Käse",
+      "term": "Käse"
+    },
+    {
+      "entryID": "goethe-a1-preview-006",
+      "meaning": "butter",
+      "reading": "Butter",
+      "term": "Butter"
+    },
+    {
+      "entryID": "goethe-a1-preview-007",
+      "meaning": "apple",
+      "reading": "Apfel",
+      "term": "Apfel"
+    },
+    {
+      "entryID": "goethe-a1-preview-008",
+      "meaning": "vegetables",
+      "reading": "Gemüse",
+      "term": "Gemüse"
+    },
+    {
+      "entryID": "goethe-a1-preview-009",
+      "meaning": "meat",
+      "reading": "Fleisch",
+      "term": "Fleisch"
+    },
+    {
+      "entryID": "goethe-a1-preview-010",
+      "meaning": "fish",
+      "reading": "Fisch",
+      "term": "Fisch"
+    },
+    {
+      "entryID": "goethe-a1-preview-011",
+      "meaning": "apartment",
+      "reading": "Wohnung",
+      "term": "Wohnung"
+    },
+    {
+      "entryID": "goethe-a1-preview-012",
+      "meaning": "kitchen",
+      "reading": "Küche",
+      "term": "Küche"
+    },
+    {
+      "entryID": "goethe-a1-preview-013",
+      "meaning": "garden",
+      "reading": "Garten",
+      "term": "Garten"
+    },
+    {
+      "entryID": "goethe-a1-preview-014",
+      "meaning": "door",
+      "reading": "Tür",
+      "term": "Tür"
+    },
+    {
+      "entryID": "goethe-a1-preview-015",
+      "meaning": "window",
+      "reading": "Fenster",
+      "term": "Fenster"
+    },
+    {
+      "entryID": "goethe-a1-preview-016",
+      "meaning": "chair",
+      "reading": "Stuhl",
+      "term": "Stuhl"
+    },
+    {
+      "entryID": "goethe-a1-preview-017",
+      "meaning": "bed",
+      "reading": "Bett",
+      "term": "Bett"
+    },
+    {
+      "entryID": "goethe-a1-preview-018",
+      "meaning": "lamp",
+      "reading": "Lampe",
+      "term": "Lampe"
+    },
+    {
+      "entryID": "goethe-a1-preview-019",
+      "meaning": "key",
+      "reading": "Schlüssel",
+      "term": "Schlüssel"
+    },
+    {
+      "entryID": "goethe-a1-preview-020",
+      "meaning": "clock",
+      "reading": "Uhr",
+      "term": "Uhr"
+    },
+    {
+      "entryID": "goethe-a1-preview-021",
+      "meaning": "work",
+      "reading": "Arbeit",
+      "term": "Arbeit"
+    },
+    {
+      "entryID": "goethe-a1-preview-022",
+      "meaning": "meeting",
+      "reading": "Sitzung",
+      "term": "Sitzung"
+    },
+    {
+      "entryID": "goethe-a1-preview-023",
+      "meaning": "teacher",
+      "reading": "Lehrer",
+      "term": "Lehrer"
+    },
+    {
+      "entryID": "goethe-a1-preview-024",
+      "meaning": "doctor",
+      "reading": "Ärztin",
+      "term": "Ärztin"
+    },
+    {
+      "entryID": "goethe-a1-preview-025",
+      "meaning": "student",
+      "reading": "Studentin",
+      "term": "Studentin"
+    },
+    {
+      "entryID": "goethe-a1-preview-026",
+      "meaning": "neighbor",
+      "reading": "Nachbar",
+      "term": "Nachbar"
+    },
+    {
+      "entryID": "goethe-a1-preview-027",
+      "meaning": "child",
+      "reading": "Kind",
+      "term": "Kind"
+    },
+    {
+      "entryID": "goethe-a1-preview-028",
+      "meaning": "son",
+      "reading": "Sohn",
+      "term": "Sohn"
+    },
+    {
+      "entryID": "goethe-a1-preview-029",
+      "meaning": "daughter",
+      "reading": "Tochter",
+      "term": "Tochter"
+    },
+    {
+      "entryID": "goethe-a1-preview-030",
+      "meaning": "week",
+      "reading": "Woche",
+      "term": "Woche"
+    },
+    {
+      "entryID": "goethe-a1-preview-031",
+      "meaning": "month",
+      "reading": "Monat",
+      "term": "Monat"
+    },
+    {
+      "entryID": "goethe-a1-preview-032",
+      "meaning": "year",
+      "reading": "Jahr",
+      "term": "Jahr"
+    },
+    {
+      "entryID": "goethe-a1-preview-033",
+      "meaning": "morning",
+      "reading": "Vormittag",
+      "term": "Vormittag"
+    },
+    {
+      "entryID": "goethe-a1-preview-034",
+      "meaning": "afternoon",
+      "reading": "Nachmittag",
+      "term": "Nachmittag"
+    },
+    {
+      "entryID": "goethe-a1-preview-035",
+      "meaning": "evening",
+      "reading": "Abend",
+      "term": "Abend"
+    },
+    {
+      "entryID": "goethe-a1-preview-036",
+      "meaning": "spring",
+      "reading": "Frühling",
+      "term": "Frühling"
+    },
+    {
+      "entryID": "goethe-a1-preview-037",
+      "meaning": "summer",
+      "reading": "Sommer",
+      "term": "Sommer"
+    },
+    {
+      "entryID": "goethe-a1-preview-038",
+      "meaning": "autumn",
+      "reading": "Herbst",
+      "term": "Herbst"
+    },
+    {
+      "entryID": "goethe-a1-preview-039",
+      "meaning": "winter",
+      "reading": "Winter",
+      "term": "Winter"
+    },
+    {
+      "entryID": "goethe-a1-preview-040",
+      "meaning": "question",
+      "reading": "Frage",
+      "term": "Frage"
+    },
+    {
+      "entryID": "goethe-a1-preview-041",
+      "meaning": "answer",
+      "reading": "Antwort",
+      "term": "Antwort"
+    },
+    {
+      "entryID": "goethe-a1-preview-042",
+      "meaning": "word",
+      "reading": "Wort",
+      "term": "Wort"
+    },
+    {
+      "entryID": "goethe-a1-preview-043",
+      "meaning": "sentence",
+      "reading": "Satz",
+      "term": "Satz"
+    },
+    {
+      "entryID": "goethe-a1-preview-044",
+      "meaning": "story",
+      "reading": "Geschichte",
+      "term": "Geschichte"
+    },
+    {
+      "entryID": "goethe-a1-preview-045",
+      "meaning": "present",
+      "reading": "Geschenk",
+      "term": "Geschenk"
+    },
+    {
+      "entryID": "goethe-a1-preview-046",
+      "meaning": "happiness",
+      "reading": "Glück",
+      "term": "Glück"
+    },
+    {
+      "entryID": "goethe-a1-preview-047",
+      "meaning": "vacation",
+      "reading": "Urlaub",
+      "term": "Urlaub"
+    },
+    {
+      "entryID": "goethe-a1-preview-048",
+      "meaning": "trip",
+      "reading": "Reise",
+      "term": "Reise"
+    },
+    {
+      "entryID": "goethe-a1-preview-049",
+      "meaning": "thank you very much",
+      "reading": "Danke schön",
+      "term": "Danke schön"
+    },
+    {
+      "entryID": "goethe-a1-preview-050",
+      "meaning": "excuse me",
+      "reading": "Verzeihung",
+      "term": "Verzeihung"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "goethe",
+    "description": "This is a Preview vocabulary pack containing a small representative selection to demonstrate exam-direction coverage; it is not a complete exam wordlist and does not imply official certification or authorization from any examination body. Entries are originally curated by this project based on the publicly known CEFR A1 scope; no official wordlists or preparation materials have been copied (including the Goethe-Institut Wortliste). The full vocabulary may in future be generated on demand by in-app AI.",
+    "language": "de",
+    "level": "preview",
+    "tags": [
+      "goethe",
+      "a1",
+      "preview",
+      "english"
+    ],
+    "title": "German Goethe A1 Preview Vocabulary"
+  },
+  "packID": "com.dai1012.en.de.goethe.a1.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

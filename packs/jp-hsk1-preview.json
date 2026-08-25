@@ -1,0 +1,368 @@
+{
+  "entries": [
+    {
+      "entryID": "hsk1-preview-001",
+      "meaning": "私",
+      "reading": "wǒ",
+      "term": "我"
+    },
+    {
+      "entryID": "hsk1-preview-002",
+      "meaning": "あなた",
+      "reading": "nǐ",
+      "term": "你"
+    },
+    {
+      "entryID": "hsk1-preview-003",
+      "meaning": "彼",
+      "reading": "tā",
+      "term": "他"
+    },
+    {
+      "entryID": "hsk1-preview-004",
+      "meaning": "彼女",
+      "reading": "tā",
+      "term": "她"
+    },
+    {
+      "entryID": "hsk1-preview-005",
+      "meaning": "これ",
+      "reading": "zhè",
+      "term": "这"
+    },
+    {
+      "entryID": "hsk1-preview-006",
+      "meaning": "それ",
+      "reading": "nà",
+      "term": "那"
+    },
+    {
+      "entryID": "hsk1-preview-007",
+      "meaning": "どれ",
+      "reading": "nǎ",
+      "term": "哪"
+    },
+    {
+      "entryID": "hsk1-preview-008",
+      "meaning": "誰",
+      "reading": "shéi",
+      "term": "谁"
+    },
+    {
+      "entryID": "hsk1-preview-009",
+      "meaning": "何",
+      "reading": "shénme",
+      "term": "什么"
+    },
+    {
+      "entryID": "hsk1-preview-010",
+      "meaning": "いくつ",
+      "reading": "duōshao",
+      "term": "多少"
+    },
+    {
+      "entryID": "hsk1-preview-011",
+      "meaning": "一",
+      "reading": "yī",
+      "term": "一"
+    },
+    {
+      "entryID": "hsk1-preview-012",
+      "meaning": "二",
+      "reading": "èr",
+      "term": "二"
+    },
+    {
+      "entryID": "hsk1-preview-013",
+      "meaning": "三",
+      "reading": "sān",
+      "term": "三"
+    },
+    {
+      "entryID": "hsk1-preview-014",
+      "meaning": "人",
+      "reading": "rén",
+      "term": "人"
+    },
+    {
+      "entryID": "hsk1-preview-015",
+      "meaning": "家",
+      "reading": "jiā",
+      "term": "家"
+    },
+    {
+      "entryID": "hsk1-preview-016",
+      "meaning": "学校",
+      "reading": "xuéxiào",
+      "term": "学校"
+    },
+    {
+      "entryID": "hsk1-preview-017",
+      "meaning": "先生",
+      "reading": "lǎoshī",
+      "term": "老师"
+    },
+    {
+      "entryID": "hsk1-preview-018",
+      "meaning": "学生",
+      "reading": "xuésheng",
+      "term": "学生"
+    },
+    {
+      "entryID": "hsk1-preview-019",
+      "meaning": "クラスメート",
+      "reading": "tóngxué",
+      "term": "同学"
+    },
+    {
+      "entryID": "hsk1-preview-020",
+      "meaning": "医者",
+      "reading": "yīshēng",
+      "term": "医生"
+    },
+    {
+      "entryID": "hsk1-preview-021",
+      "meaning": "お父さん",
+      "reading": "bàba",
+      "term": "爸爸"
+    },
+    {
+      "entryID": "hsk1-preview-022",
+      "meaning": "お母さん",
+      "reading": "māma",
+      "term": "妈妈"
+    },
+    {
+      "entryID": "hsk1-preview-023",
+      "meaning": "息子",
+      "reading": "érzi",
+      "term": "儿子"
+    },
+    {
+      "entryID": "hsk1-preview-024",
+      "meaning": "娘",
+      "reading": "nǚér",
+      "term": "女儿"
+    },
+    {
+      "entryID": "hsk1-preview-025",
+      "meaning": "猫",
+      "reading": "māo",
+      "term": "猫"
+    },
+    {
+      "entryID": "hsk1-preview-026",
+      "meaning": "犬",
+      "reading": "gǒu",
+      "term": "狗"
+    },
+    {
+      "entryID": "hsk1-preview-027",
+      "meaning": "水",
+      "reading": "shuǐ",
+      "term": "水"
+    },
+    {
+      "entryID": "hsk1-preview-028",
+      "meaning": "お茶",
+      "reading": "chá",
+      "term": "茶"
+    },
+    {
+      "entryID": "hsk1-preview-029",
+      "meaning": "りんご",
+      "reading": "píngguǒ",
+      "term": "苹果"
+    },
+    {
+      "entryID": "hsk1-preview-030",
+      "meaning": "本",
+      "reading": "shū",
+      "term": "书"
+    },
+    {
+      "entryID": "hsk1-preview-031",
+      "meaning": "テーブル",
+      "reading": "zhuōzi",
+      "term": "桌子"
+    },
+    {
+      "entryID": "hsk1-preview-032",
+      "meaning": "椅子",
+      "reading": "yǐzi",
+      "term": "椅子"
+    },
+    {
+      "entryID": "hsk1-preview-033",
+      "meaning": "ご飯",
+      "reading": "fàn",
+      "term": "饭"
+    },
+    {
+      "entryID": "hsk1-preview-034",
+      "meaning": "料理",
+      "reading": "cài",
+      "term": "菜"
+    },
+    {
+      "entryID": "hsk1-preview-035",
+      "meaning": "店",
+      "reading": "shāngdiàn",
+      "term": "商店"
+    },
+    {
+      "entryID": "hsk1-preview-036",
+      "meaning": "レストラン",
+      "reading": "fàndiàn",
+      "term": "饭店"
+    },
+    {
+      "entryID": "hsk1-preview-037",
+      "meaning": "駅",
+      "reading": "huǒchēzhàn",
+      "term": "火车站"
+    },
+    {
+      "entryID": "hsk1-preview-038",
+      "meaning": "タクシー",
+      "reading": "chūzūchē",
+      "term": "出租车"
+    },
+    {
+      "entryID": "hsk1-preview-039",
+      "meaning": "飛行機",
+      "reading": "fēijī",
+      "term": "飞机"
+    },
+    {
+      "entryID": "hsk1-preview-040",
+      "meaning": "北京",
+      "reading": "Běijīng",
+      "term": "北京"
+    },
+    {
+      "entryID": "hsk1-preview-041",
+      "meaning": "中国",
+      "reading": "Zhōngguó",
+      "term": "中国"
+    },
+    {
+      "entryID": "hsk1-preview-042",
+      "meaning": "今日",
+      "reading": "jīntiān",
+      "term": "今天"
+    },
+    {
+      "entryID": "hsk1-preview-043",
+      "meaning": "明日",
+      "reading": "míngtiān",
+      "term": "明天"
+    },
+    {
+      "entryID": "hsk1-preview-044",
+      "meaning": "今",
+      "reading": "xiànzài",
+      "term": "现在"
+    },
+    {
+      "entryID": "hsk1-preview-045",
+      "meaning": "朝",
+      "reading": "zǎoshang",
+      "term": "早上"
+    },
+    {
+      "entryID": "hsk1-preview-046",
+      "meaning": "好きだ",
+      "reading": "xǐhuan",
+      "term": "喜欢"
+    },
+    {
+      "entryID": "hsk1-preview-047",
+      "meaning": "できる",
+      "reading": "huì",
+      "term": "会"
+    },
+    {
+      "entryID": "hsk1-preview-048",
+      "meaning": "持っている",
+      "reading": "yǒu",
+      "term": "有"
+    },
+    {
+      "entryID": "hsk1-preview-049",
+      "meaning": "です",
+      "reading": "shì",
+      "term": "是"
+    },
+    {
+      "entryID": "hsk1-preview-050",
+      "meaning": "～にいる",
+      "reading": "zài",
+      "term": "在"
+    },
+    {
+      "entryID": "hsk1-preview-051",
+      "meaning": "見る",
+      "reading": "kàn",
+      "term": "看"
+    },
+    {
+      "entryID": "hsk1-preview-052",
+      "meaning": "食事する",
+      "reading": "chīfàn",
+      "term": "吃饭"
+    },
+    {
+      "entryID": "hsk1-preview-053",
+      "meaning": "飲む",
+      "reading": "hē",
+      "term": "喝"
+    },
+    {
+      "entryID": "hsk1-preview-054",
+      "meaning": "買う",
+      "reading": "mǎi",
+      "term": "买"
+    },
+    {
+      "entryID": "hsk1-preview-055",
+      "meaning": "ありがとう",
+      "reading": "xièxie",
+      "term": "谢谢"
+    },
+    {
+      "entryID": "hsk1-preview-056",
+      "meaning": "さようなら",
+      "reading": "zàijiàn",
+      "term": "再见"
+    },
+    {
+      "entryID": "hsk1-preview-057",
+      "meaning": "どういたしまして",
+      "reading": "búkèqi",
+      "term": "不客气"
+    },
+    {
+      "entryID": "hsk1-preview-058",
+      "meaning": "ごめんなさい",
+      "reading": "duìbuqǐ",
+      "term": "对不起"
+    }
+  ],
+  "entryCount": 58,
+  "metadata": {
+    "classification": "hsk",
+    "description": "HSK1范围のPreview語彙パック：試験対応力のデモ用の少数代表語を収録。完全な試験語彙リストではなく、公式認定・機関承認を示すものでもありません。語目は《国际中文教育中文水平等级标准》(GF0025-2021) 公開の一级词汇範囲を参考に本プロジェクトが独自に選定し、日本語释义は本项目が编写。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+    "language": "zh",
+    "level": "preview",
+    "tags": [
+      "hsk",
+      "preview",
+      "japanese"
+    ],
+    "title": "中国語 HSK1 Preview 単語集"
+  },
+  "packID": "com.dai1012.jp.zh.hsk1.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

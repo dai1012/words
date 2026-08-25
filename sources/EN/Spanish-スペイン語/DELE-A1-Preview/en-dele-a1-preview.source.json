@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.en.es.dele.a1.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "Spanish DELE A1 Preview Vocabulary",
+    "language": "es",
+    "classification": "dele",
+    "level": "preview",
+    "description": "A Preview vocabulary pack for English speakers learning Spanish: about 50 representative DELE A1-level words demonstrating exam-direction coverage; not a complete exam wordlist and not affiliated with or endorsed by the Instituto Cervantes or any examination body. Entries are originally curated by this project based on the publicly known CEFR A1 scope (referencing the publicly viewable Plan Curricular structure as factual information only); no official wordlist or prep material content has been copied. Full vocabulary may later be generated on demand by in-app AI.",
+    "tags": [
+      "dele",
+      "a1",
+      "preview",
+      "english"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "dele-a1-preview-001",
+      "term": "buenos días",
+      "reading": "buenos días",
+      "meaning": "good morning"
+    },
+    {
+      "entryID": "dele-a1-preview-002",
+      "term": "buenas tardes",
+      "reading": "buenas tardes",
+      "meaning": "good afternoon"
+    },
+    {
+      "entryID": "dele-a1-preview-003",
+      "term": "por favor",
+      "reading": "por favor",
+      "meaning": "please"
+    },
+    {
+      "entryID": "dele-a1-preview-004",
+      "term": "de nada",
+      "reading": "de nada",
+      "meaning": "you're welcome"
+    },
+    {
+      "entryID": "dele-a1-preview-005",
+      "term": "perdón",
+      "reading": "perdón",
+      "meaning": "sorry; excuse me"
+    },
+    {
+      "entryID": "dele-a1-preview-006",
+      "term": "hasta luego",
+      "reading": "hasta luego",
+      "meaning": "see you later"
+    },
+    {
+      "entryID": "dele-a1-preview-007",
+      "term": "leche",
+      "reading": "leche",
+      "meaning": "milk"
+    },
+    {
+      "entryID": "dele-a1-preview-008",
+      "term": "queso",
+      "reading": "queso",
+      "meaning": "cheese"
+    },
+    {
+      "entryID": "dele-a1-preview-009",
+      "term": "arroz",
+      "reading": "arroz",
+      "meaning": "rice"
+    },
+    {
+      "entryID": "dele-a1-preview-010",
+      "term": "sopa",
+      "reading": "sopa",
+      "meaning": "soup"
+    },
+    {
+      "entryID": "dele-a1-preview-011",
+      "term": "huevo",
+      "reading": "huevo",
+      "meaning": "egg"
+    },
+    {
+      "entryID": "dele-a1-preview-012",
+      "term": "fruta",
+      "reading": "fruta",
+      "meaning": "fruit"
+    },
+    {
+      "entryID": "dele-a1-preview-013",
+      "term": "carne",
+      "reading": "carne",
+      "meaning": "meat"
+    },
+    {
+      "entryID": "dele-a1-preview-014",
+      "term": "pescado",
+      "reading": "pescado",
+      "meaning": "fish"
+    },
+    {
+      "entryID": "dele-a1-preview-015",
+      "term": "habitación",
+      "reading": "habitación",
+      "meaning": "room"
+    },
+    {
+      "entryID": "dele-a1-preview-016",
+      "term": "cocina",
+      "reading": "cocina",
+      "meaning": "kitchen"
+    },
+    {
+      "entryID": "dele-a1-preview-017",
+      "term": "jardín",
+      "reading": "jardín",
+      "meaning": "garden"
+    },
+    {
+      "entryID": "dele-a1-preview-018",
+      "term": "puerta",
+      "reading": "puerta",
+      "meaning": "door"
+    },
+    {
+      "entryID": "dele-a1-preview-019",
+      "term": "ventana",
+      "reading": "ventana",
+      "meaning": "window"
+    },
+    {
+      "entryID": "dele-a1-preview-020",
+      "term": "cama",
+      "reading": "cama",
+      "meaning": "bed"
+    },
+    {
+      "entryID": "dele-a1-preview-021",
+      "term": "silla",
+      "reading": "silla",
+      "meaning": "chair"
+    },
+    {
+      "entryID": "dele-a1-preview-022",
+      "term": "lámpara",
+      "reading": "lámpara",
+      "meaning": "lamp"
+    },
+    {
+      "entryID": "dele-a1-preview-023",
+      "term": "llave",
+      "reading": "llave",
+      "meaning": "key"
+    },
+    {
+      "entryID": "dele-a1-preview-024",
+      "term": "reloj",
+      "reading": "reloj",
+      "meaning": "clock; watch"
+    },
+    {
+      "entryID": "dele-a1-preview-025",
+      "term": "oficina",
+      "reading": "oficina",
+      "meaning": "office"
+    },
+    {
+      "entryID": "dele-a1-preview-026",
+      "term": "reunión",
+      "reading": "reunión",
+      "meaning": "meeting"
+    },
+    {
+      "entryID": "dele-a1-preview-027",
+      "term": "profesor",
+      "reading": "profesor",
+      "meaning": "teacher"
+    },
+    {
+      "entryID": "dele-a1-preview-028",
+      "term": "médico",
+      "reading": "médico",
+      "meaning": "doctor"
+    },
+    {
+      "entryID": "dele-a1-preview-029",
+      "term": "estudiante",
+      "reading": "estudiante",
+      "meaning": "student"
+    },
+    {
+      "entryID": "dele-a1-preview-030",
+      "term": "compañero",
+      "reading": "compañero",
+      "meaning": "colleague"
+    },
+    {
+      "entryID": "dele-a1-preview-031",
+      "term": "vecino",
+      "reading": "vecino",
+      "meaning": "neighbor"
+    },
+    {
+      "entryID": "dele-a1-preview-032",
+      "term": "niño",
+      "reading": "niño",
+      "meaning": "child"
+    },
+    {
+      "entryID": "dele-a1-preview-033",
+      "term": "hijo",
+      "reading": "hijo",
+      "meaning": "son"
+    },
+    {
+      "entryID": "dele-a1-preview-034",
+      "term": "hija",
+      "reading": "hija",
+      "meaning": "daughter"
+    },
+    {
+      "entryID": "dele-a1-preview-035",
+      "term": "semana",
+      "reading": "semana",
+      "meaning": "week"
+    },
+    {
+      "entryID": "dele-a1-preview-036",
+      "term": "fin de semana",
+      "reading": "fin de semana",
+      "meaning": "weekend"
+    },
+    {
+      "entryID": "dele-a1-preview-037",
+      "term": "mes",
+      "reading": "mes",
+      "meaning": "month"
+    },
+    {
+      "entryID": "dele-a1-preview-038",
+      "term": "año",
+      "reading": "año",
+      "meaning": "year"
+    },
+    {
+      "entryID": "dele-a1-preview-039",
+      "term": "noche",
+      "reading": "noche",
+      "meaning": "night"
+    },
+    {
+      "entryID": "dele-a1-preview-040",
+      "term": "primavera",
+      "reading": "primavera",
+      "meaning": "spring"
+    },
+    {
+      "entryID": "dele-a1-preview-041",
+      "term": "verano",
+      "reading": "verano",
+      "meaning": "summer"
+    },
+    {
+      "entryID": "dele-a1-preview-042",
+      "term": "otoño",
+      "reading": "otoño",
+      "meaning": "autumn"
+    },
+    {
+      "entryID": "dele-a1-preview-043",
+      "term": "invierno",
+      "reading": "invierno",
+      "meaning": "winter"
+    },
+    {
+      "entryID": "dele-a1-preview-044",
+      "term": "pregunta",
+      "reading": "pregunta",
+      "meaning": "question"
+    },
+    {
+      "entryID": "dele-a1-preview-045",
+      "term": "respuesta",
+      "reading": "respuesta",
+      "meaning": "answer"
+    },
+    {
+      "entryID": "dele-a1-preview-046",
+      "term": "palabra",
+      "reading": "palabra",
+      "meaning": "word"
+    },
+    {
+      "entryID": "dele-a1-preview-047",
+      "term": "frase",
+      "reading": "frase",
+      "meaning": "sentence"
+    },
+    {
+      "entryID": "dele-a1-preview-048",
+      "term": "historia",
+      "reading": "historia",
+      "meaning": "story; history"
+    },
+    {
+      "entryID": "dele-a1-preview-049",
+      "term": "regalo",
+      "reading": "regalo",
+      "meaning": "present"
+    },
+    {
+      "entryID": "dele-a1-preview-050",
+      "term": "suerte",
+      "reading": "suerte",
+      "meaning": "luck"
+    }
+  ]
+}

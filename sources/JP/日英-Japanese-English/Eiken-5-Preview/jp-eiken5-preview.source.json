@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.jp.en.eiken5.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "英検5級 Preview 词汇（英単語）",
+    "language": "en",
+    "classification": "eiken",
+    "level": "preview",
+    "description": "英語検定（英検）5級レベルを想定した語彙範囲のPreview語彙パック（約50語）。試験対応力のデモを目的とし、完全な語彙リストではありません。英検協会は公式語彙リストを公開しておらず、本パックの語彙は本プロジェクトによるオリジナル編集で、英検協会のコンテンツは一切複製していません。公式認定や機関承認を示すものでもありません。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+    "tags": [
+      "eiken",
+      "preview",
+      "japanese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "eiken-5-preview-001",
+      "term": "morning",
+      "reading": "モーニング",
+      "meaning": "朝"
+    },
+    {
+      "entryID": "eiken-5-preview-002",
+      "term": "night",
+      "reading": "ナイト",
+      "meaning": "夜"
+    },
+    {
+      "entryID": "eiken-5-preview-003",
+      "term": "year",
+      "reading": "イヤー",
+      "meaning": "年"
+    },
+    {
+      "entryID": "eiken-5-preview-004",
+      "term": "dog",
+      "reading": "ドッグ",
+      "meaning": "犬"
+    },
+    {
+      "entryID": "eiken-5-preview-005",
+      "term": "cat",
+      "reading": "キャット",
+      "meaning": "猫"
+    },
+    {
+      "entryID": "eiken-5-preview-006",
+      "term": "bird",
+      "reading": "バード",
+      "meaning": "鳥"
+    },
+    {
+      "entryID": "eiken-5-preview-007",
+      "term": "fish",
+      "reading": "フィッシュ",
+      "meaning": "魚"
+    },
+    {
+      "entryID": "eiken-5-preview-008",
+      "term": "apple",
+      "reading": "アップル",
+      "meaning": "りんご"
+    },
+    {
+      "entryID": "eiken-5-preview-009",
+      "term": "egg",
+      "reading": "エッグ",
+      "meaning": "卵"
+    },
+    {
+      "entryID": "eiken-5-preview-010",
+      "term": "rice",
+      "reading": "ライス",
+      "meaning": "ご飯"
+    },
+    {
+      "entryID": "eiken-5-preview-011",
+      "term": "cake",
+      "reading": "ケーキ",
+      "meaning": "ケーキ"
+    },
+    {
+      "entryID": "eiken-5-preview-012",
+      "term": "door",
+      "reading": "ドア",
+      "meaning": "ドア"
+    },
+    {
+      "entryID": "eiken-5-preview-013",
+      "term": "window",
+      "reading": "ウィンドウ",
+      "meaning": "窓"
+    },
+    {
+      "entryID": "eiken-5-preview-014",
+      "term": "desk",
+      "reading": "デスク",
+      "meaning": "机"
+    },
+    {
+      "entryID": "eiken-5-preview-015",
+      "term": "chair",
+      "reading": "チェア",
+      "meaning": "椅子"
+    },
+    {
+      "entryID": "eiken-5-preview-016",
+      "term": "key",
+      "reading": "キー",
+      "meaning": "鍵"
+    },
+    {
+      "entryID": "eiken-5-preview-017",
+      "term": "clock",
+      "reading": "クロック",
+      "meaning": "時計"
+    },
+    {
+      "entryID": "eiken-5-preview-018",
+      "term": "doctor",
+      "reading": "ドクター",
+      "meaning": "医者"
+    },
+    {
+      "entryID": "eiken-5-preview-019",
+      "term": "teacher",
+      "reading": "ティーチャー",
+      "meaning": "先生"
+    },
+    {
+      "entryID": "eiken-5-preview-020",
+      "term": "student",
+      "reading": "スチューデント",
+      "meaning": "学生"
+    },
+    {
+      "entryID": "eiken-5-preview-021",
+      "term": "winter",
+      "reading": "ウィンター",
+      "meaning": "冬"
+    },
+    {
+      "entryID": "eiken-5-preview-022",
+      "term": "summer",
+      "reading": "サマー",
+      "meaning": "夏"
+    },
+    {
+      "entryID": "eiken-5-preview-023",
+      "term": "spring",
+      "reading": "スプリング",
+      "meaning": "春"
+    },
+    {
+      "entryID": "eiken-5-preview-024",
+      "term": "question",
+      "reading": "クエスチョン",
+      "meaning": "質問"
+    },
+    {
+      "entryID": "eiken-5-preview-025",
+      "term": "answer",
+      "reading": "アンサー",
+      "meaning": "答え"
+    },
+    {
+      "entryID": "eiken-5-preview-026",
+      "term": "word",
+      "reading": "ワード",
+      "meaning": "単語"
+    },
+    {
+      "entryID": "eiken-5-preview-027",
+      "term": "present",
+      "reading": "プレゼント",
+      "meaning": "贈り物"
+    },
+    {
+      "entryID": "eiken-5-preview-028",
+      "term": "trip",
+      "reading": "トリップ",
+      "meaning": "旅行"
+    },
+    {
+      "entryID": "eiken-5-preview-029",
+      "term": "city",
+      "reading": "シティ",
+      "meaning": "都市"
+    },
+    {
+      "entryID": "eiken-5-preview-030",
+      "term": "country",
+      "reading": "カントリー",
+      "meaning": "国"
+    },
+    {
+      "entryID": "eiken-5-preview-031",
+      "term": "sister",
+      "reading": "シスター",
+      "meaning": "姉・妹"
+    },
+    {
+      "entryID": "eiken-5-preview-032",
+      "term": "brother",
+      "reading": "ブラザー",
+      "meaning": "兄・弟"
+    },
+    {
+      "entryID": "eiken-5-preview-033",
+      "term": "hand",
+      "reading": "ハンド",
+      "meaning": "手"
+    },
+    {
+      "entryID": "eiken-5-preview-034",
+      "term": "eye",
+      "reading": "アイ",
+      "meaning": "目"
+    },
+    {
+      "entryID": "eiken-5-preview-035",
+      "term": "flower",
+      "reading": "フラワー",
+      "meaning": "花"
+    },
+    {
+      "entryID": "eiken-5-preview-036",
+      "term": "rain",
+      "reading": "レイン",
+      "meaning": "雨"
+    },
+    {
+      "entryID": "eiken-5-preview-037",
+      "term": "snow",
+      "reading": "スノー",
+      "meaning": "雪"
+    },
+    {
+      "entryID": "eiken-5-preview-038",
+      "term": "sea",
+      "reading": "シー",
+      "meaning": "海"
+    },
+    {
+      "entryID": "eiken-5-preview-039",
+      "term": "mountain",
+      "reading": "マウンテン",
+      "meaning": "山"
+    },
+    {
+      "entryID": "eiken-5-preview-040",
+      "term": "river",
+      "reading": "リバー",
+      "meaning": "川"
+    },
+    {
+      "entryID": "eiken-5-preview-041",
+      "term": "sun",
+      "reading": "サン",
+      "meaning": "太陽"
+    },
+    {
+      "entryID": "eiken-5-preview-042",
+      "term": "star",
+      "reading": "スター",
+      "meaning": "星"
+    },
+    {
+      "entryID": "eiken-5-preview-043",
+      "term": "moon",
+      "reading": "ムーン",
+      "meaning": "月"
+    },
+    {
+      "entryID": "eiken-5-preview-044",
+      "term": "walk",
+      "reading": "ウォーク",
+      "meaning": "歩く"
+    },
+    {
+      "entryID": "eiken-5-preview-045",
+      "term": "run",
+      "reading": "ラン",
+      "meaning": "走る"
+    },
+    {
+      "entryID": "eiken-5-preview-046",
+      "term": "sit",
+      "reading": "シット",
+      "meaning": "座る"
+    },
+    {
+      "entryID": "eiken-5-preview-047",
+      "term": "read",
+      "reading": "リード",
+      "meaning": "読む"
+    },
+    {
+      "entryID": "eiken-5-preview-048",
+      "term": "write",
+      "reading": "ライト",
+      "meaning": "書く"
+    },
+    {
+      "entryID": "eiken-5-preview-049",
+      "term": "buy",
+      "reading": "バイ",
+      "meaning": "買う"
+    },
+    {
+      "entryID": "eiken-5-preview-050",
+      "term": "make",
+      "reading": "メイク",
+      "meaning": "作る"
+    }
+  ]
+}

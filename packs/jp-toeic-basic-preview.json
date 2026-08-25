@@ -1,0 +1,309 @@
+{
+  "entries": [
+    {
+      "entryID": "toeic-basic-preview-001",
+      "meaning": "会議",
+      "reading": "ミーティング",
+      "term": "meeting"
+    },
+    {
+      "entryID": "toeic-basic-preview-002",
+      "meaning": "オフィス",
+      "reading": "オフィス",
+      "term": "office"
+    },
+    {
+      "entryID": "toeic-basic-preview-003",
+      "meaning": "予定",
+      "reading": "スケジュール",
+      "term": "schedule"
+    },
+    {
+      "entryID": "toeic-basic-preview-004",
+      "meaning": "ビジネス",
+      "reading": "ビジネス",
+      "term": "business"
+    },
+    {
+      "entryID": "toeic-basic-preview-005",
+      "meaning": "会社",
+      "reading": "カンパニー",
+      "term": "company"
+    },
+    {
+      "entryID": "toeic-basic-preview-006",
+      "meaning": "従業員",
+      "reading": "エンプロイー",
+      "term": "employee"
+    },
+    {
+      "entryID": "toeic-basic-preview-007",
+      "meaning": "管理者",
+      "reading": "マネージャー",
+      "term": "manager"
+    },
+    {
+      "entryID": "toeic-basic-preview-008",
+      "meaning": "顧客",
+      "reading": "カスタマー",
+      "term": "customer"
+    },
+    {
+      "entryID": "toeic-basic-preview-009",
+      "meaning": "契約",
+      "reading": "コントラクト",
+      "term": "contract"
+    },
+    {
+      "entryID": "toeic-basic-preview-010",
+      "meaning": "価格",
+      "reading": "プライス",
+      "term": "price"
+    },
+    {
+      "entryID": "toeic-basic-preview-011",
+      "meaning": "注文",
+      "reading": "オーダー",
+      "term": "order"
+    },
+    {
+      "entryID": "toeic-basic-preview-012",
+      "meaning": "配送",
+      "reading": "デリバリー",
+      "term": "delivery"
+    },
+    {
+      "entryID": "toeic-basic-preview-013",
+      "meaning": "支払い",
+      "reading": "ペイメント",
+      "term": "payment"
+    },
+    {
+      "entryID": "toeic-basic-preview-014",
+      "meaning": "請求書",
+      "reading": "インボイス",
+      "term": "invoice"
+    },
+    {
+      "entryID": "toeic-basic-preview-015",
+      "meaning": "予算",
+      "reading": "バジェット",
+      "term": "budget"
+    },
+    {
+      "entryID": "toeic-basic-preview-016",
+      "meaning": "利益",
+      "reading": "プロフィット",
+      "term": "profit"
+    },
+    {
+      "entryID": "toeic-basic-preview-017",
+      "meaning": "売上・販売",
+      "reading": "セールス",
+      "term": "sales"
+    },
+    {
+      "entryID": "toeic-basic-preview-018",
+      "meaning": "マーケティング",
+      "reading": "マーケティング",
+      "term": "marketing"
+    },
+    {
+      "entryID": "toeic-basic-preview-019",
+      "meaning": "報告書",
+      "reading": "リポート",
+      "term": "report"
+    },
+    {
+      "entryID": "toeic-basic-preview-020",
+      "meaning": "メール",
+      "reading": "イーメール",
+      "term": "email"
+    },
+    {
+      "entryID": "toeic-basic-preview-021",
+      "meaning": "メッセージ",
+      "reading": "メッセージ",
+      "term": "message"
+    },
+    {
+      "entryID": "toeic-basic-preview-022",
+      "meaning": "添付する",
+      "reading": "アタッチ",
+      "term": "attach"
+    },
+    {
+      "entryID": "toeic-basic-preview-023",
+      "meaning": "確認する",
+      "reading": "コンファーム",
+      "term": "confirm"
+    },
+    {
+      "entryID": "toeic-basic-preview-024",
+      "meaning": "手配する",
+      "reading": "アレンジ",
+      "term": "arrange"
+    },
+    {
+      "entryID": "toeic-basic-preview-025",
+      "meaning": "面会予約",
+      "reading": "アポイントメント",
+      "term": "appointment"
+    },
+    {
+      "entryID": "toeic-basic-preview-026",
+      "meaning": "同意する",
+      "reading": "アグリー",
+      "term": "agree"
+    },
+    {
+      "entryID": "toeic-basic-preview-027",
+      "meaning": "決定",
+      "reading": "ディシジョン",
+      "term": "decision"
+    },
+    {
+      "entryID": "toeic-basic-preview-028",
+      "meaning": "締め切り",
+      "reading": "デッドライン",
+      "term": "deadline"
+    },
+    {
+      "entryID": "toeic-basic-preview-029",
+      "meaning": "プロジェクト",
+      "reading": "プロジェクト",
+      "term": "project"
+    },
+    {
+      "entryID": "toeic-basic-preview-030",
+      "meaning": "計画",
+      "reading": "プラン",
+      "term": "plan"
+    },
+    {
+      "entryID": "toeic-basic-preview-031",
+      "meaning": "目標",
+      "reading": "ゴール",
+      "term": "goal"
+    },
+    {
+      "entryID": "toeic-basic-preview-032",
+      "meaning": "結果",
+      "reading": "リザルト",
+      "term": "result"
+    },
+    {
+      "entryID": "toeic-basic-preview-033",
+      "meaning": "改善する",
+      "reading": "インプルーブ",
+      "term": "improve"
+    },
+    {
+      "entryID": "toeic-basic-preview-034",
+      "meaning": "増加する",
+      "reading": "インクリース",
+      "term": "increase"
+    },
+    {
+      "entryID": "toeic-basic-preview-035",
+      "meaning": "減少する",
+      "reading": "ディクリース",
+      "term": "decrease"
+    },
+    {
+      "entryID": "toeic-basic-preview-036",
+      "meaning": "成功",
+      "reading": "サクセス",
+      "term": "success"
+    },
+    {
+      "entryID": "toeic-basic-preview-037",
+      "meaning": "問題",
+      "reading": "プロブレム",
+      "term": "problem"
+    },
+    {
+      "entryID": "toeic-basic-preview-038",
+      "meaning": "解決策",
+      "reading": "ソリューション",
+      "term": "solution"
+    },
+    {
+      "entryID": "toeic-basic-preview-039",
+      "meaning": "支援",
+      "reading": "サポート",
+      "term": "support"
+    },
+    {
+      "entryID": "toeic-basic-preview-040",
+      "meaning": "サービス",
+      "reading": "サービス",
+      "term": "service"
+    },
+    {
+      "entryID": "toeic-basic-preview-041",
+      "meaning": "製品",
+      "reading": "プロダクト",
+      "term": "product"
+    },
+    {
+      "entryID": "toeic-basic-preview-042",
+      "meaning": "品質",
+      "reading": "クオリティ",
+      "term": "quality"
+    },
+    {
+      "entryID": "toeic-basic-preview-043",
+      "meaning": "研修",
+      "reading": "トレーニング",
+      "term": "training"
+    },
+    {
+      "entryID": "toeic-basic-preview-044",
+      "meaning": "経験",
+      "reading": "エクスペリエンス",
+      "term": "experience"
+    },
+    {
+      "entryID": "toeic-basic-preview-045",
+      "meaning": "技能",
+      "reading": "スキル",
+      "term": "skill"
+    },
+    {
+      "entryID": "toeic-basic-preview-046",
+      "meaning": "キャリア",
+      "reading": "キャリア",
+      "term": "career"
+    },
+    {
+      "entryID": "toeic-basic-preview-047",
+      "meaning": "面接",
+      "reading": "インタビュー",
+      "term": "interview"
+    },
+    {
+      "entryID": "toeic-basic-preview-048",
+      "meaning": "履歴書",
+      "reading": "レジュメ",
+      "term": "resume"
+    }
+  ],
+  "entryCount": 48,
+  "metadata": {
+    "classification": "toeic",
+    "description": "TOEIC初級レベルを想定した語彙範囲のPreview語彙パック（約50語、ビジネス基礎語中心）。試験対応力のデモを目的とし、完全な語彙リストではありません。ETSは公式語彙リストを公開しておらず、本パックの語彙は本プロジェクトによるオリジナル編集で、ETSのコンテンツは一切複製していません。公式認定や機関承認を示すものでもありません。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+    "language": "en",
+    "level": "preview",
+    "tags": [
+      "toeic",
+      "basic",
+      "preview",
+      "japanese"
+    ],
+    "title": "TOEIC Basic Preview 単語（ビジネス基礎）"
+  },
+  "packID": "com.dai1012.jp.en.toeic.basic.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

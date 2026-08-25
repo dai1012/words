@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.cn.de.goethe.a1.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "德语 Goethe A1 Preview 词汇",
+    "language": "de",
+    "classification": "goethe",
+    "level": "preview",
+    "description": "本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料（含 Goethe-Institut Wortliste）。完整词库未来可由 App 内 AI 按需生成。",
+    "tags": [
+      "goethe",
+      "a1",
+      "preview",
+      "chinese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "goethe-a1-preview-001",
+      "term": "Guten Tag",
+      "reading": "Guten Tag",
+      "meaning": "您好"
+    },
+    {
+      "entryID": "goethe-a1-preview-002",
+      "term": "Bitte",
+      "reading": "Bitte",
+      "meaning": "请；不客气"
+    },
+    {
+      "entryID": "goethe-a1-preview-003",
+      "term": "Tschüss",
+      "reading": "Tschüss",
+      "meaning": "再见"
+    },
+    {
+      "entryID": "goethe-a1-preview-004",
+      "term": "Milch",
+      "reading": "Milch",
+      "meaning": "牛奶"
+    },
+    {
+      "entryID": "goethe-a1-preview-005",
+      "term": "Käse",
+      "reading": "Käse",
+      "meaning": "奶酪"
+    },
+    {
+      "entryID": "goethe-a1-preview-006",
+      "term": "Butter",
+      "reading": "Butter",
+      "meaning": "黄油"
+    },
+    {
+      "entryID": "goethe-a1-preview-007",
+      "term": "Apfel",
+      "reading": "Apfel",
+      "meaning": "苹果"
+    },
+    {
+      "entryID": "goethe-a1-preview-008",
+      "term": "Gemüse",
+      "reading": "Gemüse",
+      "meaning": "蔬菜"
+    },
+    {
+      "entryID": "goethe-a1-preview-009",
+      "term": "Fleisch",
+      "reading": "Fleisch",
+      "meaning": "肉"
+    },
+    {
+      "entryID": "goethe-a1-preview-010",
+      "term": "Fisch",
+      "reading": "Fisch",
+      "meaning": "鱼"
+    },
+    {
+      "entryID": "goethe-a1-preview-011",
+      "term": "Wohnung",
+      "reading": "Wohnung",
+      "meaning": "公寓"
+    },
+    {
+      "entryID": "goethe-a1-preview-012",
+      "term": "Küche",
+      "reading": "Küche",
+      "meaning": "厨房"
+    },
+    {
+      "entryID": "goethe-a1-preview-013",
+      "term": "Garten",
+      "reading": "Garten",
+      "meaning": "花园"
+    },
+    {
+      "entryID": "goethe-a1-preview-014",
+      "term": "Tür",
+      "reading": "Tür",
+      "meaning": "门"
+    },
+    {
+      "entryID": "goethe-a1-preview-015",
+      "term": "Fenster",
+      "reading": "Fenster",
+      "meaning": "窗户"
+    },
+    {
+      "entryID": "goethe-a1-preview-016",
+      "term": "Stuhl",
+      "reading": "Stuhl",
+      "meaning": "椅子"
+    },
+    {
+      "entryID": "goethe-a1-preview-017",
+      "term": "Bett",
+      "reading": "Bett",
+      "meaning": "床"
+    },
+    {
+      "entryID": "goethe-a1-preview-018",
+      "term": "Lampe",
+      "reading": "Lampe",
+      "meaning": "灯"
+    },
+    {
+      "entryID": "goethe-a1-preview-019",
+      "term": "Schlüssel",
+      "reading": "Schlüssel",
+      "meaning": "钥匙"
+    },
+    {
+      "entryID": "goethe-a1-preview-020",
+      "term": "Uhr",
+      "reading": "Uhr",
+      "meaning": "钟表"
+    },
+    {
+      "entryID": "goethe-a1-preview-021",
+      "term": "Arbeit",
+      "reading": "Arbeit",
+      "meaning": "工作"
+    },
+    {
+      "entryID": "goethe-a1-preview-022",
+      "term": "Sitzung",
+      "reading": "Sitzung",
+      "meaning": "会议"
+    },
+    {
+      "entryID": "goethe-a1-preview-023",
+      "term": "Lehrer",
+      "reading": "Lehrer",
+      "meaning": "老师"
+    },
+    {
+      "entryID": "goethe-a1-preview-024",
+      "term": "Ärztin",
+      "reading": "Ärztin",
+      "meaning": "女医生"
+    },
+    {
+      "entryID": "goethe-a1-preview-025",
+      "term": "Studentin",
+      "reading": "Studentin",
+      "meaning": "女学生"
+    },
+    {
+      "entryID": "goethe-a1-preview-026",
+      "term": "Nachbar",
+      "reading": "Nachbar",
+      "meaning": "邻居"
+    },
+    {
+      "entryID": "goethe-a1-preview-027",
+      "term": "Kind",
+      "reading": "Kind",
+      "meaning": "孩子"
+    },
+    {
+      "entryID": "goethe-a1-preview-028",
+      "term": "Sohn",
+      "reading": "Sohn",
+      "meaning": "儿子"
+    },
+    {
+      "entryID": "goethe-a1-preview-029",
+      "term": "Tochter",
+      "reading": "Tochter",
+      "meaning": "女儿"
+    },
+    {
+      "entryID": "goethe-a1-preview-030",
+      "term": "Woche",
+      "reading": "Woche",
+      "meaning": "星期"
+    },
+    {
+      "entryID": "goethe-a1-preview-031",
+      "term": "Monat",
+      "reading": "Monat",
+      "meaning": "月份"
+    },
+    {
+      "entryID": "goethe-a1-preview-032",
+      "term": "Jahr",
+      "reading": "Jahr",
+      "meaning": "年"
+    },
+    {
+      "entryID": "goethe-a1-preview-033",
+      "term": "Vormittag",
+      "reading": "Vormittag",
+      "meaning": "上午"
+    },
+    {
+      "entryID": "goethe-a1-preview-034",
+      "term": "Nachmittag",
+      "reading": "Nachmittag",
+      "meaning": "下午"
+    },
+    {
+      "entryID": "goethe-a1-preview-035",
+      "term": "Abend",
+      "reading": "Abend",
+      "meaning": "傍晚"
+    },
+    {
+      "entryID": "goethe-a1-preview-036",
+      "term": "Frühling",
+      "reading": "Frühling",
+      "meaning": "春天"
+    },
+    {
+      "entryID": "goethe-a1-preview-037",
+      "term": "Sommer",
+      "reading": "Sommer",
+      "meaning": "夏天"
+    },
+    {
+      "entryID": "goethe-a1-preview-038",
+      "term": "Herbst",
+      "reading": "Herbst",
+      "meaning": "秋天"
+    },
+    {
+      "entryID": "goethe-a1-preview-039",
+      "term": "Winter",
+      "reading": "Winter",
+      "meaning": "冬天"
+    },
+    {
+      "entryID": "goethe-a1-preview-040",
+      "term": "Frage",
+      "reading": "Frage",
+      "meaning": "问题"
+    },
+    {
+      "entryID": "goethe-a1-preview-041",
+      "term": "Antwort",
+      "reading": "Antwort",
+      "meaning": "回答"
+    },
+    {
+      "entryID": "goethe-a1-preview-042",
+      "term": "Wort",
+      "reading": "Wort",
+      "meaning": "单词"
+    },
+    {
+      "entryID": "goethe-a1-preview-043",
+      "term": "Satz",
+      "reading": "Satz",
+      "meaning": "句子"
+    },
+    {
+      "entryID": "goethe-a1-preview-044",
+      "term": "Geschichte",
+      "reading": "Geschichte",
+      "meaning": "故事；历史"
+    },
+    {
+      "entryID": "goethe-a1-preview-045",
+      "term": "Geschenk",
+      "reading": "Geschenk",
+      "meaning": "礼物"
+    },
+    {
+      "entryID": "goethe-a1-preview-046",
+      "term": "Glück",
+      "reading": "Glück",
+      "meaning": "幸福；运气"
+    },
+    {
+      "entryID": "goethe-a1-preview-047",
+      "term": "Urlaub",
+      "reading": "Urlaub",
+      "meaning": "假期"
+    },
+    {
+      "entryID": "goethe-a1-preview-048",
+      "term": "Reise",
+      "reading": "Reise",
+      "meaning": "旅行"
+    },
+    {
+      "entryID": "goethe-a1-preview-049",
+      "term": "Danke schön",
+      "reading": "Danke schön",
+      "meaning": "非常感谢"
+    },
+    {
+      "entryID": "goethe-a1-preview-050",
+      "term": "Verzeihung",
+      "reading": "Verzeihung",
+      "meaning": "对不起；劳驾"
+    }
+  ]
+}

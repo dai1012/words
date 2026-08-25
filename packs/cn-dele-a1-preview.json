@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "entryID": "dele-a1-preview-001",
+      "meaning": "早上好",
+      "reading": "buenos días",
+      "term": "buenos días"
+    },
+    {
+      "entryID": "dele-a1-preview-002",
+      "meaning": "下午好",
+      "reading": "buenas tardes",
+      "term": "buenas tardes"
+    },
+    {
+      "entryID": "dele-a1-preview-003",
+      "meaning": "请",
+      "reading": "por favor",
+      "term": "por favor"
+    },
+    {
+      "entryID": "dele-a1-preview-004",
+      "meaning": "不客气",
+      "reading": "de nada",
+      "term": "de nada"
+    },
+    {
+      "entryID": "dele-a1-preview-005",
+      "meaning": "对不起",
+      "reading": "perdón",
+      "term": "perdón"
+    },
+    {
+      "entryID": "dele-a1-preview-006",
+      "meaning": "回头见",
+      "reading": "hasta luego",
+      "term": "hasta luego"
+    },
+    {
+      "entryID": "dele-a1-preview-007",
+      "meaning": "牛奶",
+      "reading": "leche",
+      "term": "leche"
+    },
+    {
+      "entryID": "dele-a1-preview-008",
+      "meaning": "奶酪",
+      "reading": "queso",
+      "term": "queso"
+    },
+    {
+      "entryID": "dele-a1-preview-009",
+      "meaning": "米饭",
+      "reading": "arroz",
+      "term": "arroz"
+    },
+    {
+      "entryID": "dele-a1-preview-010",
+      "meaning": "汤",
+      "reading": "sopa",
+      "term": "sopa"
+    },
+    {
+      "entryID": "dele-a1-preview-011",
+      "meaning": "鸡蛋",
+      "reading": "huevo",
+      "term": "huevo"
+    },
+    {
+      "entryID": "dele-a1-preview-012",
+      "meaning": "水果",
+      "reading": "fruta",
+      "term": "fruta"
+    },
+    {
+      "entryID": "dele-a1-preview-013",
+      "meaning": "肉",
+      "reading": "carne",
+      "term": "carne"
+    },
+    {
+      "entryID": "dele-a1-preview-014",
+      "meaning": "鱼",
+      "reading": "pescado",
+      "term": "pescado"
+    },
+    {
+      "entryID": "dele-a1-preview-015",
+      "meaning": "房间",
+      "reading": "habitación",
+      "term": "habitación"
+    },
+    {
+      "entryID": "dele-a1-preview-016",
+      "meaning": "厨房",
+      "reading": "cocina",
+      "term": "cocina"
+    },
+    {
+      "entryID": "dele-a1-preview-017",
+      "meaning": "花园",
+      "reading": "jardín",
+      "term": "jardín"
+    },
+    {
+      "entryID": "dele-a1-preview-018",
+      "meaning": "门",
+      "reading": "puerta",
+      "term": "puerta"
+    },
+    {
+      "entryID": "dele-a1-preview-019",
+      "meaning": "窗户",
+      "reading": "ventana",
+      "term": "ventana"
+    },
+    {
+      "entryID": "dele-a1-preview-020",
+      "meaning": "床",
+      "reading": "cama",
+      "term": "cama"
+    },
+    {
+      "entryID": "dele-a1-preview-021",
+      "meaning": "椅子",
+      "reading": "silla",
+      "term": "silla"
+    },
+    {
+      "entryID": "dele-a1-preview-022",
+      "meaning": "灯",
+      "reading": "lámpara",
+      "term": "lámpara"
+    },
+    {
+      "entryID": "dele-a1-preview-023",
+      "meaning": "钥匙",
+      "reading": "llave",
+      "term": "llave"
+    },
+    {
+      "entryID": "dele-a1-preview-024",
+      "meaning": "钟表",
+      "reading": "reloj",
+      "term": "reloj"
+    },
+    {
+      "entryID": "dele-a1-preview-025",
+      "meaning": "办公室",
+      "reading": "oficina",
+      "term": "oficina"
+    },
+    {
+      "entryID": "dele-a1-preview-026",
+      "meaning": "会议",
+      "reading": "reunión",
+      "term": "reunión"
+    },
+    {
+      "entryID": "dele-a1-preview-027",
+      "meaning": "老师",
+      "reading": "profesor",
+      "term": "profesor"
+    },
+    {
+      "entryID": "dele-a1-preview-028",
+      "meaning": "医生",
+      "reading": "médico",
+      "term": "médico"
+    },
+    {
+      "entryID": "dele-a1-preview-029",
+      "meaning": "学生",
+      "reading": "estudiante",
+      "term": "estudiante"
+    },
+    {
+      "entryID": "dele-a1-preview-030",
+      "meaning": "同事",
+      "reading": "compañero",
+      "term": "compañero"
+    },
+    {
+      "entryID": "dele-a1-preview-031",
+      "meaning": "邻居",
+      "reading": "vecino",
+      "term": "vecino"
+    },
+    {
+      "entryID": "dele-a1-preview-032",
+      "meaning": "孩子",
+      "reading": "niño",
+      "term": "niño"
+    },
+    {
+      "entryID": "dele-a1-preview-033",
+      "meaning": "儿子",
+      "reading": "hijo",
+      "term": "hijo"
+    },
+    {
+      "entryID": "dele-a1-preview-034",
+      "meaning": "女儿",
+      "reading": "hija",
+      "term": "hija"
+    },
+    {
+      "entryID": "dele-a1-preview-035",
+      "meaning": "星期",
+      "reading": "semana",
+      "term": "semana"
+    },
+    {
+      "entryID": "dele-a1-preview-036",
+      "meaning": "周末",
+      "reading": "fin de semana",
+      "term": "fin de semana"
+    },
+    {
+      "entryID": "dele-a1-preview-037",
+      "meaning": "月份",
+      "reading": "mes",
+      "term": "mes"
+    },
+    {
+      "entryID": "dele-a1-preview-038",
+      "meaning": "年",
+      "reading": "año",
+      "term": "año"
+    },
+    {
+      "entryID": "dele-a1-preview-039",
+      "meaning": "夜晚",
+      "reading": "noche",
+      "term": "noche"
+    },
+    {
+      "entryID": "dele-a1-preview-040",
+      "meaning": "春天",
+      "reading": "primavera",
+      "term": "primavera"
+    },
+    {
+      "entryID": "dele-a1-preview-041",
+      "meaning": "夏天",
+      "reading": "verano",
+      "term": "verano"
+    },
+    {
+      "entryID": "dele-a1-preview-042",
+      "meaning": "秋天",
+      "reading": "otoño",
+      "term": "otoño"
+    },
+    {
+      "entryID": "dele-a1-preview-043",
+      "meaning": "冬天",
+      "reading": "invierno",
+      "term": "invierno"
+    },
+    {
+      "entryID": "dele-a1-preview-044",
+      "meaning": "问题",
+      "reading": "pregunta",
+      "term": "pregunta"
+    },
+    {
+      "entryID": "dele-a1-preview-045",
+      "meaning": "回答",
+      "reading": "respuesta",
+      "term": "respuesta"
+    },
+    {
+      "entryID": "dele-a1-preview-046",
+      "meaning": "单词",
+      "reading": "palabra",
+      "term": "palabra"
+    },
+    {
+      "entryID": "dele-a1-preview-047",
+      "meaning": "句子",
+      "reading": "frase",
+      "term": "frase"
+    },
+    {
+      "entryID": "dele-a1-preview-048",
+      "meaning": "故事；历史",
+      "reading": "historia",
+      "term": "historia"
+    },
+    {
+      "entryID": "dele-a1-preview-049",
+      "meaning": "礼物",
+      "reading": "regalo",
+      "term": "regalo"
+    },
+    {
+      "entryID": "dele-a1-preview-050",
+      "meaning": "运气",
+      "reading": "suerte",
+      "term": "suerte"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "dele",
+    "description": "本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 DELE 对应的 CEFR A1 公开等级范围为参照原创整理，未复制 Instituto Cervantes PCIC 或任何备考材料。完整词库未来可由 App 内 AI 按需生成。",
+    "language": "es",
+    "level": "preview",
+    "tags": [
+      "dele",
+      "a1",
+      "preview",
+      "chinese"
+    ],
+    "title": "西语 DELE A1 Preview 词汇"
+  },
+  "packID": "com.dai1012.cn.es.dele.a1.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 24,
-  "generatedAt": "2026-08-25T08:38:55Z",
+  "catalogVersion": 27,
+  "generatedAt": "2026-08-25T10:53:31Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -77,6 +77,31 @@
       "title": "德语入门基础词汇"
     },
     {
+      "classification": "goethe",
+      "description": "本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料（含 Goethe-Institut Wortliste）。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中德-Chinese-German",
+        "Goethe-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7441,
+      "fileURL": "packs/cn-goethe-a1-preview.json",
+      "language": "de",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.de.goethe.a1.preview",
+      "packVersion": 1,
+      "sha256": "f98257a9847ac3ad297e699b56f60140d33b307c9df804e5460c267a3116c405",
+      "tags": [
+        "goethe",
+        "a1",
+        "preview",
+        "chinese"
+      ],
+      "title": "德语 Goethe A1 Preview 词汇"
+    },
+    {
       "classification": "greek",
       "description": "面向中文用户的希腊语入门基础试点词包（首批 50 词，现代希腊语）。词条为本项目原创编写：term 为希腊语词形，reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
       "directoryPath": [
@@ -126,6 +151,30 @@
       "title": "CET-4 核心词汇（项目筛选版）"
     },
     {
+      "classification": "cet6",
+      "description": "本包为展示用 Preview 词包：收录约 60 个 CET-6 范围代表性词条（优先 Oxford 3000 核心词并按语料词频筛选），用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。选词来自开源词典 ECDICT（MIT License）的公开 cet6 标签并与本项目已发布 CET-4 Core 包互斥；音标沿用 ECDICT 注音，中文释义为项目缩编整理。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中英-Chinese-English",
+        "CET-6-Preview"
+      ],
+      "entryCount": 60,
+      "fileSize": 8726,
+      "fileURL": "packs/cn-cet6-preview.json",
+      "language": "en",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.en.cet6.preview",
+      "packVersion": 1,
+      "sha256": "fb48b0243ee15140efd1fb99bc6cf945649e6aa492fa6b1f693b42fc89dec88d",
+      "tags": [
+        "cet6",
+        "preview",
+        "chinese"
+      ],
+      "title": "CET-6 Preview 核心词汇"
+    },
+    {
       "classification": "spanish",
       "description": "面向中文用户的西班牙语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为西班牙语词形，reading 为音节切分读音标注（大写音节为重读音节），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
       "directoryPath": [
@@ -148,6 +197,31 @@
         "chinese"
       ],
       "title": "西班牙语入门基础词汇"
+    },
+    {
+      "classification": "dele",
+      "description": "本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 DELE 对应的 CEFR A1 公开等级范围为参照原创整理，未复制 Instituto Cervantes PCIC 或任何备考材料。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中西-Chinese-Spanish",
+        "DELE-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7354,
+      "fileURL": "packs/cn-dele-a1-preview.json",
+      "language": "es",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.es.dele.a1.preview",
+      "packVersion": 1,
+      "sha256": "410a68039f4a02d15d5555c3f5c6453b6bc95bb53d5b7e06414da91f7eaaebac",
+      "tags": [
+        "dele",
+        "a1",
+        "preview",
+        "chinese"
+      ],
+      "title": "西语 DELE A1 Preview 词汇"
     },
     {
       "classification": "filipino",
@@ -196,6 +270,31 @@
         "chinese"
       ],
       "title": "法语入门基础词汇"
+    },
+    {
+      "classification": "delf",
+      "description": "面向中文用户的本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中法-Chinese-French",
+        "DELF-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7364,
+      "fileURL": "packs/cn-delf-a1-preview.json",
+      "language": "fr",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.fr.delf.a1.preview",
+      "packVersion": 1,
+      "sha256": "c1b10266d9e12c2557642451709ae1d2eeebf980c5d90f3384df7082caa31fa3",
+      "tags": [
+        "delf",
+        "a1",
+        "preview",
+        "chinese"
+      ],
+      "title": "法语 DELF A1 Preview 词汇"
     },
     {
       "classification": "hebrew",
@@ -292,6 +391,56 @@
         "chinese"
       ],
       "title": "意大利语入门基础词汇"
+    },
+    {
+      "classification": "cils",
+      "description": "本包为展示用 Preview 词包：收录约 50 个意大利语入门代表性词条（对应 CILS A1 的常见主题范围），用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。CILS 官方未发布公开分级词表，词条为本项目原创整理（读音标注与中文释义均为本项目编写）。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中意-Chinese-Italian",
+        "CILS-A1-Preview"
+      ],
+      "entryCount": 46,
+      "fileSize": 6935,
+      "fileURL": "packs/cn-cils-a1-preview.json",
+      "language": "it",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.it.cils.a1.preview",
+      "packVersion": 1,
+      "sha256": "54db60256a05a38873c56ee6d3cd1cf47bc05eb53865d4ae8a683903f80d454a",
+      "tags": [
+        "cils",
+        "a1",
+        "preview",
+        "chinese"
+      ],
+      "title": "意语 CILS A1 Preview 词汇"
+    },
+    {
+      "classification": "jlpt",
+      "description": "本包为展示用 Preview 词包：收录约 60 个 JLPT N2 级别的代表性词汇，用于展示对应考试方向的覆盖能力；不是完整考试词表（N2 完整词汇量远超本包规模），不代表官方认证或考试机构授权。词条为本项目依据公开的 N2 学习范围原创整理，未复制任何官方或商业词表。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT-N2-Preview"
+      ],
+      "entryCount": 60,
+      "fileSize": 8990,
+      "fileURL": "packs/cn-jlpt-n2-preview.json",
+      "language": "ja",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n2.preview",
+      "packVersion": 1,
+      "sha256": "13ad5b8353467bd757711a06813a826bb0de402096f5c58a7cd80d20b58ac3e1",
+      "tags": [
+        "jlpt",
+        "n2",
+        "preview",
+        "chinese"
+      ],
+      "title": "日语 JLPT N2 Preview 词汇"
     },
     {
       "classification": "sbx",
@@ -859,6 +1008,30 @@
     },
     {
       "classification": "topik",
+      "description": "本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词目选自韩国国立国语院《2023年国语基础词汇选定及词汇分级研究》公开名单（KOGL Type 1：署名后可自由使用与改编），reading 采用国文罗马字表记法(RR)，释义为本项目编写。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中韩-Chinese-Korean",
+        "TOPIK-I-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7294,
+      "fileURL": "packs/cn-topik-i-preview.json",
+      "language": "ko",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ko.topik.i.preview",
+      "packVersion": 1,
+      "sha256": "916f421bb59f36e946de2698d2e6514835dfd1d97f5f097c98e773b80cb6277e",
+      "tags": [
+        "topik",
+        "preview",
+        "chinese"
+      ],
+      "title": "TOPIK I Preview 核心词汇"
+    },
+    {
+      "classification": "topik",
       "description": "面向中文用户的韩语入门试点词包（首批 500 词）。词目选自韩国国立国语院《2023年国语基础词汇选定及词汇分级研究》公开名单（KOGL Type 1）的一级词汇范围，并含少量本项目补充的生活基础词；RR 转写与中文释义为本项目编写。本包为项目整理版，非 TOPIK 官方词表，亦未获任何考试机构授权。",
       "directoryPath": [
         "CN",
@@ -1002,6 +1175,31 @@
       "title": "俄语入门基础词汇"
     },
     {
+      "classification": "torfl",
+      "description": "本包为展示用 Preview 词包：收录约 50 个俄语入门代表性词条（对应 TORFL 元素级/ТЭУ 的常见主题范围），用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。官方《Лексический минимум》为商业出版物且禁止复制，本包词条为本项目原创整理（转写与中文释义均为本项目编写），未复制任何受限内容。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "CN",
+        "中俄-Chinese-Russian",
+        "TORFL-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7803,
+      "fileURL": "packs/cn-torfl-a1-preview.json",
+      "language": "ru",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ru.torfl.a1.preview",
+      "packVersion": 1,
+      "sha256": "ab954bad31c97edc040b752640500b60887ed62ac5dbc29edd2653eceaff8e2d",
+      "tags": [
+        "torfl",
+        "a1",
+        "preview",
+        "chinese"
+      ],
+      "title": "俄语 TORFL A1 Preview 词汇"
+    },
+    {
       "classification": "swedish",
       "description": "面向中文用户的瑞典语入门基础试点词包（首批 50 词）。词条为本项目原创编写：term 为瑞典语词形，reading 为自拟近似音节标音（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
       "directoryPath": [
@@ -1097,6 +1295,31 @@
       "title": "German Starter Basics"
     },
     {
+      "classification": "goethe",
+      "description": "This is a Preview vocabulary pack containing a small representative selection to demonstrate exam-direction coverage; it is not a complete exam wordlist and does not imply official certification or authorization from any examination body. Entries are originally curated by this project based on the publicly known CEFR A1 scope; no official wordlists or preparation materials have been copied (including the Goethe-Institut Wortliste). The full vocabulary may in future be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "German-ドイツ語",
+        "Goethe-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7539,
+      "fileURL": "packs/en-goethe-a1-preview.json",
+      "language": "de",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.de.goethe.a1.preview",
+      "packVersion": 1,
+      "sha256": "cecbe62077c670e56dbad9dddb8060c1ef87d641ed976f7b87535661abc7e000",
+      "tags": [
+        "goethe",
+        "a1",
+        "preview",
+        "english"
+      ],
+      "title": "German Goethe A1 Preview Vocabulary"
+    },
+    {
       "classification": "spanish",
       "description": "Starter pack for English speakers learning Spanish (first 50 words, Latin American baseline). Originally authored by this project: term is the Spanish word form, reading is a self-devised syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
       "directoryPath": [
@@ -1118,6 +1341,31 @@
         "english"
       ],
       "title": "Spanish Starter Basics"
+    },
+    {
+      "classification": "dele",
+      "description": "A Preview vocabulary pack for English speakers learning Spanish: about 50 representative DELE A1-level words demonstrating exam-direction coverage; not a complete exam wordlist and not affiliated with or endorsed by the Instituto Cervantes or any examination body. Entries are originally curated by this project based on the publicly known CEFR A1 scope (referencing the publicly viewable Plan Curricular structure as factual information only); no official wordlist or prep material content has been copied. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "Spanish-スペイン語",
+        "DELE-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7566,
+      "fileURL": "packs/en-dele-a1-preview.json",
+      "language": "es",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.es.dele.a1.preview",
+      "packVersion": 1,
+      "sha256": "d534dc60033d980471b4d47c65ef8eba9eaee0ba6ce77b7115b2f5f859ef434c",
+      "tags": [
+        "dele",
+        "a1",
+        "preview",
+        "english"
+      ],
+      "title": "Spanish DELE A1 Preview Vocabulary"
     },
     {
       "classification": "french",
@@ -1143,6 +1391,31 @@
       "title": "French Starter Basics"
     },
     {
+      "classification": "delf",
+      "description": "For English speakers, 本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "EN",
+        "French-フランス語",
+        "DELF-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7345,
+      "fileURL": "packs/en-delf-a1-preview.json",
+      "language": "fr",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.fr.delf.a1.preview",
+      "packVersion": 1,
+      "sha256": "187d1fcbe28a78b9691832e40f6d398bc7e09fc033bf773b5997965ba18af920",
+      "tags": [
+        "delf",
+        "a1",
+        "preview",
+        "english"
+      ],
+      "title": "French DELF A1 Preview Vocabulary"
+    },
+    {
       "classification": "japanese",
       "description": "Starter pack for English speakers learning Japanese (first 50 words). Originally authored by this project: term is the standard Japanese word form, reading gives the kana pronunciation, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
       "directoryPath": [
@@ -1164,6 +1437,31 @@
         "english"
       ],
       "title": "Japanese Starter Basics"
+    },
+    {
+      "classification": "jlpt",
+      "description": "A Preview vocabulary pack for English speakers learning Japanese: about 50 representative JLPT N5-level words demonstrating exam-direction coverage; it is NOT a complete N5 wordlist and is not affiliated with or endorsed by the Japan Foundation or JEES. Entries are originally curated by this project based on the publicly known N5 scope (no official wordlist exists); no third-party wordlist content has been copied. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "Japanese-日本語",
+        "JLPT-N5-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7439,
+      "fileURL": "packs/en-jlpt-n5-preview.json",
+      "language": "ja",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.ja.jlpt.n5.preview",
+      "packVersion": 1,
+      "sha256": "12e563578c147e83663ca9683682514b49e08906a3b88a3979e72d5ff76fc947",
+      "tags": [
+        "jlpt",
+        "n5",
+        "preview",
+        "english"
+      ],
+      "title": "Japanese JLPT N5 Preview Vocabulary"
     },
     {
       "classification": "korean",
@@ -1189,6 +1487,55 @@
       "title": "Korean Starter Basics"
     },
     {
+      "classification": "topik",
+      "description": "Preview vocabulary pack for English speakers: a small representative selection demonstrating exam-direction coverage; not a complete wordlist; not affiliated with or endorsed by any examination body. Headwords from NII 2023 Basic Korean Vocabulary list (KOGL Type 1); RR romanization; English glosses by this project. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "Korean-韓国語",
+        "TOPIK-I-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7201,
+      "fileURL": "packs/en-topik-i-preview.json",
+      "language": "ko",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.ko.topik.i.preview",
+      "packVersion": 1,
+      "sha256": "599dd5790113d66a6aad7d0902f1388f607db34d7e16a21a7b8ea0c064983bc8",
+      "tags": [
+        "topik",
+        "preview",
+        "english"
+      ],
+      "title": "TOPIK I Preview Vocabulary"
+    },
+    {
+      "classification": "torfl",
+      "description": "A Preview vocabulary pack for English speakers learning Russian: about 50 beginner-level representative words (thematically aligned with the TORFL elementary/ТЭУ scope), demonstrating exam-direction coverage; not a complete exam wordlist and not affiliated with or endorsed by any examination body. The official TORFL Lexical Minimum is a commercial publication with copying prohibited; entries here are originally curated by this project (transliteration and English glosses authored by us), copying no restricted content. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "Russian-Pусский",
+        "TORFL-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7818,
+      "fileURL": "packs/en-torfl-a1-preview.json",
+      "language": "ru",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.ru.torfl.a1.preview",
+      "packVersion": 1,
+      "sha256": "6bafb9c279bff87ff74e02c0d3761f17030df888d0e4289e7ec5842bb1446ae8",
+      "tags": [
+        "torfl",
+        "a1",
+        "preview",
+        "english"
+      ],
+      "title": "Russian TORFL A1 Preview Vocabulary"
+    },
+    {
       "classification": "chinese",
       "description": "Starter pack for English speakers learning Chinese (first 50 words, Simplified Mandarin). Originally authored by this project: term is the simplified Chinese word form, reading is Hanyu Pinyin with tone marks, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
       "directoryPath": [
@@ -1210,6 +1557,30 @@
         "english"
       ],
       "title": "Chinese Starter Basics"
+    },
+    {
+      "classification": "hsk",
+      "description": "A Preview vocabulary pack for English speakers learning Chinese: a small representative selection demonstrating exam-direction coverage (HSK level-1 scope); not a complete exam wordlist; not affiliated with or endorsed by any examination body. Headwords reference the publicly published GF0025-2021 standard's level-1 vocabulary scope (facts only); pinyin and English glosses authored by this project. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "EN",
+        "Chinese-中国語",
+        "HSK1-Preview"
+      ],
+      "entryCount": 58,
+      "fileSize": 8172,
+      "fileURL": "packs/en-hsk1-preview.json",
+      "language": "zh",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.zh.hsk1.preview",
+      "packVersion": 1,
+      "sha256": "68fcd8cb84a6b58e96daf09c97393ddd9c75dabb2b595d71476847292c64050c",
+      "tags": [
+        "hsk",
+        "preview",
+        "english"
+      ],
+      "title": "Chinese HSK1 Preview Vocabulary"
     },
     {
       "classification": "ielts",
@@ -1384,6 +1755,55 @@
       "title": "英語入門基礎語彙"
     },
     {
+      "classification": "eiken",
+      "description": "英語検定（英検）5級レベルを想定した語彙範囲のPreview語彙パック（約50語）。試験対応力のデモを目的とし、完全な語彙リストではありません。英検協会は公式語彙リストを公開しておらず、本パックの語彙は本プロジェクトによるオリジナル編集で、英検協会のコンテンツは一切複製していません。公式認定や機関承認を示すものでもありません。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+      "directoryPath": [
+        "JP",
+        "日英-Japanese-English",
+        "Eiken-5-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7543,
+      "fileURL": "packs/jp-eiken5-preview.json",
+      "language": "en",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.en.eiken5.preview",
+      "packVersion": 1,
+      "sha256": "259f23d25f8fade0c8ac715eae1f47998bfbba0f235d452b9ba5975959e04ef0",
+      "tags": [
+        "eiken",
+        "preview",
+        "japanese"
+      ],
+      "title": "英検5級 Preview 词汇（英単語）"
+    },
+    {
+      "classification": "toeic",
+      "description": "TOEIC初級レベルを想定した語彙範囲のPreview語彙パック（約50語、ビジネス基礎語中心）。試験対応力のデモを目的とし、完全な語彙リストではありません。ETSは公式語彙リストを公開しておらず、本パックの語彙は本プロジェクトによるオリジナル編集で、ETSのコンテンツは一切複製していません。公式認定や機関承認を示すものでもありません。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+      "directoryPath": [
+        "JP",
+        "日英-Japanese-English",
+        "TOEIC-Basic-Preview"
+      ],
+      "entryCount": 48,
+      "fileSize": 8021,
+      "fileURL": "packs/jp-toeic-basic-preview.json",
+      "language": "en",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.en.toeic.basic.preview",
+      "packVersion": 1,
+      "sha256": "cbd2e3713702e554ef1c259dda020a9b2b28c80d15277373fe28532c038a74ff",
+      "tags": [
+        "toeic",
+        "basic",
+        "preview",
+        "japanese"
+      ],
+      "title": "TOEIC Basic Preview 単語（ビジネス基礎）"
+    },
+    {
       "classification": "spanish",
       "description": "日语母语用户向けのスペイン語入門スターターパック（全50語、ラテンアメリカ発音基準）。本プロジェクトによるオリジナル編集：term はスペイン語語形、reading は自拟近似音節表記、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
       "directoryPath": [
@@ -1430,6 +1850,31 @@
       "title": "フランス語入門基礎語彙"
     },
     {
+      "classification": "delf",
+      "description": "日本語話者向けの本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料。完整词库未来可由 App 内 AI 按需生成。",
+      "directoryPath": [
+        "JP",
+        "日仏-Japanese-French",
+        "DELF-A1-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7377,
+      "fileURL": "packs/jp-delf-a1-preview.json",
+      "language": "fr",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.fr.delf.a1.preview",
+      "packVersion": 1,
+      "sha256": "1cc274d0832d649bf294d7577334b8e834e9a88933dd6596c8faac22675623cc",
+      "tags": [
+        "delf",
+        "a1",
+        "preview",
+        "japanese"
+      ],
+      "title": "フランス語 DELF A1 Preview 単語集"
+    },
+    {
       "classification": "korean",
       "description": "日语母语用户向けの韓国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term はハングル語形、reading は国文のローマ字表記法(RR)転写、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
       "directoryPath": [
@@ -1453,6 +1898,30 @@
       "title": "韓国語入門基礎語彙"
     },
     {
+      "classification": "topik",
+      "description": "Preview vocabulary pack for Japanese speakers: a small representative selection demonstrating exam-direction coverage; not a complete wordlist; not affiliated with or endorsed by any examination body. Headwords from NII 2023 Basic Korean Vocabulary list (KOGL Type 1); RR romanization; Japanese glosses by this project. Full vocabulary may later be generated on demand by in-app AI.",
+      "directoryPath": [
+        "JP",
+        "日韓-Japanese-Korean",
+        "TOPIK-I-Preview"
+      ],
+      "entryCount": 50,
+      "fileSize": 7251,
+      "fileURL": "packs/jp-topik-i-preview.json",
+      "language": "ko",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.ko.topik.i.preview",
+      "packVersion": 1,
+      "sha256": "4f1909bdf5f1894416ef344058279c0d2245434c633b8d015be6836299a0be83",
+      "tags": [
+        "topik",
+        "preview",
+        "japanese"
+      ],
+      "title": "TOPIK I Preview 単語集"
+    },
+    {
       "classification": "chinese",
       "description": "日语母语用户向けの中国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term は簡体字語形、reading は声調符号付きピンイン、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
       "directoryPath": [
@@ -1474,6 +1943,30 @@
         "japanese"
       ],
       "title": "中国語入門基礎語彙"
+    },
+    {
+      "classification": "hsk",
+      "description": "HSK1范围のPreview語彙パック：試験対応力のデモ用の少数代表語を収録。完全な試験語彙リストではなく、公式認定・機関承認を示すものでもありません。語目は《国际中文教育中文水平等级标准》(GF0025-2021) 公開の一级词汇範囲を参考に本プロジェクトが独自に選定し、日本語释义は本项目が编写。完全版は今後アプリ内AIによる必要に応じた生成を想定。",
+      "directoryPath": [
+        "JP",
+        "日中-Japanese-Chinese",
+        "HSK1-Preview"
+      ],
+      "entryCount": 58,
+      "fileSize": 8226,
+      "fileURL": "packs/jp-hsk1-preview.json",
+      "language": "zh",
+      "level": "preview",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.zh.hsk1.preview",
+      "packVersion": 1,
+      "sha256": "7547c7050cbd3a8d32d4a3ea9b59f5c1ab1271789d014241aa23d6f17bbc5f38",
+      "tags": [
+        "hsk",
+        "preview",
+        "japanese"
+      ],
+      "title": "中国語 HSK1 Preview 単語集"
     },
     {
       "classification": "test",

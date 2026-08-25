@@ -1,0 +1,381 @@
+{
+  "entries": [
+    {
+      "entryID": "jlpt-n2-preview-001",
+      "meaning": "谈判",
+      "reading": "こうしょう",
+      "term": "交渉"
+    },
+    {
+      "entryID": "jlpt-n2-preview-002",
+      "meaning": "合同",
+      "reading": "けいやく",
+      "term": "契約"
+    },
+    {
+      "entryID": "jlpt-n2-preview-003",
+      "meaning": "交涉",
+      "reading": "せっしょう",
+      "term": "折衝"
+    },
+    {
+      "entryID": "jlpt-n2-preview-004",
+      "meaning": "协议",
+      "reading": "きょうぎ",
+      "term": "協議"
+    },
+    {
+      "entryID": "jlpt-n2-preview-005",
+      "meaning": "达成",
+      "reading": "だけつ",
+      "term": "妥結"
+    },
+    {
+      "entryID": "jlpt-n2-preview-006",
+      "meaning": "签署",
+      "reading": "ちょういん",
+      "term": "調印"
+    },
+    {
+      "entryID": "jlpt-n2-preview-007",
+      "meaning": "撤回",
+      "reading": "てっかい",
+      "term": "撤回"
+    },
+    {
+      "entryID": "jlpt-n2-preview-008",
+      "meaning": "容忍",
+      "reading": "にんよう",
+      "term": "容認"
+    },
+    {
+      "entryID": "jlpt-n2-preview-009",
+      "meaning": "催促；促使",
+      "reading": "うながす",
+      "term": "促す"
+    },
+    {
+      "entryID": "jlpt-n2-preview-010",
+      "meaning": "波及",
+      "reading": "およぼす",
+      "term": "及ぼす"
+    },
+    {
+      "entryID": "jlpt-n2-preview-011",
+      "meaning": "伴随",
+      "reading": "ともなう",
+      "term": "伴う"
+    },
+    {
+      "entryID": "jlpt-n2-preview-012",
+      "meaning": "基于",
+      "reading": "もとづく",
+      "term": "基づく"
+    },
+    {
+      "entryID": "jlpt-n2-preview-013",
+      "meaning": "应…而定",
+      "reading": "おうじる",
+      "term": "応じる"
+    },
+    {
+      "entryID": "jlpt-n2-preview-014",
+      "meaning": "对于",
+      "reading": "たいする",
+      "term": "対する"
+    },
+    {
+      "entryID": "jlpt-n2-preview-015",
+      "meaning": "关于",
+      "reading": "かんする",
+      "term": "関する"
+    },
+    {
+      "entryID": "jlpt-n2-preview-016",
+      "meaning": "动向",
+      "reading": "どうこう",
+      "term": "動向"
+    },
+    {
+      "entryID": "jlpt-n2-preview-017",
+      "meaning": "形势",
+      "reading": "じょうせい",
+      "term": "情勢"
+    },
+    {
+      "entryID": "jlpt-n2-preview-018",
+      "meaning": "现状",
+      "reading": "げんじょう",
+      "term": "現状"
+    },
+    {
+      "entryID": "jlpt-n2-preview-019",
+      "meaning": "实态",
+      "reading": "じったい",
+      "term": "実態"
+    },
+    {
+      "entryID": "jlpt-n2-preview-020",
+      "meaning": "认识",
+      "reading": "にんしき",
+      "term": "認識"
+    },
+    {
+      "entryID": "jlpt-n2-preview-021",
+      "meaning": "判断",
+      "reading": "はんだん",
+      "term": "判断"
+    },
+    {
+      "entryID": "jlpt-n2-preview-022",
+      "meaning": "评论",
+      "reading": "ひひょう",
+      "term": "批評"
+    },
+    {
+      "entryID": "jlpt-n2-preview-023",
+      "meaning": "指出",
+      "reading": "してき",
+      "term": "指摘"
+    },
+    {
+      "entryID": "jlpt-n2-preview-024",
+      "meaning": "要求",
+      "reading": "ようきゅう",
+      "term": "要求"
+    },
+    {
+      "entryID": "jlpt-n2-preview-025",
+      "meaning": "需求",
+      "reading": "じゅよう",
+      "term": "需要"
+    },
+    {
+      "entryID": "jlpt-n2-preview-026",
+      "meaning": "供给",
+      "reading": "きょうきゅう",
+      "term": "供給"
+    },
+    {
+      "entryID": "jlpt-n2-preview-027",
+      "meaning": "消费",
+      "reading": "しょうひ",
+      "term": "消費"
+    },
+    {
+      "entryID": "jlpt-n2-preview-028",
+      "meaning": "生产",
+      "reading": "せいさん",
+      "term": "生産"
+    },
+    {
+      "entryID": "jlpt-n2-preview-029",
+      "meaning": "进口",
+      "reading": "ゆにゅう",
+      "term": "輸入"
+    },
+    {
+      "entryID": "jlpt-n2-preview-030",
+      "meaning": "投资",
+      "reading": "とうし",
+      "term": "投資"
+    },
+    {
+      "entryID": "jlpt-n2-preview-031",
+      "meaning": "利益",
+      "reading": "りえき",
+      "term": "利益"
+    },
+    {
+      "entryID": "jlpt-n2-preview-032",
+      "meaning": "损失",
+      "reading": "そんしつ",
+      "term": "損失"
+    },
+    {
+      "entryID": "jlpt-n2-preview-033",
+      "meaning": "经费",
+      "reading": "けいひ",
+      "term": "経費"
+    },
+    {
+      "entryID": "jlpt-n2-preview-034",
+      "meaning": "预算",
+      "reading": "よさん",
+      "term": "予算"
+    },
+    {
+      "entryID": "jlpt-n2-preview-035",
+      "meaning": "收支",
+      "reading": "しゅうし",
+      "term": "収支"
+    },
+    {
+      "entryID": "jlpt-n2-preview-036",
+      "meaning": "销售额",
+      "reading": "うりあげ",
+      "term": "売上"
+    },
+    {
+      "entryID": "jlpt-n2-preview-037",
+      "meaning": "行业",
+      "reading": "ぎょうかい",
+      "term": "業界"
+    },
+    {
+      "entryID": "jlpt-n2-preview-038",
+      "meaning": "竞争",
+      "reading": "きょうそう",
+      "term": "競争"
+    },
+    {
+      "entryID": "jlpt-n2-preview-039",
+      "meaning": "市场份额",
+      "reading": "シェア",
+      "term": "シェア"
+    },
+    {
+      "entryID": "jlpt-n2-preview-040",
+      "meaning": "战略",
+      "reading": "せんりゃく",
+      "term": "戦略"
+    },
+    {
+      "entryID": "jlpt-n2-preview-041",
+      "meaning": "计划",
+      "reading": "けいかく",
+      "term": "計画"
+    },
+    {
+      "entryID": "jlpt-n2-preview-042",
+      "meaning": "维持",
+      "reading": "いじ",
+      "term": "維持"
+    },
+    {
+      "entryID": "jlpt-n2-preview-043",
+      "meaning": "确保",
+      "reading": "かくほ",
+      "term": "確保"
+    },
+    {
+      "entryID": "jlpt-n2-preview-044",
+      "meaning": "确立",
+      "reading": "かくりつ",
+      "term": "確立"
+    },
+    {
+      "entryID": "jlpt-n2-preview-045",
+      "meaning": "构建",
+      "reading": "こうちく",
+      "term": "構築"
+    },
+    {
+      "entryID": "jlpt-n2-preview-046",
+      "meaning": "废除",
+      "reading": "はいし",
+      "term": "廃止"
+    },
+    {
+      "entryID": "jlpt-n2-preview-047",
+      "meaning": "修订",
+      "reading": "かいせい",
+      "term": "改正"
+    },
+    {
+      "entryID": "jlpt-n2-preview-048",
+      "meaning": "施行",
+      "reading": "しこう",
+      "term": "施行"
+    },
+    {
+      "entryID": "jlpt-n2-preview-049",
+      "meaning": "适用",
+      "reading": "てきよう",
+      "term": "適用"
+    },
+    {
+      "entryID": "jlpt-n2-preview-050",
+      "meaning": "扩大",
+      "reading": "かくだい",
+      "term": "拡大"
+    },
+    {
+      "entryID": "jlpt-n2-preview-051",
+      "meaning": "缩小",
+      "reading": "しゅくしょう",
+      "term": "縮小"
+    },
+    {
+      "entryID": "jlpt-n2-preview-052",
+      "meaning": "上升",
+      "reading": "じょうしょう",
+      "term": "上昇"
+    },
+    {
+      "entryID": "jlpt-n2-preview-053",
+      "meaning": "下降",
+      "reading": "かこう",
+      "term": "下降"
+    },
+    {
+      "entryID": "jlpt-n2-preview-054",
+      "meaning": "恶化",
+      "reading": "あっか",
+      "term": "悪化"
+    },
+    {
+      "entryID": "jlpt-n2-preview-055",
+      "meaning": "进展",
+      "reading": "しんてん",
+      "term": "進展"
+    },
+    {
+      "entryID": "jlpt-n2-preview-056",
+      "meaning": "深化",
+      "reading": "しんか",
+      "term": "深化"
+    },
+    {
+      "entryID": "jlpt-n2-preview-057",
+      "meaning": "联动",
+      "reading": "れんけい",
+      "term": "連携"
+    },
+    {
+      "entryID": "jlpt-n2-preview-058",
+      "meaning": "合作",
+      "reading": "ていけい",
+      "term": "提携"
+    },
+    {
+      "entryID": "jlpt-n2-preview-059",
+      "meaning": "接触",
+      "reading": "せっしょく",
+      "term": "接触"
+    },
+    {
+      "entryID": "jlpt-n2-preview-060",
+      "meaning": "交流",
+      "reading": "こうりゅう",
+      "term": "交流"
+    }
+  ],
+  "entryCount": 60,
+  "metadata": {
+    "classification": "jlpt",
+    "description": "本包为展示用 Preview 词包：收录约 60 个 JLPT N2 级别的代表性词汇，用于展示对应考试方向的覆盖能力；不是完整考试词表（N2 完整词汇量远超本包规模），不代表官方认证或考试机构授权。词条为本项目依据公开的 N2 学习范围原创整理，未复制任何官方或商业词表。完整词库未来可由 App 内 AI 按需生成。",
+    "language": "ja",
+    "level": "preview",
+    "tags": [
+      "jlpt",
+      "n2",
+      "preview",
+      "chinese"
+    ],
+    "title": "日语 JLPT N2 Preview 词汇"
+  },
+  "packID": "com.dai1012.cn.ja.jlpt.n2.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

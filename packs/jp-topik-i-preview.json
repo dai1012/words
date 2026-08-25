@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "topik-i-preview-001",
+      "meaning": "人",
+      "reading": "saram",
+      "term": "사람"
+    },
+    {
+      "entryID": "topik-i-preview-002",
+      "meaning": "家族",
+      "reading": "gajok",
+      "term": "가족"
+    },
+    {
+      "entryID": "topik-i-preview-003",
+      "meaning": "お母さん",
+      "reading": "eomma",
+      "term": "엄마"
+    },
+    {
+      "entryID": "topik-i-preview-004",
+      "meaning": "お父さん",
+      "reading": "appa",
+      "term": "아빠"
+    },
+    {
+      "entryID": "topik-i-preview-005",
+      "meaning": "弟・妹",
+      "reading": "dongsaeng",
+      "term": "동생"
+    },
+    {
+      "entryID": "topik-i-preview-006",
+      "meaning": "友達",
+      "reading": "chingu",
+      "term": "친구"
+    },
+    {
+      "entryID": "topik-i-preview-007",
+      "meaning": "先生",
+      "reading": "seonsaengnim",
+      "term": "선생님"
+    },
+    {
+      "entryID": "topik-i-preview-008",
+      "meaning": "学生",
+      "reading": "haksaeng",
+      "term": "학생"
+    },
+    {
+      "entryID": "topik-i-preview-009",
+      "meaning": "会社",
+      "reading": "hoesa",
+      "term": "회사"
+    },
+    {
+      "entryID": "topik-i-preview-010",
+      "meaning": "学校",
+      "reading": "hakgyo",
+      "term": "학교"
+    },
+    {
+      "entryID": "topik-i-preview-011",
+      "meaning": "病院",
+      "reading": "byeongwon",
+      "term": "병원"
+    },
+    {
+      "entryID": "topik-i-preview-012",
+      "meaning": "銀行",
+      "reading": "eunhaeng",
+      "term": "은행"
+    },
+    {
+      "entryID": "topik-i-preview-013",
+      "meaning": "市場",
+      "reading": "sijang",
+      "term": "시장"
+    },
+    {
+      "entryID": "topik-i-preview-014",
+      "meaning": "店",
+      "reading": "gage",
+      "term": "가게"
+    },
+    {
+      "entryID": "topik-i-preview-015",
+      "meaning": "国",
+      "reading": "nara",
+      "term": "나라"
+    },
+    {
+      "entryID": "topik-i-preview-016",
+      "meaning": "家",
+      "reading": "jip",
+      "term": "집"
+    },
+    {
+      "entryID": "topik-i-preview-017",
+      "meaning": "窓",
+      "reading": "changmun",
+      "term": "창문"
+    },
+    {
+      "entryID": "topik-i-preview-018",
+      "meaning": "机",
+      "reading": "chaeksang",
+      "term": "책상"
+    },
+    {
+      "entryID": "topik-i-preview-019",
+      "meaning": "椅子",
+      "reading": "uija",
+      "term": "의자"
+    },
+    {
+      "entryID": "topik-i-preview-020",
+      "meaning": "本",
+      "reading": "chaek",
+      "term": "책"
+    },
+    {
+      "entryID": "topik-i-preview-021",
+      "meaning": "かばん",
+      "reading": "gabang",
+      "term": "가방"
+    },
+    {
+      "entryID": "topik-i-preview-022",
+      "meaning": "服",
+      "reading": "ot",
+      "term": "옷"
+    },
+    {
+      "entryID": "topik-i-preview-023",
+      "meaning": "靴",
+      "reading": "sinbal",
+      "term": "신발"
+    },
+    {
+      "entryID": "topik-i-preview-024",
+      "meaning": "ご飯",
+      "reading": "bap",
+      "term": "밥"
+    },
+    {
+      "entryID": "topik-i-preview-025",
+      "meaning": "パン",
+      "reading": "ppang",
+      "term": "빵"
+    },
+    {
+      "entryID": "topik-i-preview-026",
+      "meaning": "肉",
+      "reading": "gogi",
+      "term": "고기"
+    },
+    {
+      "entryID": "topik-i-preview-027",
+      "meaning": "野菜",
+      "reading": "yachae",
+      "term": "야채"
+    },
+    {
+      "entryID": "topik-i-preview-028",
+      "meaning": "果物",
+      "reading": "gwail",
+      "term": "과일"
+    },
+    {
+      "entryID": "topik-i-preview-029",
+      "meaning": "りんご",
+      "reading": "sagwa",
+      "term": "사과"
+    },
+    {
+      "entryID": "topik-i-preview-030",
+      "meaning": "梨",
+      "reading": "bae",
+      "term": "배"
+    },
+    {
+      "entryID": "topik-i-preview-031",
+      "meaning": "ぶどう",
+      "reading": "podo",
+      "term": "포도"
+    },
+    {
+      "entryID": "topik-i-preview-032",
+      "meaning": "牛乳",
+      "reading": "uyu",
+      "term": "우유"
+    },
+    {
+      "entryID": "topik-i-preview-033",
+      "meaning": "コーヒー",
+      "reading": "keopi",
+      "term": "커피"
+    },
+    {
+      "entryID": "topik-i-preview-034",
+      "meaning": "塩",
+      "reading": "sogeum",
+      "term": "소금"
+    },
+    {
+      "entryID": "topik-i-preview-035",
+      "meaning": "砂糖",
+      "reading": "seoltang",
+      "term": "설탕"
+    },
+    {
+      "entryID": "topik-i-preview-036",
+      "meaning": "行く",
+      "reading": "gada",
+      "term": "가다"
+    },
+    {
+      "entryID": "topik-i-preview-037",
+      "meaning": "来る",
+      "reading": "oda",
+      "term": "오다"
+    },
+    {
+      "entryID": "topik-i-preview-038",
+      "meaning": "見る",
+      "reading": "boda",
+      "term": "보다"
+    },
+    {
+      "entryID": "topik-i-preview-039",
+      "meaning": "食べる",
+      "reading": "meokda",
+      "term": "먹다"
+    },
+    {
+      "entryID": "topik-i-preview-040",
+      "meaning": "飲む",
+      "reading": "masida",
+      "term": "마시다"
+    },
+    {
+      "entryID": "topik-i-preview-041",
+      "meaning": "寝る",
+      "reading": "jada",
+      "term": "자다"
+    },
+    {
+      "entryID": "topik-i-preview-042",
+      "meaning": "起きる",
+      "reading": "ireonada",
+      "term": "일어나다"
+    },
+    {
+      "entryID": "topik-i-preview-043",
+      "meaning": "座る",
+      "reading": "anjda",
+      "term": "앉다"
+    },
+    {
+      "entryID": "topik-i-preview-044",
+      "meaning": "歩く",
+      "reading": "geotda",
+      "term": "걷다"
+    },
+    {
+      "entryID": "topik-i-preview-045",
+      "meaning": "走る",
+      "reading": "ttwida",
+      "term": "뛰다"
+    },
+    {
+      "entryID": "topik-i-preview-046",
+      "meaning": "会う",
+      "reading": "mannada",
+      "term": "만나다"
+    },
+    {
+      "entryID": "topik-i-preview-047",
+      "meaning": "好きだ",
+      "reading": "joahada",
+      "term": "좋아하다"
+    },
+    {
+      "entryID": "topik-i-preview-048",
+      "meaning": "嫌いだ",
+      "reading": "sireohada",
+      "term": "싫어하다"
+    },
+    {
+      "entryID": "topik-i-preview-049",
+      "meaning": "作る",
+      "reading": "mandeulda",
+      "term": "만들다"
+    },
+    {
+      "entryID": "topik-i-preview-050",
+      "meaning": "書く",
+      "reading": "sseuda",
+      "term": "쓰다"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "topik",
+    "description": "Preview vocabulary pack for Japanese speakers: a small representative selection demonstrating exam-direction coverage; not a complete wordlist; not affiliated with or endorsed by any examination body. Headwords from NII 2023 Basic Korean Vocabulary list (KOGL Type 1); RR romanization; Japanese glosses by this project. Full vocabulary may later be generated on demand by in-app AI.",
+    "language": "ko",
+    "level": "preview",
+    "tags": [
+      "topik",
+      "preview",
+      "japanese"
+    ],
+    "title": "TOPIK I Preview 単語集"
+  },
+  "packID": "com.dai1012.jp.ko.topik.i.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.jp.fr.delf.a1.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "フランス語 DELF A1 Preview 単語集",
+    "language": "fr",
+    "classification": "delf",
+    "level": "preview",
+    "description": "日本語話者向けの本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料。完整词库未来可由 App 内 AI 按需生成。",
+    "tags": [
+      "delf",
+      "a1",
+      "preview",
+      "japanese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "delf-a1-preview-001",
+      "term": "bonsoir",
+      "reading": "bon-SWAR",
+      "meaning": "こんばんは"
+    },
+    {
+      "entryID": "delf-a1-preview-002",
+      "term": "salut",
+      "reading": "sa-LÜ",
+      "meaning": "やあ"
+    },
+    {
+      "entryID": "delf-a1-preview-003",
+      "term": "s'il vous plaît",
+      "reading": "sil-vu-PLE",
+      "meaning": "どうぞ"
+    },
+    {
+      "entryID": "delf-a1-preview-004",
+      "term": "excusez-moi",
+      "reading": "ex-kü-zé-MWA",
+      "meaning": "すみません"
+    },
+    {
+      "entryID": "delf-a1-preview-005",
+      "term": "bienvenue",
+      "reading": "byen-ve-NU",
+      "meaning": "ようこそ"
+    },
+    {
+      "entryID": "delf-a1-preview-006",
+      "term": "à bientôt",
+      "reading": "a-byan-TO",
+      "meaning": "また後で"
+    },
+    {
+      "entryID": "delf-a1-preview-007",
+      "term": "lait",
+      "reading": "LE",
+      "meaning": "牛乳"
+    },
+    {
+      "entryID": "delf-a1-preview-008",
+      "term": "vin",
+      "reading": "VAN",
+      "meaning": "ワイン"
+    },
+    {
+      "entryID": "delf-a1-preview-009",
+      "term": "riz",
+      "reading": "RI",
+      "meaning": "米"
+    },
+    {
+      "entryID": "delf-a1-preview-010",
+      "term": "soupe",
+      "reading": "SOU-P",
+      "meaning": "スープ"
+    },
+    {
+      "entryID": "delf-a1-preview-011",
+      "term": "œuf",
+      "reading": "UF",
+      "meaning": "卵"
+    },
+    {
+      "entryID": "delf-a1-preview-012",
+      "term": "légume",
+      "reading": "le-GÜM",
+      "meaning": "野菜"
+    },
+    {
+      "entryID": "delf-a1-preview-013",
+      "term": "pomme",
+      "reading": "POM",
+      "meaning": "りんご"
+    },
+    {
+      "entryID": "delf-a1-preview-014",
+      "term": "poisson",
+      "reading": "pwa-SON",
+      "meaning": "魚"
+    },
+    {
+      "entryID": "delf-a1-preview-015",
+      "term": "viande",
+      "reading": "VYAND",
+      "meaning": "肉"
+    },
+    {
+      "entryID": "delf-a1-preview-016",
+      "term": "chambre",
+      "reading": "SHAM-BR",
+      "meaning": "寝室"
+    },
+    {
+      "entryID": "delf-a1-preview-017",
+      "term": "cuisine",
+      "reading": "küi-ZIN",
+      "meaning": "台所"
+    },
+    {
+      "entryID": "delf-a1-preview-018",
+      "term": "jardin",
+      "reading": "zhar-DAN",
+      "meaning": "庭園"
+    },
+    {
+      "entryID": "delf-a1-preview-019",
+      "term": "porte",
+      "reading": "POR",
+      "meaning": "ドア"
+    },
+    {
+      "entryID": "delf-a1-preview-020",
+      "term": "fenêtre",
+      "reading": "fe-NET",
+      "meaning": "窓"
+    },
+    {
+      "entryID": "delf-a1-preview-021",
+      "term": "lit",
+      "reading": "LI",
+      "meaning": "ベッド"
+    },
+    {
+      "entryID": "delf-a1-preview-022",
+      "term": "bureau",
+      "reading": "bü-RO",
+      "meaning": "机；事務所"
+    },
+    {
+      "entryID": "delf-a1-preview-023",
+      "term": "travail",
+      "reading": "tra-VAY",
+      "meaning": "仕事"
+    },
+    {
+      "entryID": "delf-a1-preview-024",
+      "term": "réunion",
+      "reading": "re-YÜ-NYONG",
+      "meaning": "会議"
+    },
+    {
+      "entryID": "delf-a1-preview-025",
+      "term": "professeur",
+      "reading": "pro-fe-SÖR",
+      "meaning": "教師"
+    },
+    {
+      "entryID": "delf-a1-preview-026",
+      "term": "médecin",
+      "reading": "med-SAN",
+      "meaning": "医者"
+    },
+    {
+      "entryID": "delf-a1-preview-027",
+      "term": "étudiant",
+      "reading": "e-tü-DYAN",
+      "meaning": "学生"
+    },
+    {
+      "entryID": "delf-a1-preview-028",
+      "term": "collègue",
+      "reading": "ko-LEG",
+      "meaning": "同僚"
+    },
+    {
+      "entryID": "delf-a1-preview-029",
+      "term": "voisin",
+      "reading": "vwa-ZAN",
+      "meaning": "隣人"
+    },
+    {
+      "entryID": "delf-a1-preview-030",
+      "term": "enfant",
+      "reading": "an-FAN",
+      "meaning": "子供"
+    },
+    {
+      "entryID": "delf-a1-preview-031",
+      "term": "fils",
+      "reading": "FI",
+      "meaning": "息子"
+    },
+    {
+      "entryID": "delf-a1-preview-032",
+      "term": "fille",
+      "reading": "FIY",
+      "meaning": "娘"
+    },
+    {
+      "entryID": "delf-a1-preview-033",
+      "term": "semaine",
+      "reading": "se-MEN",
+      "meaning": "週間"
+    },
+    {
+      "entryID": "delf-a1-preview-034",
+      "term": "week-end",
+      "reading": "uik-END",
+      "meaning": "週末"
+    },
+    {
+      "entryID": "delf-a1-preview-035",
+      "term": "mois",
+      "reading": "MWA",
+      "meaning": "月"
+    },
+    {
+      "entryID": "delf-a1-preview-036",
+      "term": "année",
+      "reading": "a-NE",
+      "meaning": "年"
+    },
+    {
+      "entryID": "delf-a1-preview-037",
+      "term": "matinée",
+      "reading": "ma-ti-NE",
+      "meaning": "午前"
+    },
+    {
+      "entryID": "delf-a1-preview-038",
+      "term": "après-midi",
+      "reading": "a-pré-mi-DI",
+      "meaning": "午後"
+    },
+    {
+      "entryID": "delf-a1-preview-039",
+      "term": "soirée",
+      "reading": "swa-RÉ",
+      "meaning": "夜"
+    },
+    {
+      "entryID": "delf-a1-preview-040",
+      "term": "printemps",
+      "reading": "PRAN-TAN",
+      "meaning": "春"
+    },
+    {
+      "entryID": "delf-a1-preview-041",
+      "term": "été",
+      "reading": "e-TÉ",
+      "meaning": "夏"
+    },
+    {
+      "entryID": "delf-a1-preview-042",
+      "term": "automne",
+      "reading": "o-TON",
+      "meaning": "秋"
+    },
+    {
+      "entryID": "delf-a1-preview-043",
+      "term": "hiver",
+      "reading": "i-VÈR",
+      "meaning": "冬"
+    },
+    {
+      "entryID": "delf-a1-preview-044",
+      "term": "question",
+      "reading": "kes-TYONG",
+      "meaning": "質問"
+    },
+    {
+      "entryID": "delf-a1-preview-045",
+      "term": "réponse",
+      "reading": "re-PONGS",
+      "meaning": "返事"
+    },
+    {
+      "entryID": "delf-a1-preview-046",
+      "term": "mot",
+      "reading": "MO",
+      "meaning": "単語"
+    },
+    {
+      "entryID": "delf-a1-preview-047",
+      "term": "phrase",
+      "reading": "FAAZ",
+      "meaning": "文"
+    },
+    {
+      "entryID": "delf-a1-preview-048",
+      "term": "histoire",
+      "reading": "is-TWAAR",
+      "meaning": "物語；歴史"
+    },
+    {
+      "entryID": "delf-a1-preview-049",
+      "term": "cadeau",
+      "reading": "ka-DO",
+      "meaning": "プレゼント"
+    },
+    {
+      "entryID": "delf-a1-preview-050",
+      "term": "bonne chance",
+      "reading": "bon-SHAANS",
+      "meaning": "幸運を祈ります"
+    }
+  ]
+}

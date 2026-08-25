@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.en.fr.delf.a1.preview",
+  "packVersion": 1,
+  "metadata": {
+    "title": "French DELF A1 Preview Vocabulary",
+    "language": "fr",
+    "classification": "delf",
+    "level": "preview",
+    "description": "For English speakers, 本包为展示用 Preview 词包：仅收录少量代表性词条，用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。词条为本项目依据 CEFR A1 公开等级范围原创整理，未复制任何官方词表或备考材料。完整词库未来可由 App 内 AI 按需生成。",
+    "tags": [
+      "delf",
+      "a1",
+      "preview",
+      "english"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "delf-a1-preview-001",
+      "term": "bonsoir",
+      "reading": "bon-SWAR",
+      "meaning": "good evening"
+    },
+    {
+      "entryID": "delf-a1-preview-002",
+      "term": "salut",
+      "reading": "sa-LÜ",
+      "meaning": "hi"
+    },
+    {
+      "entryID": "delf-a1-preview-003",
+      "term": "s'il vous plaît",
+      "reading": "sil-vu-PLE",
+      "meaning": "please"
+    },
+    {
+      "entryID": "delf-a1-preview-004",
+      "term": "excusez-moi",
+      "reading": "ex-kü-zé-MWA",
+      "meaning": "excuse me"
+    },
+    {
+      "entryID": "delf-a1-preview-005",
+      "term": "bienvenue",
+      "reading": "byen-ve-NU",
+      "meaning": "welcome"
+    },
+    {
+      "entryID": "delf-a1-preview-006",
+      "term": "à bientôt",
+      "reading": "a-byan-TO",
+      "meaning": "see you soon"
+    },
+    {
+      "entryID": "delf-a1-preview-007",
+      "term": "lait",
+      "reading": "LE",
+      "meaning": "milk"
+    },
+    {
+      "entryID": "delf-a1-preview-008",
+      "term": "vin",
+      "reading": "VAN",
+      "meaning": "wine"
+    },
+    {
+      "entryID": "delf-a1-preview-009",
+      "term": "riz",
+      "reading": "RI",
+      "meaning": "rice"
+    },
+    {
+      "entryID": "delf-a1-preview-010",
+      "term": "soupe",
+      "reading": "SOU-P",
+      "meaning": "soup"
+    },
+    {
+      "entryID": "delf-a1-preview-011",
+      "term": "œuf",
+      "reading": "UF",
+      "meaning": "egg"
+    },
+    {
+      "entryID": "delf-a1-preview-012",
+      "term": "légume",
+      "reading": "le-GÜM",
+      "meaning": "vegetable"
+    },
+    {
+      "entryID": "delf-a1-preview-013",
+      "term": "pomme",
+      "reading": "POM",
+      "meaning": "apple"
+    },
+    {
+      "entryID": "delf-a1-preview-014",
+      "term": "poisson",
+      "reading": "pwa-SON",
+      "meaning": "fish"
+    },
+    {
+      "entryID": "delf-a1-preview-015",
+      "term": "viande",
+      "reading": "VYAND",
+      "meaning": "meat"
+    },
+    {
+      "entryID": "delf-a1-preview-016",
+      "term": "chambre",
+      "reading": "SHAM-BR",
+      "meaning": "bedroom"
+    },
+    {
+      "entryID": "delf-a1-preview-017",
+      "term": "cuisine",
+      "reading": "küi-ZIN",
+      "meaning": "kitchen"
+    },
+    {
+      "entryID": "delf-a1-preview-018",
+      "term": "jardin",
+      "reading": "zhar-DAN",
+      "meaning": "garden"
+    },
+    {
+      "entryID": "delf-a1-preview-019",
+      "term": "porte",
+      "reading": "POR",
+      "meaning": "door"
+    },
+    {
+      "entryID": "delf-a1-preview-020",
+      "term": "fenêtre",
+      "reading": "fe-NET",
+      "meaning": "window"
+    },
+    {
+      "entryID": "delf-a1-preview-021",
+      "term": "lit",
+      "reading": "LI",
+      "meaning": "bed"
+    },
+    {
+      "entryID": "delf-a1-preview-022",
+      "term": "bureau",
+      "reading": "bü-RO",
+      "meaning": "desk; office"
+    },
+    {
+      "entryID": "delf-a1-preview-023",
+      "term": "travail",
+      "reading": "tra-VAY",
+      "meaning": "work"
+    },
+    {
+      "entryID": "delf-a1-preview-024",
+      "term": "réunion",
+      "reading": "re-YÜ-NYONG",
+      "meaning": "meeting"
+    },
+    {
+      "entryID": "delf-a1-preview-025",
+      "term": "professeur",
+      "reading": "pro-fe-SÖR",
+      "meaning": "teacher"
+    },
+    {
+      "entryID": "delf-a1-preview-026",
+      "term": "médecin",
+      "reading": "med-SAN",
+      "meaning": "doctor"
+    },
+    {
+      "entryID": "delf-a1-preview-027",
+      "term": "étudiant",
+      "reading": "e-tü-DYAN",
+      "meaning": "student"
+    },
+    {
+      "entryID": "delf-a1-preview-028",
+      "term": "collègue",
+      "reading": "ko-LEG",
+      "meaning": "colleague"
+    },
+    {
+      "entryID": "delf-a1-preview-029",
+      "term": "voisin",
+      "reading": "vwa-ZAN",
+      "meaning": "neighbor"
+    },
+    {
+      "entryID": "delf-a1-preview-030",
+      "term": "enfant",
+      "reading": "an-FAN",
+      "meaning": "child"
+    },
+    {
+      "entryID": "delf-a1-preview-031",
+      "term": "fils",
+      "reading": "FI",
+      "meaning": "son"
+    },
+    {
+      "entryID": "delf-a1-preview-032",
+      "term": "fille",
+      "reading": "FIY",
+      "meaning": "daughter; girl"
+    },
+    {
+      "entryID": "delf-a1-preview-033",
+      "term": "semaine",
+      "reading": "se-MEN",
+      "meaning": "week"
+    },
+    {
+      "entryID": "delf-a1-preview-034",
+      "term": "week-end",
+      "reading": "uik-END",
+      "meaning": "weekend"
+    },
+    {
+      "entryID": "delf-a1-preview-035",
+      "term": "mois",
+      "reading": "MWA",
+      "meaning": "month"
+    },
+    {
+      "entryID": "delf-a1-preview-036",
+      "term": "année",
+      "reading": "a-NE",
+      "meaning": "year"
+    },
+    {
+      "entryID": "delf-a1-preview-037",
+      "term": "matinée",
+      "reading": "ma-ti-NE",
+      "meaning": "morning"
+    },
+    {
+      "entryID": "delf-a1-preview-038",
+      "term": "après-midi",
+      "reading": "a-pré-mi-DI",
+      "meaning": "afternoon"
+    },
+    {
+      "entryID": "delf-a1-preview-039",
+      "term": "soirée",
+      "reading": "swa-RÉ",
+      "meaning": "evening"
+    },
+    {
+      "entryID": "delf-a1-preview-040",
+      "term": "printemps",
+      "reading": "PRAN-TAN",
+      "meaning": "spring"
+    },
+    {
+      "entryID": "delf-a1-preview-041",
+      "term": "été",
+      "reading": "e-TÉ",
+      "meaning": "summer"
+    },
+    {
+      "entryID": "delf-a1-preview-042",
+      "term": "automne",
+      "reading": "o-TON",
+      "meaning": "autumn"
+    },
+    {
+      "entryID": "delf-a1-preview-043",
+      "term": "hiver",
+      "reading": "i-VÈR",
+      "meaning": "winter"
+    },
+    {
+      "entryID": "delf-a1-preview-044",
+      "term": "question",
+      "reading": "kes-TYONG",
+      "meaning": "question"
+    },
+    {
+      "entryID": "delf-a1-preview-045",
+      "term": "réponse",
+      "reading": "re-PONGS",
+      "meaning": "answer"
+    },
+    {
+      "entryID": "delf-a1-preview-046",
+      "term": "mot",
+      "reading": "MO",
+      "meaning": "word"
+    },
+    {
+      "entryID": "delf-a1-preview-047",
+      "term": "phrase",
+      "reading": "FAAZ",
+      "meaning": "sentence"
+    },
+    {
+      "entryID": "delf-a1-preview-048",
+      "term": "histoire",
+      "reading": "is-TWAAR",
+      "meaning": "story; history"
+    },
+    {
+      "entryID": "delf-a1-preview-049",
+      "term": "cadeau",
+      "reading": "ka-DO",
+      "meaning": "gift"
+    },
+    {
+      "entryID": "delf-a1-preview-050",
+      "term": "bonne chance",
+      "reading": "bon-SHAANS",
+      "meaning": "good luck"
+    }
+  ]
+}

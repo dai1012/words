@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "entryID": "torfl-a1-preview-001",
+      "meaning": "你好（非正式）",
+      "reading": "pri-VYET",
+      "term": "привет"
+    },
+    {
+      "entryID": "torfl-a1-preview-002",
+      "meaning": "谢谢",
+      "reading": "spa-SEE-ba",
+      "term": "спасибо"
+    },
+    {
+      "entryID": "torfl-a1-preview-003",
+      "meaning": "对不起",
+      "reading": "iz-vi-NEE-tye",
+      "term": "извините"
+    },
+    {
+      "entryID": "torfl-a1-preview-004",
+      "meaning": "是",
+      "reading": "da",
+      "term": "да"
+    },
+    {
+      "entryID": "torfl-a1-preview-005",
+      "meaning": "不是；没有",
+      "reading": "nyet",
+      "term": "нет"
+    },
+    {
+      "entryID": "torfl-a1-preview-006",
+      "meaning": "水",
+      "reading": "va-DA",
+      "term": "вода"
+    },
+    {
+      "entryID": "torfl-a1-preview-007",
+      "meaning": "面包",
+      "reading": "hlep",
+      "term": "хлеб"
+    },
+    {
+      "entryID": "torfl-a1-preview-008",
+      "meaning": "牛奶",
+      "reading": "ma-la-KO",
+      "term": "молоко"
+    },
+    {
+      "entryID": "torfl-a1-preview-009",
+      "meaning": "家；房子",
+      "reading": "dom",
+      "term": "дом"
+    },
+    {
+      "entryID": "torfl-a1-preview-010",
+      "meaning": "工作",
+      "reading": "RA-bo-ta",
+      "term": "работа"
+    },
+    {
+      "entryID": "torfl-a1-preview-011",
+      "meaning": "朋友",
+      "reading": "drook",
+      "term": "друг"
+    },
+    {
+      "entryID": "torfl-a1-preview-012",
+      "meaning": "名字",
+      "reading": "E-mya",
+      "term": "имя"
+    },
+    {
+      "entryID": "torfl-a1-preview-013",
+      "meaning": "俄罗斯",
+      "reading": "Ras-SEE-ya",
+      "term": "Россия"
+    },
+    {
+      "entryID": "torfl-a1-preview-014",
+      "meaning": "中国",
+      "reading": "kee-TAI",
+      "term": "Китай"
+    },
+    {
+      "entryID": "torfl-a1-preview-015",
+      "meaning": "今天",
+      "reading": "see-VOD-na",
+      "term": "сегодня"
+    },
+    {
+      "entryID": "torfl-a1-preview-016",
+      "meaning": "明天",
+      "reading": "ZAV-tra",
+      "term": "завтра"
+    },
+    {
+      "entryID": "torfl-a1-preview-017",
+      "meaning": "昨天",
+      "reading": "vche-RA",
+      "term": "вчера"
+    },
+    {
+      "entryID": "torfl-a1-preview-018",
+      "meaning": "早晨",
+      "reading": "OO-tra",
+      "term": "утро"
+    },
+    {
+      "entryID": "torfl-a1-preview-019",
+      "meaning": "傍晚",
+      "reading": "VYE-chyer",
+      "term": "вечер"
+    },
+    {
+      "entryID": "torfl-a1-preview-020",
+      "meaning": "时间",
+      "reading": "VRE-mya",
+      "term": "время"
+    },
+    {
+      "entryID": "torfl-a1-preview-021",
+      "meaning": "钱",
+      "reading": "DYEN-gi",
+      "term": "деньги"
+    },
+    {
+      "entryID": "torfl-a1-preview-022",
+      "meaning": "书",
+      "reading": "KNEE-ga",
+      "term": "книга"
+    },
+    {
+      "entryID": "torfl-a1-preview-023",
+      "meaning": "城市",
+      "reading": "GO-rat",
+      "term": "город"
+    },
+    {
+      "entryID": "torfl-a1-preview-024",
+      "meaning": "街道",
+      "reading": "OO-lee-tsa",
+      "term": "улица"
+    },
+    {
+      "entryID": "torfl-a1-preview-025",
+      "meaning": "商店",
+      "reading": "ma-ga-ZEEN",
+      "term": "магазин"
+    },
+    {
+      "entryID": "torfl-a1-preview-026",
+      "meaning": "汽车",
+      "reading": "ma-SHEE-na",
+      "term": "машина"
+    },
+    {
+      "entryID": "torfl-a1-preview-027",
+      "meaning": "火车",
+      "reading": "PO-ezd",
+      "term": "поезд"
+    },
+    {
+      "entryID": "torfl-a1-preview-028",
+      "meaning": "飞机",
+      "reading": "sa-ma-LYOT",
+      "term": "самолёт"
+    },
+    {
+      "entryID": "torfl-a1-preview-029",
+      "meaning": "医院",
+      "reading": "bal-NEET-sa",
+      "term": "больница"
+    },
+    {
+      "entryID": "torfl-a1-preview-030",
+      "meaning": "医生",
+      "reading": "vrach",
+      "term": "врач"
+    },
+    {
+      "entryID": "torfl-a1-preview-031",
+      "meaning": "老师",
+      "reading": "oo-CHI-tyel",
+      "term": "учитель"
+    },
+    {
+      "entryID": "torfl-a1-preview-032",
+      "meaning": "大学生",
+      "reading": "stoo-DYENT",
+      "term": "студент"
+    },
+    {
+      "entryID": "torfl-a1-preview-033",
+      "meaning": "家庭",
+      "reading": "sim-YA",
+      "term": "семья"
+    },
+    {
+      "entryID": "torfl-a1-preview-034",
+      "meaning": "妈妈",
+      "reading": "MA-ma",
+      "term": "мама"
+    },
+    {
+      "entryID": "torfl-a1-preview-035",
+      "meaning": "爸爸",
+      "reading": "PA-pa",
+      "term": "папа"
+    },
+    {
+      "entryID": "torfl-a1-preview-036",
+      "meaning": "儿子",
+      "reading": "syn",
+      "term": "сын"
+    },
+    {
+      "entryID": "torfl-a1-preview-037",
+      "meaning": "女儿",
+      "reading": "doch",
+      "term": "дочь"
+    },
+    {
+      "entryID": "torfl-a1-preview-038",
+      "meaning": "大的",
+      "reading": "bal-SHOY",
+      "term": "большой"
+    },
+    {
+      "entryID": "torfl-a1-preview-039",
+      "meaning": "小的",
+      "reading": "MA-len-kii",
+      "term": "маленький"
+    },
+    {
+      "entryID": "torfl-a1-preview-040",
+      "meaning": "好的",
+      "reading": "kha-RO-shiy",
+      "term": "хороший"
+    },
+    {
+      "entryID": "torfl-a1-preview-041",
+      "meaning": "坏的；差的",
+      "reading": "pla-KHOY",
+      "term": "плохой"
+    },
+    {
+      "entryID": "torfl-a1-preview-042",
+      "meaning": "漂亮的",
+      "reading": "kra-SEE-vyi",
+      "term": "красивый"
+    },
+    {
+      "entryID": "torfl-a1-preview-043",
+      "meaning": "新的",
+      "reading": "NO-vyi",
+      "term": "новый"
+    },
+    {
+      "entryID": "torfl-a1-preview-044",
+      "meaning": "旧的；老的",
+      "reading": "STA-ryi",
+      "term": "старый"
+    },
+    {
+      "entryID": "torfl-a1-preview-045",
+      "meaning": "吃；有",
+      "reading": "yest",
+      "term": "есть"
+    },
+    {
+      "entryID": "torfl-a1-preview-046",
+      "meaning": "喝",
+      "reading": "peet",
+      "term": "пить"
+    },
+    {
+      "entryID": "torfl-a1-preview-047",
+      "meaning": "去；走",
+      "reading": "it-TEE",
+      "term": "идти"
+    },
+    {
+      "entryID": "torfl-a1-preview-048",
+      "meaning": "读",
+      "reading": "chi-TAAT",
+      "term": "читать"
+    },
+    {
+      "entryID": "torfl-a1-preview-049",
+      "meaning": "爱；喜爱",
+      "reading": "lyu-BEET",
+      "term": "любить"
+    },
+    {
+      "entryID": "torfl-a1-preview-050",
+      "meaning": "生命；生活",
+      "reading": "zhizn",
+      "term": "жизнь"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "torfl",
+    "description": "本包为展示用 Preview 词包：收录约 50 个俄语入门代表性词条（对应 TORFL 元素级/ТЭУ 的常见主题范围），用于展示对应考试方向的覆盖能力；不是完整考试词表，不代表官方认证或考试机构授权。官方《Лексический минимум》为商业出版物且禁止复制，本包词条为本项目原创整理（转写与中文释义均为本项目编写），未复制任何受限内容。完整词库未来可由 App 内 AI 按需生成。",
+    "language": "ru",
+    "level": "preview",
+    "tags": [
+      "torfl",
+      "a1",
+      "preview",
+      "chinese"
+    ],
+    "title": "俄语 TORFL A1 Preview 词汇"
+  },
+  "packID": "com.dai1012.cn.ru.torfl.a1.preview",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
