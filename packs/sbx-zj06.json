@@ -1,0 +1,681 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-zj06-001",
+      "meaning": "自然环境",
+      "reading": "しぜんかんきょう",
+      "term": "自然環境"
+    },
+    {
+      "entryID": "sbx-zj06-002",
+      "meaning": "生态系统",
+      "reading": "せいたいけい",
+      "term": "生態系"
+    },
+    {
+      "entryID": "sbx-zj06-003",
+      "meaning": "生物多样性",
+      "reading": "せいぶつたようせい",
+      "term": "生物多様性"
+    },
+    {
+      "entryID": "sbx-zj06-004",
+      "meaning": "濒危物种",
+      "reading": "ぜつめつきぐしゅ",
+      "term": "絶滅危惧種"
+    },
+    {
+      "entryID": "sbx-zj06-005",
+      "meaning": "珍稀动物",
+      "reading": "きしょうどうぶつ",
+      "term": "希少動物"
+    },
+    {
+      "entryID": "sbx-zj06-006",
+      "meaning": "森林破坏",
+      "reading": "しんりんはかい",
+      "term": "森林破壊"
+    },
+    {
+      "entryID": "sbx-zj06-007",
+      "meaning": "过度开发",
+      "reading": "らんかいはつ",
+      "term": "乱開発"
+    },
+    {
+      "entryID": "sbx-zj06-008",
+      "meaning": "沙漠化",
+      "reading": "さばくか",
+      "term": "砂漠化"
+    },
+    {
+      "entryID": "sbx-zj06-009",
+      "meaning": "海洋污染",
+      "reading": "かいようおせん",
+      "term": "海洋汚染"
+    },
+    {
+      "entryID": "sbx-zj06-010",
+      "meaning": "塑料垃圾",
+      "reading": "プラスチックゴミ",
+      "term": "プラスチックごみ"
+    },
+    {
+      "entryID": "sbx-zj06-011",
+      "meaning": "微塑料",
+      "reading": "マイクロプラスチック",
+      "term": "マイクロプラスチック"
+    },
+    {
+      "entryID": "sbx-zj06-012",
+      "meaning": "再利用",
+      "reading": "リユース",
+      "term": "リユース"
+    },
+    {
+      "entryID": "sbx-zj06-013",
+      "meaning": "废弃物",
+      "reading": "はいきぶつ",
+      "term": "廃棄物"
+    },
+    {
+      "entryID": "sbx-zj06-014",
+      "meaning": "工业废弃物",
+      "reading": "さんぎょうはいきぶつ",
+      "term": "産業廃棄物"
+    },
+    {
+      "entryID": "sbx-zj06-015",
+      "meaning": "氟利昂气体",
+      "reading": "フロンガス",
+      "term": "フロンガス"
+    },
+    {
+      "entryID": "sbx-zj06-016",
+      "meaning": "酸雨",
+      "reading": "さんせいう",
+      "term": "酸性雨"
+    },
+    {
+      "entryID": "sbx-zj06-017",
+      "meaning": "臭氧层",
+      "reading": "オゾンそう",
+      "term": "オゾン層"
+    },
+    {
+      "entryID": "sbx-zj06-018",
+      "meaning": "温室效应",
+      "reading": "おんしつこうか",
+      "term": "温室効果"
+    },
+    {
+      "entryID": "sbx-zj06-019",
+      "meaning": "气候变化",
+      "reading": "きこうへんどう",
+      "term": "気候変動"
+    },
+    {
+      "entryID": "sbx-zj06-020",
+      "meaning": "异常天气",
+      "reading": "いじょうきしょう",
+      "term": "異常気象"
+    },
+    {
+      "entryID": "sbx-zj06-021",
+      "meaning": "暴雨",
+      "reading": "ごうう",
+      "term": "豪雨"
+    },
+    {
+      "entryID": "sbx-zj06-022",
+      "meaning": "干旱",
+      "reading": "かんばつ",
+      "term": "干ばつ"
+    },
+    {
+      "entryID": "sbx-zj06-023",
+      "meaning": "饥荒",
+      "reading": "ききん",
+      "term": "飢饉"
+    },
+    {
+      "entryID": "sbx-zj06-024",
+      "meaning": "自然灾害",
+      "reading": "しぜんさいがい",
+      "term": "自然災害"
+    },
+    {
+      "entryID": "sbx-zj06-025",
+      "meaning": "防灾",
+      "reading": "ぼうさい",
+      "term": "防災"
+    },
+    {
+      "entryID": "sbx-zj06-026",
+      "meaning": "减灾",
+      "reading": "げんさい",
+      "term": "減災"
+    },
+    {
+      "entryID": "sbx-zj06-027",
+      "meaning": "能源问题",
+      "reading": "エネルギーもんだい",
+      "term": "エネルギー問題"
+    },
+    {
+      "entryID": "sbx-zj06-028",
+      "meaning": "可再生能源",
+      "reading": "さいせいかのうエネルギー",
+      "term": "再生可能エネルギー"
+    },
+    {
+      "entryID": "sbx-zj06-029",
+      "meaning": "太阳能发电",
+      "reading": "たいようこうはつでん",
+      "term": "太陽光発電"
+    },
+    {
+      "entryID": "sbx-zj06-030",
+      "meaning": "风力发电",
+      "reading": "ふうりょくはつでん",
+      "term": "風力発電"
+    },
+    {
+      "entryID": "sbx-zj06-031",
+      "meaning": "水力发电",
+      "reading": "すいりょくはつでん",
+      "term": "水力発電"
+    },
+    {
+      "entryID": "sbx-zj06-032",
+      "meaning": "地热发电",
+      "reading": "じねつはつでん",
+      "term": "地熱発電"
+    },
+    {
+      "entryID": "sbx-zj06-033",
+      "meaning": "核能发电",
+      "reading": "げんしりょくはつでん",
+      "term": "原子力発電"
+    },
+    {
+      "entryID": "sbx-zj06-034",
+      "meaning": "火力发电",
+      "reading": "かりょくはつでん",
+      "term": "火力発電"
+    },
+    {
+      "entryID": "sbx-zj06-035",
+      "meaning": "放射性废物",
+      "reading": "ほうしゃせいはいきぶつ",
+      "term": "放射性廃棄物"
+    },
+    {
+      "entryID": "sbx-zj06-036",
+      "meaning": "电力公司",
+      "reading": "でんりょくがいしゃ",
+      "term": "電力会社"
+    },
+    {
+      "entryID": "sbx-zj06-037",
+      "meaning": "节约用电",
+      "reading": "せつでんする",
+      "term": "節電する"
+    },
+    {
+      "entryID": "sbx-zj06-038",
+      "meaning": "碳中和",
+      "reading": "カーボンニュートラル",
+      "term": "カーボンニュートラル"
+    },
+    {
+      "entryID": "sbx-zj06-039",
+      "meaning": "环保团体",
+      "reading": "かんきょうほごだんたい",
+      "term": "環境保護団体"
+    },
+    {
+      "entryID": "sbx-zj06-040",
+      "meaning": "环境评估",
+      "reading": "かんきょうアセスメント",
+      "term": "環境アセスメント"
+    },
+    {
+      "entryID": "sbx-zj06-041",
+      "meaning": "可持续的",
+      "reading": "サステナブル",
+      "term": "サステナブル"
+    },
+    {
+      "entryID": "sbx-zj06-042",
+      "meaning": "循环型社会",
+      "reading": "じゅんかんがたしゃかい",
+      "term": "循環型社会"
+    },
+    {
+      "entryID": "sbx-zj06-043",
+      "meaning": "对地球友善",
+      "reading": "ちきゅうにやさしい",
+      "term": "地球にやさしい"
+    },
+    {
+      "entryID": "sbx-zj06-044",
+      "meaning": "环保意识",
+      "reading": "かんきょういしき",
+      "term": "環境意識"
+    },
+    {
+      "entryID": "sbx-zj06-045",
+      "meaning": "巴黎协定",
+      "reading": "パリきょうてい",
+      "term": "パリ協定"
+    },
+    {
+      "entryID": "sbx-zj06-046",
+      "meaning": "绿色能源",
+      "reading": "グリーンエネルギー",
+      "term": "グリーンエネルギー"
+    },
+    {
+      "entryID": "sbx-zj06-047",
+      "meaning": "电动汽车",
+      "reading": "でんきじどうしゃ",
+      "term": "電気自動車"
+    },
+    {
+      "entryID": "sbx-zj06-048",
+      "meaning": "充电站",
+      "reading": "じゅうでんステーション",
+      "term": "充電ステーション"
+    },
+    {
+      "entryID": "sbx-zj06-049",
+      "meaning": "环保生活",
+      "reading": "エコせいかつ",
+      "term": "エコ生活"
+    },
+    {
+      "entryID": "sbx-zj06-050",
+      "meaning": "垃圾分类",
+      "reading": "ごみのぶんべつ",
+      "term": "ゴミの分別"
+    },
+    {
+      "entryID": "sbx-zj06-051",
+      "meaning": "可回收垃圾",
+      "reading": "しげんごみ",
+      "term": "資源ごみ"
+    },
+    {
+      "entryID": "sbx-zj06-052",
+      "meaning": "可燃垃圾",
+      "reading": "もえるゴミ",
+      "term": "燃えるごみ"
+    },
+    {
+      "entryID": "sbx-zj06-053",
+      "meaning": "二手店",
+      "reading": "リサイクルショップ",
+      "term": "リサイクルショップ"
+    },
+    {
+      "entryID": "sbx-zj06-054",
+      "meaning": "环保袋",
+      "reading": "エコバッグ",
+      "term": "エコバッグ"
+    },
+    {
+      "entryID": "sbx-zj06-055",
+      "meaning": "食物浪费",
+      "reading": "フードロス",
+      "term": "フードロス"
+    },
+    {
+      "entryID": "sbx-zj06-056",
+      "meaning": "食品损耗",
+      "reading": "しょくひんロス",
+      "term": "食品ロス"
+    },
+    {
+      "entryID": "sbx-zj06-057",
+      "meaning": "消费期限",
+      "reading": "しょうひきげん",
+      "term": "消費期限"
+    },
+    {
+      "entryID": "sbx-zj06-058",
+      "meaning": "最佳赏味期",
+      "reading": "しょうみきげん",
+      "term": "賞味期限"
+    },
+    {
+      "entryID": "sbx-zj06-059",
+      "meaning": "过度包装",
+      "reading": "かじょうほうそう",
+      "term": "過剰包装"
+    },
+    {
+      "entryID": "sbx-zj06-060",
+      "meaning": "简易包装",
+      "reading": "かんそなほうそう",
+      "term": "簡素な包装"
+    },
+    {
+      "entryID": "sbx-zj06-061",
+      "meaning": "环保标志",
+      "reading": "エコマーク",
+      "term": "エコマーク"
+    },
+    {
+      "entryID": "sbx-zj06-062",
+      "meaning": "植树造林",
+      "reading": "しょくりん",
+      "term": "植林"
+    },
+    {
+      "entryID": "sbx-zj06-063",
+      "meaning": "绿化",
+      "reading": "りょっか",
+      "term": "緑化"
+    },
+    {
+      "entryID": "sbx-zj06-064",
+      "meaning": "自然能源",
+      "reading": "しぜんエネルギー",
+      "term": "自然エネルギー"
+    },
+    {
+      "entryID": "sbx-zj06-065",
+      "meaning": "脱碳",
+      "reading": "だつたんそ",
+      "term": "脱炭素"
+    },
+    {
+      "entryID": "sbx-zj06-066",
+      "meaning": "变暖对策",
+      "reading": "おんだんかたいさく",
+      "term": "温暖化対策"
+    },
+    {
+      "entryID": "sbx-zj06-067",
+      "meaning": "国际性举措",
+      "reading": "こくさいてきなとりくみ",
+      "term": "国際的な取り組み"
+    },
+    {
+      "entryID": "sbx-zj06-068",
+      "meaning": "气候峰会",
+      "reading": "きこうサミット",
+      "term": "気候サミット"
+    },
+    {
+      "entryID": "sbx-zj06-069",
+      "meaning": "再生资源",
+      "reading": "さいせいしげん",
+      "term": "再生資源"
+    },
+    {
+      "entryID": "sbx-zj06-070",
+      "meaning": "生态科技",
+      "reading": "エコテクノロジー",
+      "term": "エコテクノロジー"
+    },
+    {
+      "entryID": "sbx-zj06-071",
+      "meaning": "环境负荷",
+      "reading": "かんきょうふか",
+      "term": "環境負荷"
+    },
+    {
+      "entryID": "sbx-zj06-072",
+      "meaning": "降低",
+      "reading": "ていげんする",
+      "term": "低減する"
+    },
+    {
+      "entryID": "sbx-zj06-073",
+      "meaning": "大气",
+      "reading": "たいき",
+      "term": "大気"
+    },
+    {
+      "entryID": "sbx-zj06-074",
+      "meaning": "水循环",
+      "reading": "みずじゅんかん",
+      "term": "水循環"
+    },
+    {
+      "entryID": "sbx-zj06-075",
+      "meaning": "栖息地",
+      "reading": "せいそくち",
+      "term": "生息地"
+    },
+    {
+      "entryID": "sbx-zj06-076",
+      "meaning": "灭绝",
+      "reading": "ぜつめつする",
+      "term": "絶滅する"
+    },
+    {
+      "entryID": "sbx-zj06-077",
+      "meaning": "野生动物",
+      "reading": "やせいどうぶつ",
+      "term": "野生動物"
+    },
+    {
+      "entryID": "sbx-zj06-078",
+      "meaning": "自然保护区",
+      "reading": "しぜんほごく",
+      "term": "自然保護区"
+    },
+    {
+      "entryID": "sbx-zj06-079",
+      "meaning": "国家公园",
+      "reading": "こくりつこうえん",
+      "term": "国立公園"
+    },
+    {
+      "entryID": "sbx-zj06-080",
+      "meaning": "环境省",
+      "reading": "かんきょうしょう",
+      "term": "環境省"
+    },
+    {
+      "entryID": "sbx-zj06-081",
+      "meaning": "气候正义",
+      "reading": "きこうせいぎ",
+      "term": "気候正義"
+    },
+    {
+      "entryID": "sbx-zj06-082",
+      "meaning": "环保意识",
+      "reading": "エコいしき",
+      "term": "エコ意識"
+    },
+    {
+      "entryID": "sbx-zj06-083",
+      "meaning": "零排放",
+      "reading": "ゼロエミッション",
+      "term": "ゼロエミッション"
+    },
+    {
+      "entryID": "sbx-zj06-084",
+      "meaning": "回收率",
+      "reading": "リサイクルりつ",
+      "term": "リサイクル率"
+    },
+    {
+      "entryID": "sbx-zj06-085",
+      "meaning": "缺水",
+      "reading": "みずぶそく",
+      "term": "水不足"
+    },
+    {
+      "entryID": "sbx-zj06-086",
+      "meaning": "粮食问题",
+      "reading": "しょくりょうもんだい",
+      "term": "食料問題"
+    },
+    {
+      "entryID": "sbx-zj06-087",
+      "meaning": "人口爆炸",
+      "reading": "じんこうばくはつ",
+      "term": "人口爆発"
+    },
+    {
+      "entryID": "sbx-zj06-088",
+      "meaning": "资源枯竭",
+      "reading": "しげんのこかつ",
+      "term": "資源の枯渇"
+    },
+    {
+      "entryID": "sbx-zj06-089",
+      "meaning": "核电站",
+      "reading": "げんぱつ",
+      "term": "原発"
+    },
+    {
+      "entryID": "sbx-zj06-090",
+      "meaning": "放射能",
+      "reading": "ほうしゃのう",
+      "term": "放射能"
+    },
+    {
+      "entryID": "sbx-zj06-091",
+      "meaning": "污染水",
+      "reading": "おせんすい",
+      "term": "汚染水"
+    },
+    {
+      "entryID": "sbx-zj06-092",
+      "meaning": "反应堆退役",
+      "reading": "はいろ",
+      "term": "廃炉"
+    },
+    {
+      "entryID": "sbx-zj06-093",
+      "meaning": "能源政策",
+      "reading": "エネルギーせいさく",
+      "term": "エネルギー政策"
+    },
+    {
+      "entryID": "sbx-zj06-094",
+      "meaning": "节水",
+      "reading": "せっすい",
+      "term": "節水"
+    },
+    {
+      "entryID": "sbx-zj06-095",
+      "meaning": "共享汽车",
+      "reading": "カーシェアリング",
+      "term": "カーシェアリング"
+    },
+    {
+      "entryID": "sbx-zj06-096",
+      "meaning": "零废弃",
+      "reading": "ゼロウェイスト",
+      "term": "ゼロウェイスト"
+    },
+    {
+      "entryID": "sbx-zj06-097",
+      "meaning": "有机的",
+      "reading": "オーガニック",
+      "term": "オーガニック"
+    },
+    {
+      "entryID": "sbx-zj06-098",
+      "meaning": "地产地销",
+      "reading": "ちさんちしょう",
+      "term": "地産地消"
+    },
+    {
+      "entryID": "sbx-zj06-099",
+      "meaning": "食物链",
+      "reading": "しょくもつれんさ",
+      "term": "食物連鎖"
+    },
+    {
+      "entryID": "sbx-zj06-100",
+      "meaning": "光合作用",
+      "reading": "こうごうせい",
+      "term": "光合成"
+    },
+    {
+      "entryID": "sbx-zj06-101",
+      "meaning": "热带雨林",
+      "reading": "ねったいうりん",
+      "term": "熱帯雨林"
+    },
+    {
+      "entryID": "sbx-zj06-102",
+      "meaning": "珊瑚礁",
+      "reading": "サンゴしょう",
+      "term": "サンゴ礁"
+    },
+    {
+      "entryID": "sbx-zj06-103",
+      "meaning": "珊瑚白化",
+      "reading": "サンゴのはっか",
+      "term": "サンゴの白化"
+    },
+    {
+      "entryID": "sbx-zj06-104",
+      "meaning": "森林火灾",
+      "reading": "しんりんかさい",
+      "term": "森林火災"
+    },
+    {
+      "entryID": "sbx-zj06-105",
+      "meaning": "脱碳社会",
+      "reading": "だつたんそしゃかい",
+      "term": "脱炭素社会"
+    },
+    {
+      "entryID": "sbx-zj06-106",
+      "meaning": "电量",
+      "reading": "でんりょくりょう",
+      "term": "電力量"
+    },
+    {
+      "entryID": "sbx-zj06-107",
+      "meaning": "自发自用",
+      "reading": "じかしょうひ",
+      "term": "自家消費"
+    },
+    {
+      "entryID": "sbx-zj06-108",
+      "meaning": "蓄电池",
+      "reading": "ちくでんち",
+      "term": "蓄電池"
+    },
+    {
+      "entryID": "sbx-zj06-109",
+      "meaning": "下一代电池",
+      "reading": "じせいでんでんち",
+      "term": "次世代電池"
+    },
+    {
+      "entryID": "sbx-zj06-110",
+      "meaning": "氢能",
+      "reading": "すいそエネルギー",
+      "term": "水素エネルギー"
+    }
+  ],
+  "entryCount": 110,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 25–28 课主题（自然环境、能源问题、可持续社会）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "intermediate",
+    "tags": [
+      "japanese",
+      "sbx",
+      "intermediate",
+      "chinese"
+    ],
+    "title": "标准日本语·中级 第25-28课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.zj06",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,693 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-zj03-001",
+      "meaning": "历史",
+      "reading": "れきし",
+      "term": "歴史"
+    },
+    {
+      "entryID": "sbx-zj03-002",
+      "meaning": "史实",
+      "reading": "しじつ",
+      "term": "史実"
+    },
+    {
+      "entryID": "sbx-zj03-003",
+      "meaning": "古代",
+      "reading": "こだい",
+      "term": "古代"
+    },
+    {
+      "entryID": "sbx-zj03-004",
+      "meaning": "中世",
+      "reading": "ちゅうせい",
+      "term": "中世"
+    },
+    {
+      "entryID": "sbx-zj03-005",
+      "meaning": "近世",
+      "reading": "きんせい",
+      "term": "近世"
+    },
+    {
+      "entryID": "sbx-zj03-006",
+      "meaning": "幕府",
+      "reading": "ばくふ",
+      "term": "幕府"
+    },
+    {
+      "entryID": "sbx-zj03-007",
+      "meaning": "武士",
+      "reading": "ぶし",
+      "term": "武士"
+    },
+    {
+      "entryID": "sbx-zj03-008",
+      "meaning": "武士",
+      "reading": "さむらい",
+      "term": "侍"
+    },
+    {
+      "entryID": "sbx-zj03-009",
+      "meaning": "战国时代",
+      "reading": "せんごくじだい",
+      "term": "戦国時代"
+    },
+    {
+      "entryID": "sbx-zj03-010",
+      "meaning": "江户时代",
+      "reading": "えどじだい",
+      "term": "江戸時代"
+    },
+    {
+      "entryID": "sbx-zj03-011",
+      "meaning": "明治维新",
+      "reading": "めいじいしん",
+      "term": "明治維新"
+    },
+    {
+      "entryID": "sbx-zj03-012",
+      "meaning": "王朝",
+      "reading": "おうちょう",
+      "term": "王朝"
+    },
+    {
+      "entryID": "sbx-zj03-013",
+      "meaning": "天皇",
+      "reading": "てんのう",
+      "term": "天皇"
+    },
+    {
+      "entryID": "sbx-zj03-014",
+      "meaning": "城郭",
+      "reading": "しろ",
+      "term": "城"
+    },
+    {
+      "entryID": "sbx-zj03-015",
+      "meaning": "遗迹",
+      "reading": "いせき",
+      "term": "遺跡"
+    },
+    {
+      "entryID": "sbx-zj03-016",
+      "meaning": "出土文物",
+      "reading": "しゅつどひん",
+      "term": "出土品"
+    },
+    {
+      "entryID": "sbx-zj03-017",
+      "meaning": "文化遗产",
+      "reading": "ぶんかざい",
+      "term": "文化財"
+    },
+    {
+      "entryID": "sbx-zj03-018",
+      "meaning": "国宝",
+      "reading": "こくほう",
+      "term": "国宝"
+    },
+    {
+      "entryID": "sbx-zj03-019",
+      "meaning": "史迹",
+      "reading": "しせき",
+      "term": "史跡"
+    },
+    {
+      "entryID": "sbx-zj03-020",
+      "meaning": "传统表演艺术",
+      "reading": "でんとうげいのう",
+      "term": "伝統芸能"
+    },
+    {
+      "entryID": "sbx-zj03-021",
+      "meaning": "歌舞伎",
+      "reading": "かぶき",
+      "term": "歌舞伎"
+    },
+    {
+      "entryID": "sbx-zj03-022",
+      "meaning": "能剧",
+      "reading": "のう",
+      "term": "能"
+    },
+    {
+      "entryID": "sbx-zj03-023",
+      "meaning": "狂言",
+      "reading": "きょうげん",
+      "term": "狂言"
+    },
+    {
+      "entryID": "sbx-zj03-024",
+      "meaning": "木偶戏",
+      "reading": "ぶんらく",
+      "term": "文楽"
+    },
+    {
+      "entryID": "sbx-zj03-025",
+      "meaning": "相扑",
+      "reading": "すもう",
+      "term": "相撲"
+    },
+    {
+      "entryID": "sbx-zj03-026",
+      "meaning": "茶道",
+      "reading": "さどう",
+      "term": "茶道"
+    },
+    {
+      "entryID": "sbx-zj03-027",
+      "meaning": "花道",
+      "reading": "かどう",
+      "term": "華道"
+    },
+    {
+      "entryID": "sbx-zj03-028",
+      "meaning": "书法",
+      "reading": "しょどう",
+      "term": "書道"
+    },
+    {
+      "entryID": "sbx-zj03-029",
+      "meaning": "香道",
+      "reading": "こうどう",
+      "term": "香道"
+    },
+    {
+      "entryID": "sbx-zj03-030",
+      "meaning": "俳句",
+      "reading": "はいく",
+      "term": "俳句"
+    },
+    {
+      "entryID": "sbx-zj03-031",
+      "meaning": "短歌",
+      "reading": "たんか",
+      "term": "短歌"
+    },
+    {
+      "entryID": "sbx-zj03-032",
+      "meaning": "和歌",
+      "reading": "わか",
+      "term": "和歌"
+    },
+    {
+      "entryID": "sbx-zj03-033",
+      "meaning": "川柳",
+      "reading": "せんりゅう",
+      "term": "川柳"
+    },
+    {
+      "entryID": "sbx-zj03-034",
+      "meaning": "民歌",
+      "reading": "みんよう",
+      "term": "民謡"
+    },
+    {
+      "entryID": "sbx-zj03-035",
+      "meaning": "和纸",
+      "reading": "わし",
+      "term": "和紙"
+    },
+    {
+      "entryID": "sbx-zj03-036",
+      "meaning": "陶瓷器",
+      "reading": "とうき",
+      "term": "陶器"
+    },
+    {
+      "entryID": "sbx-zj03-037",
+      "meaning": "漆器",
+      "reading": "しっき",
+      "term": "漆器"
+    },
+    {
+      "entryID": "sbx-zj03-038",
+      "meaning": "印染物",
+      "reading": "そめもの",
+      "term": "染物"
+    },
+    {
+      "entryID": "sbx-zj03-039",
+      "meaning": "织物",
+      "reading": "おりもの",
+      "term": "織物"
+    },
+    {
+      "entryID": "sbx-zj03-040",
+      "meaning": "工艺",
+      "reading": "こうげい",
+      "term": "工芸"
+    },
+    {
+      "entryID": "sbx-zj03-041",
+      "meaning": "匠人",
+      "reading": "たくみ",
+      "term": "匠"
+    },
+    {
+      "entryID": "sbx-zj03-042",
+      "meaning": "技艺",
+      "reading": "わざ",
+      "term": "技"
+    },
+    {
+      "entryID": "sbx-zj03-043",
+      "meaning": "继承",
+      "reading": "うけつぐ",
+      "term": "受け継ぐ"
+    },
+    {
+      "entryID": "sbx-zj03-044",
+      "meaning": "继承人",
+      "reading": "こうけいしゃ",
+      "term": "後継者"
+    },
+    {
+      "entryID": "sbx-zj03-045",
+      "meaning": "保存",
+      "reading": "ほぞん",
+      "term": "保存"
+    },
+    {
+      "entryID": "sbx-zj03-046",
+      "meaning": "传承",
+      "reading": "つたえる",
+      "term": "伝える"
+    },
+    {
+      "entryID": "sbx-zj03-047",
+      "meaning": "口耳相传",
+      "reading": "かたりつぐ",
+      "term": "語り継ぐ"
+    },
+    {
+      "entryID": "sbx-zj03-048",
+      "meaning": "来历",
+      "reading": "ゆいしょ",
+      "term": "由緒"
+    },
+    {
+      "entryID": "sbx-zj03-049",
+      "meaning": "规格地位",
+      "reading": "かくしき",
+      "term": "格式"
+    },
+    {
+      "entryID": "sbx-zj03-050",
+      "meaning": "风俗",
+      "reading": "ふうしゅう",
+      "term": "風習"
+    },
+    {
+      "entryID": "sbx-zj03-051",
+      "meaning": "惯例",
+      "reading": "ならわし",
+      "term": "習わし"
+    },
+    {
+      "entryID": "sbx-zj03-052",
+      "meaning": "仪式",
+      "reading": "ぎしき",
+      "term": "儀式"
+    },
+    {
+      "entryID": "sbx-zj03-053",
+      "meaning": "礼法",
+      "reading": "さほう",
+      "term": "作法"
+    },
+    {
+      "entryID": "sbx-zj03-054",
+      "meaning": "民间故事",
+      "reading": "むかしばなし",
+      "term": "昔話"
+    },
+    {
+      "entryID": "sbx-zj03-055",
+      "meaning": "传说",
+      "reading": "でんせつ",
+      "term": "伝説"
+    },
+    {
+      "entryID": "sbx-zj03-056",
+      "meaning": "神话",
+      "reading": "しんわ",
+      "term": "神話"
+    },
+    {
+      "entryID": "sbx-zj03-057",
+      "meaning": "典故成语",
+      "reading": "こじせいご",
+      "term": "故事成語"
+    },
+    {
+      "entryID": "sbx-zj03-058",
+      "meaning": "谚语",
+      "reading": "ことわざ",
+      "term": "ことわざ"
+    },
+    {
+      "entryID": "sbx-zj03-059",
+      "meaning": "教训",
+      "reading": "きょうくん",
+      "term": "教訓"
+    },
+    {
+      "entryID": "sbx-zj03-060",
+      "meaning": "智慧",
+      "reading": "ちえ",
+      "term": "知恵"
+    },
+    {
+      "entryID": "sbx-zj03-061",
+      "meaning": "先人",
+      "reading": "せんじん",
+      "term": "先人"
+    },
+    {
+      "entryID": "sbx-zj03-062",
+      "meaning": "祖先",
+      "reading": "そせん",
+      "term": "祖先"
+    },
+    {
+      "entryID": "sbx-zj03-063",
+      "meaning": "子孙",
+      "reading": "しそん",
+      "term": "子孫"
+    },
+    {
+      "entryID": "sbx-zj03-064",
+      "meaning": "历史建筑",
+      "reading": "れきしてきけんぞうぶつ",
+      "term": "歴史的建造物"
+    },
+    {
+      "entryID": "sbx-zj03-065",
+      "meaning": "指定",
+      "reading": "してい",
+      "term": "指定"
+    },
+    {
+      "entryID": "sbx-zj03-066",
+      "meaning": "自豪的",
+      "reading": "ほこらしい",
+      "term": "誇らしい"
+    },
+    {
+      "entryID": "sbx-zj03-067",
+      "meaning": "珍贵的",
+      "reading": "きちょう",
+      "term": "貴重"
+    },
+    {
+      "entryID": "sbx-zj03-068",
+      "meaning": "有价值",
+      "reading": "かちがある",
+      "term": "価値がある"
+    },
+    {
+      "entryID": "sbx-zj03-069",
+      "meaning": "情趣",
+      "reading": "おもむき",
+      "term": "趣"
+    },
+    {
+      "entryID": "sbx-zj03-070",
+      "meaning": "风情",
+      "reading": "ふぜい",
+      "term": "風情"
+    },
+    {
+      "entryID": "sbx-zj03-071",
+      "meaning": "韵味深厚",
+      "reading": "あじわいぶかい",
+      "term": "味わい深い"
+    },
+    {
+      "entryID": "sbx-zj03-072",
+      "meaning": "庄严",
+      "reading": "そうごん",
+      "term": "荘厳"
+    },
+    {
+      "entryID": "sbx-zj03-073",
+      "meaning": "优雅",
+      "reading": "ゆうが",
+      "term": "優雅"
+    },
+    {
+      "entryID": "sbx-zj03-074",
+      "meaning": "质朴",
+      "reading": "そぼく",
+      "term": "素朴"
+    },
+    {
+      "entryID": "sbx-zj03-075",
+      "meaning": "豪华",
+      "reading": "ごうか",
+      "term": "豪華"
+    },
+    {
+      "entryID": "sbx-zj03-076",
+      "meaning": "绚烂",
+      "reading": "けんらん",
+      "term": "絢爛"
+    },
+    {
+      "entryID": "sbx-zj03-077",
+      "meaning": "再现",
+      "reading": "さいげん",
+      "term": "再現"
+    },
+    {
+      "entryID": "sbx-zj03-078",
+      "meaning": "复原",
+      "reading": "ふくげん",
+      "term": "復元"
+    },
+    {
+      "entryID": "sbx-zj03-079",
+      "meaning": "修复",
+      "reading": "しゅうふく",
+      "term": "修復"
+    },
+    {
+      "entryID": "sbx-zj03-080",
+      "meaning": "发掘",
+      "reading": "はっくつ",
+      "term": "発掘"
+    },
+    {
+      "entryID": "sbx-zj03-081",
+      "meaning": "埋藏",
+      "reading": "まいぞう",
+      "term": "埋蔵"
+    },
+    {
+      "entryID": "sbx-zj03-082",
+      "meaning": "文献",
+      "reading": "ぶんけん",
+      "term": "文献"
+    },
+    {
+      "entryID": "sbx-zj03-083",
+      "meaning": "史料",
+      "reading": "しりょう",
+      "term": "史料"
+    },
+    {
+      "entryID": "sbx-zj03-084",
+      "meaning": "记录",
+      "reading": "きろく",
+      "term": "記録"
+    },
+    {
+      "entryID": "sbx-zj03-085",
+      "meaning": "留下",
+      "reading": "のこす",
+      "term": "残す"
+    },
+    {
+      "entryID": "sbx-zj03-086",
+      "meaning": "流传",
+      "reading": "つたわる",
+      "term": "伝わる"
+    },
+    {
+      "entryID": "sbx-zj03-087",
+      "meaning": "考古学",
+      "reading": "こうこがく",
+      "term": "考古学"
+    },
+    {
+      "entryID": "sbx-zj03-088",
+      "meaning": "非物质文化遗产",
+      "reading": "むけいぶんかいさん",
+      "term": "無形文化遺産"
+    },
+    {
+      "entryID": "sbx-zj03-089",
+      "meaning": "民间工艺",
+      "reading": "みんげい",
+      "term": "民芸"
+    },
+    {
+      "entryID": "sbx-zj03-090",
+      "meaning": "寺社",
+      "reading": "じしゃ",
+      "term": "寺社"
+    },
+    {
+      "entryID": "sbx-zj03-091",
+      "meaning": "神社",
+      "reading": "じんじゃ",
+      "term": "神社"
+    },
+    {
+      "entryID": "sbx-zj03-092",
+      "meaning": "佛寺",
+      "reading": "ぶっかく",
+      "term": "仏閣"
+    },
+    {
+      "entryID": "sbx-zj03-093",
+      "meaning": "城下町",
+      "reading": "じょうかまち",
+      "term": "城下町"
+    },
+    {
+      "entryID": "sbx-zj03-094",
+      "meaning": "街景",
+      "reading": "まちなみ",
+      "term": "町並み"
+    },
+    {
+      "entryID": "sbx-zj03-095",
+      "meaning": "鸟居",
+      "reading": "とりい",
+      "term": "鳥居"
+    },
+    {
+      "entryID": "sbx-zj03-096",
+      "meaning": "石碑",
+      "reading": "せきひ",
+      "term": "石碑"
+    },
+    {
+      "entryID": "sbx-zj03-097",
+      "meaning": "雕刻",
+      "reading": "ちょうこく",
+      "term": "彫刻"
+    },
+    {
+      "entryID": "sbx-zj03-098",
+      "meaning": "绘画",
+      "reading": "かいが",
+      "term": "絵画"
+    },
+    {
+      "entryID": "sbx-zj03-099",
+      "meaning": "书画",
+      "reading": "しょが",
+      "term": "書画"
+    },
+    {
+      "entryID": "sbx-zj03-100",
+      "meaning": "屏风",
+      "reading": "びょうぶ",
+      "term": "屏風"
+    },
+    {
+      "entryID": "sbx-zj03-101",
+      "meaning": "挂轴",
+      "reading": "かけじく",
+      "term": "掛け軸"
+    },
+    {
+      "entryID": "sbx-zj03-102",
+      "meaning": "茶碗",
+      "reading": "ちゃわん",
+      "term": "茶碗"
+    },
+    {
+      "entryID": "sbx-zj03-103",
+      "meaning": "花瓶",
+      "reading": "かびん",
+      "term": "花瓶"
+    },
+    {
+      "entryID": "sbx-zj03-104",
+      "meaning": "古董",
+      "reading": "こっとうひん",
+      "term": "骨董品"
+    },
+    {
+      "entryID": "sbx-zj03-105",
+      "meaning": "收藏",
+      "reading": "コレクション",
+      "term": "コレクション"
+    },
+    {
+      "entryID": "sbx-zj03-106",
+      "meaning": "展出",
+      "reading": "てんじする",
+      "term": "展示する"
+    },
+    {
+      "entryID": "sbx-zj03-107",
+      "meaning": "鉴赏",
+      "reading": "かんしょう",
+      "term": "鑑賞"
+    },
+    {
+      "entryID": "sbx-zj03-108",
+      "meaning": "审美意识",
+      "reading": "びいしき",
+      "term": "美意識"
+    },
+    {
+      "entryID": "sbx-zj03-109",
+      "meaning": "深邃的",
+      "reading": "おくふかい",
+      "term": "奥深い"
+    },
+    {
+      "entryID": "sbx-zj03-110",
+      "meaning": "无形",
+      "reading": "むけい",
+      "term": "無形"
+    },
+    {
+      "entryID": "sbx-zj03-111",
+      "meaning": "有形",
+      "reading": "ゆうけい",
+      "term": "有形"
+    },
+    {
+      "entryID": "sbx-zj03-112",
+      "meaning": "后世",
+      "reading": "こうせい",
+      "term": "後世"
+    }
+  ],
+  "entryCount": 112,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 13–16 课主题（历史文化、传统技艺、传承保护）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "intermediate",
+    "tags": [
+      "japanese",
+      "sbx",
+      "intermediate",
+      "chinese"
+    ],
+    "title": "标准日本语·中级 第13-16课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.zj03",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

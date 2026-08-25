@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 22,
-  "generatedAt": "2026-08-25T07:24:45Z",
+  "catalogVersion": 23,
+  "generatedAt": "2026-08-25T08:27:40Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -670,6 +670,141 @@
         "chinese"
       ],
       "title": "标准日本语·中级 第09-12课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 13–16 课主题（历史文化、传统技艺、传承保护）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第13-16课"
+      ],
+      "entryCount": 112,
+      "fileSize": 15578,
+      "fileURL": "packs/sbx-zj03.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj03",
+      "packVersion": 1,
+      "sha256": "f4b31ead19083ab151568299bdfc87a967a1f0755df7b2591cc911228a4b43de",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第13-16课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 17–20 课主题（科学技术、医疗进步、研究前沿）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第17-20课"
+      ],
+      "entryCount": 114,
+      "fileSize": 16847,
+      "fileURL": "packs/sbx-zj04.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj04",
+      "packVersion": 1,
+      "sha256": "0f1a23c7310f89fc486c227af3a51204c5f8812198beb324e4bae343305d5330",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第17-20课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 21–24 课主题（国际交流、跨文化理解、留学语言）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第21-24课"
+      ],
+      "entryCount": 116,
+      "fileSize": 17825,
+      "fileURL": "packs/sbx-zj05.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj05",
+      "packVersion": 1,
+      "sha256": "31f86c9218d3465b5a5e0f11551ace9a88436c62d5f763190430e28ca53002e2",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第21-24课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 25–28 课主题（自然环境、能源问题、可持续社会）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第25-28课"
+      ],
+      "entryCount": 110,
+      "fileSize": 17450,
+      "fileURL": "packs/sbx-zj06.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj06",
+      "packVersion": 1,
+      "sha256": "5f35e1fe1eddc96183f9fb429b1513293acb4bc81085556b73003741a8b33809",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第25-28课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 29–32 课主题（人生哲学、价值选择、幸福思考）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第29-32课"
+      ],
+      "entryCount": 119,
+      "fileSize": 17597,
+      "fileURL": "packs/sbx-zj07.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj07",
+      "packVersion": 1,
+      "sha256": "e3f735f092571852bb423901394a68cbeebd914abbecb65cfe484efbd4c31f2a",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第29-32课词汇（项目整理版）"
     },
     {
       "classification": "korean",
