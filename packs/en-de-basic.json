@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "ende-basic-001",
+      "meaning": "hello",
+      "reading": "HA-lo",
+      "term": "Hallo"
+    },
+    {
+      "entryID": "ende-basic-002",
+      "meaning": "thank you",
+      "reading": "DAN-ke",
+      "term": "Danke"
+    },
+    {
+      "entryID": "ende-basic-003",
+      "meaning": "sorry; excuse me",
+      "reading": "ent-SOOL-di-goong",
+      "term": "Entschuldigung"
+    },
+    {
+      "entryID": "ende-basic-004",
+      "meaning": "yes",
+      "reading": "ya",
+      "term": "Ja"
+    },
+    {
+      "entryID": "ende-basic-005",
+      "meaning": "no",
+      "reading": "nine",
+      "term": "Nein"
+    },
+    {
+      "entryID": "ende-basic-006",
+      "meaning": "goodbye",
+      "reading": "auf VEE-der-zay-en",
+      "term": "Auf Wiedersehen"
+    },
+    {
+      "entryID": "ende-basic-007",
+      "meaning": "water",
+      "reading": "VAS-ser",
+      "term": "Wasser"
+    },
+    {
+      "entryID": "ende-basic-008",
+      "meaning": "bread",
+      "reading": "broht",
+      "term": "Brot"
+    },
+    {
+      "entryID": "ende-basic-009",
+      "meaning": "house; home",
+      "reading": "hous",
+      "term": "Haus"
+    },
+    {
+      "entryID": "ende-basic-010",
+      "meaning": "school",
+      "reading": "SHOO-le",
+      "term": "Schule"
+    },
+    {
+      "entryID": "ende-basic-011",
+      "meaning": "friend",
+      "reading": "froynt",
+      "term": "Freund"
+    },
+    {
+      "entryID": "ende-basic-012",
+      "meaning": "name",
+      "reading": "NA-me",
+      "term": "Name"
+    },
+    {
+      "entryID": "ende-basic-013",
+      "meaning": "China",
+      "reading": "CHEE-na",
+      "term": "China"
+    },
+    {
+      "entryID": "ende-basic-014",
+      "meaning": "today",
+      "reading": "HOY-te",
+      "term": "heute"
+    },
+    {
+      "entryID": "ende-basic-015",
+      "meaning": "tomorrow; morning",
+      "reading": "MOR-gen",
+      "term": "morgen"
+    },
+    {
+      "entryID": "ende-basic-016",
+      "meaning": "now",
+      "reading": "yetz",
+      "term": "jetzt"
+    },
+    {
+      "entryID": "ende-basic-017",
+      "meaning": "time",
+      "reading": "tsite",
+      "term": "Zeit"
+    },
+    {
+      "entryID": "ende-basic-018",
+      "meaning": "person; human",
+      "reading": "mensh",
+      "term": "Mensch"
+    },
+    {
+      "entryID": "ende-basic-019",
+      "meaning": "man",
+      "reading": "man",
+      "term": "Mann"
+    },
+    {
+      "entryID": "ende-basic-020",
+      "meaning": "woman; wife",
+      "reading": "frow",
+      "term": "Frau"
+    },
+    {
+      "entryID": "ende-basic-021",
+      "meaning": "mom; mother",
+      "reading": "MA-ma",
+      "term": "Mama"
+    },
+    {
+      "entryID": "ende-basic-022",
+      "meaning": "dad; father",
+      "reading": "PA-pa",
+      "term": "Papa"
+    },
+    {
+      "entryID": "ende-basic-023",
+      "meaning": "family",
+      "reading": "fa-MEE-lye",
+      "term": "Familie"
+    },
+    {
+      "entryID": "ende-basic-024",
+      "meaning": "money",
+      "reading": "gelt",
+      "term": "Geld"
+    },
+    {
+      "entryID": "ende-basic-025",
+      "meaning": "book",
+      "reading": "bookh",
+      "term": "Buch"
+    },
+    {
+      "entryID": "ende-basic-026",
+      "meaning": "bag",
+      "reading": "TA-she",
+      "term": "Tasche"
+    },
+    {
+      "entryID": "ende-basic-027",
+      "meaning": "phone",
+      "reading": "te-le-FON",
+      "term": "Telefon"
+    },
+    {
+      "entryID": "ende-basic-028",
+      "meaning": "coffee",
+      "reading": "KA-fey",
+      "term": "Kaffee"
+    },
+    {
+      "entryID": "ende-basic-029",
+      "meaning": "tea",
+      "reading": "tay",
+      "term": "Tee"
+    },
+    {
+      "entryID": "ende-basic-030",
+      "meaning": "car",
+      "reading": "OW-toe",
+      "term": "Auto"
+    },
+    {
+      "entryID": "ende-basic-031",
+      "meaning": "train",
+      "reading": "tsoog",
+      "term": "Zug"
+    },
+    {
+      "entryID": "ende-basic-032",
+      "meaning": "street",
+      "reading": "SHTRAH-se",
+      "term": "Straße"
+    },
+    {
+      "entryID": "ende-basic-033",
+      "meaning": "market",
+      "reading": "markt",
+      "term": "Markt"
+    },
+    {
+      "entryID": "ende-basic-034",
+      "meaning": "big",
+      "reading": "grohs",
+      "term": "groß"
+    },
+    {
+      "entryID": "ende-basic-035",
+      "meaning": "small",
+      "reading": "kline",
+      "term": "klein"
+    },
+    {
+      "entryID": "ende-basic-036",
+      "meaning": "good",
+      "reading": "goot",
+      "term": "gut"
+    },
+    {
+      "entryID": "ende-basic-037",
+      "meaning": "bad",
+      "reading": "shlesht",
+      "term": "schlecht"
+    },
+    {
+      "entryID": "ende-basic-038",
+      "meaning": "much; a lot",
+      "reading": "feel",
+      "term": "viel"
+    },
+    {
+      "entryID": "ende-basic-039",
+      "meaning": "few; little",
+      "reading": "VAY-nikh",
+      "term": "wenig"
+    },
+    {
+      "entryID": "ende-basic-040",
+      "meaning": "beautiful; nice",
+      "reading": "shurn",
+      "term": "schön"
+    },
+    {
+      "entryID": "ende-basic-041",
+      "meaning": "happy; glad",
+      "reading": "froh",
+      "term": "froh"
+    },
+    {
+      "entryID": "ende-basic-042",
+      "meaning": "eat",
+      "reading": "ES-sen",
+      "term": "essen"
+    },
+    {
+      "entryID": "ende-basic-043",
+      "meaning": "drink",
+      "reading": "TRIN-ken",
+      "term": "trinken"
+    },
+    {
+      "entryID": "ende-basic-044",
+      "meaning": "go",
+      "reading": "GAY-en",
+      "term": "gehen"
+    },
+    {
+      "entryID": "ende-basic-045",
+      "meaning": "come",
+      "reading": "KOM-men",
+      "term": "kommen"
+    },
+    {
+      "entryID": "ende-basic-046",
+      "meaning": "speak",
+      "reading": "SHPRE-hen",
+      "term": "sprechen"
+    },
+    {
+      "entryID": "ende-basic-047",
+      "meaning": "learn; study",
+      "reading": "LER-nen",
+      "term": "lernen"
+    },
+    {
+      "entryID": "ende-basic-048",
+      "meaning": "love",
+      "reading": "LEE-be",
+      "term": "Liebe"
+    },
+    {
+      "entryID": "ende-basic-049",
+      "meaning": "one",
+      "reading": "ains",
+      "term": "eins"
+    },
+    {
+      "entryID": "ende-basic-050",
+      "meaning": "what",
+      "reading": "vas",
+      "term": "was"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "german",
+    "description": "Starter pack for English speakers learning German (first 50 words). Originally authored by this project: term is the German word form, reading is a self-devised approximate syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+    "language": "de",
+    "level": "beginner",
+    "tags": [
+      "german",
+      "beginner",
+      "english"
+    ],
+    "title": "German Starter Basics"
+  },
+  "packID": "com.dai1012.en.de.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

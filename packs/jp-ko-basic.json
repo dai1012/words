@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "jpko-basic-001",
+      "meaning": "こんにちは",
+      "reading": "annyeonghaseyo",
+      "term": "안녕하세요"
+    },
+    {
+      "entryID": "jpko-basic-002",
+      "meaning": "ありがとうございます",
+      "reading": "gamsahamnida",
+      "term": "감사합니다"
+    },
+    {
+      "entryID": "jpko-basic-003",
+      "meaning": "すみません",
+      "reading": "joesonghamnida",
+      "term": "죄송합니다"
+    },
+    {
+      "entryID": "jpko-basic-004",
+      "meaning": "はい",
+      "reading": "ne",
+      "term": "네"
+    },
+    {
+      "entryID": "jpko-basic-005",
+      "meaning": "いいえ",
+      "reading": "aniyo",
+      "term": "아니요"
+    },
+    {
+      "entryID": "jpko-basic-006",
+      "meaning": "さようなら（行く人へ）",
+      "reading": "jal gayo",
+      "term": "잘 가요"
+    },
+    {
+      "entryID": "jpko-basic-007",
+      "meaning": "水",
+      "reading": "mul",
+      "term": "물"
+    },
+    {
+      "entryID": "jpko-basic-008",
+      "meaning": "ご飯",
+      "reading": "bap",
+      "term": "밥"
+    },
+    {
+      "entryID": "jpko-basic-009",
+      "meaning": "家",
+      "reading": "jip",
+      "term": "집"
+    },
+    {
+      "entryID": "jpko-basic-010",
+      "meaning": "学校",
+      "reading": "hakgyo",
+      "term": "학교"
+    },
+    {
+      "entryID": "jpko-basic-011",
+      "meaning": "友達",
+      "reading": "chingu",
+      "term": "친구"
+    },
+    {
+      "entryID": "jpko-basic-012",
+      "meaning": "名前",
+      "reading": "ireum",
+      "term": "이름"
+    },
+    {
+      "entryID": "jpko-basic-013",
+      "meaning": "中国",
+      "reading": "jungguk",
+      "term": "중국"
+    },
+    {
+      "entryID": "jpko-basic-014",
+      "meaning": "今日",
+      "reading": "oneul",
+      "term": "오늘"
+    },
+    {
+      "entryID": "jpko-basic-015",
+      "meaning": "明日",
+      "reading": "naeil",
+      "term": "내일"
+    },
+    {
+      "entryID": "jpko-basic-016",
+      "meaning": "今",
+      "reading": "jigeum",
+      "term": "지금"
+    },
+    {
+      "entryID": "jpko-basic-017",
+      "meaning": "時間",
+      "reading": "sigan",
+      "term": "시간"
+    },
+    {
+      "entryID": "jpko-basic-018",
+      "meaning": "人",
+      "reading": "saram",
+      "term": "사람"
+    },
+    {
+      "entryID": "jpko-basic-019",
+      "meaning": "男性",
+      "reading": "namja",
+      "term": "남자"
+    },
+    {
+      "entryID": "jpko-basic-020",
+      "meaning": "女性",
+      "reading": "yeoja",
+      "term": "여자"
+    },
+    {
+      "entryID": "jpko-basic-021",
+      "meaning": "お母さん",
+      "reading": "eomma",
+      "term": "엄마"
+    },
+    {
+      "entryID": "jpko-basic-022",
+      "meaning": "お父さん",
+      "reading": "abeoji",
+      "term": "아버지"
+    },
+    {
+      "entryID": "jpko-basic-023",
+      "meaning": "家族",
+      "reading": "gajog",
+      "term": "가족"
+    },
+    {
+      "entryID": "jpko-basic-024",
+      "meaning": "お金",
+      "reading": "don",
+      "term": "돈"
+    },
+    {
+      "entryID": "jpko-basic-025",
+      "meaning": "本",
+      "reading": "chaek",
+      "term": "책"
+    },
+    {
+      "entryID": "jpko-basic-026",
+      "meaning": "鞄",
+      "reading": "gabang",
+      "term": "가방"
+    },
+    {
+      "entryID": "jpko-basic-027",
+      "meaning": "電話",
+      "reading": "jeonhwa",
+      "term": "전화"
+    },
+    {
+      "entryID": "jpko-basic-028",
+      "meaning": "コーヒー",
+      "reading": "keopi",
+      "term": "커피"
+    },
+    {
+      "entryID": "jpko-basic-029",
+      "meaning": "お茶",
+      "reading": "cha",
+      "term": "차"
+    },
+    {
+      "entryID": "jpko-basic-030",
+      "meaning": "自動車",
+      "reading": "jadongcha",
+      "term": "자동차"
+    },
+    {
+      "entryID": "jpko-basic-031",
+      "meaning": "列車",
+      "reading": "gicha",
+      "term": "기차"
+    },
+    {
+      "entryID": "jpko-basic-032",
+      "meaning": "道・街路",
+      "reading": "geori",
+      "term": "거리"
+    },
+    {
+      "entryID": "jpko-basic-033",
+      "meaning": "市場",
+      "reading": "sijang",
+      "term": "시장"
+    },
+    {
+      "entryID": "jpko-basic-034",
+      "meaning": "大きい",
+      "reading": "keuda",
+      "term": "크다"
+    },
+    {
+      "entryID": "jpko-basic-035",
+      "meaning": "小さい",
+      "reading": "jakda",
+      "term": "작다"
+    },
+    {
+      "entryID": "jpko-basic-036",
+      "meaning": "良い・好きだ",
+      "reading": "johta",
+      "term": "좋다"
+    },
+    {
+      "entryID": "jpko-basic-037",
+      "meaning": "悪い",
+      "reading": "nappeuda",
+      "term": "나쁘다"
+    },
+    {
+      "entryID": "jpko-basic-038",
+      "meaning": "多い",
+      "reading": "manta",
+      "term": "많다"
+    },
+    {
+      "entryID": "jpko-basic-039",
+      "meaning": "少ない",
+      "reading": "jeokda",
+      "term": "적다"
+    },
+    {
+      "entryID": "jpko-basic-040",
+      "meaning": "きれいだ",
+      "reading": "yeppeuda",
+      "term": "예쁘다"
+    },
+    {
+      "entryID": "jpko-basic-041",
+      "meaning": "幸せだ",
+      "reading": "haengbokada",
+      "term": "행복하다"
+    },
+    {
+      "entryID": "jpko-basic-042",
+      "meaning": "食べる",
+      "reading": "meokda",
+      "term": "먹다"
+    },
+    {
+      "entryID": "jpko-basic-043",
+      "meaning": "飲む",
+      "reading": "masida",
+      "term": "마시다"
+    },
+    {
+      "entryID": "jpko-basic-044",
+      "meaning": "行く",
+      "reading": "gada",
+      "term": "가다"
+    },
+    {
+      "entryID": "jpko-basic-045",
+      "meaning": "来る",
+      "reading": "oda",
+      "term": "오다"
+    },
+    {
+      "entryID": "jpko-basic-046",
+      "meaning": "話す",
+      "reading": "malhada",
+      "term": "말하다"
+    },
+    {
+      "entryID": "jpko-basic-047",
+      "meaning": "学ぶ",
+      "reading": "baeuda",
+      "term": "배우다"
+    },
+    {
+      "entryID": "jpko-basic-048",
+      "meaning": "愛",
+      "reading": "sarang",
+      "term": "사랑"
+    },
+    {
+      "entryID": "jpko-basic-049",
+      "meaning": "1",
+      "reading": "hana",
+      "term": "하나"
+    },
+    {
+      "entryID": "jpko-basic-050",
+      "meaning": "何",
+      "reading": "mueot",
+      "term": "무엇"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "korean",
+    "description": "日语母语用户向けの韓国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term はハングル語形、reading は国文のローマ字表記法(RR)転写、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+    "language": "ko",
+    "level": "beginner",
+    "tags": [
+      "korean",
+      "beginner",
+      "japanese"
+    ],
+    "title": "韓国語入門基礎語彙"
+  },
+  "packID": "com.dai1012.jp.ko.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

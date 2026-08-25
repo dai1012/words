@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "enko-basic-001",
+      "meaning": "hello",
+      "reading": "annyeonghaseyo",
+      "term": "안녕하세요"
+    },
+    {
+      "entryID": "enko-basic-002",
+      "meaning": "thank you",
+      "reading": "gamsahamnida",
+      "term": "감사합니다"
+    },
+    {
+      "entryID": "enko-basic-003",
+      "meaning": "sorry",
+      "reading": "joesonghamnida",
+      "term": "죄송합니다"
+    },
+    {
+      "entryID": "enko-basic-004",
+      "meaning": "yes",
+      "reading": "ne",
+      "term": "네"
+    },
+    {
+      "entryID": "enko-basic-005",
+      "meaning": "no",
+      "reading": "aniyo",
+      "term": "아니요"
+    },
+    {
+      "entryID": "enko-basic-006",
+      "meaning": "goodbye",
+      "reading": "jal gayo",
+      "term": "잘 가요"
+    },
+    {
+      "entryID": "enko-basic-007",
+      "meaning": "water",
+      "reading": "mul",
+      "term": "물"
+    },
+    {
+      "entryID": "enko-basic-008",
+      "meaning": "rice; meal",
+      "reading": "bap",
+      "term": "밥"
+    },
+    {
+      "entryID": "enko-basic-009",
+      "meaning": "house; home",
+      "reading": "jip",
+      "term": "집"
+    },
+    {
+      "entryID": "enko-basic-010",
+      "meaning": "school",
+      "reading": "hakgyo",
+      "term": "학교"
+    },
+    {
+      "entryID": "enko-basic-011",
+      "meaning": "friend",
+      "reading": "chingu",
+      "term": "친구"
+    },
+    {
+      "entryID": "enko-basic-012",
+      "meaning": "name",
+      "reading": "ireum",
+      "term": "이름"
+    },
+    {
+      "entryID": "enko-basic-013",
+      "meaning": "China",
+      "reading": "jungguk",
+      "term": "중국"
+    },
+    {
+      "entryID": "enko-basic-014",
+      "meaning": "today",
+      "reading": "oneul",
+      "term": "오늘"
+    },
+    {
+      "entryID": "enko-basic-015",
+      "meaning": "tomorrow",
+      "reading": "naeil",
+      "term": "내일"
+    },
+    {
+      "entryID": "enko-basic-016",
+      "meaning": "now",
+      "reading": "jigeum",
+      "term": "지금"
+    },
+    {
+      "entryID": "enko-basic-017",
+      "meaning": "time; hour",
+      "reading": "sigan",
+      "term": "시간"
+    },
+    {
+      "entryID": "enko-basic-018",
+      "meaning": "person",
+      "reading": "saram",
+      "term": "사람"
+    },
+    {
+      "entryID": "enko-basic-019",
+      "meaning": "man",
+      "reading": "namja",
+      "term": "남자"
+    },
+    {
+      "entryID": "enko-basic-020",
+      "meaning": "woman",
+      "reading": "yeoja",
+      "term": "여자"
+    },
+    {
+      "entryID": "enko-basic-021",
+      "meaning": "mom; mother",
+      "reading": "eomma",
+      "term": "엄마"
+    },
+    {
+      "entryID": "enko-basic-022",
+      "meaning": "dad; father",
+      "reading": "abeoji",
+      "term": "아버지"
+    },
+    {
+      "entryID": "enko-basic-023",
+      "meaning": "family",
+      "reading": "gajog",
+      "term": "가족"
+    },
+    {
+      "entryID": "enko-basic-024",
+      "meaning": "money",
+      "reading": "don",
+      "term": "돈"
+    },
+    {
+      "entryID": "enko-basic-025",
+      "meaning": "book",
+      "reading": "chaek",
+      "term": "책"
+    },
+    {
+      "entryID": "enko-basic-026",
+      "meaning": "bag",
+      "reading": "gabang",
+      "term": "가방"
+    },
+    {
+      "entryID": "enko-basic-027",
+      "meaning": "phone",
+      "reading": "jeonhwa",
+      "term": "전화"
+    },
+    {
+      "entryID": "enko-basic-028",
+      "meaning": "coffee",
+      "reading": "keopi",
+      "term": "커피"
+    },
+    {
+      "entryID": "enko-basic-029",
+      "meaning": "tea",
+      "reading": "cha",
+      "term": "차"
+    },
+    {
+      "entryID": "enko-basic-030",
+      "meaning": "car",
+      "reading": "jadongcha",
+      "term": "자동차"
+    },
+    {
+      "entryID": "enko-basic-031",
+      "meaning": "train",
+      "reading": "gicha",
+      "term": "기차"
+    },
+    {
+      "entryID": "enko-basic-032",
+      "meaning": "street",
+      "reading": "geori",
+      "term": "거리"
+    },
+    {
+      "entryID": "enko-basic-033",
+      "meaning": "market",
+      "reading": "sijang",
+      "term": "시장"
+    },
+    {
+      "entryID": "enko-basic-034",
+      "meaning": "big",
+      "reading": "keuda",
+      "term": "크다"
+    },
+    {
+      "entryID": "enko-basic-035",
+      "meaning": "small",
+      "reading": "jakda",
+      "term": "작다"
+    },
+    {
+      "entryID": "enko-basic-036",
+      "meaning": "good; to like",
+      "reading": "johta",
+      "term": "좋다"
+    },
+    {
+      "entryID": "enko-basic-037",
+      "meaning": "bad",
+      "reading": "nappeuda",
+      "term": "나쁘다"
+    },
+    {
+      "entryID": "enko-basic-038",
+      "meaning": "many; much",
+      "reading": "manta",
+      "term": "많다"
+    },
+    {
+      "entryID": "enko-basic-039",
+      "meaning": "few; little",
+      "reading": "jeokda",
+      "term": "적다"
+    },
+    {
+      "entryID": "enko-basic-040",
+      "meaning": "pretty",
+      "reading": "yeppeuda",
+      "term": "예쁘다"
+    },
+    {
+      "entryID": "enko-basic-041",
+      "meaning": "happy",
+      "reading": "haengbokada",
+      "term": "행복하다"
+    },
+    {
+      "entryID": "enko-basic-042",
+      "meaning": "eat",
+      "reading": "meokda",
+      "term": "먹다"
+    },
+    {
+      "entryID": "enko-basic-043",
+      "meaning": "drink",
+      "reading": "masida",
+      "term": "마시다"
+    },
+    {
+      "entryID": "enko-basic-044",
+      "meaning": "go",
+      "reading": "gada",
+      "term": "가다"
+    },
+    {
+      "entryID": "enko-basic-045",
+      "meaning": "come",
+      "reading": "oda",
+      "term": "오다"
+    },
+    {
+      "entryID": "enko-basic-046",
+      "meaning": "speak; talk",
+      "reading": "malhada",
+      "term": "말하다"
+    },
+    {
+      "entryID": "enko-basic-047",
+      "meaning": "learn; study",
+      "reading": "baeuda",
+      "term": "배우다"
+    },
+    {
+      "entryID": "enko-basic-048",
+      "meaning": "love",
+      "reading": "sarang",
+      "term": "사랑"
+    },
+    {
+      "entryID": "enko-basic-049",
+      "meaning": "one",
+      "reading": "hana",
+      "term": "하나"
+    },
+    {
+      "entryID": "enko-basic-050",
+      "meaning": "what",
+      "reading": "mueot",
+      "term": "무엇"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "korean",
+    "description": "Starter pack for English speakers learning Korean (first 50 words). Originally authored by this project: term is the Hangul word form, reading uses the Revised Romanization of Korean, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+    "language": "ko",
+    "level": "beginner",
+    "tags": [
+      "korean",
+      "beginner",
+      "english"
+    ],
+    "title": "Korean Starter Basics"
+  },
+  "packID": "com.dai1012.en.ko.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

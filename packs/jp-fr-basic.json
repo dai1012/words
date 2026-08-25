@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "jpfr-basic-001",
+      "meaning": "こんにちは",
+      "reading": "bon-ZHOOR",
+      "term": "bonjour"
+    },
+    {
+      "entryID": "jpfr-basic-002",
+      "meaning": "ありがとう",
+      "reading": "mer-SI",
+      "term": "merci"
+    },
+    {
+      "entryID": "jpfr-basic-003",
+      "meaning": "すみません",
+      "reading": "par-DON",
+      "term": "pardon"
+    },
+    {
+      "entryID": "jpfr-basic-004",
+      "meaning": "はい",
+      "reading": "oui",
+      "term": "oui"
+    },
+    {
+      "entryID": "jpfr-basic-005",
+      "meaning": "いいえ",
+      "reading": "non",
+      "term": "non"
+    },
+    {
+      "entryID": "jpfr-basic-006",
+      "meaning": "さようなら",
+      "reading": "o-re-VWAR",
+      "term": "au revoir"
+    },
+    {
+      "entryID": "jpfr-basic-007",
+      "meaning": "水",
+      "reading": "O",
+      "term": "eau"
+    },
+    {
+      "entryID": "jpfr-basic-008",
+      "meaning": "パン",
+      "reading": "PAN",
+      "term": "pain"
+    },
+    {
+      "entryID": "jpfr-basic-009",
+      "meaning": "家",
+      "reading": "mai-ZON",
+      "term": "maison"
+    },
+    {
+      "entryID": "jpfr-basic-010",
+      "meaning": "学校",
+      "reading": "e-KOL",
+      "term": "école"
+    },
+    {
+      "entryID": "jpfr-basic-011",
+      "meaning": "友達",
+      "reading": "a-MI",
+      "term": "ami"
+    },
+    {
+      "entryID": "jpfr-basic-012",
+      "meaning": "名前",
+      "reading": "NON",
+      "term": "nom"
+    },
+    {
+      "entryID": "jpfr-basic-013",
+      "meaning": "中国",
+      "reading": "SHIN",
+      "term": "Chine"
+    },
+    {
+      "entryID": "jpfr-basic-014",
+      "meaning": "今日",
+      "reading": "o-zhur-DWEE",
+      "term": "aujourd'hui"
+    },
+    {
+      "entryID": "jpfr-basic-015",
+      "meaning": "明日",
+      "reading": "du-MAN",
+      "term": "demain"
+    },
+    {
+      "entryID": "jpfr-basic-016",
+      "meaning": "今",
+      "reading": "MAN-te-NAN",
+      "term": "maintenant"
+    },
+    {
+      "entryID": "jpfr-basic-017",
+      "meaning": "時間・時",
+      "reading": "URU",
+      "term": "heure"
+    },
+    {
+      "entryID": "jpfr-basic-018",
+      "meaning": "人",
+      "reading": "peru-SON",
+      "term": "personne"
+    },
+    {
+      "entryID": "jpfr-basic-019",
+      "meaning": "男性",
+      "reading": "OM",
+      "term": "homme"
+    },
+    {
+      "entryID": "jpfr-basic-020",
+      "meaning": "女性・妻",
+      "reading": "FAMU",
+      "term": "femme"
+    },
+    {
+      "entryID": "jpfr-basic-021",
+      "meaning": "お母さん",
+      "reading": "ma-MAN",
+      "term": "maman"
+    },
+    {
+      "entryID": "jpfr-basic-022",
+      "meaning": "お父さん",
+      "reading": "pa-PA",
+      "term": "papa"
+    },
+    {
+      "entryID": "jpfr-basic-023",
+      "meaning": "家族",
+      "reading": "fa-MIY",
+      "term": "famille"
+    },
+    {
+      "entryID": "jpfr-basic-024",
+      "meaning": "お金",
+      "reading": "aru-JAN",
+      "term": "argent"
+    },
+    {
+      "entryID": "jpfr-basic-025",
+      "meaning": "本",
+      "reading": "RIVU",
+      "term": "livre"
+    },
+    {
+      "entryID": "jpfr-basic-026",
+      "meaning": "鞄・袋",
+      "reading": "SAKU",
+      "term": "sac"
+    },
+    {
+      "entryID": "jpfr-basic-027",
+      "meaning": "電話",
+      "reading": "te-re-FON",
+      "term": "téléphone"
+    },
+    {
+      "entryID": "jpfr-basic-028",
+      "meaning": "コーヒー",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "jpfr-basic-029",
+      "meaning": "お茶",
+      "reading": "TE",
+      "term": "thé"
+    },
+    {
+      "entryID": "jpfr-basic-030",
+      "meaning": "自動車",
+      "reading": "vwa-TURU",
+      "term": "voiture"
+    },
+    {
+      "entryID": "jpfr-basic-031",
+      "meaning": "列車",
+      "reading": "TORAN",
+      "term": "train"
+    },
+    {
+      "entryID": "jpfr-basic-032",
+      "meaning": "道・通り",
+      "reading": "RU",
+      "term": "rue"
+    },
+    {
+      "entryID": "jpfr-basic-033",
+      "meaning": "市場",
+      "reading": "maru-SHE",
+      "term": "marché"
+    },
+    {
+      "entryID": "jpfr-basic-034",
+      "meaning": "大きい",
+      "reading": "GORAN",
+      "term": "grand"
+    },
+    {
+      "entryID": "jpfr-basic-035",
+      "meaning": "小さい",
+      "reading": "pu-TEE",
+      "term": "petit"
+    },
+    {
+      "entryID": "jpfr-basic-036",
+      "meaning": "良い",
+      "reading": "BON",
+      "term": "bon"
+    },
+    {
+      "entryID": "jpfr-basic-037",
+      "meaning": "悪い",
+      "reading": "mo-VE",
+      "term": "mauvais"
+    },
+    {
+      "entryID": "jpfr-basic-038",
+      "meaning": "多い・とても",
+      "reading": "bo-KU",
+      "term": "beaucoup"
+    },
+    {
+      "entryID": "jpfr-basic-039",
+      "meaning": "少ない",
+      "reading": "PU",
+      "term": "peu"
+    },
+    {
+      "entryID": "jpfr-basic-040",
+      "meaning": "きれいだ",
+      "reading": "BO",
+      "term": "beau"
+    },
+    {
+      "entryID": "jpfr-basic-041",
+      "meaning": "嬉しい",
+      "reading": "kon-TAN",
+      "term": "content"
+    },
+    {
+      "entryID": "jpfr-basic-042",
+      "meaning": "食べる",
+      "reading": "man-ZHE",
+      "term": "manger"
+    },
+    {
+      "entryID": "jpfr-basic-043",
+      "meaning": "飲む",
+      "reading": "BWARU",
+      "term": "boire"
+    },
+    {
+      "entryID": "jpfr-basic-044",
+      "meaning": "行く",
+      "reading": "a-RE",
+      "term": "aller"
+    },
+    {
+      "entryID": "jpfr-basic-045",
+      "meaning": "来る",
+      "reading": "vu-NIRU",
+      "term": "venir"
+    },
+    {
+      "entryID": "jpfr-basic-046",
+      "meaning": "話す",
+      "reading": "paru-RE",
+      "term": "parler"
+    },
+    {
+      "entryID": "jpfr-basic-047",
+      "meaning": "学ぶ",
+      "reading": "a-PRANDoru",
+      "term": "apprendre"
+    },
+    {
+      "entryID": "jpfr-basic-048",
+      "meaning": "愛",
+      "reading": "a-MURU",
+      "term": "amour"
+    },
+    {
+      "entryID": "jpfr-basic-049",
+      "meaning": "1",
+      "reading": "UN",
+      "term": "un"
+    },
+    {
+      "entryID": "jpfr-basic-050",
+      "meaning": "何",
+      "reading": "KWA",
+      "term": "quoi"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "french",
+    "description": "日语母语用户向けのフランス語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term はフランス語語形、reading は自拟近似音節表記、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+    "language": "fr",
+    "level": "beginner",
+    "tags": [
+      "french",
+      "beginner",
+      "japanese"
+    ],
+    "title": "フランス語入門基礎語彙"
+  },
+  "packID": "com.dai1012.jp.fr.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

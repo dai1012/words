@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "enja-basic-001",
+      "meaning": "hello",
+      "reading": "konnichiwa",
+      "term": "こんにちは"
+    },
+    {
+      "entryID": "enja-basic-002",
+      "meaning": "thank you",
+      "reading": "arigatou",
+      "term": "ありがとう"
+    },
+    {
+      "entryID": "enja-basic-003",
+      "meaning": "sorry",
+      "reading": "gomennasai",
+      "term": "ごめんなさい"
+    },
+    {
+      "entryID": "enja-basic-004",
+      "meaning": "yes",
+      "reading": "hai",
+      "term": "はい"
+    },
+    {
+      "entryID": "enja-basic-005",
+      "meaning": "no",
+      "reading": "iie",
+      "term": "いいえ"
+    },
+    {
+      "entryID": "enja-basic-006",
+      "meaning": "goodbye",
+      "reading": "sayounara",
+      "term": "さようなら"
+    },
+    {
+      "entryID": "enja-basic-007",
+      "meaning": "water",
+      "reading": "mizu",
+      "term": "水"
+    },
+    {
+      "entryID": "enja-basic-008",
+      "meaning": "rice; meal",
+      "reading": "gohan",
+      "term": "ご飯"
+    },
+    {
+      "entryID": "enja-basic-009",
+      "meaning": "house; home",
+      "reading": "ie",
+      "term": "家"
+    },
+    {
+      "entryID": "enja-basic-010",
+      "meaning": "school",
+      "reading": "gakkou",
+      "term": "学校"
+    },
+    {
+      "entryID": "enja-basic-011",
+      "meaning": "friend",
+      "reading": "tomodachi",
+      "term": "友達"
+    },
+    {
+      "entryID": "enja-basic-012",
+      "meaning": "name",
+      "reading": "namae",
+      "term": "名前"
+    },
+    {
+      "entryID": "enja-basic-013",
+      "meaning": "China",
+      "reading": "chuugoku",
+      "term": "中国"
+    },
+    {
+      "entryID": "enja-basic-014",
+      "meaning": "today",
+      "reading": "kyou",
+      "term": "今日"
+    },
+    {
+      "entryID": "enja-basic-015",
+      "meaning": "tomorrow",
+      "reading": "ashita",
+      "term": "明日"
+    },
+    {
+      "entryID": "enja-basic-016",
+      "meaning": "now",
+      "reading": "ima",
+      "term": "今"
+    },
+    {
+      "entryID": "enja-basic-017",
+      "meaning": "time; hour",
+      "reading": "jikan",
+      "term": "時間"
+    },
+    {
+      "entryID": "enja-basic-018",
+      "meaning": "person",
+      "reading": "hito",
+      "term": "人"
+    },
+    {
+      "entryID": "enja-basic-019",
+      "meaning": "man; male",
+      "reading": "dansei",
+      "term": "男性"
+    },
+    {
+      "entryID": "enja-basic-020",
+      "meaning": "woman; female",
+      "reading": "josei",
+      "term": "女性"
+    },
+    {
+      "entryID": "enja-basic-021",
+      "meaning": "mother",
+      "reading": "okaasan",
+      "term": "お母さん"
+    },
+    {
+      "entryID": "enja-basic-022",
+      "meaning": "father",
+      "reading": "otousan",
+      "term": "お父さん"
+    },
+    {
+      "entryID": "enja-basic-023",
+      "meaning": "family",
+      "reading": "kazoku",
+      "term": "家族"
+    },
+    {
+      "entryID": "enja-basic-024",
+      "meaning": "money",
+      "reading": "okane",
+      "term": "お金"
+    },
+    {
+      "entryID": "enja-basic-025",
+      "meaning": "book",
+      "reading": "hon",
+      "term": "本"
+    },
+    {
+      "entryID": "enja-basic-026",
+      "meaning": "bag",
+      "reading": "kaban",
+      "term": "鞄"
+    },
+    {
+      "entryID": "enja-basic-027",
+      "meaning": "phone",
+      "reading": "denwa",
+      "term": "電話"
+    },
+    {
+      "entryID": "enja-basic-028",
+      "meaning": "coffee",
+      "reading": "koohii",
+      "term": "コーヒー"
+    },
+    {
+      "entryID": "enja-basic-029",
+      "meaning": "tea",
+      "reading": "ocha",
+      "term": "お茶"
+    },
+    {
+      "entryID": "enja-basic-030",
+      "meaning": "car",
+      "reading": "kuruma",
+      "term": "車"
+    },
+    {
+      "entryID": "enja-basic-031",
+      "meaning": "train",
+      "reading": "densha",
+      "term": "電車"
+    },
+    {
+      "entryID": "enja-basic-032",
+      "meaning": "road; street",
+      "reading": "michi",
+      "term": "道"
+    },
+    {
+      "entryID": "enja-basic-033",
+      "meaning": "market",
+      "reading": "ichiba",
+      "term": "市場"
+    },
+    {
+      "entryID": "enja-basic-034",
+      "meaning": "big",
+      "reading": "ookii",
+      "term": "大きい"
+    },
+    {
+      "entryID": "enja-basic-035",
+      "meaning": "small",
+      "reading": "chiisai",
+      "term": "小さい"
+    },
+    {
+      "entryID": "enja-basic-036",
+      "meaning": "good",
+      "reading": "ii",
+      "term": "いい"
+    },
+    {
+      "entryID": "enja-basic-037",
+      "meaning": "bad",
+      "reading": "warui",
+      "term": "悪い"
+    },
+    {
+      "entryID": "enja-basic-038",
+      "meaning": "many; numerous",
+      "reading": "ooi",
+      "term": "多い"
+    },
+    {
+      "entryID": "enja-basic-039",
+      "meaning": "few; little",
+      "reading": "sukunai",
+      "term": "少ない"
+    },
+    {
+      "entryID": "enja-basic-040",
+      "meaning": "pretty; clean",
+      "reading": "kirei",
+      "term": "きれい"
+    },
+    {
+      "entryID": "enja-basic-041",
+      "meaning": "happy; glad",
+      "reading": "ureshii",
+      "term": "嬉しい"
+    },
+    {
+      "entryID": "enja-basic-042",
+      "meaning": "eat",
+      "reading": "taberu",
+      "term": "食べる"
+    },
+    {
+      "entryID": "enja-basic-043",
+      "meaning": "drink",
+      "reading": "nomu",
+      "term": "飲む"
+    },
+    {
+      "entryID": "enja-basic-044",
+      "meaning": "go",
+      "reading": "iku",
+      "term": "行く"
+    },
+    {
+      "entryID": "enja-basic-045",
+      "meaning": "come",
+      "reading": "kuru",
+      "term": "来る"
+    },
+    {
+      "entryID": "enja-basic-046",
+      "meaning": "speak; talk",
+      "reading": "hanasu",
+      "term": "話す"
+    },
+    {
+      "entryID": "enja-basic-047",
+      "meaning": "study; learn",
+      "reading": "manabu",
+      "term": "学ぶ"
+    },
+    {
+      "entryID": "enja-basic-048",
+      "meaning": "love",
+      "reading": "ai",
+      "term": "愛"
+    },
+    {
+      "entryID": "enja-basic-049",
+      "meaning": "one",
+      "reading": "ichi",
+      "term": "一"
+    },
+    {
+      "entryID": "enja-basic-050",
+      "meaning": "what",
+      "reading": "nani",
+      "term": "何"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "japanese",
+    "description": "Starter pack for English speakers learning Japanese (first 50 words). Originally authored by this project: term is the standard Japanese word form, reading gives the kana pronunciation, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "japanese",
+      "beginner",
+      "english"
+    ],
+    "title": "Japanese Starter Basics"
+  },
+  "packID": "com.dai1012.en.ja.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

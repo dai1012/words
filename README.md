@@ -998,9 +998,11 @@ chore: regenerate word pack catalog [skip ci]
 ## 当前状态
 
 - CN 市场已建成上线（19 个语言方向）；
-- JP、EN 尚未建设。未来将复用同一套
-  source → build_catalog.py → packs/catalog → validate_release.py →
-  GitHub Actions 流程，不需要新增工具链。
+- JP 市场已建成（日英、日中、日韓、日西、日仏 5 个方向）；
+- EN 市场已建成（Japanese、Chinese、Korean、Spanish、French、German
+  6 个方向）；
+- 三个市场复用同一套 source → build_catalog.py → packs/catalog →
+  validate_release.py → GitHub Actions 流程，不需要新增工具链。
 
 ## 目录命名约定
 

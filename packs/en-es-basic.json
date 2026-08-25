@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "enes-basic-001",
+      "meaning": "hello",
+      "reading": "O-la",
+      "term": "hola"
+    },
+    {
+      "entryID": "enes-basic-002",
+      "meaning": "thank you",
+      "reading": "GRA-syas",
+      "term": "gracias"
+    },
+    {
+      "entryID": "enes-basic-003",
+      "meaning": "sorry; excuse me",
+      "reading": "pur-DON",
+      "term": "perdón"
+    },
+    {
+      "entryID": "enes-basic-004",
+      "meaning": "yes",
+      "reading": "si",
+      "term": "sí"
+    },
+    {
+      "entryID": "enes-basic-005",
+      "meaning": "no; not",
+      "reading": "no",
+      "term": "no"
+    },
+    {
+      "entryID": "enes-basic-006",
+      "meaning": "goodbye",
+      "reading": "a-DYOS",
+      "term": "adiós"
+    },
+    {
+      "entryID": "enes-basic-007",
+      "meaning": "water",
+      "reading": "A-gua",
+      "term": "agua"
+    },
+    {
+      "entryID": "enes-basic-008",
+      "meaning": "bread",
+      "reading": "pan",
+      "term": "pan"
+    },
+    {
+      "entryID": "enes-basic-009",
+      "meaning": "house; home",
+      "reading": "KA-sa",
+      "term": "casa"
+    },
+    {
+      "entryID": "enes-basic-010",
+      "meaning": "school",
+      "reading": "es-KUE-la",
+      "term": "escuela"
+    },
+    {
+      "entryID": "enes-basic-011",
+      "meaning": "friend",
+      "reading": "a-MI-go",
+      "term": "amigo"
+    },
+    {
+      "entryID": "enes-basic-012",
+      "meaning": "name",
+      "reading": "NOM-bure",
+      "term": "nombre"
+    },
+    {
+      "entryID": "enes-basic-013",
+      "meaning": "China",
+      "reading": "CHI-na",
+      "term": "China"
+    },
+    {
+      "entryID": "enes-basic-014",
+      "meaning": "today",
+      "reading": "oi",
+      "term": "hoy"
+    },
+    {
+      "entryID": "enes-basic-015",
+      "meaning": "tomorrow; morning",
+      "reading": "ma-NYA-na",
+      "term": "mañana"
+    },
+    {
+      "entryID": "enes-basic-016",
+      "meaning": "now",
+      "reading": "a-O-ra",
+      "term": "ahora"
+    },
+    {
+      "entryID": "enes-basic-017",
+      "meaning": "time; weather",
+      "reading": "TYEM-po",
+      "term": "tiempo"
+    },
+    {
+      "entryID": "enes-basic-018",
+      "meaning": "person",
+      "reading": "pur-SO-na",
+      "term": "persona"
+    },
+    {
+      "entryID": "enes-basic-019",
+      "meaning": "man",
+      "reading": "OM-bure",
+      "term": "hombre"
+    },
+    {
+      "entryID": "enes-basic-020",
+      "meaning": "woman; wife",
+      "reading": "mu-HER",
+      "term": "mujer"
+    },
+    {
+      "entryID": "enes-basic-021",
+      "meaning": "mom; mother",
+      "reading": "ma-MA",
+      "term": "mamá"
+    },
+    {
+      "entryID": "enes-basic-022",
+      "meaning": "dad; father",
+      "reading": "pa-PA",
+      "term": "papá"
+    },
+    {
+      "entryID": "enes-basic-023",
+      "meaning": "family",
+      "reading": "fa-MI-lya",
+      "term": "familia"
+    },
+    {
+      "entryID": "enes-basic-024",
+      "meaning": "money",
+      "reading": "di-NE-ro",
+      "term": "dinero"
+    },
+    {
+      "entryID": "enes-basic-025",
+      "meaning": "book",
+      "reading": "LI-buro",
+      "term": "libro"
+    },
+    {
+      "entryID": "enes-basic-026",
+      "meaning": "bag",
+      "reading": "BOL-sa",
+      "term": "bolsa"
+    },
+    {
+      "entryID": "enes-basic-027",
+      "meaning": "phone",
+      "reading": "te-re-FO-no",
+      "term": "teléfono"
+    },
+    {
+      "entryID": "enes-basic-028",
+      "meaning": "coffee",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "enes-basic-029",
+      "meaning": "tea",
+      "reading": "te",
+      "term": "té"
+    },
+    {
+      "entryID": "enes-basic-030",
+      "meaning": "car",
+      "reading": "KO-che",
+      "term": "coche"
+    },
+    {
+      "entryID": "enes-basic-031",
+      "meaning": "train",
+      "reading": "tren",
+      "term": "tren"
+    },
+    {
+      "entryID": "enes-basic-032",
+      "meaning": "street",
+      "reading": "KA-lye",
+      "term": "calle"
+    },
+    {
+      "entryID": "enes-basic-033",
+      "meaning": "market",
+      "reading": "mer-KA-do",
+      "term": "mercado"
+    },
+    {
+      "entryID": "enes-basic-034",
+      "meaning": "big",
+      "reading": "GRAN-de",
+      "term": "grande"
+    },
+    {
+      "entryID": "enes-basic-035",
+      "meaning": "small",
+      "reading": "pe-KE-nyo",
+      "term": "pequeño"
+    },
+    {
+      "entryID": "enes-basic-036",
+      "meaning": "good",
+      "reading": "BUE-no",
+      "term": "bueno"
+    },
+    {
+      "entryID": "enes-basic-037",
+      "meaning": "bad",
+      "reading": "MA-lo",
+      "term": "malo"
+    },
+    {
+      "entryID": "enes-basic-038",
+      "meaning": "much; a lot",
+      "reading": "MOO-cho",
+      "term": "mucho"
+    },
+    {
+      "entryID": "enes-basic-039",
+      "meaning": "few; little",
+      "reading": "PO-ko",
+      "term": "poco"
+    },
+    {
+      "entryID": "enes-basic-040",
+      "meaning": "pretty",
+      "reading": "bo-NEE-to",
+      "term": "bonito"
+    },
+    {
+      "entryID": "enes-basic-041",
+      "meaning": "happy",
+      "reading": "fe-LIS",
+      "term": "feliz"
+    },
+    {
+      "entryID": "enes-basic-042",
+      "meaning": "eat",
+      "reading": "ko-MER",
+      "term": "comer"
+    },
+    {
+      "entryID": "enes-basic-043",
+      "meaning": "drink",
+      "reading": "be-BER",
+      "term": "beber"
+    },
+    {
+      "entryID": "enes-basic-044",
+      "meaning": "go",
+      "reading": "ir",
+      "term": "ir"
+    },
+    {
+      "entryID": "enes-basic-045",
+      "meaning": "come",
+      "reading": "ve-NIR",
+      "term": "venir"
+    },
+    {
+      "entryID": "enes-basic-046",
+      "meaning": "speak; talk",
+      "reading": "ab-LAR",
+      "term": "hablar"
+    },
+    {
+      "entryID": "enes-basic-047",
+      "meaning": "learn",
+      "reading": "ap-ren-DER",
+      "term": "aprender"
+    },
+    {
+      "entryID": "enes-basic-048",
+      "meaning": "love",
+      "reading": "a-MOR",
+      "term": "amor"
+    },
+    {
+      "entryID": "enes-basic-049",
+      "meaning": "one",
+      "reading": "U-no",
+      "term": "uno"
+    },
+    {
+      "entryID": "enes-basic-050",
+      "meaning": "what",
+      "reading": "ke",
+      "term": "qué"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "spanish",
+    "description": "Starter pack for English speakers learning Spanish (first 50 words, Latin American baseline). Originally authored by this project: term is the Spanish word form, reading is a self-devised syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+    "language": "es",
+    "level": "beginner",
+    "tags": [
+      "spanish",
+      "beginner",
+      "english"
+    ],
+    "title": "Spanish Starter Basics"
+  },
+  "packID": "com.dai1012.en.es.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

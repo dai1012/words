@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "enfr-basic-001",
+      "meaning": "hello; good morning",
+      "reading": "bon-ZHOOR",
+      "term": "bonjour"
+    },
+    {
+      "entryID": "enfr-basic-002",
+      "meaning": "thank you",
+      "reading": "mer-SI",
+      "term": "merci"
+    },
+    {
+      "entryID": "enfr-basic-003",
+      "meaning": "sorry; excuse me",
+      "reading": "par-DON",
+      "term": "pardon"
+    },
+    {
+      "entryID": "enfr-basic-004",
+      "meaning": "yes",
+      "reading": "oui",
+      "term": "oui"
+    },
+    {
+      "entryID": "enfr-basic-005",
+      "meaning": "no",
+      "reading": "non",
+      "term": "non"
+    },
+    {
+      "entryID": "enfr-basic-006",
+      "meaning": "goodbye",
+      "reading": "o-re-VWAR",
+      "term": "au revoir"
+    },
+    {
+      "entryID": "enfr-basic-007",
+      "meaning": "water",
+      "reading": "O",
+      "term": "eau"
+    },
+    {
+      "entryID": "enfr-basic-008",
+      "meaning": "bread",
+      "reading": "PAN",
+      "term": "pain"
+    },
+    {
+      "entryID": "enfr-basic-009",
+      "meaning": "house; home",
+      "reading": "mai-ZON",
+      "term": "maison"
+    },
+    {
+      "entryID": "enfr-basic-010",
+      "meaning": "school",
+      "reading": "e-KOL",
+      "term": "école"
+    },
+    {
+      "entryID": "enfr-basic-011",
+      "meaning": "friend",
+      "reading": "a-MI",
+      "term": "ami"
+    },
+    {
+      "entryID": "enfr-basic-012",
+      "meaning": "name",
+      "reading": "NON",
+      "term": "nom"
+    },
+    {
+      "entryID": "enfr-basic-013",
+      "meaning": "China",
+      "reading": "SHIN",
+      "term": "Chine"
+    },
+    {
+      "entryID": "enfr-basic-014",
+      "meaning": "today",
+      "reading": "o-zhur-DWEE",
+      "term": "aujourd'hui"
+    },
+    {
+      "entryID": "enfr-basic-015",
+      "meaning": "tomorrow",
+      "reading": "du-MAN",
+      "term": "demain"
+    },
+    {
+      "entryID": "enfr-basic-016",
+      "meaning": "now",
+      "reading": "MAN-te-NAN",
+      "term": "maintenant"
+    },
+    {
+      "entryID": "enfr-basic-017",
+      "meaning": "hour; time",
+      "reading": "UR",
+      "term": "heure"
+    },
+    {
+      "entryID": "enfr-basic-018",
+      "meaning": "person",
+      "reading": "per-SON",
+      "term": "personne"
+    },
+    {
+      "entryID": "enfr-basic-019",
+      "meaning": "man",
+      "reading": "OM",
+      "term": "homme"
+    },
+    {
+      "entryID": "enfr-basic-020",
+      "meaning": "woman; wife",
+      "reading": "FAM",
+      "term": "femme"
+    },
+    {
+      "entryID": "enfr-basic-021",
+      "meaning": "mom; mother",
+      "reading": "ma-MAN",
+      "term": "maman"
+    },
+    {
+      "entryID": "enfr-basic-022",
+      "meaning": "dad; father",
+      "reading": "pa-PA",
+      "term": "papa"
+    },
+    {
+      "entryID": "enfr-basic-023",
+      "meaning": "family",
+      "reading": "fa-MIY",
+      "term": "famille"
+    },
+    {
+      "entryID": "enfr-basic-024",
+      "meaning": "money",
+      "reading": "ar-JHAN",
+      "term": "argent"
+    },
+    {
+      "entryID": "enfr-basic-025",
+      "meaning": "book",
+      "reading": "LEEVR",
+      "term": "livre"
+    },
+    {
+      "entryID": "enfr-basic-026",
+      "meaning": "bag",
+      "reading": "SAK",
+      "term": "sac"
+    },
+    {
+      "entryID": "enfr-basic-027",
+      "meaning": "phone",
+      "reading": "te-le-FON",
+      "term": "téléphone"
+    },
+    {
+      "entryID": "enfr-basic-028",
+      "meaning": "coffee",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "enfr-basic-029",
+      "meaning": "tea",
+      "reading": "TE",
+      "term": "thé"
+    },
+    {
+      "entryID": "enfr-basic-030",
+      "meaning": "car",
+      "reading": "vwa-TUR",
+      "term": "voiture"
+    },
+    {
+      "entryID": "enfr-basic-031",
+      "meaning": "train",
+      "reading": "TRAN",
+      "term": "train"
+    },
+    {
+      "entryID": "enfr-basic-032",
+      "meaning": "street",
+      "reading": "RU",
+      "term": "rue"
+    },
+    {
+      "entryID": "enfr-basic-033",
+      "meaning": "market",
+      "reading": "mar-SHE",
+      "term": "marché"
+    },
+    {
+      "entryID": "enfr-basic-034",
+      "meaning": "big; tall",
+      "reading": "GRAN",
+      "term": "grand"
+    },
+    {
+      "entryID": "enfr-basic-035",
+      "meaning": "small",
+      "reading": "pe-TEE",
+      "term": "petit"
+    },
+    {
+      "entryID": "enfr-basic-036",
+      "meaning": "good",
+      "reading": "BON",
+      "term": "bon"
+    },
+    {
+      "entryID": "enfr-basic-037",
+      "meaning": "bad",
+      "reading": "mo-VE",
+      "term": "mauvais"
+    },
+    {
+      "entryID": "enfr-basic-038",
+      "meaning": "much; a lot",
+      "reading": "bo-KOO",
+      "term": "beaucoup"
+    },
+    {
+      "entryID": "enfr-basic-039",
+      "meaning": "few; little",
+      "reading": "PU",
+      "term": "peu"
+    },
+    {
+      "entryID": "enfr-basic-040",
+      "meaning": "beautiful",
+      "reading": "BO",
+      "term": "beau"
+    },
+    {
+      "entryID": "enfr-basic-041",
+      "meaning": "happy; pleased",
+      "reading": "kon-TAN",
+      "term": "content"
+    },
+    {
+      "entryID": "enfr-basic-042",
+      "meaning": "eat",
+      "reading": "man-JHE",
+      "term": "manger"
+    },
+    {
+      "entryID": "enfr-basic-043",
+      "meaning": "drink",
+      "reading": "BWAr",
+      "term": "boire"
+    },
+    {
+      "entryID": "enfr-basic-044",
+      "meaning": "go",
+      "reading": "a-LE",
+      "term": "aller"
+    },
+    {
+      "entryID": "enfr-basic-045",
+      "meaning": "come",
+      "reading": "ve-NIR",
+      "term": "venir"
+    },
+    {
+      "entryID": "enfr-basic-046",
+      "meaning": "speak; talk",
+      "reading": "par-LE",
+      "term": "parler"
+    },
+    {
+      "entryID": "enfr-basic-047",
+      "meaning": "learn",
+      "reading": "a-PRANDR",
+      "term": "apprendre"
+    },
+    {
+      "entryID": "enfr-basic-048",
+      "meaning": "love",
+      "reading": "a-MOOR",
+      "term": "amour"
+    },
+    {
+      "entryID": "enfr-basic-049",
+      "meaning": "one",
+      "reading": "UN",
+      "term": "un"
+    },
+    {
+      "entryID": "enfr-basic-050",
+      "meaning": "what",
+      "reading": "KWA",
+      "term": "quoi"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "french",
+    "description": "Starter pack for English speakers learning French (first 50 words). Originally authored by this project: term is the French word form, reading is a self-devised approximate syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+    "language": "fr",
+    "level": "beginner",
+    "tags": [
+      "french",
+      "beginner",
+      "english"
+    ],
+    "title": "French Starter Basics"
+  },
+  "packID": "com.dai1012.en.fr.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

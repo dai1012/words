@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "jpen-basic-001",
+      "meaning": "こんにちは",
+      "reading": "ハロー",
+      "term": "hello"
+    },
+    {
+      "entryID": "jpen-basic-002",
+      "meaning": "ありがとう",
+      "reading": "サンキュー",
+      "term": "thank you"
+    },
+    {
+      "entryID": "jpen-basic-003",
+      "meaning": "ごめんなさい",
+      "reading": "ソーリー",
+      "term": "sorry"
+    },
+    {
+      "entryID": "jpen-basic-004",
+      "meaning": "はい",
+      "reading": "イエス",
+      "term": "yes"
+    },
+    {
+      "entryID": "jpen-basic-005",
+      "meaning": "いいえ",
+      "reading": "ノー",
+      "term": "no"
+    },
+    {
+      "entryID": "jpen-basic-006",
+      "meaning": "さようなら",
+      "reading": "グッバイ",
+      "term": "goodbye"
+    },
+    {
+      "entryID": "jpen-basic-007",
+      "meaning": "水",
+      "reading": "ウォーター",
+      "term": "water"
+    },
+    {
+      "entryID": "jpen-basic-008",
+      "meaning": "パン",
+      "reading": "ブレッド",
+      "term": "bread"
+    },
+    {
+      "entryID": "jpen-basic-009",
+      "meaning": "家",
+      "reading": "ホーム",
+      "term": "home"
+    },
+    {
+      "entryID": "jpen-basic-010",
+      "meaning": "学校",
+      "reading": "スクール",
+      "term": "school"
+    },
+    {
+      "entryID": "jpen-basic-011",
+      "meaning": "友達",
+      "reading": "フレンド",
+      "term": "friend"
+    },
+    {
+      "entryID": "jpen-basic-012",
+      "meaning": "名前",
+      "reading": "ネーム",
+      "term": "name"
+    },
+    {
+      "entryID": "jpen-basic-013",
+      "meaning": "中国",
+      "reading": "チャイナ",
+      "term": "China"
+    },
+    {
+      "entryID": "jpen-basic-014",
+      "meaning": "今日",
+      "reading": "トゥデイ",
+      "term": "today"
+    },
+    {
+      "entryID": "jpen-basic-015",
+      "meaning": "明日",
+      "reading": "トゥモロー",
+      "term": "tomorrow"
+    },
+    {
+      "entryID": "jpen-basic-016",
+      "meaning": "今",
+      "reading": "ナウ",
+      "term": "now"
+    },
+    {
+      "entryID": "jpen-basic-017",
+      "meaning": "時間",
+      "reading": "タイム",
+      "term": "time"
+    },
+    {
+      "entryID": "jpen-basic-018",
+      "meaning": "人",
+      "reading": "パーソン",
+      "term": "person"
+    },
+    {
+      "entryID": "jpen-basic-019",
+      "meaning": "男性",
+      "reading": "マン",
+      "term": "man"
+    },
+    {
+      "entryID": "jpen-basic-020",
+      "meaning": "女性",
+      "reading": "ウーマン",
+      "term": "woman"
+    },
+    {
+      "entryID": "jpen-basic-021",
+      "meaning": "母",
+      "reading": "マザー",
+      "term": "mother"
+    },
+    {
+      "entryID": "jpen-basic-022",
+      "meaning": "父",
+      "reading": "ファーザー",
+      "term": "father"
+    },
+    {
+      "entryID": "jpen-basic-023",
+      "meaning": "家族",
+      "reading": "ファミリー",
+      "term": "family"
+    },
+    {
+      "entryID": "jpen-basic-024",
+      "meaning": "お金",
+      "reading": "マネー",
+      "term": "money"
+    },
+    {
+      "entryID": "jpen-basic-025",
+      "meaning": "本",
+      "reading": "ブック",
+      "term": "book"
+    },
+    {
+      "entryID": "jpen-basic-026",
+      "meaning": "鞄",
+      "reading": "バッグ",
+      "term": "bag"
+    },
+    {
+      "entryID": "jpen-basic-027",
+      "meaning": "電話",
+      "reading": "フォン",
+      "term": "phone"
+    },
+    {
+      "entryID": "jpen-basic-028",
+      "meaning": "牛乳",
+      "reading": "ミルク",
+      "term": "milk"
+    },
+    {
+      "entryID": "jpen-basic-029",
+      "meaning": "お茶",
+      "reading": "ティー",
+      "term": "tea"
+    },
+    {
+      "entryID": "jpen-basic-030",
+      "meaning": "車",
+      "reading": "カー",
+      "term": "car"
+    },
+    {
+      "entryID": "jpen-basic-031",
+      "meaning": "電車・列車",
+      "reading": "トレイン",
+      "term": "train"
+    },
+    {
+      "entryID": "jpen-basic-032",
+      "meaning": "道・通り",
+      "reading": "ストリート",
+      "term": "street"
+    },
+    {
+      "entryID": "jpen-basic-033",
+      "meaning": "市場",
+      "reading": "マーケット",
+      "term": "market"
+    },
+    {
+      "entryID": "jpen-basic-034",
+      "meaning": "大きい",
+      "reading": "ビッグ",
+      "term": "big"
+    },
+    {
+      "entryID": "jpen-basic-035",
+      "meaning": "小さい",
+      "reading": "スモール",
+      "term": "small"
+    },
+    {
+      "entryID": "jpen-basic-036",
+      "meaning": "良い",
+      "reading": "グッド",
+      "term": "good"
+    },
+    {
+      "entryID": "jpen-basic-037",
+      "meaning": "悪い",
+      "reading": "バッド",
+      "term": "bad"
+    },
+    {
+      "entryID": "jpen-basic-038",
+      "meaning": "多い",
+      "reading": "メニー",
+      "term": "many"
+    },
+    {
+      "entryID": "jpen-basic-039",
+      "meaning": "少ない",
+      "reading": "フュー",
+      "term": "few"
+    },
+    {
+      "entryID": "jpen-basic-040",
+      "meaning": "美しい",
+      "reading": "ビューティフル",
+      "term": "beautiful"
+    },
+    {
+      "entryID": "jpen-basic-041",
+      "meaning": "幸せな",
+      "reading": "ハッピー",
+      "term": "happy"
+    },
+    {
+      "entryID": "jpen-basic-042",
+      "meaning": "食べる",
+      "reading": "イート",
+      "term": "eat"
+    },
+    {
+      "entryID": "jpen-basic-043",
+      "meaning": "飲む",
+      "reading": "ドリンク",
+      "term": "drink"
+    },
+    {
+      "entryID": "jpen-basic-044",
+      "meaning": "行く",
+      "reading": "ゴー",
+      "term": "go"
+    },
+    {
+      "entryID": "jpen-basic-045",
+      "meaning": "来る",
+      "reading": "カム",
+      "term": "come"
+    },
+    {
+      "entryID": "jpen-basic-046",
+      "meaning": "話す",
+      "reading": "スピーク",
+      "term": "speak"
+    },
+    {
+      "entryID": "jpen-basic-047",
+      "meaning": "学ぶ",
+      "reading": "ラーン",
+      "term": "learn"
+    },
+    {
+      "entryID": "jpen-basic-048",
+      "meaning": "愛",
+      "reading": "ラブ",
+      "term": "love"
+    },
+    {
+      "entryID": "jpen-basic-049",
+      "meaning": "1",
+      "reading": "ワン",
+      "term": "one"
+    },
+    {
+      "entryID": "jpen-basic-050",
+      "meaning": "何",
+      "reading": "ワット",
+      "term": "what"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "english",
+    "description": "日语母语用户向けの英語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term は英語、reading はカタカナ近似発音、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+    "language": "en",
+    "level": "beginner",
+    "tags": [
+      "english",
+      "beginner",
+      "japanese"
+    ],
+    "title": "英語入門基礎語彙"
+  },
+  "packID": "com.dai1012.jp.en.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 16,
-  "generatedAt": "2026-08-24T16:18:19Z",
+  "catalogVersion": 18,
+  "generatedAt": "2026-08-25T00:31:15Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -467,6 +467,144 @@
       "title": "越南语入门基础词汇"
     },
     {
+      "classification": "german",
+      "description": "Starter pack for English speakers learning German (first 50 words). Originally authored by this project: term is the German word form, reading is a self-devised approximate syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "German-ドイツ語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6943,
+      "fileURL": "packs/en-de-basic.json",
+      "language": "de",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.de.basic",
+      "packVersion": 1,
+      "sha256": "d7d2d786bc84260c82135dfba5460a8647ecc62c88d0f91c73ae7f3ec6887d97",
+      "tags": [
+        "german",
+        "beginner",
+        "english"
+      ],
+      "title": "German Starter Basics"
+    },
+    {
+      "classification": "spanish",
+      "description": "Starter pack for English speakers learning Spanish (first 50 words, Latin American baseline). Originally authored by this project: term is the Spanish word form, reading is a self-devised syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "Spanish-スペイン語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6942,
+      "fileURL": "packs/en-es-basic.json",
+      "language": "es",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.es.basic",
+      "packVersion": 1,
+      "sha256": "6bb34e5218441870178a2803d4fadddced5f4074d8aaa7eccae5015aab792027",
+      "tags": [
+        "spanish",
+        "beginner",
+        "english"
+      ],
+      "title": "Spanish Starter Basics"
+    },
+    {
+      "classification": "french",
+      "description": "Starter pack for English speakers learning French (first 50 words). Originally authored by this project: term is the French word form, reading is a self-devised approximate syllable notation with the stressed syllable capitalized, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "French-フランス語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6907,
+      "fileURL": "packs/en-fr-basic.json",
+      "language": "fr",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.fr.basic",
+      "packVersion": 1,
+      "sha256": "5860587afc9e751022cf4646fad5ac1bc5b5acafc2971c5f72b7f1b41bfb751b",
+      "tags": [
+        "french",
+        "beginner",
+        "english"
+      ],
+      "title": "French Starter Basics"
+    },
+    {
+      "classification": "japanese",
+      "description": "Starter pack for English speakers learning Japanese (first 50 words). Originally authored by this project: term is the standard Japanese word form, reading gives the kana pronunciation, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "Japanese-日本語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6940,
+      "fileURL": "packs/en-ja-basic.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.ja.basic",
+      "packVersion": 1,
+      "sha256": "101cee23cd81e59245bd0d6a14b038ebab9b6c2f0d58a1db07a9b41a2b142cb6",
+      "tags": [
+        "japanese",
+        "beginner",
+        "english"
+      ],
+      "title": "Japanese Starter Basics"
+    },
+    {
+      "classification": "korean",
+      "description": "Starter pack for English speakers learning Korean (first 50 words). Originally authored by this project: term is the Hangul word form, reading uses the Revised Romanization of Korean, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "Korean-韓国語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6937,
+      "fileURL": "packs/en-ko-basic.json",
+      "language": "ko",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.ko.basic",
+      "packVersion": 1,
+      "sha256": "436fcc017fddb036590b51fa4f2fc5ae16e14f1022a7b98e92e120895a2999dd",
+      "tags": [
+        "korean",
+        "beginner",
+        "english"
+      ],
+      "title": "Korean Starter Basics"
+    },
+    {
+      "classification": "chinese",
+      "description": "Starter pack for English speakers learning Chinese (first 50 words, Simplified Mandarin). Originally authored by this project: term is the simplified Chinese word form, reading is Hanyu Pinyin with tone marks, meaning is a short English gloss. Contains no third-party dictionary database content. More topics will be added later.",
+      "directoryPath": [
+        "EN",
+        "Chinese-中国語"
+      ],
+      "entryCount": 50,
+      "fileSize": 6899,
+      "fileURL": "packs/en-zh-basic.json",
+      "language": "zh",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.en.zh.basic",
+      "packVersion": 1,
+      "sha256": "a72ec3d2ecf9f6f327a27b5956385431d9a93015c3cbf41a992aafaa81ae6504",
+      "tags": [
+        "chinese",
+        "beginner",
+        "english"
+      ],
+      "title": "Chinese Starter Basics"
+    },
+    {
       "classification": "ielts",
       "description": "IELTS 核心词汇（中英）。词条源自 skywind3000/ECDICT（MIT License），IELTS 标签词条，中文释义保留原数据；详见 https://github.com/skywind3000/ECDICT。",
       "directoryPath": [
@@ -614,6 +752,121 @@
         "chinese"
       ],
       "title": "JLPT N5 日语词汇"
+    },
+    {
+      "classification": "english",
+      "description": "日语母语用户向けの英語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term は英語、reading はカタカナ近似発音、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+      "directoryPath": [
+        "JP",
+        "日英-Japanese-English"
+      ],
+      "entryCount": 50,
+      "fileSize": 7116,
+      "fileURL": "packs/jp-en-basic.json",
+      "language": "en",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.en.basic",
+      "packVersion": 1,
+      "sha256": "e5b4f5fd82671d5284d9c443cc2b315c0feb32448d3211433055c0596705112c",
+      "tags": [
+        "english",
+        "beginner",
+        "japanese"
+      ],
+      "title": "英語入門基礎語彙"
+    },
+    {
+      "classification": "spanish",
+      "description": "日语母语用户向けのスペイン語入門スターターパック（全50語、ラテンアメリカ発音基準）。本プロジェクトによるオリジナル編集：term はスペイン語語形、reading は自拟近似音節表記、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+      "directoryPath": [
+        "JP",
+        "日西-Japanese-Spanish"
+      ],
+      "entryCount": 50,
+      "fileSize": 7050,
+      "fileURL": "packs/jp-es-basic.json",
+      "language": "es",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.es.basic",
+      "packVersion": 1,
+      "sha256": "6e1c0706417d0865ed08d1936767e535cb51745203a615fbe8b032db5709718c",
+      "tags": [
+        "spanish",
+        "beginner",
+        "japanese"
+      ],
+      "title": "スペイン語入門基礎語彙"
+    },
+    {
+      "classification": "french",
+      "description": "日语母语用户向けのフランス語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term はフランス語語形、reading は自拟近似音節表記、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+      "directoryPath": [
+        "JP",
+        "日仏-Japanese-French"
+      ],
+      "entryCount": 50,
+      "fileSize": 6982,
+      "fileURL": "packs/jp-fr-basic.json",
+      "language": "fr",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.fr.basic",
+      "packVersion": 1,
+      "sha256": "3f12c680e028d768f60f774ab6ebf24c80b8ee74c457482f3003dd216c3a1193",
+      "tags": [
+        "french",
+        "beginner",
+        "japanese"
+      ],
+      "title": "フランス語入門基礎語彙"
+    },
+    {
+      "classification": "korean",
+      "description": "日语母语用户向けの韓国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term はハングル語形、reading は国文のローマ字表記法(RR)転写、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+      "directoryPath": [
+        "JP",
+        "日韓-Japanese-Korean"
+      ],
+      "entryCount": 50,
+      "fileSize": 7093,
+      "fileURL": "packs/jp-ko-basic.json",
+      "language": "ko",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.ko.basic",
+      "packVersion": 1,
+      "sha256": "66e508ff6a959de8a03e318af75285831a405346881f1e9dd51a0ef25dcb9a10",
+      "tags": [
+        "korean",
+        "beginner",
+        "japanese"
+      ],
+      "title": "韓国語入門基礎語彙"
+    },
+    {
+      "classification": "chinese",
+      "description": "日语母语用户向けの中国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term は簡体字語形、reading は声調符号付きピンイン、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+      "directoryPath": [
+        "JP",
+        "日中-Japanese-Chinese"
+      ],
+      "entryCount": 50,
+      "fileSize": 7012,
+      "fileURL": "packs/jp-zh-basic.json",
+      "language": "zh",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.jp.zh.basic",
+      "packVersion": 1,
+      "sha256": "90d41efcc8409246aa9b1a1cb5226206e8346d226dccb776a1183152b733237a",
+      "tags": [
+        "chinese",
+        "beginner",
+        "japanese"
+      ],
+      "title": "中国語入門基礎語彙"
     },
     {
       "classification": "test",

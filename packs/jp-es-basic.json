@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "jpes-basic-001",
+      "meaning": "こんにちは",
+      "reading": "O-la",
+      "term": "hola"
+    },
+    {
+      "entryID": "jpes-basic-002",
+      "meaning": "ありがとう",
+      "reading": "GRA-syas",
+      "term": "gracias"
+    },
+    {
+      "entryID": "jpes-basic-003",
+      "meaning": "すみません",
+      "reading": "pur-DON",
+      "term": "perdón"
+    },
+    {
+      "entryID": "jpes-basic-004",
+      "meaning": "はい",
+      "reading": "si",
+      "term": "sí"
+    },
+    {
+      "entryID": "jpes-basic-005",
+      "meaning": "いいえ",
+      "reading": "no",
+      "term": "no"
+    },
+    {
+      "entryID": "jpes-basic-006",
+      "meaning": "さようなら",
+      "reading": "a-DYOS",
+      "term": "adiós"
+    },
+    {
+      "entryID": "jpes-basic-007",
+      "meaning": "水",
+      "reading": "A-gua",
+      "term": "agua"
+    },
+    {
+      "entryID": "jpes-basic-008",
+      "meaning": "パン",
+      "reading": "pan",
+      "term": "pan"
+    },
+    {
+      "entryID": "jpes-basic-009",
+      "meaning": "家",
+      "reading": "KA-sa",
+      "term": "casa"
+    },
+    {
+      "entryID": "jpes-basic-010",
+      "meaning": "学校",
+      "reading": "es-KUE-la",
+      "term": "escuela"
+    },
+    {
+      "entryID": "jpes-basic-011",
+      "meaning": "友達",
+      "reading": "a-MI-go",
+      "term": "amigo"
+    },
+    {
+      "entryID": "jpes-basic-012",
+      "meaning": "名前",
+      "reading": "NOM-bure",
+      "term": "nombre"
+    },
+    {
+      "entryID": "jpes-basic-013",
+      "meaning": "中国",
+      "reading": "CHI-na",
+      "term": "China"
+    },
+    {
+      "entryID": "jpes-basic-014",
+      "meaning": "今日",
+      "reading": "oi",
+      "term": "hoy"
+    },
+    {
+      "entryID": "jpes-basic-015",
+      "meaning": "明日・朝",
+      "reading": "ma-NYA-na",
+      "term": "mañana"
+    },
+    {
+      "entryID": "jpes-basic-016",
+      "meaning": "今",
+      "reading": "a-O-ra",
+      "term": "ahora"
+    },
+    {
+      "entryID": "jpes-basic-017",
+      "meaning": "時間・天気",
+      "reading": "TYEM-po",
+      "term": "tiempo"
+    },
+    {
+      "entryID": "jpes-basic-018",
+      "meaning": "人",
+      "reading": "pur-SO-na",
+      "term": "persona"
+    },
+    {
+      "entryID": "jpes-basic-019",
+      "meaning": "男性",
+      "reading": "OM-bure",
+      "term": "hombre"
+    },
+    {
+      "entryID": "jpes-basic-020",
+      "meaning": "女性・妻",
+      "reading": "mu-HER",
+      "term": "mujer"
+    },
+    {
+      "entryID": "jpes-basic-021",
+      "meaning": "お母さん",
+      "reading": "ma-MA",
+      "term": "mamá"
+    },
+    {
+      "entryID": "jpes-basic-022",
+      "meaning": "お父さん",
+      "reading": "pa-PA",
+      "term": "papá"
+    },
+    {
+      "entryID": "jpes-basic-023",
+      "meaning": "家族",
+      "reading": "fa-MI-lya",
+      "term": "familia"
+    },
+    {
+      "entryID": "jpes-basic-024",
+      "meaning": "お金",
+      "reading": "di-NE-ro",
+      "term": "dinero"
+    },
+    {
+      "entryID": "jpes-basic-025",
+      "meaning": "本",
+      "reading": "LI-buro",
+      "term": "libro"
+    },
+    {
+      "entryID": "jpes-basic-026",
+      "meaning": "鞄・袋",
+      "reading": "BOR-sa",
+      "term": "bolsa"
+    },
+    {
+      "entryID": "jpes-basic-027",
+      "meaning": "電話",
+      "reading": "te-re-FO-no",
+      "term": "teléfono"
+    },
+    {
+      "entryID": "jpes-basic-028",
+      "meaning": "コーヒー",
+      "reading": "ka-FE",
+      "term": "café"
+    },
+    {
+      "entryID": "jpes-basic-029",
+      "meaning": "お茶",
+      "reading": "te",
+      "term": "té"
+    },
+    {
+      "entryID": "jpes-basic-030",
+      "meaning": "自動車",
+      "reading": "KO-che",
+      "term": "coche"
+    },
+    {
+      "entryID": "jpes-basic-031",
+      "meaning": "列車",
+      "reading": "tren",
+      "term": "tren"
+    },
+    {
+      "entryID": "jpes-basic-032",
+      "meaning": "道・通り",
+      "reading": "KA-lye",
+      "term": "calle"
+    },
+    {
+      "entryID": "jpes-basic-033",
+      "meaning": "市場",
+      "reading": "mer-KA-do",
+      "term": "mercado"
+    },
+    {
+      "entryID": "jpes-basic-034",
+      "meaning": "大きい",
+      "reading": "GRAN-de",
+      "term": "grande"
+    },
+    {
+      "entryID": "jpes-basic-035",
+      "meaning": "小さい",
+      "reading": "pe-KE-nyo",
+      "term": "pequeño"
+    },
+    {
+      "entryID": "jpes-basic-036",
+      "meaning": "良い",
+      "reading": "BUE-no",
+      "term": "bueno"
+    },
+    {
+      "entryID": "jpes-basic-037",
+      "meaning": "悪い",
+      "reading": "MA-lo",
+      "term": "malo"
+    },
+    {
+      "entryID": "jpes-basic-038",
+      "meaning": "多い・とても",
+      "reading": "MOO-cho",
+      "term": "mucho"
+    },
+    {
+      "entryID": "jpes-basic-039",
+      "meaning": "少ない",
+      "reading": "PO-ko",
+      "term": "poco"
+    },
+    {
+      "entryID": "jpes-basic-040",
+      "meaning": "きれいだ",
+      "reading": "bo-NEE-to",
+      "term": "bonito"
+    },
+    {
+      "entryID": "jpes-basic-041",
+      "meaning": "幸せな",
+      "reading": "fe-LIS",
+      "term": "feliz"
+    },
+    {
+      "entryID": "jpes-basic-042",
+      "meaning": "食べる",
+      "reading": "ko-MER",
+      "term": "comer"
+    },
+    {
+      "entryID": "jpes-basic-043",
+      "meaning": "飲む",
+      "reading": "be-BER",
+      "term": "beber"
+    },
+    {
+      "entryID": "jpes-basic-044",
+      "meaning": "行く",
+      "reading": "ir",
+      "term": "ir"
+    },
+    {
+      "entryID": "jpes-basic-045",
+      "meaning": "来る",
+      "reading": "be-NIR",
+      "term": "venir"
+    },
+    {
+      "entryID": "jpes-basic-046",
+      "meaning": "話す",
+      "reading": "ab-LAR",
+      "term": "hablar"
+    },
+    {
+      "entryID": "jpes-basic-047",
+      "meaning": "学ぶ",
+      "reading": "ap-ren-DER",
+      "term": "aprender"
+    },
+    {
+      "entryID": "jpes-basic-048",
+      "meaning": "愛",
+      "reading": "a-MOR",
+      "term": "amor"
+    },
+    {
+      "entryID": "jpes-basic-049",
+      "meaning": "1",
+      "reading": "U-no",
+      "term": "uno"
+    },
+    {
+      "entryID": "jpes-basic-050",
+      "meaning": "何",
+      "reading": "ke",
+      "term": "qué"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "spanish",
+    "description": "日语母语用户向けのスペイン語入門スターターパック（全50語、ラテンアメリカ発音基準）。本プロジェクトによるオリジナル編集：term はスペイン語語形、reading は自拟近似音節表記、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+    "language": "es",
+    "level": "beginner",
+    "tags": [
+      "spanish",
+      "beginner",
+      "japanese"
+    ],
+    "title": "スペイン語入門基礎語彙"
+  },
+  "packID": "com.dai1012.jp.es.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "entryID": "jpzh-basic-001",
+      "meaning": "こんにちは",
+      "reading": "nǐ hǎo",
+      "term": "你好"
+    },
+    {
+      "entryID": "jpzh-basic-002",
+      "meaning": "ありがとう",
+      "reading": "xièxie",
+      "term": "谢谢"
+    },
+    {
+      "entryID": "jpzh-basic-003",
+      "meaning": "ごめんなさい",
+      "reading": "duìbuqǐ",
+      "term": "对不起"
+    },
+    {
+      "entryID": "jpzh-basic-004",
+      "meaning": "はい（肯定）",
+      "reading": "shì",
+      "term": "是"
+    },
+    {
+      "entryID": "jpzh-basic-005",
+      "meaning": "いいえ・～ない",
+      "reading": "bù",
+      "term": "不"
+    },
+    {
+      "entryID": "jpzh-basic-006",
+      "meaning": "さようなら",
+      "reading": "zàijiàn",
+      "term": "再见"
+    },
+    {
+      "entryID": "jpzh-basic-007",
+      "meaning": "水（みず）",
+      "reading": "shuǐ",
+      "term": "水"
+    },
+    {
+      "entryID": "jpzh-basic-008",
+      "meaning": "ご飯",
+      "reading": "mǐfàn",
+      "term": "米饭"
+    },
+    {
+      "entryID": "jpzh-basic-009",
+      "meaning": "家（いえ）",
+      "reading": "jiā",
+      "term": "家"
+    },
+    {
+      "entryID": "jpzh-basic-010",
+      "meaning": "学校",
+      "reading": "xuéxiào",
+      "term": "学校"
+    },
+    {
+      "entryID": "jpzh-basic-011",
+      "meaning": "友達",
+      "reading": "péngyou",
+      "term": "朋友"
+    },
+    {
+      "entryID": "jpzh-basic-012",
+      "meaning": "名前",
+      "reading": "míngzi",
+      "term": "名字"
+    },
+    {
+      "entryID": "jpzh-basic-013",
+      "meaning": "中国",
+      "reading": "Zhōngguó",
+      "term": "中国"
+    },
+    {
+      "entryID": "jpzh-basic-014",
+      "meaning": "今日",
+      "reading": "jīntiān",
+      "term": "今天"
+    },
+    {
+      "entryID": "jpzh-basic-015",
+      "meaning": "明日",
+      "reading": "míngtiān",
+      "term": "明天"
+    },
+    {
+      "entryID": "jpzh-basic-016",
+      "meaning": "今",
+      "reading": "xiànzài",
+      "term": "现在"
+    },
+    {
+      "entryID": "jpzh-basic-017",
+      "meaning": "時間",
+      "reading": "shíjiān",
+      "term": "时间"
+    },
+    {
+      "entryID": "jpzh-basic-018",
+      "meaning": "人",
+      "reading": "rén",
+      "term": "人"
+    },
+    {
+      "entryID": "jpzh-basic-019",
+      "meaning": "男性",
+      "reading": "nánrén",
+      "term": "男人"
+    },
+    {
+      "entryID": "jpzh-basic-020",
+      "meaning": "女性",
+      "reading": "nǚrén",
+      "term": "女人"
+    },
+    {
+      "entryID": "jpzh-basic-021",
+      "meaning": "お母さん",
+      "reading": "māma",
+      "term": "妈妈"
+    },
+    {
+      "entryID": "jpzh-basic-022",
+      "meaning": "お父さん",
+      "reading": "bàba",
+      "term": "爸爸"
+    },
+    {
+      "entryID": "jpzh-basic-023",
+      "meaning": "家族",
+      "reading": "jiātíng",
+      "term": "家庭"
+    },
+    {
+      "entryID": "jpzh-basic-024",
+      "meaning": "お金",
+      "reading": "qián",
+      "term": "钱"
+    },
+    {
+      "entryID": "jpzh-basic-025",
+      "meaning": "本",
+      "reading": "shū",
+      "term": "书"
+    },
+    {
+      "entryID": "jpzh-basic-026",
+      "meaning": "鞄・袋",
+      "reading": "bāo",
+      "term": "包"
+    },
+    {
+      "entryID": "jpzh-basic-027",
+      "meaning": "電話",
+      "reading": "diànhuà",
+      "term": "电话"
+    },
+    {
+      "entryID": "jpzh-basic-028",
+      "meaning": "コーヒー",
+      "reading": "kāfēi",
+      "term": "咖啡"
+    },
+    {
+      "entryID": "jpzh-basic-029",
+      "meaning": "お茶",
+      "reading": "chá",
+      "term": "茶"
+    },
+    {
+      "entryID": "jpzh-basic-030",
+      "meaning": "自動車",
+      "reading": "qìchē",
+      "term": "汽车"
+    },
+    {
+      "entryID": "jpzh-basic-031",
+      "meaning": "列車",
+      "reading": "huǒchē",
+      "term": "火车"
+    },
+    {
+      "entryID": "jpzh-basic-032",
+      "meaning": "道・街路",
+      "reading": "jiēdào",
+      "term": "街道"
+    },
+    {
+      "entryID": "jpzh-basic-033",
+      "meaning": "市場",
+      "reading": "shìchǎng",
+      "term": "市场"
+    },
+    {
+      "entryID": "jpzh-basic-034",
+      "meaning": "大きい",
+      "reading": "dà",
+      "term": "大"
+    },
+    {
+      "entryID": "jpzh-basic-035",
+      "meaning": "小さい",
+      "reading": "xiǎo",
+      "term": "小"
+    },
+    {
+      "entryID": "jpzh-basic-036",
+      "meaning": "良い",
+      "reading": "hǎo",
+      "term": "好"
+    },
+    {
+      "entryID": "jpzh-basic-037",
+      "meaning": "悪い",
+      "reading": "huài",
+      "term": "坏"
+    },
+    {
+      "entryID": "jpzh-basic-038",
+      "meaning": "多い",
+      "reading": "duō",
+      "term": "多"
+    },
+    {
+      "entryID": "jpzh-basic-039",
+      "meaning": "少ない",
+      "reading": "shǎo",
+      "term": "少"
+    },
+    {
+      "entryID": "jpzh-basic-040",
+      "meaning": "きれいだ",
+      "reading": "piàoliang",
+      "term": "漂亮"
+    },
+    {
+      "entryID": "jpzh-basic-041",
+      "meaning": "嬉しい",
+      "reading": "gāoxìng",
+      "term": "高兴"
+    },
+    {
+      "entryID": "jpzh-basic-042",
+      "meaning": "食べる",
+      "reading": "chī",
+      "term": "吃"
+    },
+    {
+      "entryID": "jpzh-basic-043",
+      "meaning": "飲む",
+      "reading": "hē",
+      "term": "喝"
+    },
+    {
+      "entryID": "jpzh-basic-044",
+      "meaning": "行く",
+      "reading": "qù",
+      "term": "去"
+    },
+    {
+      "entryID": "jpzh-basic-045",
+      "meaning": "来る",
+      "reading": "lái",
+      "term": "来"
+    },
+    {
+      "entryID": "jpzh-basic-046",
+      "meaning": "話す",
+      "reading": "shuō",
+      "term": "说"
+    },
+    {
+      "entryID": "jpzh-basic-047",
+      "meaning": "学ぶ",
+      "reading": "xuéxí",
+      "term": "学习"
+    },
+    {
+      "entryID": "jpzh-basic-048",
+      "meaning": "愛",
+      "reading": "ài",
+      "term": "爱"
+    },
+    {
+      "entryID": "jpzh-basic-049",
+      "meaning": "1",
+      "reading": "yī",
+      "term": "一"
+    },
+    {
+      "entryID": "jpzh-basic-050",
+      "meaning": "何",
+      "reading": "shénme",
+      "term": "什么"
+    }
+  ],
+  "entryCount": 50,
+  "metadata": {
+    "classification": "chinese",
+    "description": "日语母语用户向けの中国語入門スターターパック（全50語）。本プロジェクトによるオリジナル編集：term は簡体字語形、reading は声調符号付きピンイン、meaning は日本語コア訳。第三者辞書データベース内容は含まない。今後テーマ別に拡充予定。",
+    "language": "zh",
+    "level": "beginner",
+    "tags": [
+      "chinese",
+      "beginner",
+      "japanese"
+    ],
+    "title": "中国語入門基礎語彙"
+  },
+  "packID": "com.dai1012.jp.zh.basic",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
