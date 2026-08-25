@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.cn.ja.sbx.zj02",
+  "packVersion": 1,
+  "metadata": {
+    "title": "标准日本语·中级 第09-12课词汇（项目整理版）",
+    "language": "ja",
+    "classification": "sbx",
+    "level": "intermediate",
+    "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：参考资料核实的中间级第 9–12 课主题（数字社会、技术变革、职业未来）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "tags": [
+      "japanese",
+      "sbx",
+      "chuukyuu",
+      "chinese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "sbx-zj02-001",
+      "term": "デジタル",
+      "reading": "デジタル",
+      "meaning": "数字化"
+    },
+    {
+      "entryID": "sbx-zj02-002",
+      "term": "アナログ",
+      "reading": "アナログ",
+      "meaning": "模拟传统"
+    },
+    {
+      "entryID": "sbx-zj02-003",
+      "term": "オンライン",
+      "reading": "オンライン",
+      "meaning": "线上"
+    },
+    {
+      "entryID": "sbx-zj02-004",
+      "term": "オフライン",
+      "reading": "オフライン",
+      "meaning": "线下"
+    },
+    {
+      "entryID": "sbx-zj02-005",
+      "term": "リモート",
+      "reading": "リモート",
+      "meaning": "远程"
+    },
+    {
+      "entryID": "sbx-zj02-006",
+      "term": "在宅ワーク",
+      "reading": "ざいたくワーク",
+      "meaning": "居家办公"
+    },
+    {
+      "entryID": "sbx-zj02-007",
+      "term": "テレワーク",
+      "reading": "テレワーク",
+      "meaning": "远程办公"
+    },
+    {
+      "entryID": "sbx-zj02-008",
+      "term": "ビデオ通話",
+      "reading": "ビデオつうわ",
+      "meaning": "视频通话"
+    },
+    {
+      "entryID": "sbx-zj02-009",
+      "term": "アプリ",
+      "reading": "アプリ",
+      "meaning": "应用程序"
+    },
+    {
+      "entryID": "sbx-zj02-010",
+      "term": "ソフトウェア",
+      "reading": "ソフトウェア",
+      "meaning": "软件"
+    },
+    {
+      "entryID": "sbx-zj02-011",
+      "term": "ハードウェア",
+      "reading": "ハードウェア",
+      "meaning": "硬件"
+    },
+    {
+      "entryID": "sbx-zj02-012",
+      "term": "ネット環境",
+      "reading": "ネットかんきょう",
+      "meaning": "网络环境"
+    },
+    {
+      "entryID": "sbx-zj02-013",
+      "term": "通信速度",
+      "reading": "つうしんそくど",
+      "meaning": "网速"
+    },
+    {
+      "entryID": "sbx-zj02-014",
+      "term": "セキュリティ",
+      "reading": "セキュリティ",
+      "meaning": "信息安全"
+    },
+    {
+      "entryID": "sbx-zj02-015",
+      "term": "パスワード",
+      "reading": "パスワード",
+      "meaning": "密码"
+    },
+    {
+      "entryID": "sbx-zj02-016",
+      "term": "個人情報保護",
+      "reading": "こじんじょうほうほご",
+      "meaning": "个人信息保护"
+    },
+    {
+      "entryID": "sbx-zj02-017",
+      "term": "サイバー攻撃",
+      "reading": "サイバーこうげき",
+      "meaning": "网络攻击"
+    },
+    {
+      "entryID": "sbx-zj02-018",
+      "term": "フィッシング詐欺",
+      "reading": "フィッシングさぎ",
+      "meaning": "钓鱼诈骗"
+    },
+    {
+      "entryID": "sbx-zj02-019",
+      "term": "怪しいメール",
+      "reading": "あやしいメール",
+      "meaning": "可疑邮件"
+    },
+    {
+      "entryID": "sbx-zj02-020",
+      "term": "人工知能",
+      "reading": "じんこうちのう",
+      "meaning": "人工智能"
+    },
+    {
+      "entryID": "sbx-zj02-021",
+      "term": "自動運転",
+      "reading": "じどううんてん",
+      "meaning": "自动驾驶"
+    },
+    {
+      "entryID": "sbx-zj02-022",
+      "term": "ビッグデータ",
+      "reading": "ビッグデータ",
+      "meaning": "大数据"
+    },
+    {
+      "entryID": "sbx-zj02-023",
+      "term": "アルゴリズム",
+      "reading": "アルゴリズム",
+      "meaning": "算法"
+    },
+    {
+      "entryID": "sbx-zj02-024",
+      "term": "プライバシー保護",
+      "reading": "プライバシーほご",
+      "meaning": "隐私保护"
+    },
+    {
+      "entryID": "sbx-zj02-025",
+      "term": "情報過多",
+      "reading": "じょうほうかた",
+      "meaning": "信息过载"
+    },
+    {
+      "entryID": "sbx-zj02-026",
+      "term": "画面時間",
+      "reading": "がめんじかん",
+      "meaning": "屏幕时间"
+    },
+    {
+      "entryID": "sbx-zj02-027",
+      "term": "依存症",
+      "reading": "いぞんしょう",
+      "meaning": "依赖症"
+    },
+    {
+      "entryID": "sbx-zj02-028",
+      "term": "スマホ依存",
+      "reading": "スマホいぞん",
+      "meaning": "手机依赖"
+    },
+    {
+      "entryID": "sbx-zj02-029",
+      "term": "時代の流れ",
+      "reading": "じだいのながれ",
+      "meaning": "时代潮流"
+    },
+    {
+      "entryID": "sbx-zj02-030",
+      "term": "技術革新",
+      "reading": "ぎじゅつかくしん",
+      "meaning": "技术革新"
+    },
+    {
+      "entryID": "sbx-zj02-031",
+      "term": "利便性",
+      "reading": "りべんせい",
+      "meaning": "便利性"
+    },
+    {
+      "entryID": "sbx-zj02-032",
+      "term": "効率化",
+      "reading": "こうりつか",
+      "meaning": "效率提升"
+    },
+    {
+      "entryID": "sbx-zj02-033",
+      "term": "自動化",
+      "reading": "じどうか",
+      "meaning": "自动化"
+    },
+    {
+      "entryID": "sbx-zj02-034",
+      "term": "導入",
+      "reading": "どうにゅう",
+      "meaning": "引进"
+    },
+    {
+      "entryID": "sbx-zj02-035",
+      "term": "普及",
+      "reading": "ふきゅう",
+      "meaning": "普及"
+    },
+    {
+      "entryID": "sbx-zj02-036",
+      "term": "進化",
+      "reading": "しんか",
+      "meaning": "进化"
+    },
+    {
+      "entryID": "sbx-zj02-037",
+      "term": "革命",
+      "reading": "かくめい",
+      "meaning": "革命"
+    },
+    {
+      "entryID": "sbx-zj02-038",
+      "term": "変革",
+      "reading": "へんかく",
+      "meaning": "变革"
+    },
+    {
+      "entryID": "sbx-zj02-039",
+      "term": "衝撃",
+      "reading": "しょうげき",
+      "meaning": "冲击"
+    },
+    {
+      "entryID": "sbx-zj02-040",
+      "term": "代替",
+      "reading": "だいたい",
+      "meaning": "替代"
+    },
+    {
+      "entryID": "sbx-zj02-041",
+      "term": "消滅",
+      "reading": "しょうめつ",
+      "meaning": "消失"
+    },
+    {
+      "entryID": "sbx-zj02-042",
+      "term": "存続",
+      "reading": "そんぞく",
+      "meaning": "存续"
+    },
+    {
+      "entryID": "sbx-zj02-043",
+      "term": "伝統工芸",
+      "reading": "でんとうこうげい",
+      "meaning": "传统工艺"
+    },
+    {
+      "entryID": "sbx-zj02-044",
+      "term": "職人技",
+      "reading": "しょくにんわざ",
+      "meaning": "匠人手艺"
+    },
+    {
+      "entryID": "sbx-zj02-045",
+      "term": "文化の継承",
+      "reading": "ぶんかのけいしょう",
+      "meaning": "文化传承"
+    },
+    {
+      "entryID": "sbx-zj02-046",
+      "term": "融合",
+      "reading": "ゆうごう",
+      "meaning": "融合"
+    },
+    {
+      "entryID": "sbx-zj02-047",
+      "term": "適応",
+      "reading": "てきおう",
+      "meaning": "适应"
+    },
+    {
+      "entryID": "sbx-zj02-048",
+      "term": "教育水準",
+      "reading": "きょういくすいじゅん",
+      "meaning": "教育水平"
+    },
+    {
+      "entryID": "sbx-zj02-049",
+      "term": "学歴",
+      "reading": "がくれき",
+      "meaning": "学历"
+    },
+    {
+      "entryID": "sbx-zj02-050",
+      "term": "資格取得",
+      "reading": "しかくしゅとく",
+      "meaning": "考取资格"
+    },
+    {
+      "entryID": "sbx-zj02-051",
+      "term": "スキルアップ",
+      "reading": "スキルアップ",
+      "meaning": "技能提升"
+    },
+    {
+      "entryID": "sbx-zj02-052",
+      "term": "キャリアパス",
+      "reading": "キャリアパス",
+      "meaning": "职业路径"
+    },
+    {
+      "entryID": "sbx-zj02-053",
+      "term": "専門性",
+      "reading": "せんもんせい",
+      "meaning": "专业性"
+    },
+    {
+      "entryID": "sbx-zj02-054",
+      "term": "即戦力",
+      "reading": "そくせんりょく",
+      "meaning": "即战力"
+    },
+    {
+      "entryID": "sbx-zj02-055",
+      "term": "人材不足",
+      "reading": "じんざいぶそく",
+      "meaning": "人才短缺"
+    },
+    {
+      "entryID": "sbx-zj02-056",
+      "term": "採用活動",
+      "reading": "さいようかつどう",
+      "meaning": "招聘活动"
+    },
+    {
+      "entryID": "sbx-zj02-057",
+      "term": "就活",
+      "reading": "しゅうかつ",
+      "meaning": "求职活动"
+    },
+    {
+      "entryID": "sbx-zj02-058",
+      "term": "入社式",
+      "reading": "にゅうしゃしき",
+      "meaning": "入职典礼"
+    },
+    {
+      "entryID": "sbx-zj02-059",
+      "term": "ビジネスマナー",
+      "reading": "ビジネスマナー",
+      "meaning": "商务礼仪"
+    },
+    {
+      "entryID": "sbx-zj02-060",
+      "term": "報連相",
+      "reading": "ほうれんそう",
+      "meaning": "报联商"
+    },
+    {
+      "entryID": "sbx-zj02-061",
+      "term": "チームワーク",
+      "reading": "チームワーク",
+      "meaning": "团队协作"
+    },
+    {
+      "entryID": "sbx-zj02-062",
+      "term": "リーダーシップ",
+      "reading": "リーダーシップ",
+      "meaning": "领导力"
+    },
+    {
+      "entryID": "sbx-zj02-063",
+      "term": "役割分担",
+      "reading": "やくわりぶんたん",
+      "meaning": "分工"
+    },
+    {
+      "entryID": "sbx-zj02-064",
+      "term": "組織運営",
+      "reading": "そしきうんえい",
+      "meaning": "组织运营"
+    },
+    {
+      "entryID": "sbx-zj02-065",
+      "term": "企業理念",
+      "reading": "きぎょうりねん",
+      "meaning": "企业理念"
+    },
+    {
+      "entryID": "sbx-zj02-066",
+      "term": "社風",
+      "reading": "しゃふう",
+      "meaning": "公司风气"
+    },
+    {
+      "entryID": "sbx-zj02-067",
+      "term": "働き方改革",
+      "reading": "はたらきかたかいかく",
+      "meaning": "工作方式改革"
+    },
+    {
+      "entryID": "sbx-zj02-068",
+      "term": "ワークライフバランス",
+      "reading": "ワークライフバランス",
+      "meaning": "劳逸平衡"
+    },
+    {
+      "entryID": "sbx-zj02-069",
+      "term": "副業",
+      "reading": "ふくぎょう",
+      "meaning": "副业"
+    },
+    {
+      "entryID": "sbx-zj02-070",
+      "term": "兼業",
+      "reading": "けんぎょう",
+      "meaning": "兼营"
+    },
+    {
+      "entryID": "sbx-zj02-071",
+      "term": "独立開業",
+      "reading": "どくりつかいぎょう",
+      "meaning": "独立开业"
+    },
+    {
+      "entryID": "sbx-zj02-072",
+      "term": "起業",
+      "reading": "きぎょう",
+      "meaning": "创业"
+    },
+    {
+      "entryID": "sbx-zj02-073",
+      "term": "スタートアップ",
+      "reading": "スタートアップ",
+      "meaning": "初创企业"
+    },
+    {
+      "entryID": "sbx-zj02-074",
+      "term": "事業拡大",
+      "reading": "じぎょうかくだい",
+      "meaning": "事业扩张"
+    },
+    {
+      "entryID": "sbx-zj02-075",
+      "term": "経営戦略",
+      "reading": "けいえいせんりゃく",
+      "meaning": "经营战略"
+    },
+    {
+      "entryID": "sbx-zj02-076",
+      "term": "市場競争",
+      "reading": "しじょうきょうそう",
+      "meaning": "市场竞争"
+    },
+    {
+      "entryID": "sbx-zj02-077",
+      "term": "顧客満足",
+      "reading": "こきゃくまんぞく",
+      "meaning": "客户满意"
+    },
+    {
+      "entryID": "sbx-zj02-078",
+      "term": "イノベーション",
+      "reading": "イノベーション",
+      "meaning": "创新"
+    },
+    {
+      "entryID": "sbx-zj02-079",
+      "term": "持続可能性",
+      "reading": "じぞくかのうせい",
+      "meaning": "可持续性"
+    },
+    {
+      "entryID": "sbx-zj02-080",
+      "term": "教育格差",
+      "reading": "きょういくかくさ",
+      "meaning": "教育差距"
+    },
+    {
+      "entryID": "sbx-zj02-081",
+      "term": "生涯学習",
+      "reading": "しょうがいがくしゅう",
+      "meaning": "终身学习"
+    },
+    {
+      "entryID": "sbx-zj02-082",
+      "term": "学び直し",
+      "reading": "まなびなおし",
+      "meaning": "重新学习"
+    },
+    {
+      "entryID": "sbx-zj02-083",
+      "term": "リスキリング",
+      "reading": "リスキリング",
+      "meaning": "再技能化"
+    },
+    {
+      "entryID": "sbx-zj02-084",
+      "term": "デジタル化の波",
+      "reading": "デジタルかのなみ",
+      "meaning": "数字化浪潮"
+    },
+    {
+      "entryID": "sbx-zj02-085",
+      "term": "アナログ人間",
+      "reading": "アナログにんげん",
+      "meaning": "传统派"
+    },
+    {
+      "entryID": "sbx-zj02-086",
+      "term": "紙媒体",
+      "reading": "かみばいたい",
+      "meaning": "纸质媒体"
+    },
+    {
+      "entryID": "sbx-zj02-087",
+      "term": "電子書籍",
+      "reading": "でんししょせき",
+      "meaning": "电子书"
+    },
+    {
+      "entryID": "sbx-zj02-088",
+      "term": "サブスクリプション",
+      "reading": "サブスクリプション",
+      "meaning": "订阅制"
+    },
+    {
+      "entryID": "sbx-zj02-089",
+      "term": "課金",
+      "reading": "かきん",
+      "meaning": "付费充值"
+    },
+    {
+      "entryID": "sbx-zj02-090",
+      "term": "無料体験",
+      "reading": "むりょうたいけん",
+      "meaning": "免费试用"
+    },
+    {
+      "entryID": "sbx-zj02-091",
+      "term": "会員登録",
+      "reading": "かいいんとうろく",
+      "meaning": "会员注册"
+    },
+    {
+      "entryID": "sbx-zj02-092",
+      "term": "退会",
+      "reading": "たいかい",
+      "meaning": "注销"
+    },
+    {
+      "entryID": "sbx-zj02-093",
+      "term": "個人情報の取り扱い",
+      "reading": "こじんじょうほうのとりあつかい",
+      "meaning": "个人信息处理"
+    },
+    {
+      "entryID": "sbx-zj02-094",
+      "term": "データ保護法",
+      "reading": "データほごほう",
+      "meaning": "数据保护法"
+    },
+    {
+      "entryID": "sbx-zj02-095",
+      "term": "情報リテラシー",
+      "reading": "じょうほうりてらしー",
+      "meaning": "信息素养"
+    },
+    {
+      "entryID": "sbx-zj02-096",
+      "term": "メディアリテラシー",
+      "reading": "メディアリテラシー",
+      "meaning": "媒介素养"
+    },
+    {
+      "entryID": "sbx-zj02-097",
+      "term": "批判的思考",
+      "reading": "ひはんてきしこう",
+      "meaning": "批判性思维"
+    },
+    {
+      "entryID": "sbx-zj02-098",
+      "term": "エコーチェンバー",
+      "reading": "エコーチェンバー",
+      "meaning": "回音室效应"
+    },
+    {
+      "entryID": "sbx-zj02-099",
+      "term": "アルゴリズムの偏り",
+      "reading": "アルゴリズムのかたより",
+      "meaning": "算法偏差"
+    },
+    {
+      "entryID": "sbx-zj02-100",
+      "term": "自動翻訳",
+      "reading": "じどうほんやく",
+      "meaning": "机器翻译"
+    },
+    {
+      "entryID": "sbx-zj02-101",
+      "term": "音声認識",
+      "reading": "おんせいにんしき",
+      "meaning": "语音识别"
+    },
+    {
+      "entryID": "sbx-zj02-102",
+      "term": "画像生成",
+      "reading": "がぞうせいせい",
+      "meaning": "图像生成"
+    },
+    {
+      "entryID": "sbx-zj02-103",
+      "term": "雇用への影響",
+      "reading": "こようへのえいきょう",
+      "meaning": "对就业的影响"
+    },
+    {
+      "entryID": "sbx-zj02-104",
+      "term": "職業訓練",
+      "reading": "しょくぎょうくんれん",
+      "meaning": "职业培训"
+    },
+    {
+      "entryID": "sbx-zj02-105",
+      "term": "再就職支援",
+      "reading": "さいしゅうしょくしえん",
+      "meaning": "再就业支持"
+    },
+    {
+      "entryID": "sbx-zj02-106",
+      "term": "働き方の多様化",
+      "reading": "はたらきかたのたようか",
+      "meaning": "工作方式多样化"
+    }
+  ]
+}

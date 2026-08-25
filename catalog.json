@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 21,
-  "generatedAt": "2026-08-25T06:20:26Z",
+  "catalogVersion": 22,
+  "generatedAt": "2026-08-25T07:24:45Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -346,6 +346,330 @@
         "chinese"
       ],
       "title": "标准日本语·初级 第5-8课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 9–12 课主题（娱乐爱好、季节活动、人物评价）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第09-12课"
+      ],
+      "entryCount": 131,
+      "fileSize": 17919,
+      "fileURL": "packs/sbx-cj03.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj03",
+      "packVersion": 1,
+      "sha256": "6f59b7abfbc591a612b878a6b9d643ba47cd0c330ec155a72f8fdeb5ff4bb5b9",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第09-12课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 13–16 课主题（房间陈设、数量比较、购物、外观穿着）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第13-16课"
+      ],
+      "entryCount": 116,
+      "fileSize": 15840,
+      "fileURL": "packs/sbx-cj04.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj04",
+      "packVersion": 1,
+      "sha256": "00bc6e9f773a56d4d3a2e06de3d33cb6bf7a17eeb864d8e4e39f85d512a921d2",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第13-16课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 17–20 课主题（出行问路、交通工具、旅行安排、天气）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第17-20课"
+      ],
+      "entryCount": 118,
+      "fileSize": 16900,
+      "fileURL": "packs/sbx-cj05.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj05",
+      "packVersion": 1,
+      "sha256": "c38e7d0acba8b208f2252bd1ea538173266e8de64b4b4b6b2271da41f48c0949",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第17-20课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 21–24 课主题（身体状况、生病就医、手续办理）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第21-24课"
+      ],
+      "entryCount": 109,
+      "fileSize": 15602,
+      "fileURL": "packs/sbx-cj06.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj06",
+      "packVersion": 1,
+      "sha256": "1d55c3de09a6da650b8fc12d7c9b2a0b49fab10cb0399c5712feb84f13e7171b",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第21-24课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 25–28 课主题（状态变化、条件表达、赠礼往来）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第25-28课"
+      ],
+      "entryCount": 128,
+      "fileSize": 17533,
+      "fileURL": "packs/sbx-cj07.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj07",
+      "packVersion": 1,
+      "sha256": "cb8d9b368a3d07cc6b087799b42bc158b8d3f801b9429ba5468c635f5706678f",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第25-28课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 29–32 课主题（职场工作、会议报告、期限管理）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第29-32课"
+      ],
+      "entryCount": 115,
+      "fileSize": 16045,
+      "fileURL": "packs/sbx-cj08.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj08",
+      "packVersion": 1,
+      "sha256": "132bd8d2b8e40ba57632bd1789aa089efd3356683ca575a0d4d5486c330bb485",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第29-32课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 33–36 课主题（规则标识、许可禁止、提醒注意）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第33-36课"
+      ],
+      "entryCount": 118,
+      "fileSize": 16864,
+      "fileURL": "packs/sbx-cj09.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj09",
+      "packVersion": 1,
+      "sha256": "45ac615153ffac24930f7e0e6218a524caf5eb028733d58630a3ef9b281e082c",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第33-36课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 37–40 课主题（商务敬语、电话应对、拜访礼仪）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第37-40课"
+      ],
+      "entryCount": 117,
+      "fileSize": 17423,
+      "fileURL": "packs/sbx-cj10.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj10",
+      "packVersion": 1,
+      "sha256": "e600a35fe26a3261f478dccc1b4f4bcfb8f8bd25db174d91687c3c3c124e8282",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第37-40课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 41–44 课主题（新闻传闻、信息传播、推量表达）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第41-44课"
+      ],
+      "entryCount": 108,
+      "fileSize": 15559,
+      "fileURL": "packs/sbx-cj11.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj11",
+      "packVersion": 1,
+      "sha256": "16a33ecfaaa73fd50d7b038d417744708a551f6d7a981157bf83218e10c4d95b",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第41-44课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 45–48 课主题（社会生活、书面表达、总结归纳）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "初级",
+        "第45-48课"
+      ],
+      "entryCount": 113,
+      "fileSize": 16900,
+      "fileURL": "packs/sbx-cj12.json",
+      "language": "ja",
+      "level": "beginner",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.cj12",
+      "packVersion": 1,
+      "sha256": "9ec66790b37c5920ce86e3cb3aa550397118b61d49229cad40811c735365285a",
+      "tags": [
+        "japanese",
+        "sbx",
+        "shokyu",
+        "chinese"
+      ],
+      "title": "标准日本语·初级 第45-48课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：参考资料核实的中间级第 5–8 课主题（人际沟通、自我成长、生活方式）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第05-08课"
+      ],
+      "entryCount": 130,
+      "fileSize": 18677,
+      "fileURL": "packs/sbx-zj01.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj01",
+      "packVersion": 1,
+      "sha256": "1a2091586657ad42290adaf669f50e9be70462647d428b73762390203033bd2d",
+      "tags": [
+        "japanese",
+        "sbx",
+        "chuukyuu",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第05-08课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：参考资料核实的中间级第 9–12 课主题（数字社会、技术变革、职业未来）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第09-12课"
+      ],
+      "entryCount": 106,
+      "fileSize": 16713,
+      "fileURL": "packs/sbx-zj02.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj02",
+      "packVersion": 1,
+      "sha256": "bc2528f53d0318f3c5f2373f3db246d1c554e8f3c66b1cac1b91018f2752b660",
+      "tags": [
+        "japanese",
+        "sbx",
+        "chuukyuu",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第09-12课词汇（项目整理版）"
     },
     {
       "classification": "korean",

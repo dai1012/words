@@ -1,0 +1,788 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.cn.ja.sbx.cj07",
+  "packVersion": 1,
+  "metadata": {
+    "title": "标准日本语·初级 第25-28课词汇（项目整理版）",
+    "language": "ja",
+    "classification": "sbx",
+    "level": "beginner",
+    "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 25–28 课主题（状态变化、条件表达、赠礼往来）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "tags": [
+      "japanese",
+      "sbx",
+      "shokyu",
+      "chinese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "sbx-cj07-001",
+      "term": "なります",
+      "reading": "なります",
+      "meaning": "变得"
+    },
+    {
+      "entryID": "sbx-cj07-002",
+      "term": "します",
+      "reading": "します",
+      "meaning": "使…成为"
+    },
+    {
+      "entryID": "sbx-cj07-003",
+      "term": "開く",
+      "reading": "あく",
+      "meaning": "开着"
+    },
+    {
+      "entryID": "sbx-cj07-004",
+      "term": "閉まる",
+      "reading": "しまる",
+      "meaning": "关着"
+    },
+    {
+      "entryID": "sbx-cj07-005",
+      "term": "壊れる",
+      "reading": "こわれる",
+      "meaning": "坏掉"
+    },
+    {
+      "entryID": "sbx-cj07-006",
+      "term": "汚れる",
+      "reading": "よごれる",
+      "meaning": "弄脏"
+    },
+    {
+      "entryID": "sbx-cj07-007",
+      "term": "品切れ",
+      "reading": "しなぎれ",
+      "meaning": "脱销"
+    },
+    {
+      "entryID": "sbx-cj07-008",
+      "term": "増える",
+      "reading": "ふえる",
+      "meaning": "增多"
+    },
+    {
+      "entryID": "sbx-cj07-009",
+      "term": "減る",
+      "reading": "へる",
+      "meaning": "减少"
+    },
+    {
+      "entryID": "sbx-cj07-010",
+      "term": "変わる",
+      "reading": "かわる",
+      "meaning": "变化"
+    },
+    {
+      "entryID": "sbx-cj07-011",
+      "term": "進む",
+      "reading": "すすむ",
+      "meaning": "前进"
+    },
+    {
+      "entryID": "sbx-cj07-012",
+      "term": "戻す",
+      "reading": "もどす",
+      "meaning": "放回"
+    },
+    {
+      "entryID": "sbx-cj07-013",
+      "term": "遠ざかる",
+      "reading": "とおざかる",
+      "meaning": "远离"
+    },
+    {
+      "entryID": "sbx-cj07-014",
+      "term": "近づく",
+      "reading": "ちかづく",
+      "meaning": "靠近"
+    },
+    {
+      "entryID": "sbx-cj07-015",
+      "term": "結婚式",
+      "reading": "けっこんしき",
+      "meaning": "婚礼"
+    },
+    {
+      "entryID": "sbx-cj07-016",
+      "term": "披露宴",
+      "reading": "ひろうえん",
+      "meaning": "婚宴"
+    },
+    {
+      "entryID": "sbx-cj07-017",
+      "term": "招待状",
+      "reading": "しょうたいじょう",
+      "meaning": "请帖"
+    },
+    {
+      "entryID": "sbx-cj07-018",
+      "term": "ご祝儀",
+      "reading": "ごしゅうぎ",
+      "meaning": "喜钱"
+    },
+    {
+      "entryID": "sbx-cj07-019",
+      "term": "お返し",
+      "reading": "おかえし",
+      "meaning": "回礼"
+    },
+    {
+      "entryID": "sbx-cj07-020",
+      "term": "内祝い",
+      "reading": "うちいわい",
+      "meaning": "答谢礼"
+    },
+    {
+      "entryID": "sbx-cj07-021",
+      "term": "贈り物",
+      "reading": "おくりもの",
+      "meaning": "礼物"
+    },
+    {
+      "entryID": "sbx-cj07-022",
+      "term": "受け取る",
+      "reading": "うけとる",
+      "meaning": "领取"
+    },
+    {
+      "entryID": "sbx-cj07-023",
+      "term": "差し上げる",
+      "reading": "さしあげる",
+      "meaning": "敬赠"
+    },
+    {
+      "entryID": "sbx-cj07-024",
+      "term": "いただく",
+      "reading": "いただく",
+      "meaning": "领受"
+    },
+    {
+      "entryID": "sbx-cj07-025",
+      "term": "くれる",
+      "reading": "くれる",
+      "meaning": "给（我方）"
+    },
+    {
+      "entryID": "sbx-cj07-026",
+      "term": "もし",
+      "reading": "もし",
+      "meaning": "如果"
+    },
+    {
+      "entryID": "sbx-cj07-027",
+      "term": "たら",
+      "reading": "たら",
+      "meaning": "……的话"
+    },
+    {
+      "entryID": "sbx-cj07-028",
+      "term": "ば",
+      "reading": "ば",
+      "meaning": "（假定）"
+    },
+    {
+      "entryID": "sbx-cj07-029",
+      "term": "なら",
+      "reading": "なら",
+      "meaning": "若是"
+    },
+    {
+      "entryID": "sbx-cj07-030",
+      "term": "ため",
+      "reading": "ため",
+      "meaning": "为了"
+    },
+    {
+      "entryID": "sbx-cj07-031",
+      "term": "ように",
+      "reading": "ように",
+      "meaning": "以便"
+    },
+    {
+      "entryID": "sbx-cj07-032",
+      "term": "おかげで",
+      "reading": "おかげで",
+      "meaning": "多亏"
+    },
+    {
+      "entryID": "sbx-cj07-033",
+      "term": "せいで",
+      "reading": "せいで",
+      "meaning": "怪"
+    },
+    {
+      "entryID": "sbx-cj07-034",
+      "term": "理由",
+      "reading": "りゆう",
+      "meaning": "理由"
+    },
+    {
+      "entryID": "sbx-cj07-035",
+      "term": "わけ",
+      "reading": "わけ",
+      "meaning": "缘故"
+    },
+    {
+      "entryID": "sbx-cj07-036",
+      "term": "結果",
+      "reading": "けっか",
+      "meaning": "结果"
+    },
+    {
+      "entryID": "sbx-cj07-037",
+      "term": "効果",
+      "reading": "こうか",
+      "meaning": "效果"
+    },
+    {
+      "entryID": "sbx-cj07-038",
+      "term": "影響",
+      "reading": "えいきょう",
+      "meaning": "影响"
+    },
+    {
+      "entryID": "sbx-cj07-039",
+      "term": "成長",
+      "reading": "せいちょう",
+      "meaning": "成长"
+    },
+    {
+      "entryID": "sbx-cj07-040",
+      "term": "発達",
+      "reading": "はったつ",
+      "meaning": "发达"
+    },
+    {
+      "entryID": "sbx-cj07-041",
+      "term": "進歩",
+      "reading": "しんぽ",
+      "meaning": "进步"
+    },
+    {
+      "entryID": "sbx-cj07-042",
+      "term": "上達",
+      "reading": "じょうたつ",
+      "meaning": "长进"
+    },
+    {
+      "entryID": "sbx-cj07-043",
+      "term": "向上",
+      "reading": "こうじょう",
+      "meaning": "提高"
+    },
+    {
+      "entryID": "sbx-cj07-044",
+      "term": "改善",
+      "reading": "かいぜん",
+      "meaning": "改善"
+    },
+    {
+      "entryID": "sbx-cj07-045",
+      "term": "変化",
+      "reading": "へんか",
+      "meaning": "变化"
+    },
+    {
+      "entryID": "sbx-cj07-046",
+      "term": "状況",
+      "reading": "じょうきょう",
+      "meaning": "状况"
+    },
+    {
+      "entryID": "sbx-cj07-047",
+      "term": "環境",
+      "reading": "かんきょう",
+      "meaning": "环境"
+    },
+    {
+      "entryID": "sbx-cj07-048",
+      "term": "時代",
+      "reading": "じだい",
+      "meaning": "时代"
+    },
+    {
+      "entryID": "sbx-cj07-049",
+      "term": "将来",
+      "reading": "しょうらい",
+      "meaning": "将来"
+    },
+    {
+      "entryID": "sbx-cj07-050",
+      "term": "未来",
+      "reading": "みらい",
+      "meaning": "未来"
+    },
+    {
+      "entryID": "sbx-cj07-051",
+      "term": "過去",
+      "reading": "かこ",
+      "meaning": "过去"
+    },
+    {
+      "entryID": "sbx-cj07-052",
+      "term": "現代",
+      "reading": "げんだい",
+      "meaning": "现代"
+    },
+    {
+      "entryID": "sbx-cj07-053",
+      "term": "傾向",
+      "reading": "けいこう",
+      "meaning": "倾向"
+    },
+    {
+      "entryID": "sbx-cj07-054",
+      "term": "可能性",
+      "reading": "かのうせい",
+      "meaning": "可能性"
+    },
+    {
+      "entryID": "sbx-cj07-055",
+      "term": "希望",
+      "reading": "きぼう",
+      "meaning": "希望"
+    },
+    {
+      "entryID": "sbx-cj07-056",
+      "term": "願い",
+      "reading": "ねがい",
+      "meaning": "心愿"
+    },
+    {
+      "entryID": "sbx-cj07-057",
+      "term": "祈る",
+      "reading": "いのる",
+      "meaning": "祈祷"
+    },
+    {
+      "entryID": "sbx-cj07-058",
+      "term": "願う",
+      "reading": "ねがう",
+      "meaning": "许愿"
+    },
+    {
+      "entryID": "sbx-cj07-059",
+      "term": "目指す",
+      "reading": "めざす",
+      "meaning": "以…为目标"
+    },
+    {
+      "entryID": "sbx-cj07-060",
+      "term": "挑戦する",
+      "reading": "ちょうせんする",
+      "meaning": "挑战"
+    },
+    {
+      "entryID": "sbx-cj07-061",
+      "term": "成功",
+      "reading": "せいこう",
+      "meaning": "成功"
+    },
+    {
+      "entryID": "sbx-cj07-062",
+      "term": "失敗",
+      "reading": "しっぱい",
+      "meaning": "失败"
+    },
+    {
+      "entryID": "sbx-cj07-063",
+      "term": "努力",
+      "reading": "どりょく",
+      "meaning": "努力"
+    },
+    {
+      "entryID": "sbx-cj07-064",
+      "term": "続ける",
+      "reading": "つづける",
+      "meaning": "持续"
+    },
+    {
+      "entryID": "sbx-cj07-065",
+      "term": "やめる",
+      "reading": "やめる",
+      "meaning": "戒掉"
+    },
+    {
+      "entryID": "sbx-cj07-066",
+      "term": "諦める",
+      "reading": "あきらめる",
+      "meaning": "放弃"
+    },
+    {
+      "entryID": "sbx-cj07-067",
+      "term": "自信",
+      "reading": "じしん",
+      "meaning": "自信"
+    },
+    {
+      "entryID": "sbx-cj07-068",
+      "term": "誇り",
+      "reading": "ほこり",
+      "meaning": "自豪"
+    },
+    {
+      "entryID": "sbx-cj07-069",
+      "term": "満足",
+      "reading": "まんぞく",
+      "meaning": "满足"
+    },
+    {
+      "entryID": "sbx-cj07-070",
+      "term": "がっかり",
+      "reading": "がっかり",
+      "meaning": "失望"
+    },
+    {
+      "entryID": "sbx-cj07-071",
+      "term": "安心",
+      "reading": "あんしん",
+      "meaning": "安心"
+    },
+    {
+      "entryID": "sbx-cj07-072",
+      "term": "不安",
+      "reading": "ふあん",
+      "meaning": "不安"
+    },
+    {
+      "entryID": "sbx-cj07-073",
+      "term": "緊張",
+      "reading": "きんちょう",
+      "meaning": "紧张"
+    },
+    {
+      "entryID": "sbx-cj07-074",
+      "term": "リラックス",
+      "reading": "リラックス",
+      "meaning": "放松"
+    },
+    {
+      "entryID": "sbx-cj07-075",
+      "term": "期待",
+      "reading": "きたい",
+      "meaning": "期待"
+    },
+    {
+      "entryID": "sbx-cj07-076",
+      "term": "驚き",
+      "reading": "おどろき",
+      "meaning": "惊讶"
+    },
+    {
+      "entryID": "sbx-cj07-077",
+      "term": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "感谢"
+    },
+    {
+      "entryID": "sbx-cj07-078",
+      "term": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "道歉"
+    },
+    {
+      "entryID": "sbx-cj07-079",
+      "term": "後悔",
+      "reading": "こうかい",
+      "meaning": "后悔"
+    },
+    {
+      "entryID": "sbx-cj07-080",
+      "term": "満開",
+      "reading": "まんかい",
+      "meaning": "盛开"
+    },
+    {
+      "entryID": "sbx-cj07-081",
+      "term": "枯れる",
+      "reading": "かれる",
+      "meaning": "枯萎"
+    },
+    {
+      "entryID": "sbx-cj07-082",
+      "term": "咲く",
+      "reading": "さく",
+      "meaning": "开花"
+    },
+    {
+      "entryID": "sbx-cj07-083",
+      "term": "実",
+      "reading": "み",
+      "meaning": "果实"
+    },
+    {
+      "entryID": "sbx-cj07-084",
+      "term": "種",
+      "reading": "たね",
+      "meaning": "种子"
+    },
+    {
+      "entryID": "sbx-cj07-085",
+      "term": "芽",
+      "reading": "め",
+      "meaning": "嫩芽"
+    },
+    {
+      "entryID": "sbx-cj07-086",
+      "term": "葉っぱ",
+      "reading": "はっぱ",
+      "meaning": "叶子"
+    },
+    {
+      "entryID": "sbx-cj07-087",
+      "term": "枝",
+      "reading": "えだ",
+      "meaning": "树枝"
+    },
+    {
+      "entryID": "sbx-cj07-088",
+      "term": "根っこ",
+      "reading": "ねっこ",
+      "meaning": "根"
+    },
+    {
+      "entryID": "sbx-cj07-089",
+      "term": "育てる",
+      "reading": "そだてる",
+      "meaning": "培育"
+    },
+    {
+      "entryID": "sbx-cj07-090",
+      "term": "育つ",
+      "reading": "そだつ",
+      "meaning": "生长"
+    },
+    {
+      "entryID": "sbx-cj07-091",
+      "term": "植える",
+      "reading": "うえる",
+      "meaning": "种植"
+    },
+    {
+      "entryID": "sbx-cj07-092",
+      "term": "収穫",
+      "reading": "しゅうかく",
+      "meaning": "收获"
+    },
+    {
+      "entryID": "sbx-cj07-093",
+      "term": "味わう",
+      "reading": "あじわう",
+      "meaning": "品尝"
+    },
+    {
+      "entryID": "sbx-cj07-094",
+      "term": "香り",
+      "reading": "かおり",
+      "meaning": "香气"
+    },
+    {
+      "entryID": "sbx-cj07-095",
+      "term": "贈る",
+      "reading": "おくる",
+      "meaning": "赠送"
+    },
+    {
+      "entryID": "sbx-cj07-096",
+      "term": "包む",
+      "reading": "つつむ",
+      "meaning": "包装"
+    },
+    {
+      "entryID": "sbx-cj07-097",
+      "term": "選択",
+      "reading": "せんたく",
+      "meaning": "选择"
+    },
+    {
+      "entryID": "sbx-cj07-098",
+      "term": "好み",
+      "reading": "このみ",
+      "meaning": "偏好"
+    },
+    {
+      "entryID": "sbx-cj07-099",
+      "term": "暑中見舞い",
+      "reading": "しょちゅうみまい",
+      "meaning": "暑期问候"
+    },
+    {
+      "entryID": "sbx-cj07-100",
+      "term": "年賀状",
+      "reading": "ねんがじょう",
+      "meaning": "贺年卡"
+    },
+    {
+      "entryID": "sbx-cj07-101",
+      "term": "お礼状",
+      "reading": "おれいじょう",
+      "meaning": "感谢信"
+    },
+    {
+      "entryID": "sbx-cj07-102",
+      "term": "手紙",
+      "reading": "てがみ",
+      "meaning": "信"
+    },
+    {
+      "entryID": "sbx-cj07-103",
+      "term": "封筒",
+      "reading": "ふうとう",
+      "meaning": "信封"
+    },
+    {
+      "entryID": "sbx-cj07-104",
+      "term": "切手",
+      "reading": "きって",
+      "meaning": "邮票"
+    },
+    {
+      "entryID": "sbx-cj07-105",
+      "term": "宛先",
+      "reading": "あてさき",
+      "meaning": "收件地址"
+    },
+    {
+      "entryID": "sbx-cj07-106",
+      "term": "送金",
+      "reading": "そうきん",
+      "meaning": "汇款"
+    },
+    {
+      "entryID": "sbx-cj07-107",
+      "term": "心を込める",
+      "reading": "こころをこめる",
+      "meaning": "用心"
+    },
+    {
+      "entryID": "sbx-cj07-108",
+      "term": "感謝の気持ち",
+      "reading": "かんしゃのきもち",
+      "meaning": "感激之情"
+    },
+    {
+      "entryID": "sbx-cj07-109",
+      "term": "喜び",
+      "reading": "よろこび",
+      "meaning": "喜悦"
+    },
+    {
+      "entryID": "sbx-cj07-110",
+      "term": "驚くほど",
+      "reading": "おどろくほど",
+      "meaning": "惊人地"
+    },
+    {
+      "entryID": "sbx-cj07-111",
+      "term": "段々",
+      "reading": "だんだん",
+      "meaning": "渐渐"
+    },
+    {
+      "entryID": "sbx-cj07-112",
+      "term": "どんどん",
+      "reading": "どんどん",
+      "meaning": "顺利地"
+    },
+    {
+      "entryID": "sbx-cj07-113",
+      "term": "次第に",
+      "reading": "しだいに",
+      "meaning": "逐渐"
+    },
+    {
+      "entryID": "sbx-cj07-114",
+      "term": "確実に",
+      "reading": "かくじつに",
+      "meaning": "切实地"
+    },
+    {
+      "entryID": "sbx-cj07-115",
+      "term": "着実",
+      "reading": "ちゃくじつ",
+      "meaning": "踏实"
+    },
+    {
+      "entryID": "sbx-cj07-116",
+      "term": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "顺利"
+    },
+    {
+      "entryID": "sbx-cj07-117",
+      "term": "好調",
+      "reading": "こうちょう",
+      "meaning": "良好"
+    },
+    {
+      "entryID": "sbx-cj07-118",
+      "term": "不調",
+      "reading": "ふちょう",
+      "meaning": "不佳"
+    },
+    {
+      "entryID": "sbx-cj07-119",
+      "term": "回復する",
+      "reading": "かいふくする",
+      "meaning": "康复"
+    },
+    {
+      "entryID": "sbx-cj07-120",
+      "term": "維持",
+      "reading": "いじ",
+      "meaning": "维持"
+    },
+    {
+      "entryID": "sbx-cj07-121",
+      "term": "保持",
+      "reading": "ほじ",
+      "meaning": "保持"
+    },
+    {
+      "entryID": "sbx-cj07-122",
+      "term": "失う",
+      "reading": "うしなう",
+      "meaning": "失去"
+    },
+    {
+      "entryID": "sbx-cj07-123",
+      "term": "得る",
+      "reading": "える",
+      "meaning": "得到"
+    },
+    {
+      "entryID": "sbx-cj07-124",
+      "term": "増加",
+      "reading": "ぞうか",
+      "meaning": "增加"
+    },
+    {
+      "entryID": "sbx-cj07-125",
+      "term": "減少",
+      "reading": "げんしょう",
+      "meaning": "减少"
+    },
+    {
+      "entryID": "sbx-cj07-126",
+      "term": "増減",
+      "reading": "ぞうげん",
+      "meaning": "增减"
+    },
+    {
+      "entryID": "sbx-cj07-127",
+      "term": "変動",
+      "reading": "へんどう",
+      "meaning": "变动"
+    },
+    {
+      "entryID": "sbx-cj07-128",
+      "term": "安定",
+      "reading": "あんてい",
+      "meaning": "稳定"
+    }
+  ]
+}

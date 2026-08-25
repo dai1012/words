@@ -1,0 +1,711 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-cj08-001",
+      "meaning": "职场",
+      "reading": "しょくば",
+      "term": "職場"
+    },
+    {
+      "entryID": "sbx-cj08-002",
+      "meaning": "任职",
+      "reading": "つとめる",
+      "term": "勤める"
+    },
+    {
+      "entryID": "sbx-cj08-003",
+      "meaning": "通勤",
+      "reading": "つうきん",
+      "term": "通勤"
+    },
+    {
+      "entryID": "sbx-cj08-004",
+      "meaning": "加班",
+      "reading": "ざんぎょう",
+      "term": "残業"
+    },
+    {
+      "entryID": "sbx-cj08-005",
+      "meaning": "上下班",
+      "reading": "しゅったいきん",
+      "term": "出退勤"
+    },
+    {
+      "entryID": "sbx-cj08-006",
+      "meaning": "考勤卡",
+      "reading": "タイムカード",
+      "term": "タイムカード"
+    },
+    {
+      "entryID": "sbx-cj08-007",
+      "meaning": "部门",
+      "reading": "ぶしょ",
+      "term": "部署"
+    },
+    {
+      "entryID": "sbx-cj08-008",
+      "meaning": "上级",
+      "reading": "じょうし",
+      "term": "上司"
+    },
+    {
+      "entryID": "sbx-cj08-009",
+      "meaning": "下属",
+      "reading": "ぶか",
+      "term": "部下"
+    },
+    {
+      "entryID": "sbx-cj08-010",
+      "meaning": "同事",
+      "reading": "どうりょう",
+      "term": "同僚"
+    },
+    {
+      "entryID": "sbx-cj08-011",
+      "meaning": "客户",
+      "reading": "とりひきさき",
+      "term": "取引先"
+    },
+    {
+      "entryID": "sbx-cj08-012",
+      "meaning": "顾客",
+      "reading": "こきゃく",
+      "term": "顧客"
+    },
+    {
+      "entryID": "sbx-cj08-013",
+      "meaning": "策划",
+      "reading": "きかく",
+      "term": "企画"
+    },
+    {
+      "entryID": "sbx-cj08-014",
+      "meaning": "方案",
+      "reading": "あん",
+      "term": "案"
+    },
+    {
+      "entryID": "sbx-cj08-015",
+      "meaning": "资料",
+      "reading": "しりょう",
+      "term": "資料"
+    },
+    {
+      "entryID": "sbx-cj08-016",
+      "meaning": "数据",
+      "reading": "データ",
+      "term": "データ"
+    },
+    {
+      "entryID": "sbx-cj08-017",
+      "meaning": "图表",
+      "reading": "グラフ",
+      "term": "グラフ"
+    },
+    {
+      "entryID": "sbx-cj08-018",
+      "meaning": "报告书",
+      "reading": "ほうこくしょ",
+      "term": "報告書"
+    },
+    {
+      "entryID": "sbx-cj08-019",
+      "meaning": "议题",
+      "reading": "ぎだい",
+      "term": "議題"
+    },
+    {
+      "entryID": "sbx-cj08-020",
+      "meaning": "会议记录",
+      "reading": "ぎじろく",
+      "term": "議事録"
+    },
+    {
+      "entryID": "sbx-cj08-021",
+      "meaning": "决定",
+      "reading": "けってい",
+      "term": "決定"
+    },
+    {
+      "entryID": "sbx-cj08-022",
+      "meaning": "批准",
+      "reading": "しょうにん",
+      "term": "承認"
+    },
+    {
+      "entryID": "sbx-cj08-023",
+      "meaning": "研究讨论",
+      "reading": "けんとう",
+      "term": "検討"
+    },
+    {
+      "entryID": "sbx-cj08-024",
+      "meaning": "提议",
+      "reading": "ていあん",
+      "term": "提案"
+    },
+    {
+      "entryID": "sbx-cj08-025",
+      "meaning": "反对",
+      "reading": "はんたい",
+      "term": "反対"
+    },
+    {
+      "entryID": "sbx-cj08-026",
+      "meaning": "赞成",
+      "reading": "さんせい",
+      "term": "賛成"
+    },
+    {
+      "entryID": "sbx-cj08-027",
+      "meaning": "意见",
+      "reading": "いけん",
+      "term": "意見"
+    },
+    {
+      "entryID": "sbx-cj08-028",
+      "meaning": "要求",
+      "reading": "ようぼう",
+      "term": "要望"
+    },
+    {
+      "entryID": "sbx-cj08-029",
+      "meaning": "投诉",
+      "reading": "クレーム",
+      "term": "クレーム"
+    },
+    {
+      "entryID": "sbx-cj08-030",
+      "meaning": "交货期",
+      "reading": "のうき",
+      "term": "納期"
+    },
+    {
+      "entryID": "sbx-cj08-031",
+      "meaning": "截稿",
+      "reading": "しめきり",
+      "term": "締め切り"
+    },
+    {
+      "entryID": "sbx-cj08-032",
+      "meaning": "迟到",
+      "reading": "ちこく",
+      "term": "遅刻"
+    },
+    {
+      "entryID": "sbx-cj08-033",
+      "meaning": "早退",
+      "reading": "そうたい",
+      "term": "早退"
+    },
+    {
+      "entryID": "sbx-cj08-034",
+      "meaning": "缺勤",
+      "reading": "けっきん",
+      "term": "欠勤"
+    },
+    {
+      "entryID": "sbx-cj08-035",
+      "meaning": "带薪假",
+      "reading": "ゆうきゅうきゅうか",
+      "term": "有給休暇"
+    },
+    {
+      "entryID": "sbx-cj08-036",
+      "meaning": "加班费",
+      "reading": "ざんぎょうてあて",
+      "term": "残業手当"
+    },
+    {
+      "entryID": "sbx-cj08-037",
+      "meaning": "晋升",
+      "reading": "しょうしん",
+      "term": "昇進"
+    },
+    {
+      "entryID": "sbx-cj08-038",
+      "meaning": "调职",
+      "reading": "てんきん",
+      "term": "転勤"
+    },
+    {
+      "entryID": "sbx-cj08-039",
+      "meaning": "退休",
+      "reading": "たいしょく",
+      "term": "退職"
+    },
+    {
+      "entryID": "sbx-cj08-040",
+      "meaning": "招聘",
+      "reading": "きゅうじん",
+      "term": "求人"
+    },
+    {
+      "entryID": "sbx-cj08-041",
+      "meaning": "应聘",
+      "reading": "おうぼ",
+      "term": "応募"
+    },
+    {
+      "entryID": "sbx-cj08-042",
+      "meaning": "简历",
+      "reading": "りれきしょ",
+      "term": "履歴書"
+    },
+    {
+      "entryID": "sbx-cj08-043",
+      "meaning": "面试",
+      "reading": "めんせつ",
+      "term": "面接"
+    },
+    {
+      "entryID": "sbx-cj08-044",
+      "meaning": "录用",
+      "reading": "さいよう",
+      "term": "採用"
+    },
+    {
+      "entryID": "sbx-cj08-045",
+      "meaning": "培训",
+      "reading": "けんしゅう",
+      "term": "研修"
+    },
+    {
+      "entryID": "sbx-cj08-046",
+      "meaning": "营业销售",
+      "reading": "えいぎょう",
+      "term": "営業"
+    },
+    {
+      "entryID": "sbx-cj08-047",
+      "meaning": "会计财务",
+      "reading": "けいり",
+      "term": "経理"
+    },
+    {
+      "entryID": "sbx-cj08-048",
+      "meaning": "人事",
+      "reading": "じんじ",
+      "term": "人事"
+    },
+    {
+      "entryID": "sbx-cj08-049",
+      "meaning": "宣传",
+      "reading": "こうほう",
+      "term": "広報"
+    },
+    {
+      "entryID": "sbx-cj08-050",
+      "meaning": "业务",
+      "reading": "ぎょうむ",
+      "term": "業務"
+    },
+    {
+      "entryID": "sbx-cj08-051",
+      "meaning": "负责",
+      "reading": "たんとう",
+      "term": "担当"
+    },
+    {
+      "entryID": "sbx-cj08-052",
+      "meaning": "代理",
+      "reading": "だいり",
+      "term": "代理"
+    },
+    {
+      "entryID": "sbx-cj08-053",
+      "meaning": "代替",
+      "reading": "かわる",
+      "term": "代わる"
+    },
+    {
+      "entryID": "sbx-cj08-054",
+      "meaning": "进展",
+      "reading": "しんちょく",
+      "term": "進捗"
+    },
+    {
+      "entryID": "sbx-cj08-055",
+      "meaning": "延误",
+      "reading": "おくれ",
+      "term": "遅れ"
+    },
+    {
+      "entryID": "sbx-cj08-056",
+      "meaning": "赶上",
+      "reading": "おいつく",
+      "term": "追いつく"
+    },
+    {
+      "entryID": "sbx-cj08-057",
+      "meaning": "富余",
+      "reading": "よゆう",
+      "term": "余裕"
+    },
+    {
+      "entryID": "sbx-cj08-058",
+      "meaning": "人手",
+      "reading": "ひとで",
+      "term": "人手"
+    },
+    {
+      "entryID": "sbx-cj08-059",
+      "meaning": "内定",
+      "reading": "ないてい",
+      "term": "内定"
+    },
+    {
+      "entryID": "sbx-cj08-060",
+      "meaning": "辞呈",
+      "reading": "じひょう",
+      "term": "辞表"
+    },
+    {
+      "entryID": "sbx-cj08-061",
+      "meaning": "就职",
+      "reading": "しゅうしょく",
+      "term": "就職"
+    },
+    {
+      "entryID": "sbx-cj08-062",
+      "meaning": "失业",
+      "reading": "しつぎょう",
+      "term": "失業"
+    },
+    {
+      "entryID": "sbx-cj08-063",
+      "meaning": "跳槽",
+      "reading": "てんしょく",
+      "term": "転職"
+    },
+    {
+      "entryID": "sbx-cj08-064",
+      "meaning": "钟点工",
+      "reading": "パート",
+      "term": "パート"
+    },
+    {
+      "entryID": "sbx-cj08-065",
+      "meaning": "兼职",
+      "reading": "アルバイト",
+      "term": "アルバイト"
+    },
+    {
+      "entryID": "sbx-cj08-066",
+      "meaning": "正式员工",
+      "reading": "せいしゃいん",
+      "term": "正社員"
+    },
+    {
+      "entryID": "sbx-cj08-067",
+      "meaning": "合同工",
+      "reading": "けいやくしゃいん",
+      "term": "契約社員"
+    },
+    {
+      "entryID": "sbx-cj08-068",
+      "meaning": "劳动时间",
+      "reading": "ろうどうじかん",
+      "term": "労働時間"
+    },
+    {
+      "entryID": "sbx-cj08-069",
+      "meaning": "休息室",
+      "reading": "きゅうけいしつ",
+      "term": "休憩室"
+    },
+    {
+      "entryID": "sbx-cj08-070",
+      "meaning": "员工餐厅",
+      "reading": "しょくどう",
+      "term": "食堂"
+    },
+    {
+      "entryID": "sbx-cj08-071",
+      "meaning": "工作中",
+      "reading": "しごとちゅう",
+      "term": "仕事中"
+    },
+    {
+      "entryID": "sbx-cj08-072",
+      "meaning": "碰头会",
+      "reading": "うちあわせ",
+      "term": "打ち合わせ"
+    },
+    {
+      "entryID": "sbx-cj08-073",
+      "meaning": "日程表",
+      "reading": "スケジュール",
+      "term": "スケジュール"
+    },
+    {
+      "entryID": "sbx-cj08-074",
+      "meaning": "计划表",
+      "reading": "よていひょう",
+      "term": "予定表"
+    },
+    {
+      "entryID": "sbx-cj08-075",
+      "meaning": "日历",
+      "reading": "カレンダー",
+      "term": "カレンダー"
+    },
+    {
+      "entryID": "sbx-cj08-076",
+      "meaning": "大致标准",
+      "reading": "めやす",
+      "term": "目安"
+    },
+    {
+      "entryID": "sbx-cj08-077",
+      "meaning": "基准",
+      "reading": "きじゅん",
+      "term": "基準"
+    },
+    {
+      "entryID": "sbx-cj08-078",
+      "meaning": "方针",
+      "reading": "ほうしん",
+      "term": "方針"
+    },
+    {
+      "entryID": "sbx-cj08-079",
+      "meaning": "成果",
+      "reading": "せいか",
+      "term": "成果"
+    },
+    {
+      "entryID": "sbx-cj08-080",
+      "meaning": "评价",
+      "reading": "ひょうか",
+      "term": "評価"
+    },
+    {
+      "entryID": "sbx-cj08-081",
+      "meaning": "反省",
+      "reading": "はんせい",
+      "term": "反省"
+    },
+    {
+      "entryID": "sbx-cj08-082",
+      "meaning": "课题",
+      "reading": "かだい",
+      "term": "課題"
+    },
+    {
+      "entryID": "sbx-cj08-083",
+      "meaning": "定额",
+      "reading": "ノルマ",
+      "term": "ノルマ"
+    },
+    {
+      "entryID": "sbx-cj08-084",
+      "meaning": "达成",
+      "reading": "たっせい",
+      "term": "達成"
+    },
+    {
+      "entryID": "sbx-cj08-085",
+      "meaning": "眉目",
+      "reading": "めど",
+      "term": "目処"
+    },
+    {
+      "entryID": "sbx-cj08-086",
+      "meaning": "安排",
+      "reading": "だんどり",
+      "term": "段取り"
+    },
+    {
+      "entryID": "sbx-cj08-087",
+      "meaning": "步骤",
+      "reading": "てじゅん",
+      "term": "手順"
+    },
+    {
+      "entryID": "sbx-cj08-088",
+      "meaning": "效率",
+      "reading": "こうりつ",
+      "term": "効率"
+    },
+    {
+      "entryID": "sbx-cj08-089",
+      "meaning": "浪费；徒劳",
+      "reading": "むだ",
+      "term": "無駄"
+    },
+    {
+      "entryID": "sbx-cj08-090",
+      "meaning": "工夫",
+      "reading": "てま",
+      "term": "手間"
+    },
+    {
+      "entryID": "sbx-cj08-091",
+      "meaning": "费周折",
+      "reading": "てまどる",
+      "term": "手間取る"
+    },
+    {
+      "entryID": "sbx-cj08-092",
+      "meaning": "赶",
+      "reading": "いそぐ",
+      "term": "急ぐ"
+    },
+    {
+      "entryID": "sbx-cj08-093",
+      "meaning": "焦急",
+      "reading": "あせる",
+      "term": "焦る"
+    },
+    {
+      "entryID": "sbx-cj08-094",
+      "meaning": "沉着",
+      "reading": "おちつく",
+      "term": "落ち着く"
+    },
+    {
+      "entryID": "sbx-cj08-095",
+      "meaning": "冷静",
+      "reading": "れいせい",
+      "term": "冷静"
+    },
+    {
+      "entryID": "sbx-cj08-096",
+      "meaning": "慌张",
+      "reading": "あわてる",
+      "term": "慌てる"
+    },
+    {
+      "entryID": "sbx-cj08-097",
+      "meaning": "失误",
+      "reading": "ミス",
+      "term": "ミス"
+    },
+    {
+      "entryID": "sbx-cj08-098",
+      "meaning": "纠纷",
+      "reading": "トラブル",
+      "term": "トラブル"
+    },
+    {
+      "entryID": "sbx-cj08-099",
+      "meaning": "应对",
+      "reading": "たいおう",
+      "term": "対応"
+    },
+    {
+      "entryID": "sbx-cj08-100",
+      "meaning": "处置",
+      "reading": "しょち",
+      "term": "処置"
+    },
+    {
+      "entryID": "sbx-cj08-101",
+      "meaning": "解决",
+      "reading": "かいけつ",
+      "term": "解決"
+    },
+    {
+      "entryID": "sbx-cj08-102",
+      "meaning": "原因",
+      "reading": "げんいん",
+      "term": "原因"
+    },
+    {
+      "entryID": "sbx-cj08-103",
+      "meaning": "责任",
+      "reading": "せきにん",
+      "term": "責任"
+    },
+    {
+      "entryID": "sbx-cj08-104",
+      "meaning": "道歉",
+      "reading": "あやまる",
+      "term": "謝る"
+    },
+    {
+      "entryID": "sbx-cj08-105",
+      "meaning": "亏损",
+      "reading": "そん",
+      "term": "損"
+    },
+    {
+      "entryID": "sbx-cj08-106",
+      "meaning": "划算",
+      "reading": "とく",
+      "term": "得"
+    },
+    {
+      "entryID": "sbx-cj08-107",
+      "meaning": "加班费",
+      "reading": "ざんぎょうだい",
+      "term": "残業代"
+    },
+    {
+      "entryID": "sbx-cj08-108",
+      "meaning": "假日出勤",
+      "reading": "きゅうじつしゅっきん",
+      "term": "休日出勤"
+    },
+    {
+      "entryID": "sbx-cj08-109",
+      "meaning": "带薪",
+      "reading": "ゆうきゅう",
+      "term": "有給"
+    },
+    {
+      "entryID": "sbx-cj08-110",
+      "meaning": "旺季",
+      "reading": "はんぼうき",
+      "term": "繁忙期"
+    },
+    {
+      "entryID": "sbx-cj08-111",
+      "meaning": "淡季",
+      "reading": "かんさんき",
+      "term": "閑散期"
+    },
+    {
+      "entryID": "sbx-cj08-112",
+      "meaning": "诀窍",
+      "reading": "ノウハウ",
+      "term": "ノウハウ"
+    },
+    {
+      "entryID": "sbx-cj08-113",
+      "meaning": "职业经历",
+      "reading": "キャリア",
+      "term": "キャリア"
+    },
+    {
+      "entryID": "sbx-cj08-114",
+      "meaning": "适应性",
+      "reading": "てきせい",
+      "term": "適性"
+    },
+    {
+      "entryID": "sbx-cj08-115",
+      "meaning": "价值感",
+      "reading": "やりがい",
+      "term": "やりがい"
+    }
+  ],
+  "entryCount": 115,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 29–32 课主题（职场工作、会议报告、期限管理）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "japanese",
+      "sbx",
+      "shokyu",
+      "chinese"
+    ],
+    "title": "标准日本语·初级 第29-32课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.cj08",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

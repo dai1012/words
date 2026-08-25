@@ -1,0 +1,801 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-zj01-001",
+      "meaning": "信赖",
+      "reading": "しんらい",
+      "term": "信頼"
+    },
+    {
+      "entryID": "sbx-zj01-002",
+      "meaning": "诚实",
+      "reading": "せいじつ",
+      "term": "誠実"
+    },
+    {
+      "entryID": "sbx-zj01-003",
+      "meaning": "约定",
+      "reading": "やくそく",
+      "term": "約束"
+    },
+    {
+      "entryID": "sbx-zj01-004",
+      "meaning": "误会",
+      "reading": "ごかい",
+      "term": "誤解"
+    },
+    {
+      "entryID": "sbx-zj01-005",
+      "meaning": "尴尬",
+      "reading": "きまずい",
+      "term": "気まずい"
+    },
+    {
+      "entryID": "sbx-zj01-006",
+      "meaning": "倾诉",
+      "reading": "うちあける",
+      "term": "打ち明ける"
+    },
+    {
+      "entryID": "sbx-zj01-007",
+      "meaning": "共鸣",
+      "reading": "きょうかん",
+      "term": "共感"
+    },
+    {
+      "entryID": "sbx-zj01-008",
+      "meaning": "关照",
+      "reading": "はいりょ",
+      "term": "配慮"
+    },
+    {
+      "entryID": "sbx-zj01-009",
+      "meaning": "客气",
+      "reading": "えんりょ",
+      "term": "遠慮"
+    },
+    {
+      "entryID": "sbx-zj01-010",
+      "meaning": "体贴",
+      "reading": "きづかい",
+      "term": "気遣い"
+    },
+    {
+      "entryID": "sbx-zj01-011",
+      "meaning": "照料",
+      "reading": "せわ",
+      "term": "世話"
+    },
+    {
+      "entryID": "sbx-zj01-012",
+      "meaning": "干涉",
+      "reading": "かんしょう",
+      "term": "干渉"
+    },
+    {
+      "entryID": "sbx-zj01-013",
+      "meaning": "亲密",
+      "reading": "しんみつ",
+      "term": "親密"
+    },
+    {
+      "entryID": "sbx-zj01-014",
+      "meaning": "疏远",
+      "reading": "そえん",
+      "term": "疎遠"
+    },
+    {
+      "entryID": "sbx-zj01-015",
+      "meaning": "和好",
+      "reading": "なかなおり",
+      "term": "仲直り"
+    },
+    {
+      "entryID": "sbx-zj01-016",
+      "meaning": "争吵",
+      "reading": "けんか",
+      "term": "喧嘩"
+    },
+    {
+      "entryID": "sbx-zj01-017",
+      "meaning": "原谅",
+      "reading": "ゆるし",
+      "term": "許し"
+    },
+    {
+      "entryID": "sbx-zj01-018",
+      "meaning": "宽宏",
+      "reading": "かんだい",
+      "term": "寛大"
+    },
+    {
+      "entryID": "sbx-zj01-019",
+      "meaning": "偏见",
+      "reading": "へんけん",
+      "term": "偏見"
+    },
+    {
+      "entryID": "sbx-zj01-020",
+      "meaning": "刻板印象",
+      "reading": "ステレオタイプ",
+      "term": "ステレオタイプ"
+    },
+    {
+      "entryID": "sbx-zj01-021",
+      "meaning": "立场",
+      "reading": "たちば",
+      "term": "立場"
+    },
+    {
+      "entryID": "sbx-zj01-022",
+      "meaning": "视角",
+      "reading": "してん",
+      "term": "視点"
+    },
+    {
+      "entryID": "sbx-zj01-023",
+      "meaning": "妥协点",
+      "reading": "おりあい",
+      "term": "折り合い"
+    },
+    {
+      "entryID": "sbx-zj01-024",
+      "meaning": "商谈",
+      "reading": "はなしあい",
+      "term": "話し合い"
+    },
+    {
+      "entryID": "sbx-zj01-025",
+      "meaning": "商量对象",
+      "reading": "そうだんあいて",
+      "term": "相談相手"
+    },
+    {
+      "entryID": "sbx-zj01-026",
+      "meaning": "惦记",
+      "reading": "きにかける",
+      "term": "気にかける"
+    },
+    {
+      "entryID": "sbx-zj01-027",
+      "meaning": "有底气",
+      "reading": "こころづよい",
+      "term": "心強い"
+    },
+    {
+      "entryID": "sbx-zj01-028",
+      "meaning": "可靠",
+      "reading": "たのもしい",
+      "term": "頼もしい"
+    },
+    {
+      "entryID": "sbx-zj01-029",
+      "meaning": "背叛",
+      "reading": "うらぎる",
+      "term": "裏切る"
+    },
+    {
+      "entryID": "sbx-zj01-030",
+      "meaning": "怀疑",
+      "reading": "うたがう",
+      "term": "疑う"
+    },
+    {
+      "entryID": "sbx-zj01-031",
+      "meaning": "误解",
+      "reading": "かんちがい",
+      "term": "勘違い"
+    },
+    {
+      "entryID": "sbx-zj01-032",
+      "meaning": "坦率",
+      "reading": "すなお",
+      "term": "素直"
+    },
+    {
+      "entryID": "sbx-zj01-033",
+      "meaning": "任性",
+      "reading": "わがまま",
+      "term": "わがまま"
+    },
+    {
+      "entryID": "sbx-zj01-034",
+      "meaning": "以自我为中心",
+      "reading": "じこちゅうしんてき",
+      "term": "自己中心的"
+    },
+    {
+      "entryID": "sbx-zj01-035",
+      "meaning": "融洽",
+      "reading": "うちとける",
+      "term": "打ち解ける"
+    },
+    {
+      "entryID": "sbx-zj01-036",
+      "meaning": "融入",
+      "reading": "なじむ",
+      "term": "馴染む"
+    },
+    {
+      "entryID": "sbx-zj01-037",
+      "meaning": "熟识",
+      "reading": "なじみ",
+      "term": "なじみ"
+    },
+    {
+      "entryID": "sbx-zj01-038",
+      "meaning": "交友",
+      "reading": "こうゆう",
+      "term": "交友"
+    },
+    {
+      "entryID": "sbx-zj01-039",
+      "meaning": "交往",
+      "reading": "こうさい",
+      "term": "交際"
+    },
+    {
+      "entryID": "sbx-zj01-040",
+      "meaning": "应酬",
+      "reading": "つきあい",
+      "term": "つきあい"
+    },
+    {
+      "entryID": "sbx-zj01-041",
+      "meaning": "缘分",
+      "reading": "えん",
+      "term": "縁"
+    },
+    {
+      "entryID": "sbx-zj01-042",
+      "meaning": "联结",
+      "reading": "つながり",
+      "term": "繋がり"
+    },
+    {
+      "entryID": "sbx-zj01-043",
+      "meaning": "孤独",
+      "reading": "こどく",
+      "term": "孤独"
+    },
+    {
+      "entryID": "sbx-zj01-044",
+      "meaning": "寂寞",
+      "reading": "さびしさ",
+      "term": "寂しさ"
+    },
+    {
+      "entryID": "sbx-zj01-045",
+      "meaning": "温情",
+      "reading": "ぬくもり",
+      "term": "温もり"
+    },
+    {
+      "entryID": "sbx-zj01-046",
+      "meaning": "舒适度",
+      "reading": "いごこち",
+      "term": "居心地"
+    },
+    {
+      "entryID": "sbx-zj01-047",
+      "meaning": "安宁",
+      "reading": "やすらぎ",
+      "term": "安らぎ"
+    },
+    {
+      "entryID": "sbx-zj01-048",
+      "meaning": "缓解压力",
+      "reading": "ストレスかいしょう",
+      "term": "ストレス解消"
+    },
+    {
+      "entryID": "sbx-zj01-049",
+      "meaning": "焕然一新",
+      "reading": "リフレッシュ",
+      "term": "リフレッシュ"
+    },
+    {
+      "entryID": "sbx-zj01-050",
+      "meaning": "转换心情",
+      "reading": "きぶんてんかん",
+      "term": "気分転換"
+    },
+    {
+      "entryID": "sbx-zj01-051",
+      "meaning": "喘口气",
+      "reading": "いきぬき",
+      "term": "息抜き"
+    },
+    {
+      "entryID": "sbx-zj01-052",
+      "meaning": "治愈",
+      "reading": "いやし",
+      "term": "癒し"
+    },
+    {
+      "entryID": "sbx-zj01-053",
+      "meaning": "充实感",
+      "reading": "じゅうじつかん",
+      "term": "充実感"
+    },
+    {
+      "entryID": "sbx-zj01-054",
+      "meaning": "生存意义",
+      "reading": "いきがい",
+      "term": "生きがい"
+    },
+    {
+      "entryID": "sbx-zj01-055",
+      "meaning": "动力",
+      "reading": "モチベーション",
+      "term": "モチベーション"
+    },
+    {
+      "entryID": "sbx-zj01-056",
+      "meaning": "上进心",
+      "reading": "こうじょうしん",
+      "term": "向上心"
+    },
+    {
+      "entryID": "sbx-zj01-057",
+      "meaning": "好奇心",
+      "reading": "こうきしん",
+      "term": "好奇心"
+    },
+    {
+      "entryID": "sbx-zj01-058",
+      "meaning": "探究",
+      "reading": "たんきゅう",
+      "term": "探求"
+    },
+    {
+      "entryID": "sbx-zj01-059",
+      "meaning": "试错",
+      "reading": "しこうさくご",
+      "term": "試行錯誤"
+    },
+    {
+      "entryID": "sbx-zj01-060",
+      "meaning": "摸索",
+      "reading": "もさく",
+      "term": "模索"
+    },
+    {
+      "entryID": "sbx-zj01-061",
+      "meaning": "掌握",
+      "reading": "しゅうとく",
+      "term": "習得"
+    },
+    {
+      "entryID": "sbx-zj01-062",
+      "meaning": "掌握住",
+      "reading": "みにつく",
+      "term": "身につく"
+    },
+    {
+      "entryID": "sbx-zj01-063",
+      "meaning": "应用",
+      "reading": "おうよう",
+      "term": "応用"
+    },
+    {
+      "entryID": "sbx-zj01-064",
+      "meaning": "实践",
+      "reading": "じっせん",
+      "term": "実践"
+    },
+    {
+      "entryID": "sbx-zj01-065",
+      "meaning": "知识",
+      "reading": "ちしき",
+      "term": "知識"
+    },
+    {
+      "entryID": "sbx-zj01-066",
+      "meaning": "教养",
+      "reading": "きょうよう",
+      "term": "教養"
+    },
+    {
+      "entryID": "sbx-zj01-067",
+      "meaning": "见闻",
+      "reading": "けんぶん",
+      "term": "見聞"
+    },
+    {
+      "entryID": "sbx-zj01-068",
+      "meaning": "感性",
+      "reading": "かんせい",
+      "term": "感性"
+    },
+    {
+      "entryID": "sbx-zj01-069",
+      "meaning": "想象力",
+      "reading": "そうぞうりょく",
+      "term": "想像力"
+    },
+    {
+      "entryID": "sbx-zj01-070",
+      "meaning": "创造力",
+      "reading": "そうぞうせい",
+      "term": "創造性"
+    },
+    {
+      "entryID": "sbx-zj01-071",
+      "meaning": "灵感",
+      "reading": "ひらめき",
+      "term": "ひらめき"
+    },
+    {
+      "entryID": "sbx-zj01-072",
+      "meaning": "构思",
+      "reading": "ちゃくそう",
+      "term": "着想"
+    },
+    {
+      "entryID": "sbx-zj01-073",
+      "meaning": "创意",
+      "reading": "はっそう",
+      "term": "発想"
+    },
+    {
+      "entryID": "sbx-zj01-074",
+      "meaning": "生活习惯",
+      "reading": "せいかつしゅうかん",
+      "term": "生活習慣"
+    },
+    {
+      "entryID": "sbx-zj01-075",
+      "meaning": "早睡早起型",
+      "reading": "あさがた",
+      "term": "朝型"
+    },
+    {
+      "entryID": "sbx-zj01-076",
+      "meaning": "夜猫子型",
+      "reading": "よるがた",
+      "term": "夜型"
+    },
+    {
+      "entryID": "sbx-zj01-077",
+      "meaning": "自己做饭",
+      "reading": "じすい",
+      "term": "自炊"
+    },
+    {
+      "entryID": "sbx-zj01-078",
+      "meaning": "外出就餐",
+      "reading": "がいしょく",
+      "term": "外食"
+    },
+    {
+      "entryID": "sbx-zj01-079",
+      "meaning": "简餐",
+      "reading": "なかしょく",
+      "term": "中食"
+    },
+    {
+      "entryID": "sbx-zj01-080",
+      "meaning": "省时",
+      "reading": "じたん",
+      "term": "時短"
+    },
+    {
+      "entryID": "sbx-zj01-081",
+      "meaning": "节电",
+      "reading": "せつでん",
+      "term": "節電"
+    },
+    {
+      "entryID": "sbx-zj01-082",
+      "meaning": "断舍离",
+      "reading": "だんしゃり",
+      "term": "断捨離"
+    },
+    {
+      "entryID": "sbx-zj01-083",
+      "meaning": "极简主义",
+      "reading": "ミニマリスト",
+      "term": "ミニマリスト"
+    },
+    {
+      "entryID": "sbx-zj01-084",
+      "meaning": "收拾",
+      "reading": "かたづけ",
+      "term": "片付け"
+    },
+    {
+      "entryID": "sbx-zj01-085",
+      "meaning": "整洁有序",
+      "reading": "せいりせいとん",
+      "term": "整理整頓"
+    },
+    {
+      "entryID": "sbx-zj01-086",
+      "meaning": "收纳",
+      "reading": "しゅうのう",
+      "term": "収納"
+    },
+    {
+      "entryID": "sbx-zj01-087",
+      "meaning": "室内陈设",
+      "reading": "インテリア",
+      "term": "インテリア"
+    },
+    {
+      "entryID": "sbx-zj01-088",
+      "meaning": "日常生活",
+      "reading": "くらし",
+      "term": "暮らし"
+    },
+    {
+      "entryID": "sbx-zj01-089",
+      "meaning": "日常",
+      "reading": "ひび",
+      "term": "日々"
+    },
+    {
+      "entryID": "sbx-zj01-090",
+      "meaning": "惯例",
+      "reading": "ルーティン",
+      "term": "ルーティン"
+    },
+    {
+      "entryID": "sbx-zj01-091",
+      "meaning": "习惯养成",
+      "reading": "しゅうかんづけ",
+      "term": "習慣づけ"
+    },
+    {
+      "entryID": "sbx-zj01-092",
+      "meaning": "三天打鱼两天晒网",
+      "reading": "みっかぼうず",
+      "term": "三日坊主"
+    },
+    {
+      "entryID": "sbx-zj01-093",
+      "meaning": "易厌倦",
+      "reading": "あきしょう",
+      "term": "飽き性"
+    },
+    {
+      "entryID": "sbx-zj01-094",
+      "meaning": "爱钻研",
+      "reading": "こりしょう",
+      "term": "凝り性"
+    },
+    {
+      "entryID": "sbx-zj01-095",
+      "meaning": "一丝不苟",
+      "reading": "きちょうめん",
+      "term": "几帳面"
+    },
+    {
+      "entryID": "sbx-zj01-096",
+      "meaning": "粗枝大叶",
+      "reading": "おおざっぱ",
+      "term": "大雑把"
+    },
+    {
+      "entryID": "sbx-zj01-097",
+      "meaning": "谨慎",
+      "reading": "しんちょう",
+      "term": "慎重"
+    },
+    {
+      "entryID": "sbx-zj01-098",
+      "meaning": "大胆",
+      "reading": "だいたん",
+      "term": "大胆"
+    },
+    {
+      "entryID": "sbx-zj01-099",
+      "meaning": "胆怯",
+      "reading": "おくびょう",
+      "term": "臆病"
+    },
+    {
+      "entryID": "sbx-zj01-100",
+      "meaning": "果敢",
+      "reading": "かかん",
+      "term": "果敢"
+    },
+    {
+      "entryID": "sbx-zj01-101",
+      "meaning": "我行我素",
+      "reading": "マイペース",
+      "term": "マイペース"
+    },
+    {
+      "entryID": "sbx-zj01-102",
+      "meaning": "温吞",
+      "reading": "おっとり",
+      "term": "おっとり"
+    },
+    {
+      "entryID": "sbx-zj01-103",
+      "meaning": "爽快",
+      "reading": "サバサバ",
+      "term": "サバサバ"
+    },
+    {
+      "entryID": "sbx-zj01-104",
+      "meaning": "靠谱的人",
+      "reading": "しっかりもの",
+      "term": "しっかり者"
+    },
+    {
+      "entryID": "sbx-zj01-105",
+      "meaning": "努力家",
+      "reading": "がんばりや",
+      "term": "頑張り屋"
+    },
+    {
+      "entryID": "sbx-zj01-106",
+      "meaning": "周到",
+      "reading": "きくばり",
+      "term": "気配り"
+    },
+    {
+      "entryID": "sbx-zj01-107",
+      "meaning": "操心命",
+      "reading": "しんぱいしょう",
+      "term": "心配性"
+    },
+    {
+      "entryID": "sbx-zj01-108",
+      "meaning": "乐天派",
+      "reading": "らくてんか",
+      "term": "楽天家"
+    },
+    {
+      "entryID": "sbx-zj01-109",
+      "meaning": "悲观",
+      "reading": "ひかんてき",
+      "term": "悲観的"
+    },
+    {
+      "entryID": "sbx-zj01-110",
+      "meaning": "积极性",
+      "reading": "せっきょくせい",
+      "term": "積極性"
+    },
+    {
+      "entryID": "sbx-zj01-111",
+      "meaning": "主体性",
+      "reading": "しゅたいせい",
+      "term": "主体性"
+    },
+    {
+      "entryID": "sbx-zj01-112",
+      "meaning": "行动力",
+      "reading": "こうどうりょく",
+      "term": "行動力"
+    },
+    {
+      "entryID": "sbx-zj01-113",
+      "meaning": "同理心",
+      "reading": "きょうかんりょく",
+      "term": "共感力"
+    },
+    {
+      "entryID": "sbx-zj01-114",
+      "meaning": "倾听",
+      "reading": "けいちょう",
+      "term": "傾聴"
+    },
+    {
+      "entryID": "sbx-zj01-115",
+      "meaning": "自我表露",
+      "reading": "じこかいじ",
+      "term": "自己開示"
+    },
+    {
+      "entryID": "sbx-zj01-116",
+      "meaning": "距离感",
+      "reading": "きょりかん",
+      "term": "距離感"
+    },
+    {
+      "entryID": "sbx-zj01-117",
+      "meaning": "划清界限",
+      "reading": "いっせんをがくす",
+      "term": "一線を画す"
+    },
+    {
+      "entryID": "sbx-zj01-118",
+      "meaning": "费心照顾",
+      "reading": "きをつかう",
+      "term": "気を遣う"
+    },
+    {
+      "entryID": "sbx-zj01-119",
+      "meaning": "拘谨",
+      "reading": "えんりょがち",
+      "term": "遠慮がち"
+    },
+    {
+      "entryID": "sbx-zj01-120",
+      "meaning": "心墙",
+      "reading": "こころのかべ",
+      "term": "心の壁"
+    },
+    {
+      "entryID": "sbx-zj01-121",
+      "meaning": "融洽气氛",
+      "reading": "うちとけたふんいき",
+      "term": "打ち解けた雰囲気"
+    },
+    {
+      "entryID": "sbx-zj01-122",
+      "meaning": "信任关系",
+      "reading": "しんらいかんけい",
+      "term": "信頼関係"
+    },
+    {
+      "entryID": "sbx-zj01-123",
+      "meaning": "人情味",
+      "reading": "にんげんみ",
+      "term": "人間味"
+    },
+    {
+      "entryID": "sbx-zj01-124",
+      "meaning": "重情义",
+      "reading": "じょうにあつい",
+      "term": "情に厚い"
+    },
+    {
+      "entryID": "sbx-zj01-125",
+      "meaning": "讲情义",
+      "reading": "ぎりがたい",
+      "term": "義理堅い"
+    },
+    {
+      "entryID": "sbx-zj01-126",
+      "meaning": "忠实可靠",
+      "reading": "りちぎ",
+      "term": "律儀"
+    },
+    {
+      "entryID": "sbx-zj01-127",
+      "meaning": "诚意",
+      "reading": "せいい",
+      "term": "誠意"
+    },
+    {
+      "entryID": "sbx-zj01-128",
+      "meaning": "真心",
+      "reading": "まごころ",
+      "term": "真心"
+    },
+    {
+      "entryID": "sbx-zj01-129",
+      "meaning": "无可替代的",
+      "reading": "かけがえのない",
+      "term": "かけがえのない"
+    },
+    {
+      "entryID": "sbx-zj01-130",
+      "meaning": "成为支柱",
+      "reading": "ささえになる",
+      "term": "支えになる"
+    }
+  ],
+  "entryCount": 130,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：参考资料核实的中间级第 5–8 课主题（人际沟通、自我成长、生活方式）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "intermediate",
+    "tags": [
+      "japanese",
+      "sbx",
+      "chuukyuu",
+      "chinese"
+    ],
+    "title": "标准日本语·中级 第05-08课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.zj01",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

@@ -1,0 +1,698 @@
+{
+  "schemaVersion": 1,
+  "packID": "com.dai1012.cn.ja.sbx.cj12",
+  "packVersion": 1,
+  "metadata": {
+    "title": "标准日本语·初级 第45-48课词汇（项目整理版）",
+    "language": "ja",
+    "classification": "sbx",
+    "level": "beginner",
+    "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 45–48 课主题（社会生活、书面表达、总结归纳）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "tags": [
+      "japanese",
+      "sbx",
+      "shokyu",
+      "chinese"
+    ]
+  },
+  "entries": [
+    {
+      "entryID": "sbx-cj12-001",
+      "term": "社会",
+      "reading": "しゃかい",
+      "meaning": "社会"
+    },
+    {
+      "entryID": "sbx-cj12-002",
+      "term": "経済",
+      "reading": "けいざい",
+      "meaning": "经济"
+    },
+    {
+      "entryID": "sbx-cj12-003",
+      "term": "政治",
+      "reading": "せいじ",
+      "meaning": "政治"
+    },
+    {
+      "entryID": "sbx-cj12-004",
+      "term": "国際",
+      "reading": "こくさい",
+      "meaning": "国际"
+    },
+    {
+      "entryID": "sbx-cj12-005",
+      "term": "国内",
+      "reading": "こくない",
+      "meaning": "国内"
+    },
+    {
+      "entryID": "sbx-cj12-006",
+      "term": "コミュニティ",
+      "reading": "コミュニティ",
+      "meaning": "社区"
+    },
+    {
+      "entryID": "sbx-cj12-007",
+      "term": "ボランティア",
+      "reading": "ボランティア",
+      "meaning": "志愿者"
+    },
+    {
+      "entryID": "sbx-cj12-008",
+      "term": "寄付",
+      "reading": "きふ",
+      "meaning": "捐款"
+    },
+    {
+      "entryID": "sbx-cj12-009",
+      "term": "募金",
+      "reading": "ぼきん",
+      "meaning": "募捐"
+    },
+    {
+      "entryID": "sbx-cj12-010",
+      "term": "支援",
+      "reading": "しえん",
+      "meaning": "支援"
+    },
+    {
+      "entryID": "sbx-cj12-011",
+      "term": "援助",
+      "reading": "えんじょ",
+      "meaning": "援助"
+    },
+    {
+      "entryID": "sbx-cj12-012",
+      "term": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "参与者"
+    },
+    {
+      "entryID": "sbx-cj12-013",
+      "term": "主催",
+      "reading": "しゅさい",
+      "meaning": "主办"
+    },
+    {
+      "entryID": "sbx-cj12-014",
+      "term": "後援",
+      "reading": "こうえん",
+      "meaning": "后援"
+    },
+    {
+      "entryID": "sbx-cj12-015",
+      "term": "実行",
+      "reading": "じっこう",
+      "meaning": "执行"
+    },
+    {
+      "entryID": "sbx-cj12-016",
+      "term": "運営",
+      "reading": "うんえい",
+      "meaning": "运营"
+    },
+    {
+      "entryID": "sbx-cj12-017",
+      "term": "活動",
+      "reading": "かつどう",
+      "meaning": "活动"
+    },
+    {
+      "entryID": "sbx-cj12-018",
+      "term": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "活动事项"
+    },
+    {
+      "entryID": "sbx-cj12-019",
+      "term": "祭り",
+      "reading": "まつり",
+      "meaning": "节庆"
+    },
+    {
+      "entryID": "sbx-cj12-020",
+      "term": "伝統文化",
+      "reading": "でんとうぶんか",
+      "meaning": "传统文化"
+    },
+    {
+      "entryID": "sbx-cj12-021",
+      "term": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "文物"
+    },
+    {
+      "entryID": "sbx-cj12-022",
+      "term": "世界遺産",
+      "reading": "せかいいさん",
+      "meaning": "世界遗产"
+    },
+    {
+      "entryID": "sbx-cj12-023",
+      "term": "自然保護",
+      "reading": "しぜんほご",
+      "meaning": "自然保护"
+    },
+    {
+      "entryID": "sbx-cj12-024",
+      "term": "環境問題",
+      "reading": "かんきょうもんだい",
+      "meaning": "环境问题"
+    },
+    {
+      "entryID": "sbx-cj12-025",
+      "term": "リサイクル",
+      "reading": "リサイクル",
+      "meaning": "回收利用"
+    },
+    {
+      "entryID": "sbx-cj12-026",
+      "term": "ごみ分別",
+      "reading": "ごみぶんべつ",
+      "meaning": "垃圾分类"
+    },
+    {
+      "entryID": "sbx-cj12-027",
+      "term": "省エネ",
+      "reading": "しょうエネ",
+      "meaning": "节能"
+    },
+    {
+      "entryID": "sbx-cj12-028",
+      "term": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "meaning": "全球变暖"
+    },
+    {
+      "entryID": "sbx-cj12-029",
+      "term": "大気汚染",
+      "reading": "たいきおせん",
+      "meaning": "空气污染"
+    },
+    {
+      "entryID": "sbx-cj12-030",
+      "term": "水質汚染",
+      "reading": "すいしつおせん",
+      "meaning": "水质污染"
+    },
+    {
+      "entryID": "sbx-cj12-031",
+      "term": "生態系",
+      "reading": "せいたいけい",
+      "meaning": "生态系统"
+    },
+    {
+      "entryID": "sbx-cj12-032",
+      "term": "持続可能",
+      "reading": "じぞくかのう",
+      "meaning": "可持续"
+    },
+    {
+      "entryID": "sbx-cj12-033",
+      "term": "責務",
+      "reading": "せきむ",
+      "meaning": "职责"
+    },
+    {
+      "entryID": "sbx-cj12-034",
+      "term": "取り組み",
+      "reading": "とりくみ",
+      "meaning": "举措"
+    },
+    {
+      "entryID": "sbx-cj12-035",
+      "term": "課題解決",
+      "reading": "かだいかいけつ",
+      "meaning": "解决问题"
+    },
+    {
+      "entryID": "sbx-cj12-036",
+      "term": "政策",
+      "reading": "せいさく",
+      "meaning": "政策"
+    },
+    {
+      "entryID": "sbx-cj12-037",
+      "term": "制度",
+      "reading": "せいど",
+      "meaning": "制度"
+    },
+    {
+      "entryID": "sbx-cj12-038",
+      "term": "法律改正",
+      "reading": "ほうりつかいせい",
+      "meaning": "法律修订"
+    },
+    {
+      "entryID": "sbx-cj12-039",
+      "term": "条約",
+      "reading": "じょうやく",
+      "meaning": "条约"
+    },
+    {
+      "entryID": "sbx-cj12-040",
+      "term": "協定",
+      "reading": "きょうてい",
+      "meaning": "协定"
+    },
+    {
+      "entryID": "sbx-cj12-041",
+      "term": "首脳会談",
+      "reading": "しゅのうかいだん",
+      "meaning": "首脑会谈"
+    },
+    {
+      "entryID": "sbx-cj12-042",
+      "term": "外交",
+      "reading": "がいこう",
+      "meaning": "外交"
+    },
+    {
+      "entryID": "sbx-cj12-043",
+      "term": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "贸易"
+    },
+    {
+      "entryID": "sbx-cj12-044",
+      "term": "輸出入",
+      "reading": "ゆしゅつにゅう",
+      "meaning": "进出口"
+    },
+    {
+      "entryID": "sbx-cj12-045",
+      "term": "関税",
+      "reading": "かんぜい",
+      "meaning": "关税"
+    },
+    {
+      "entryID": "sbx-cj12-046",
+      "term": "市場経済",
+      "reading": "しじょうけいざい",
+      "meaning": "市场经济"
+    },
+    {
+      "entryID": "sbx-cj12-047",
+      "term": "景気変動",
+      "reading": "けいきへんどう",
+      "meaning": "景气波动"
+    },
+    {
+      "entryID": "sbx-cj12-048",
+      "term": "物価",
+      "reading": "ぶっか",
+      "meaning": "物价"
+    },
+    {
+      "entryID": "sbx-cj12-049",
+      "term": "賃金上昇",
+      "reading": "ちんぎんじょうしょう",
+      "meaning": "工资上涨"
+    },
+    {
+      "entryID": "sbx-cj12-050",
+      "term": "失業率",
+      "reading": "しつぎょうりつ",
+      "meaning": "失业率"
+    },
+    {
+      "entryID": "sbx-cj12-051",
+      "term": "少子高齢化",
+      "reading": "しょうしこうれいか",
+      "meaning": "少子老龄化"
+    },
+    {
+      "entryID": "sbx-cj12-052",
+      "term": "人口減少",
+      "reading": "じんこうげんしょう",
+      "meaning": "人口减少"
+    },
+    {
+      "entryID": "sbx-cj12-053",
+      "term": "社会保障",
+      "reading": "しゃかいほしょう",
+      "meaning": "社会保障"
+    },
+    {
+      "entryID": "sbx-cj12-054",
+      "term": "年金",
+      "reading": "ねんきん",
+      "meaning": "养老金"
+    },
+    {
+      "entryID": "sbx-cj12-055",
+      "term": "公共施設",
+      "reading": "こうきょうしせつ",
+      "meaning": "公共设施"
+    },
+    {
+      "entryID": "sbx-cj12-056",
+      "term": "インフラ",
+      "reading": "インフラ",
+      "meaning": "基础设施"
+    },
+    {
+      "entryID": "sbx-cj12-057",
+      "term": "交通網",
+      "reading": "こうつうもう",
+      "meaning": "交通网"
+    },
+    {
+      "entryID": "sbx-cj12-058",
+      "term": "都市開発",
+      "reading": "としかいはつ",
+      "meaning": "城市开发"
+    },
+    {
+      "entryID": "sbx-cj12-059",
+      "term": "地域活性化",
+      "reading": "ちいきかっせいか",
+      "meaning": "地区振兴"
+    },
+    {
+      "entryID": "sbx-cj12-060",
+      "term": "観光資源",
+      "reading": "かんこうしげん",
+      "meaning": "旅游资源"
+    },
+    {
+      "entryID": "sbx-cj12-061",
+      "term": "国際交流",
+      "reading": "こくさいこうりゅう",
+      "meaning": "国际交流"
+    },
+    {
+      "entryID": "sbx-cj12-062",
+      "term": "異文化理解",
+      "reading": "いぶんかりかい",
+      "meaning": "跨文化理解"
+    },
+    {
+      "entryID": "sbx-cj12-063",
+      "term": "多様性",
+      "reading": "たようせい",
+      "meaning": "多样性"
+    },
+    {
+      "entryID": "sbx-cj12-064",
+      "term": "共生",
+      "reading": "きょうせい",
+      "meaning": "共存"
+    },
+    {
+      "entryID": "sbx-cj12-065",
+      "term": "相互理解",
+      "reading": "そうごりかい",
+      "meaning": "相互理解"
+    },
+    {
+      "entryID": "sbx-cj12-066",
+      "term": "平和",
+      "reading": "へいわ",
+      "meaning": "和平"
+    },
+    {
+      "entryID": "sbx-cj12-067",
+      "term": "紛争",
+      "reading": "ふんそう",
+      "meaning": "纷争"
+    },
+    {
+      "entryID": "sbx-cj12-068",
+      "term": "安全保障",
+      "reading": "あんぜんほしょう",
+      "meaning": "安全保障"
+    },
+    {
+      "entryID": "sbx-cj12-069",
+      "term": "次世代",
+      "reading": "じせだい",
+      "meaning": "下一代"
+    },
+    {
+      "entryID": "sbx-cj12-070",
+      "term": "子育て支援",
+      "reading": "こそだてしえん",
+      "meaning": "育儿支持"
+    },
+    {
+      "entryID": "sbx-cj12-071",
+      "term": "教育機関",
+      "reading": "きょういくきかん",
+      "meaning": "教育机构"
+    },
+    {
+      "entryID": "sbx-cj12-072",
+      "term": "就労支援",
+      "reading": "しゅうろうしえん",
+      "meaning": "就业帮扶"
+    },
+    {
+      "entryID": "sbx-cj12-073",
+      "term": "介護",
+      "reading": "かいご",
+      "meaning": "护理"
+    },
+    {
+      "entryID": "sbx-cj12-074",
+      "term": "高齢者",
+      "reading": "こうれいしゃ",
+      "meaning": "老年人"
+    },
+    {
+      "entryID": "sbx-cj12-075",
+      "term": "障害者",
+      "reading": "しょうがいしゃ",
+      "meaning": "残障人士"
+    },
+    {
+      "entryID": "sbx-cj12-076",
+      "term": "差別解消",
+      "reading": "さべつかいしょう",
+      "meaning": "消除歧视"
+    },
+    {
+      "entryID": "sbx-cj12-077",
+      "term": "人権",
+      "reading": "じんけん",
+      "meaning": "人权"
+    },
+    {
+      "entryID": "sbx-cj12-078",
+      "term": "尊厳",
+      "reading": "そんげん",
+      "meaning": "尊严"
+    },
+    {
+      "entryID": "sbx-cj12-079",
+      "term": "思いやり",
+      "reading": "おもいやり",
+      "meaning": "体谅"
+    },
+    {
+      "entryID": "sbx-cj12-080",
+      "term": "助け合い",
+      "reading": "たすけあい",
+      "meaning": "互助"
+    },
+    {
+      "entryID": "sbx-cj12-081",
+      "term": "絆",
+      "reading": "きずな",
+      "meaning": "纽带"
+    },
+    {
+      "entryID": "sbx-cj12-082",
+      "term": "結び付き",
+      "reading": "むすびつき",
+      "meaning": "联结"
+    },
+    {
+      "entryID": "sbx-cj12-083",
+      "term": "誇れる",
+      "reading": "ほこれる",
+      "meaning": "值得自豪"
+    },
+    {
+      "entryID": "sbx-cj12-084",
+      "term": "築く",
+      "reading": "きずく",
+      "meaning": "构筑"
+    },
+    {
+      "entryID": "sbx-cj12-085",
+      "term": "支え合う",
+      "reading": "ささえあう",
+      "meaning": "相互扶持"
+    },
+    {
+      "entryID": "sbx-cj12-086",
+      "term": "豊かな社会",
+      "reading": "ゆたかなしゃかい",
+      "meaning": "富足的社会"
+    },
+    {
+      "entryID": "sbx-cj12-087",
+      "term": "持続する",
+      "reading": "じぞくする",
+      "meaning": "持续发展"
+    },
+    {
+      "entryID": "sbx-cj12-088",
+      "term": "提言書",
+      "reading": "ていげんしょ",
+      "meaning": "建言书"
+    },
+    {
+      "entryID": "sbx-cj12-089",
+      "term": "報道機関",
+      "reading": "ほうどうきかん",
+      "meaning": "新闻机构"
+    },
+    {
+      "entryID": "sbx-cj12-090",
+      "term": "世間",
+      "reading": "せけん",
+      "meaning": "世人"
+    },
+    {
+      "entryID": "sbx-cj12-091",
+      "term": "社会問題",
+      "reading": "しゃかいもんだい",
+      "meaning": "社会问题"
+    },
+    {
+      "entryID": "sbx-cj12-092",
+      "term": "少子化",
+      "reading": "しょうしか",
+      "meaning": "少子化"
+    },
+    {
+      "entryID": "sbx-cj12-093",
+      "term": "高齢化社会",
+      "reading": "こうれいかしゃかい",
+      "meaning": "老龄化社会"
+    },
+    {
+      "entryID": "sbx-cj12-094",
+      "term": "労働環境",
+      "reading": "ろうどうかんきょう",
+      "meaning": "劳动环境"
+    },
+    {
+      "entryID": "sbx-cj12-095",
+      "term": "雇用形態",
+      "reading": "こようけいたい",
+      "meaning": "雇佣形态"
+    },
+    {
+      "entryID": "sbx-cj12-096",
+      "term": "格差是正",
+      "reading": "かくさぜせい",
+      "meaning": "纠正差距"
+    },
+    {
+      "entryID": "sbx-cj12-097",
+      "term": "共生社会",
+      "reading": "きょうせいしゃかい",
+      "meaning": "共融社会"
+    },
+    {
+      "entryID": "sbx-cj12-098",
+      "term": "多文化共生",
+      "reading": "たぶんかきょうせい",
+      "meaning": "多元文化共存"
+    },
+    {
+      "entryID": "sbx-cj12-099",
+      "term": "地域おこし",
+      "reading": "ちいきおこし",
+      "meaning": "地区振兴"
+    },
+    {
+      "entryID": "sbx-cj12-100",
+      "term": "地方創生",
+      "reading": "ちほうそうせい",
+      "meaning": "地方创生"
+    },
+    {
+      "entryID": "sbx-cj12-101",
+      "term": "過疎",
+      "reading": "かそ",
+      "meaning": "人口稀少"
+    },
+    {
+      "entryID": "sbx-cj12-102",
+      "term": "都市部",
+      "reading": "としぶ",
+      "meaning": "城市地区"
+    },
+    {
+      "entryID": "sbx-cj12-103",
+      "term": "物価高",
+      "reading": "ぶっかだか",
+      "meaning": "物价高涨"
+    },
+    {
+      "entryID": "sbx-cj12-104",
+      "term": "家計",
+      "reading": "かけい",
+      "meaning": "家庭收支"
+    },
+    {
+      "entryID": "sbx-cj12-105",
+      "term": "貯蓄率",
+      "reading": "ちょちくりつ",
+      "meaning": "储蓄率"
+    },
+    {
+      "entryID": "sbx-cj12-106",
+      "term": "景気回復",
+      "reading": "けいきかいふく",
+      "meaning": "景气复苏"
+    },
+    {
+      "entryID": "sbx-cj12-107",
+      "term": "経済成長",
+      "reading": "けいざいせいちょう",
+      "meaning": "经济增长"
+    },
+    {
+      "entryID": "sbx-cj12-108",
+      "term": "国際協力",
+      "reading": "こくさいきょうりょく",
+      "meaning": "国际合作"
+    },
+    {
+      "entryID": "sbx-cj12-109",
+      "term": "開発途上国",
+      "reading": "かいはつとじょうこく",
+      "meaning": "发展中国家"
+    },
+    {
+      "entryID": "sbx-cj12-110",
+      "term": "人道支援",
+      "reading": "じんどうしえん",
+      "meaning": "人道主义援助"
+    },
+    {
+      "entryID": "sbx-cj12-111",
+      "term": "紛争地帯",
+      "reading": "ふんそうちたい",
+      "meaning": "冲突地区"
+    },
+    {
+      "entryID": "sbx-cj12-112",
+      "term": "平和構築",
+      "reading": "へいわこうちく",
+      "meaning": "和平建设"
+    },
+    {
+      "entryID": "sbx-cj12-113",
+      "term": "持続可能な社会",
+      "reading": "じぞくかのうなしゃかい",
+      "meaning": "可持续的社会"
+    }
+  ]
+}

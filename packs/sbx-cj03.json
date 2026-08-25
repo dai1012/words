@@ -1,0 +1,807 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-cj03-001",
+      "meaning": "爱好",
+      "reading": "しゅみ",
+      "term": "趣味"
+    },
+    {
+      "entryID": "sbx-cj03-002",
+      "meaning": "特长",
+      "reading": "とくぎ",
+      "term": "特技"
+    },
+    {
+      "entryID": "sbx-cj03-003",
+      "meaning": "电影",
+      "reading": "えいが",
+      "term": "映画"
+    },
+    {
+      "entryID": "sbx-cj03-004",
+      "meaning": "漫画",
+      "reading": "まんが",
+      "term": "漫画"
+    },
+    {
+      "entryID": "sbx-cj03-005",
+      "meaning": "小说",
+      "reading": "しょうせつ",
+      "term": "小説"
+    },
+    {
+      "entryID": "sbx-cj03-006",
+      "meaning": "曲子",
+      "reading": "きょく",
+      "term": "曲"
+    },
+    {
+      "entryID": "sbx-cj03-007",
+      "meaning": "歌",
+      "reading": "うた",
+      "term": "歌"
+    },
+    {
+      "entryID": "sbx-cj03-008",
+      "meaning": "舞蹈",
+      "reading": "ダンス",
+      "term": "ダンス"
+    },
+    {
+      "entryID": "sbx-cj03-009",
+      "meaning": "游戏",
+      "reading": "ゲーム",
+      "term": "ゲーム"
+    },
+    {
+      "entryID": "sbx-cj03-010",
+      "meaning": "体育运动",
+      "reading": "スポーツ",
+      "term": "スポーツ"
+    },
+    {
+      "entryID": "sbx-cj03-011",
+      "meaning": "足球",
+      "reading": "サッカー",
+      "term": "サッカー"
+    },
+    {
+      "entryID": "sbx-cj03-012",
+      "meaning": "网球",
+      "reading": "テニス",
+      "term": "テニス"
+    },
+    {
+      "entryID": "sbx-cj03-013",
+      "meaning": "高尔夫球",
+      "reading": "ゴルフ",
+      "term": "ゴルフ"
+    },
+    {
+      "entryID": "sbx-cj03-014",
+      "meaning": "游泳",
+      "reading": "すいえい",
+      "term": "水泳"
+    },
+    {
+      "entryID": "sbx-cj03-015",
+      "meaning": "慢跑",
+      "reading": "ジョギング",
+      "term": "ジョギング"
+    },
+    {
+      "entryID": "sbx-cj03-016",
+      "meaning": "钓鱼",
+      "reading": "つり",
+      "term": "釣り"
+    },
+    {
+      "entryID": "sbx-cj03-017",
+      "meaning": "登山",
+      "reading": "とざん",
+      "term": "登山"
+    },
+    {
+      "entryID": "sbx-cj03-018",
+      "meaning": "滑雪",
+      "reading": "スキー",
+      "term": "スキー"
+    },
+    {
+      "entryID": "sbx-cj03-019",
+      "meaning": "赏花",
+      "reading": "はなみ",
+      "term": "花見"
+    },
+    {
+      "entryID": "sbx-cj03-020",
+      "meaning": "烟花",
+      "reading": "はなび",
+      "term": "花火"
+    },
+    {
+      "entryID": "sbx-cj03-021",
+      "meaning": "庙会",
+      "reading": "おまつり",
+      "term": "お祭り"
+    },
+    {
+      "entryID": "sbx-cj03-022",
+      "meaning": "正月",
+      "reading": "しょうがつ",
+      "term": "正月"
+    },
+    {
+      "entryID": "sbx-cj03-023",
+      "meaning": "除夕",
+      "reading": "おおみそか",
+      "term": "大晦日"
+    },
+    {
+      "entryID": "sbx-cj03-024",
+      "meaning": "圣诞节",
+      "reading": "クリスマス",
+      "term": "クリスマス"
+    },
+    {
+      "entryID": "sbx-cj03-025",
+      "meaning": "春假",
+      "reading": "はるやすみ",
+      "term": "春休み"
+    },
+    {
+      "entryID": "sbx-cj03-026",
+      "meaning": "暑假",
+      "reading": "なつやすみ",
+      "term": "夏休み"
+    },
+    {
+      "entryID": "sbx-cj03-027",
+      "meaning": "寒假",
+      "reading": "ふゆやすみ",
+      "term": "冬休み"
+    },
+    {
+      "entryID": "sbx-cj03-028",
+      "meaning": "喜欢的",
+      "reading": "すき",
+      "term": "好き"
+    },
+    {
+      "entryID": "sbx-cj03-029",
+      "meaning": "讨厌的",
+      "reading": "きらい",
+      "term": "嫌い"
+    },
+    {
+      "entryID": "sbx-cj03-030",
+      "meaning": "擅长的",
+      "reading": "じょうず",
+      "term": "上手"
+    },
+    {
+      "entryID": "sbx-cj03-031",
+      "meaning": "不擅长的",
+      "reading": "へた",
+      "term": "下手"
+    },
+    {
+      "entryID": "sbx-cj03-032",
+      "meaning": "拿手的",
+      "reading": "とくい",
+      "term": "得意"
+    },
+    {
+      "entryID": "sbx-cj03-033",
+      "meaning": "兴趣",
+      "reading": "きょうみ",
+      "term": "興味"
+    },
+    {
+      "entryID": "sbx-cj03-034",
+      "meaning": "梦想",
+      "reading": "ゆめ",
+      "term": "夢"
+    },
+    {
+      "entryID": "sbx-cj03-035",
+      "meaning": "目标",
+      "reading": "もくひょう",
+      "term": "目標"
+    },
+    {
+      "entryID": "sbx-cj03-036",
+      "meaning": "客人",
+      "reading": "きゃく",
+      "term": "客"
+    },
+    {
+      "entryID": "sbx-cj03-037",
+      "meaning": "游客",
+      "reading": "かんこうきゃく",
+      "term": "観光客"
+    },
+    {
+      "entryID": "sbx-cj03-038",
+      "meaning": "弹奏",
+      "reading": "ひく",
+      "term": "弾く"
+    },
+    {
+      "entryID": "sbx-cj03-039",
+      "meaning": "唱歌",
+      "reading": "うたう",
+      "term": "歌う"
+    },
+    {
+      "entryID": "sbx-cj03-040",
+      "meaning": "跳舞",
+      "reading": "おどる",
+      "term": "踊る"
+    },
+    {
+      "entryID": "sbx-cj03-041",
+      "meaning": "聚集",
+      "reading": "あつまる",
+      "term": "集まる"
+    },
+    {
+      "entryID": "sbx-cj03-042",
+      "meaning": "收集",
+      "reading": "あつめる",
+      "term": "集める"
+    },
+    {
+      "entryID": "sbx-cj03-043",
+      "meaning": "投宿",
+      "reading": "とまる",
+      "term": "泊まる"
+    },
+    {
+      "entryID": "sbx-cj03-044",
+      "meaning": "经验",
+      "reading": "けいけん",
+      "term": "経験"
+    },
+    {
+      "entryID": "sbx-cj03-045",
+      "meaning": "预定",
+      "reading": "よてい",
+      "term": "予定"
+    },
+    {
+      "entryID": "sbx-cj03-046",
+      "meaning": "事情",
+      "reading": "ようじ",
+      "term": "用事"
+    },
+    {
+      "entryID": "sbx-cj03-047",
+      "meaning": "时间安排",
+      "reading": "つごう",
+      "term": "都合"
+    },
+    {
+      "entryID": "sbx-cj03-048",
+      "meaning": "邀请",
+      "reading": "しょうたい",
+      "term": "招待"
+    },
+    {
+      "entryID": "sbx-cj03-049",
+      "meaning": "参加",
+      "reading": "さんか",
+      "term": "参加"
+    },
+    {
+      "entryID": "sbx-cj03-050",
+      "meaning": "参观",
+      "reading": "けんがく",
+      "term": "見学"
+    },
+    {
+      "entryID": "sbx-cj03-051",
+      "meaning": "开朗的",
+      "reading": "あかるい",
+      "term": "明るい"
+    },
+    {
+      "entryID": "sbx-cj03-052",
+      "meaning": "认真的",
+      "reading": "まじめ",
+      "term": "真面目"
+    },
+    {
+      "entryID": "sbx-cj03-053",
+      "meaning": "温柔的",
+      "reading": "やさしい",
+      "term": "優しい"
+    },
+    {
+      "entryID": "sbx-cj03-054",
+      "meaning": "可爱的",
+      "reading": "かわいい",
+      "term": "かわいい"
+    },
+    {
+      "entryID": "sbx-cj03-055",
+      "meaning": "有趣的",
+      "reading": "おもしろい",
+      "term": "面白い"
+    },
+    {
+      "entryID": "sbx-cj03-056",
+      "meaning": "无聊的",
+      "reading": "つまらない",
+      "term": "つまらない"
+    },
+    {
+      "entryID": "sbx-cj03-057",
+      "meaning": "绝妙的",
+      "reading": "すてき",
+      "term": "素敵"
+    },
+    {
+      "entryID": "sbx-cj03-058",
+      "meaning": "电影院",
+      "reading": "えいがかん",
+      "term": "映画館"
+    },
+    {
+      "entryID": "sbx-cj03-059",
+      "meaning": "体育场",
+      "reading": "スタジアム",
+      "term": "スタジアム"
+    },
+    {
+      "entryID": "sbx-cj03-060",
+      "meaning": "叔叔",
+      "reading": "おじさん",
+      "term": "おじさん"
+    },
+    {
+      "entryID": "sbx-cj03-061",
+      "meaning": "阿姨",
+      "reading": "おばさん",
+      "term": "おばさん"
+    },
+    {
+      "entryID": "sbx-cj03-062",
+      "meaning": "堂表兄弟姐妹",
+      "reading": "いとこ",
+      "term": "いとこ"
+    },
+    {
+      "entryID": "sbx-cj03-063",
+      "meaning": "祖父",
+      "reading": "そふ",
+      "term": "祖父"
+    },
+    {
+      "entryID": "sbx-cj03-064",
+      "meaning": "祖母",
+      "reading": "そぼ",
+      "term": "祖母"
+    },
+    {
+      "entryID": "sbx-cj03-065",
+      "meaning": "孙辈",
+      "reading": "まご",
+      "term": "孫"
+    },
+    {
+      "entryID": "sbx-cj03-066",
+      "meaning": "课程",
+      "reading": "じゅぎょう",
+      "term": "授業"
+    },
+    {
+      "entryID": "sbx-cj03-067",
+      "meaning": "考试",
+      "reading": "しけん",
+      "term": "試験"
+    },
+    {
+      "entryID": "sbx-cj03-068",
+      "meaning": "成绩",
+      "reading": "せいせき",
+      "term": "成績"
+    },
+    {
+      "entryID": "sbx-cj03-069",
+      "meaning": "驾驶",
+      "reading": "うんてん",
+      "term": "運転"
+    },
+    {
+      "entryID": "sbx-cj03-070",
+      "meaning": "集合",
+      "reading": "しゅうごう",
+      "term": "集合"
+    },
+    {
+      "entryID": "sbx-cj03-071",
+      "meaning": "出发",
+      "reading": "しゅっぱつ",
+      "term": "出発"
+    },
+    {
+      "entryID": "sbx-cj03-072",
+      "meaning": "到达",
+      "reading": "とうちゃく",
+      "term": "到着"
+    },
+    {
+      "entryID": "sbx-cj03-073",
+      "meaning": "预约",
+      "reading": "よやく",
+      "term": "予約"
+    },
+    {
+      "entryID": "sbx-cj03-074",
+      "meaning": "准备",
+      "reading": "じゅんび",
+      "term": "準備"
+    },
+    {
+      "entryID": "sbx-cj03-075",
+      "meaning": "开始（自动）",
+      "reading": "はじまる",
+      "term": "始まる"
+    },
+    {
+      "entryID": "sbx-cj03-076",
+      "meaning": "结束（自动）",
+      "reading": "おわる",
+      "term": "終わる"
+    },
+    {
+      "entryID": "sbx-cj03-077",
+      "meaning": "大体上",
+      "reading": "たいてい",
+      "term": "たいてい"
+    },
+    {
+      "entryID": "sbx-cj03-078",
+      "meaning": "时常",
+      "reading": "ときどき",
+      "term": "ときどき"
+    },
+    {
+      "entryID": "sbx-cj03-079",
+      "meaning": "全部",
+      "reading": "ぜんぶ",
+      "term": "全部"
+    },
+    {
+      "entryID": "sbx-cj03-080",
+      "meaning": "各种各样",
+      "reading": "いろいろ",
+      "term": "いろいろ"
+    },
+    {
+      "entryID": "sbx-cj03-081",
+      "meaning": "音乐会",
+      "reading": "おんがくかい",
+      "term": "音楽会"
+    },
+    {
+      "entryID": "sbx-cj03-082",
+      "meaning": "发表",
+      "reading": "はっぴょう",
+      "term": "発表"
+    },
+    {
+      "entryID": "sbx-cj03-083",
+      "meaning": "作品",
+      "reading": "さくひん",
+      "term": "作品"
+    },
+    {
+      "entryID": "sbx-cj03-084",
+      "meaning": "作者",
+      "reading": "さくしゃ",
+      "term": "作者"
+    },
+    {
+      "entryID": "sbx-cj03-085",
+      "meaning": "名人",
+      "reading": "ゆうめいじん",
+      "term": "有名人"
+    },
+    {
+      "entryID": "sbx-cj03-086",
+      "meaning": "演员",
+      "reading": "はいゆう",
+      "term": "俳優"
+    },
+    {
+      "entryID": "sbx-cj03-087",
+      "meaning": "歌手",
+      "reading": "かしゅ",
+      "term": "歌手"
+    },
+    {
+      "entryID": "sbx-cj03-088",
+      "meaning": "作家",
+      "reading": "さっか",
+      "term": "作家"
+    },
+    {
+      "entryID": "sbx-cj03-089",
+      "meaning": "画家",
+      "reading": "がか",
+      "term": "画家"
+    },
+    {
+      "entryID": "sbx-cj03-090",
+      "meaning": "画",
+      "reading": "え",
+      "term": "絵"
+    },
+    {
+      "entryID": "sbx-cj03-091",
+      "meaning": "才艺学习",
+      "reading": "ならいごと",
+      "term": "習い事"
+    },
+    {
+      "entryID": "sbx-cj03-092",
+      "meaning": "培训班",
+      "reading": "きょうしつ",
+      "term": "教室"
+    },
+    {
+      "entryID": "sbx-cj03-093",
+      "meaning": "文化",
+      "reading": "ぶんか",
+      "term": "文化"
+    },
+    {
+      "entryID": "sbx-cj03-094",
+      "meaning": "传统",
+      "reading": "でんとう",
+      "term": "伝統"
+    },
+    {
+      "entryID": "sbx-cj03-095",
+      "meaning": "例行活动",
+      "reading": "ぎょうじ",
+      "term": "行事"
+    },
+    {
+      "entryID": "sbx-cj03-096",
+      "meaning": "节日",
+      "reading": "しゅくじつ",
+      "term": "祝日"
+    },
+    {
+      "entryID": "sbx-cj03-097",
+      "meaning": "休息日",
+      "reading": "きゅうじつ",
+      "term": "休日"
+    },
+    {
+      "entryID": "sbx-cj03-098",
+      "meaning": "平日",
+      "reading": "へいじつ",
+      "term": "平日"
+    },
+    {
+      "entryID": "sbx-cj03-099",
+      "meaning": "年末",
+      "reading": "ねんまつ",
+      "term": "年末"
+    },
+    {
+      "entryID": "sbx-cj03-100",
+      "meaning": "年初",
+      "reading": "ねんし",
+      "term": "年始"
+    },
+    {
+      "entryID": "sbx-cj03-101",
+      "meaning": "寒暄",
+      "reading": "あいさつ",
+      "term": "挨拶"
+    },
+    {
+      "entryID": "sbx-cj03-102",
+      "meaning": "新年初次参拜",
+      "reading": "はつもうで",
+      "term": "初詣"
+    },
+    {
+      "entryID": "sbx-cj03-103",
+      "meaning": "亲戚",
+      "reading": "しんせき",
+      "term": "親戚"
+    },
+    {
+      "entryID": "sbx-cj03-104",
+      "meaning": "回乡",
+      "reading": "きせい",
+      "term": "帰省"
+    },
+    {
+      "entryID": "sbx-cj03-105",
+      "meaning": "团体",
+      "reading": "だんたい",
+      "term": "団体"
+    },
+    {
+      "entryID": "sbx-cj03-106",
+      "meaning": "伙伴",
+      "reading": "なかま",
+      "term": "仲間"
+    },
+    {
+      "entryID": "sbx-cj03-107",
+      "meaning": "同事",
+      "reading": "どうりょう",
+      "term": "同僚"
+    },
+    {
+      "entryID": "sbx-cj03-108",
+      "meaning": "前辈",
+      "reading": "せんぱい",
+      "term": "先輩"
+    },
+    {
+      "entryID": "sbx-cj03-109",
+      "meaning": "后辈",
+      "reading": "こうはい",
+      "term": "後輩"
+    },
+    {
+      "entryID": "sbx-cj03-110",
+      "meaning": "期盼",
+      "reading": "たのしみ",
+      "term": "楽しみ"
+    },
+    {
+      "entryID": "sbx-cj03-111",
+      "meaning": "感动",
+      "reading": "かんどう",
+      "term": "感動"
+    },
+    {
+      "entryID": "sbx-cj03-112",
+      "meaning": "惊讶",
+      "reading": "おどろく",
+      "term": "驚く"
+    },
+    {
+      "entryID": "sbx-cj03-113",
+      "meaning": "笑脸",
+      "reading": "えがお",
+      "term": "笑顔"
+    },
+    {
+      "entryID": "sbx-cj03-114",
+      "meaning": "眼泪",
+      "reading": "なみだ",
+      "term": "涙"
+    },
+    {
+      "entryID": "sbx-cj03-115",
+      "meaning": "声音",
+      "reading": "こえ",
+      "term": "声"
+    },
+    {
+      "entryID": "sbx-cj03-116",
+      "meaning": "鼓掌",
+      "reading": "はくしゅ",
+      "term": "拍手"
+    },
+    {
+      "entryID": "sbx-cj03-117",
+      "meaning": "舞台",
+      "reading": "ぶたい",
+      "term": "舞台"
+    },
+    {
+      "entryID": "sbx-cj03-118",
+      "meaning": "观众",
+      "reading": "かんきゃく",
+      "term": "観客"
+    },
+    {
+      "entryID": "sbx-cj03-119",
+      "meaning": "座位",
+      "reading": "せき",
+      "term": "席"
+    },
+    {
+      "entryID": "sbx-cj03-120",
+      "meaning": "票",
+      "reading": "チケット",
+      "term": "チケット"
+    },
+    {
+      "entryID": "sbx-cj03-121",
+      "meaning": "申请",
+      "reading": "もうしこむ",
+      "term": "申し込む"
+    },
+    {
+      "entryID": "sbx-cj03-122",
+      "meaning": "截止",
+      "reading": "しめきり",
+      "term": "締め切り"
+    },
+    {
+      "entryID": "sbx-cj03-123",
+      "meaning": "中选",
+      "reading": "とうせん",
+      "term": "当選"
+    },
+    {
+      "entryID": "sbx-cj03-124",
+      "meaning": "遗憾",
+      "reading": "ざんねん",
+      "term": "残念"
+    },
+    {
+      "entryID": "sbx-cj03-125",
+      "meaning": "务必",
+      "reading": "ぜひ",
+      "term": "ぜひ"
+    },
+    {
+      "entryID": "sbx-cj03-126",
+      "meaning": "尤其",
+      "reading": "とくに",
+      "term": "特に"
+    },
+    {
+      "entryID": "sbx-cj03-127",
+      "meaning": "最近",
+      "reading": "さいきん",
+      "term": "最近"
+    },
+    {
+      "entryID": "sbx-cj03-128",
+      "meaning": "人气",
+      "reading": "にんき",
+      "term": "人気"
+    },
+    {
+      "entryID": "sbx-cj03-129",
+      "meaning": "流行",
+      "reading": "りゅうこう",
+      "term": "流行"
+    },
+    {
+      "entryID": "sbx-cj03-130",
+      "meaning": "年轻人",
+      "reading": "わかもの",
+      "term": "若者"
+    },
+    {
+      "entryID": "sbx-cj03-131",
+      "meaning": "上了年纪",
+      "reading": "ねんぱい",
+      "term": "年配"
+    }
+  ],
+  "entryCount": 131,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：第 9–12 课主题（娱乐爱好、季节活动、人物评价）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "japanese",
+      "sbx",
+      "shokyu",
+      "chinese"
+    ],
+    "title": "标准日本语·初级 第09-12课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.cj03",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
