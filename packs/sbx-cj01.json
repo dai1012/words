@@ -1,0 +1,831 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-cj01-001",
+      "meaning": "我",
+      "reading": "わたし",
+      "term": "私"
+    },
+    {
+      "entryID": "sbx-cj01-002",
+      "meaning": "你",
+      "reading": "あなた",
+      "term": "あなた"
+    },
+    {
+      "entryID": "sbx-cj01-003",
+      "meaning": "他",
+      "reading": "かれ",
+      "term": "彼"
+    },
+    {
+      "entryID": "sbx-cj01-004",
+      "meaning": "她",
+      "reading": "かのじょ",
+      "term": "彼女"
+    },
+    {
+      "entryID": "sbx-cj01-005",
+      "meaning": "学生",
+      "reading": "がくせい",
+      "term": "学生"
+    },
+    {
+      "entryID": "sbx-cj01-006",
+      "meaning": "老师",
+      "reading": "せんせい",
+      "term": "先生"
+    },
+    {
+      "entryID": "sbx-cj01-007",
+      "meaning": "教师",
+      "reading": "きょうし",
+      "term": "教師"
+    },
+    {
+      "entryID": "sbx-cj01-008",
+      "meaning": "公司职员",
+      "reading": "かいしゃいん",
+      "term": "会社員"
+    },
+    {
+      "entryID": "sbx-cj01-009",
+      "meaning": "职员",
+      "reading": "しゃいん",
+      "term": "社員"
+    },
+    {
+      "entryID": "sbx-cj01-010",
+      "meaning": "银行职员",
+      "reading": "ぎんこういん",
+      "term": "銀行員"
+    },
+    {
+      "entryID": "sbx-cj01-011",
+      "meaning": "医生",
+      "reading": "いしゃ",
+      "term": "医者"
+    },
+    {
+      "entryID": "sbx-cj01-012",
+      "meaning": "护士",
+      "reading": "かんごし",
+      "term": "看護師"
+    },
+    {
+      "entryID": "sbx-cj01-013",
+      "meaning": "留学生",
+      "reading": "りゅうがくせい",
+      "term": "留学生"
+    },
+    {
+      "entryID": "sbx-cj01-014",
+      "meaning": "中国人",
+      "reading": "ちゅうごくじん",
+      "term": "中国人"
+    },
+    {
+      "entryID": "sbx-cj01-015",
+      "meaning": "日本人",
+      "reading": "にほんじん",
+      "term": "日本人"
+    },
+    {
+      "entryID": "sbx-cj01-016",
+      "meaning": "美国人",
+      "reading": "アメリカじん",
+      "term": "アメリカ人"
+    },
+    {
+      "entryID": "sbx-cj01-017",
+      "meaning": "法国人",
+      "reading": "フランスじん",
+      "term": "フランス人"
+    },
+    {
+      "entryID": "sbx-cj01-018",
+      "meaning": "韩国人",
+      "reading": "かんこくじん",
+      "term": "韓国人"
+    },
+    {
+      "entryID": "sbx-cj01-019",
+      "meaning": "公司",
+      "reading": "かいしゃ",
+      "term": "会社"
+    },
+    {
+      "entryID": "sbx-cj01-020",
+      "meaning": "学校",
+      "reading": "がっこう",
+      "term": "学校"
+    },
+    {
+      "entryID": "sbx-cj01-021",
+      "meaning": "大学",
+      "reading": "だいがく",
+      "term": "大学"
+    },
+    {
+      "entryID": "sbx-cj01-022",
+      "meaning": "专科学校",
+      "reading": "せんもんがっこう",
+      "term": "専門学校"
+    },
+    {
+      "entryID": "sbx-cj01-023",
+      "meaning": "商店",
+      "reading": "みせ",
+      "term": "店"
+    },
+    {
+      "entryID": "sbx-cj01-024",
+      "meaning": "车站",
+      "reading": "えき",
+      "term": "駅"
+    },
+    {
+      "entryID": "sbx-cj01-025",
+      "meaning": "医院",
+      "reading": "びょういん",
+      "term": "病院"
+    },
+    {
+      "entryID": "sbx-cj01-026",
+      "meaning": "银行",
+      "reading": "ぎんこう",
+      "term": "銀行"
+    },
+    {
+      "entryID": "sbx-cj01-027",
+      "meaning": "邮局",
+      "reading": "ゆうびんきょく",
+      "term": "郵便局"
+    },
+    {
+      "entryID": "sbx-cj01-028",
+      "meaning": "图书馆",
+      "reading": "としょかん",
+      "term": "図書館"
+    },
+    {
+      "entryID": "sbx-cj01-029",
+      "meaning": "这个",
+      "reading": "これ",
+      "term": "これ"
+    },
+    {
+      "entryID": "sbx-cj01-030",
+      "meaning": "那个",
+      "reading": "それ",
+      "term": "それ"
+    },
+    {
+      "entryID": "sbx-cj01-031",
+      "meaning": "那个（远称）",
+      "reading": "あれ",
+      "term": "あれ"
+    },
+    {
+      "entryID": "sbx-cj01-032",
+      "meaning": "哪个",
+      "reading": "どれ",
+      "term": "どれ"
+    },
+    {
+      "entryID": "sbx-cj01-033",
+      "meaning": "这里",
+      "reading": "ここ",
+      "term": "ここ"
+    },
+    {
+      "entryID": "sbx-cj01-034",
+      "meaning": "那里",
+      "reading": "そこ",
+      "term": "そこ"
+    },
+    {
+      "entryID": "sbx-cj01-035",
+      "meaning": "那里（远称）",
+      "reading": "あそこ",
+      "term": "あそこ"
+    },
+    {
+      "entryID": "sbx-cj01-036",
+      "meaning": "哪里",
+      "reading": "どこ",
+      "term": "どこ"
+    },
+    {
+      "entryID": "sbx-cj01-037",
+      "meaning": "这边",
+      "reading": "こちら",
+      "term": "こちら"
+    },
+    {
+      "entryID": "sbx-cj01-038",
+      "meaning": "什么",
+      "reading": "なに",
+      "term": "何"
+    },
+    {
+      "entryID": "sbx-cj01-039",
+      "meaning": "谁",
+      "reading": "だれ",
+      "term": "誰"
+    },
+    {
+      "entryID": "sbx-cj01-040",
+      "meaning": "书",
+      "reading": "ほん",
+      "term": "本"
+    },
+    {
+      "entryID": "sbx-cj01-041",
+      "meaning": "词典",
+      "reading": "じしょ",
+      "term": "辞書"
+    },
+    {
+      "entryID": "sbx-cj01-042",
+      "meaning": "杂志",
+      "reading": "ざっし",
+      "term": "雑誌"
+    },
+    {
+      "entryID": "sbx-cj01-043",
+      "meaning": "报纸",
+      "reading": "しんぶん",
+      "term": "新聞"
+    },
+    {
+      "entryID": "sbx-cj01-044",
+      "meaning": "笔记本",
+      "reading": "ノート",
+      "term": "ノート"
+    },
+    {
+      "entryID": "sbx-cj01-045",
+      "meaning": "记事本",
+      "reading": "てちょう",
+      "term": "手帳"
+    },
+    {
+      "entryID": "sbx-cj01-046",
+      "meaning": "名片",
+      "reading": "めいし",
+      "term": "名刺"
+    },
+    {
+      "entryID": "sbx-cj01-047",
+      "meaning": "卡片",
+      "reading": "カード",
+      "term": "カード"
+    },
+    {
+      "entryID": "sbx-cj01-048",
+      "meaning": "电视",
+      "reading": "テレビ",
+      "term": "テレビ"
+    },
+    {
+      "entryID": "sbx-cj01-049",
+      "meaning": "收音机",
+      "reading": "ラジオ",
+      "term": "ラジオ"
+    },
+    {
+      "entryID": "sbx-cj01-050",
+      "meaning": "相机",
+      "reading": "カメラ",
+      "term": "カメラ"
+    },
+    {
+      "entryID": "sbx-cj01-051",
+      "meaning": "手机",
+      "reading": "けいたい",
+      "term": "携帯"
+    },
+    {
+      "entryID": "sbx-cj01-052",
+      "meaning": "电脑",
+      "reading": "パソコン",
+      "term": "パソコン"
+    },
+    {
+      "entryID": "sbx-cj01-053",
+      "meaning": "桌子",
+      "reading": "つくえ",
+      "term": "机"
+    },
+    {
+      "entryID": "sbx-cj01-054",
+      "meaning": "椅子",
+      "reading": "いす",
+      "term": "椅子"
+    },
+    {
+      "entryID": "sbx-cj01-055",
+      "meaning": "包",
+      "reading": "かばん",
+      "term": "鞄"
+    },
+    {
+      "entryID": "sbx-cj01-056",
+      "meaning": "钱包",
+      "reading": "さいふ",
+      "term": "財布"
+    },
+    {
+      "entryID": "sbx-cj01-057",
+      "meaning": "钟表",
+      "reading": "とけい",
+      "term": "時計"
+    },
+    {
+      "entryID": "sbx-cj01-058",
+      "meaning": "伞",
+      "reading": "かさ",
+      "term": "傘"
+    },
+    {
+      "entryID": "sbx-cj01-059",
+      "meaning": "鞋",
+      "reading": "くつ",
+      "term": "靴"
+    },
+    {
+      "entryID": "sbx-cj01-060",
+      "meaning": "袜子",
+      "reading": "くつした",
+      "term": "靴下"
+    },
+    {
+      "entryID": "sbx-cj01-061",
+      "meaning": "上衣",
+      "reading": "うわぎ",
+      "term": "上着"
+    },
+    {
+      "entryID": "sbx-cj01-062",
+      "meaning": "裤子",
+      "reading": "ズボン",
+      "term": "ズボン"
+    },
+    {
+      "entryID": "sbx-cj01-063",
+      "meaning": "帽子",
+      "reading": "ぼうし",
+      "term": "帽子"
+    },
+    {
+      "entryID": "sbx-cj01-064",
+      "meaning": "眼镜",
+      "reading": "めがね",
+      "term": "眼鏡"
+    },
+    {
+      "entryID": "sbx-cj01-065",
+      "meaning": "汽车",
+      "reading": "くるま",
+      "term": "車"
+    },
+    {
+      "entryID": "sbx-cj01-066",
+      "meaning": "电车",
+      "reading": "でんしゃ",
+      "term": "電車"
+    },
+    {
+      "entryID": "sbx-cj01-067",
+      "meaning": "自行车",
+      "reading": "じてんしゃ",
+      "term": "自転車"
+    },
+    {
+      "entryID": "sbx-cj01-068",
+      "meaning": "家",
+      "reading": "いえ",
+      "term": "家"
+    },
+    {
+      "entryID": "sbx-cj01-069",
+      "meaning": "房间",
+      "reading": "へや",
+      "term": "部屋"
+    },
+    {
+      "entryID": "sbx-cj01-070",
+      "meaning": "厨房",
+      "reading": "だいどころ",
+      "term": "台所"
+    },
+    {
+      "entryID": "sbx-cj01-071",
+      "meaning": "洗手间",
+      "reading": "おてあらい",
+      "term": "お手洗い"
+    },
+    {
+      "entryID": "sbx-cj01-072",
+      "meaning": "冰箱",
+      "reading": "れいぞうこ",
+      "term": "冷蔵庫"
+    },
+    {
+      "entryID": "sbx-cj01-073",
+      "meaning": "空调",
+      "reading": "エアコン",
+      "term": "エアコン"
+    },
+    {
+      "entryID": "sbx-cj01-074",
+      "meaning": "狗",
+      "reading": "いぬ",
+      "term": "犬"
+    },
+    {
+      "entryID": "sbx-cj01-075",
+      "meaning": "猫",
+      "reading": "ねこ",
+      "term": "猫"
+    },
+    {
+      "entryID": "sbx-cj01-076",
+      "meaning": "鸟",
+      "reading": "とり",
+      "term": "鳥"
+    },
+    {
+      "entryID": "sbx-cj01-077",
+      "meaning": "鱼",
+      "reading": "さかな",
+      "term": "魚"
+    },
+    {
+      "entryID": "sbx-cj01-078",
+      "meaning": "山",
+      "reading": "やま",
+      "term": "山"
+    },
+    {
+      "entryID": "sbx-cj01-079",
+      "meaning": "河",
+      "reading": "かわ",
+      "term": "川"
+    },
+    {
+      "entryID": "sbx-cj01-080",
+      "meaning": "天空",
+      "reading": "そら",
+      "term": "空"
+    },
+    {
+      "entryID": "sbx-cj01-081",
+      "meaning": "海",
+      "reading": "うみ",
+      "term": "海"
+    },
+    {
+      "entryID": "sbx-cj01-082",
+      "meaning": "朋友",
+      "reading": "ともだち",
+      "term": "友達"
+    },
+    {
+      "entryID": "sbx-cj01-083",
+      "meaning": "家人",
+      "reading": "かぞく",
+      "term": "家族"
+    },
+    {
+      "entryID": "sbx-cj01-084",
+      "meaning": "哥哥",
+      "reading": "あに",
+      "term": "兄"
+    },
+    {
+      "entryID": "sbx-cj01-085",
+      "meaning": "姐姐",
+      "reading": "あね",
+      "term": "姉"
+    },
+    {
+      "entryID": "sbx-cj01-086",
+      "meaning": "弟弟",
+      "reading": "おとうと",
+      "term": "弟"
+    },
+    {
+      "entryID": "sbx-cj01-087",
+      "meaning": "妹妹",
+      "reading": "いもうと",
+      "term": "妹"
+    },
+    {
+      "entryID": "sbx-cj01-088",
+      "meaning": "父亲",
+      "reading": "ちち",
+      "term": "父"
+    },
+    {
+      "entryID": "sbx-cj01-089",
+      "meaning": "母亲",
+      "reading": "はは",
+      "term": "母"
+    },
+    {
+      "entryID": "sbx-cj01-090",
+      "meaning": "父母",
+      "reading": "りょうしん",
+      "term": "両親"
+    },
+    {
+      "entryID": "sbx-cj01-091",
+      "meaning": "男",
+      "reading": "おとこ",
+      "term": "男"
+    },
+    {
+      "entryID": "sbx-cj01-092",
+      "meaning": "女",
+      "reading": "おんな",
+      "term": "女"
+    },
+    {
+      "entryID": "sbx-cj01-093",
+      "meaning": "成年人",
+      "reading": "おとな",
+      "term": "大人"
+    },
+    {
+      "entryID": "sbx-cj01-094",
+      "meaning": "孩子",
+      "reading": "こども",
+      "term": "子供"
+    },
+    {
+      "entryID": "sbx-cj01-095",
+      "meaning": "国家",
+      "reading": "くに",
+      "term": "国"
+    },
+    {
+      "entryID": "sbx-cj01-096",
+      "meaning": "城市",
+      "reading": "とし",
+      "term": "都市"
+    },
+    {
+      "entryID": "sbx-cj01-097",
+      "meaning": "城镇",
+      "reading": "まち",
+      "term": "町"
+    },
+    {
+      "entryID": "sbx-cj01-098",
+      "meaning": "生日",
+      "reading": "たんじょうび",
+      "term": "誕生日"
+    },
+    {
+      "entryID": "sbx-cj01-099",
+      "meaning": "姓名",
+      "reading": "なまえ",
+      "term": "名前"
+    },
+    {
+      "entryID": "sbx-cj01-100",
+      "meaning": "年",
+      "reading": "ねん",
+      "term": "年"
+    },
+    {
+      "entryID": "sbx-cj01-101",
+      "meaning": "月亮；月份",
+      "reading": "つき",
+      "term": "月"
+    },
+    {
+      "entryID": "sbx-cj01-102",
+      "meaning": "火",
+      "reading": "ひ",
+      "term": "火"
+    },
+    {
+      "entryID": "sbx-cj01-103",
+      "meaning": "水",
+      "reading": "みず",
+      "term": "水"
+    },
+    {
+      "entryID": "sbx-cj01-104",
+      "meaning": "树",
+      "reading": "き",
+      "term": "木"
+    },
+    {
+      "entryID": "sbx-cj01-105",
+      "meaning": "钱",
+      "reading": "かね",
+      "term": "金"
+    },
+    {
+      "entryID": "sbx-cj01-106",
+      "meaning": "土",
+      "reading": "つち",
+      "term": "土"
+    },
+    {
+      "entryID": "sbx-cj01-107",
+      "meaning": "星期日",
+      "reading": "にちようび",
+      "term": "日曜日"
+    },
+    {
+      "entryID": "sbx-cj01-108",
+      "meaning": "星期一",
+      "reading": "げつようび",
+      "term": "月曜日"
+    },
+    {
+      "entryID": "sbx-cj01-109",
+      "meaning": "星期二",
+      "reading": "かようび",
+      "term": "火曜日"
+    },
+    {
+      "entryID": "sbx-cj01-110",
+      "meaning": "星期三",
+      "reading": "すいようび",
+      "term": "水曜日"
+    },
+    {
+      "entryID": "sbx-cj01-111",
+      "meaning": "星期四",
+      "reading": "もくようび",
+      "term": "木曜日"
+    },
+    {
+      "entryID": "sbx-cj01-112",
+      "meaning": "星期五",
+      "reading": "きんようび",
+      "term": "金曜日"
+    },
+    {
+      "entryID": "sbx-cj01-113",
+      "meaning": "星期六",
+      "reading": "どようび",
+      "term": "土曜日"
+    },
+    {
+      "entryID": "sbx-cj01-114",
+      "meaning": "今天",
+      "reading": "きょう",
+      "term": "今日"
+    },
+    {
+      "entryID": "sbx-cj01-115",
+      "meaning": "明天",
+      "reading": "あした",
+      "term": "明日"
+    },
+    {
+      "entryID": "sbx-cj01-116",
+      "meaning": "昨天",
+      "reading": "きのう",
+      "term": "昨日"
+    },
+    {
+      "entryID": "sbx-cj01-117",
+      "meaning": "早晨",
+      "reading": "あさ",
+      "term": "朝"
+    },
+    {
+      "entryID": "sbx-cj01-118",
+      "meaning": "白天；中午",
+      "reading": "ひる",
+      "term": "昼"
+    },
+    {
+      "entryID": "sbx-cj01-119",
+      "meaning": "夜晚",
+      "reading": "よる",
+      "term": "夜"
+    },
+    {
+      "entryID": "sbx-cj01-120",
+      "meaning": "现在",
+      "reading": "いま",
+      "term": "今"
+    },
+    {
+      "entryID": "sbx-cj01-121",
+      "meaning": "上午",
+      "reading": "ごぜん",
+      "term": "午前"
+    },
+    {
+      "entryID": "sbx-cj01-122",
+      "meaning": "下午",
+      "reading": "ごご",
+      "term": "午後"
+    },
+    {
+      "entryID": "sbx-cj01-123",
+      "meaning": "会议室",
+      "reading": "かいぎしつ",
+      "term": "会議室"
+    },
+    {
+      "entryID": "sbx-cj01-124",
+      "meaning": "前台",
+      "reading": "うけつけ",
+      "term": "受付"
+    },
+    {
+      "entryID": "sbx-cj01-125",
+      "meaning": "电梯",
+      "reading": "エレベーター",
+      "term": "エレベーター"
+    },
+    {
+      "entryID": "sbx-cj01-126",
+      "meaning": "扶梯",
+      "reading": "エスカレーター",
+      "term": "エスカレーター"
+    },
+    {
+      "entryID": "sbx-cj01-127",
+      "meaning": "入口",
+      "reading": "いりぐち",
+      "term": "入口"
+    },
+    {
+      "entryID": "sbx-cj01-128",
+      "meaning": "出口",
+      "reading": "でぐち",
+      "term": "出口"
+    },
+    {
+      "entryID": "sbx-cj01-129",
+      "meaning": "科长",
+      "reading": "かちょう",
+      "term": "課長"
+    },
+    {
+      "entryID": "sbx-cj01-130",
+      "meaning": "社长",
+      "reading": "しゃちょう",
+      "term": "社長"
+    },
+    {
+      "entryID": "sbx-cj01-131",
+      "meaning": "电话号码",
+      "reading": "でんわばんごう",
+      "term": "電話番号"
+    },
+    {
+      "entryID": "sbx-cj01-132",
+      "meaning": "住址",
+      "reading": "じゅうしょ",
+      "term": "住所"
+    },
+    {
+      "entryID": "sbx-cj01-133",
+      "meaning": "英语",
+      "reading": "えいご",
+      "term": "英語"
+    },
+    {
+      "entryID": "sbx-cj01-134",
+      "meaning": "日语",
+      "reading": "にほんご",
+      "term": "日本語"
+    },
+    {
+      "entryID": "sbx-cj01-135",
+      "meaning": "中文",
+      "reading": "ちゅうごくご",
+      "term": "中国語"
+    }
+  ],
+  "entryCount": 135,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》初级课程公开的主题顺序原创编写：词条选择、排序、假名读音标注与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版学习资料，非官方课程词表，与出版社及任何词表作者均无关联。 本册覆盖第 1–4 课主题（自我介绍、职业国籍、指示词与身边事物）。",
+    "language": "ja",
+    "level": "beginner",
+    "tags": [
+      "japanese",
+      "sbx",
+      "beginner",
+      "chinese"
+    ],
+    "title": "标准日本语·初级 第1-4课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.cj01",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
