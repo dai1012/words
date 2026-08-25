@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 18,
-  "generatedAt": "2026-08-25T00:31:15Z",
+  "catalogVersion": 19,
+  "generatedAt": "2026-08-25T03:11:24Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -97,6 +97,30 @@
         "chinese"
       ],
       "title": "希腊语入门基础词汇"
+    },
+    {
+      "classification": "cet4",
+      "description": "面向中文用户的大学英语四级范围核心词汇试点包（首批 1000 词）。选词来自开源词典 ECDICT（MIT License）的公开 cet4 标签词条，按 BNC 语料词频降序筛选；音标沿用 ECDICT 原始注音，中文释义为项目在其数据基础上缩编整理。本包为项目自定义筛选的学习资料，不是官方四级词表，未获教育部教育考试院或任何考试机构授权。",
+      "directoryPath": [
+        "CN",
+        "中英-Chinese-English"
+      ],
+      "entryCount": 1000,
+      "fileSize": 130580,
+      "fileURL": "packs/cet4-core.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.en.cet4.core",
+      "packVersion": 1,
+      "sha256": "ab981cdfa234e2c69f8d346801397834ea05429132770b20b2229306ca7f7f69",
+      "tags": [
+        "english",
+        "cet4",
+        "core",
+        "chinese"
+      ],
+      "title": "CET-4 核心词汇（项目筛选版）"
     },
     {
       "classification": "spanish",
@@ -281,6 +305,30 @@
         "chinese"
       ],
       "title": "韩语入门基础词汇"
+    },
+    {
+      "classification": "topik",
+      "description": "面向中文用户的韩语入门试点词包（首批 500 词）。词目选自韩国国立国语院《2023年国语基础词汇选定及词汇分级研究》公开名单（KOGL Type 1）的一级词汇范围，并含少量本项目补充的生活基础词；RR 转写与中文释义为本项目编写。本包为项目整理版，非 TOPIK 官方词表，亦未获任何考试机构授权。",
+      "directoryPath": [
+        "CN",
+        "中韩-Chinese-Korean"
+      ],
+      "entryCount": 500,
+      "fileSize": 65584,
+      "fileURL": "packs/topik-starter.json",
+      "language": "ko",
+      "level": "starter",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ko.topik.starter",
+      "packVersion": 1,
+      "sha256": "3f3d7de8bc34e4079947edb613116db697a1d12d76547255b83e718273da5391",
+      "tags": [
+        "korean",
+        "topik",
+        "starter",
+        "chinese"
+      ],
+      "title": "TOPIK 入门基础词汇（项目整理版）"
     },
     {
       "classification": "malay",

@@ -1,0 +1,3021 @@
+{
+  "entries": [
+    {
+      "entryID": "topik-starter-001",
+      "meaning": "商店",
+      "reading": "gage",
+      "term": "가게"
+    },
+    {
+      "entryID": "topik-starter-002",
+      "meaning": "价格",
+      "reading": "gyeok",
+      "term": "가격"
+    },
+    {
+      "entryID": "topik-starter-003",
+      "meaning": "偶尔",
+      "reading": "gakkeum",
+      "term": "가끔"
+    },
+    {
+      "entryID": "topik-starter-004",
+      "meaning": "去",
+      "reading": "gada",
+      "term": "가다"
+    },
+    {
+      "entryID": "topik-starter-005",
+      "meaning": "教",
+      "reading": "gareuchida",
+      "term": "가르치다"
+    },
+    {
+      "entryID": "topik-starter-006",
+      "meaning": "包",
+      "reading": "gabang",
+      "term": "가방"
+    },
+    {
+      "entryID": "topik-starter-007",
+      "meaning": "轻的",
+      "reading": "gabyeopda",
+      "term": "가볍다"
+    },
+    {
+      "entryID": "topik-starter-008",
+      "meaning": "胸",
+      "reading": "gaseum",
+      "term": "가슴"
+    },
+    {
+      "entryID": "topik-starter-009",
+      "meaning": "秋天",
+      "reading": "gaeul",
+      "term": "가을"
+    },
+    {
+      "entryID": "topik-starter-010",
+      "meaning": "家人",
+      "reading": "gajok",
+      "term": "가족"
+    },
+    {
+      "entryID": "topik-starter-011",
+      "meaning": "感冒",
+      "reading": "gamgi",
+      "term": "감기"
+    },
+    {
+      "entryID": "topik-starter-012",
+      "meaning": "谢谢",
+      "reading": "gamsahamnida",
+      "term": "감사합니다"
+    },
+    {
+      "entryID": "topik-starter-013",
+      "meaning": "一起",
+      "reading": "gachi",
+      "term": "같이"
+    },
+    {
+      "entryID": "topik-starter-014",
+      "meaning": "街道",
+      "reading": "geori",
+      "term": "거리"
+    },
+    {
+      "entryID": "topik-starter-015",
+      "meaning": "走路",
+      "reading": "geotda",
+      "term": "걷다"
+    },
+    {
+      "entryID": "topik-starter-016",
+      "meaning": "冬天",
+      "reading": "gyeoul",
+      "term": "겨울"
+    },
+    {
+      "entryID": "topik-starter-017",
+      "meaning": "季节",
+      "reading": "gyejeol",
+      "term": "계절"
+    },
+    {
+      "entryID": "topik-starter-018",
+      "meaning": "肉",
+      "reading": "gogi",
+      "term": "고기"
+    },
+    {
+      "entryID": "topik-starter-019",
+      "meaning": "马上",
+      "reading": "got",
+      "term": "곧"
+    },
+    {
+      "entryID": "topik-starter-020",
+      "meaning": "学习",
+      "reading": "gongbu",
+      "term": "공부"
+    },
+    {
+      "entryID": "topik-starter-021",
+      "meaning": "学习（动词）",
+      "reading": "gongbuhada",
+      "term": "공부하다"
+    },
+    {
+      "entryID": "topik-starter-022",
+      "meaning": "机场",
+      "reading": "gonghang",
+      "term": "공항"
+    },
+    {
+      "entryID": "topik-starter-023",
+      "meaning": "水果",
+      "reading": "gwail",
+      "term": "과일"
+    },
+    {
+      "entryID": "topik-starter-024",
+      "meaning": "没关系",
+      "reading": "gwaenchanta",
+      "term": "괜찮다"
+    },
+    {
+      "entryID": "topik-starter-025",
+      "meaning": "教室",
+      "reading": "gyosil",
+      "term": "교실"
+    },
+    {
+      "entryID": "topik-starter-026",
+      "meaning": "汤",
+      "reading": "guk",
+      "term": "국"
+    },
+    {
+      "entryID": "topik-starter-027",
+      "meaning": "耳朵",
+      "reading": "gui",
+      "term": "귀"
+    },
+    {
+      "entryID": "topik-starter-028",
+      "meaning": "等待",
+      "reading": "gidarida",
+      "term": "기다리다"
+    },
+    {
+      "entryID": "topik-starter-029",
+      "meaning": "火车",
+      "reading": "gicha",
+      "term": "기차"
+    },
+    {
+      "entryID": "topik-starter-030",
+      "meaning": "路",
+      "reading": "gil",
+      "term": "길"
+    },
+    {
+      "entryID": "topik-starter-031",
+      "meaning": "泡菜",
+      "reading": "gimchi",
+      "term": "김치"
+    },
+    {
+      "entryID": "topik-starter-032",
+      "meaning": "干净",
+      "reading": "kkaekkeutada",
+      "term": "깨끗하다"
+    },
+    {
+      "entryID": "topik-starter-033",
+      "meaning": "结束",
+      "reading": "kkeutnada",
+      "term": "끝나다"
+    },
+    {
+      "entryID": "topik-starter-034",
+      "meaning": "戴（眼镜）",
+      "reading": "kkida",
+      "term": "끼다"
+    },
+    {
+      "entryID": "topik-starter-035",
+      "meaning": "我",
+      "reading": "na",
+      "term": "나"
+    },
+    {
+      "entryID": "topik-starter-036",
+      "meaning": "国家",
+      "reading": "nara",
+      "term": "나라"
+    },
+    {
+      "entryID": "topik-starter-037",
+      "meaning": "坏的",
+      "reading": "nappeuda",
+      "term": "나쁘다"
+    },
+    {
+      "entryID": "topik-starter-038",
+      "meaning": "天气",
+      "reading": "nalssi",
+      "term": "날씨"
+    },
+    {
+      "entryID": "topik-starter-039",
+      "meaning": "男人",
+      "reading": "namja",
+      "term": "남자"
+    },
+    {
+      "entryID": "topik-starter-040",
+      "meaning": "下车",
+      "reading": "naerida",
+      "term": "내리다"
+    },
+    {
+      "entryID": "topik-starter-041",
+      "meaning": "明天",
+      "reading": "naeil",
+      "term": "내일"
+    },
+    {
+      "entryID": "topik-starter-042",
+      "meaning": "你",
+      "reading": "neo",
+      "term": "너"
+    },
+    {
+      "entryID": "topik-starter-043",
+      "meaning": "太",
+      "reading": "neomu",
+      "term": "너무"
+    },
+    {
+      "entryID": "topik-starter-044",
+      "meaning": "四",
+      "reading": "net",
+      "term": "넷"
+    },
+    {
+      "entryID": "topik-starter-045",
+      "meaning": "歌曲",
+      "reading": "norae",
+      "term": "노래"
+    },
+    {
+      "entryID": "topik-starter-046",
+      "meaning": "玩",
+      "reading": "nolda",
+      "term": "놀다"
+    },
+    {
+      "entryID": "topik-starter-047",
+      "meaning": "篮球",
+      "reading": "nonggu",
+      "term": "농구"
+    },
+    {
+      "entryID": "topik-starter-048",
+      "meaning": "谁",
+      "reading": "nugu",
+      "term": "누구"
+    },
+    {
+      "entryID": "topik-starter-049",
+      "meaning": "姐姐",
+      "reading": "nuna",
+      "term": "누나"
+    },
+    {
+      "entryID": "topik-starter-050",
+      "meaning": "眼睛；雪",
+      "reading": "nun",
+      "term": "눈"
+    },
+    {
+      "entryID": "topik-starter-051",
+      "meaning": "腿；桥",
+      "reading": "dari",
+      "term": "다리"
+    },
+    {
+      "entryID": "topik-starter-052",
+      "meaning": "五",
+      "reading": "daseot",
+      "term": "다섯"
+    },
+    {
+      "entryID": "topik-starter-053",
+      "meaning": "再",
+      "reading": "dasi",
+      "term": "다시"
+    },
+    {
+      "entryID": "topik-starter-054",
+      "meaning": "关",
+      "reading": "datda",
+      "term": "닫다"
+    },
+    {
+      "entryID": "topik-starter-055",
+      "meaning": "脏",
+      "reading": "deoreopda",
+      "term": "더럽다"
+    },
+    {
+      "entryID": "topik-starter-056",
+      "meaning": "热",
+      "reading": "deopda",
+      "term": "덥다"
+    },
+    {
+      "entryID": "topik-starter-057",
+      "meaning": "城市",
+      "reading": "dosi",
+      "term": "도시"
+    },
+    {
+      "entryID": "topik-starter-058",
+      "meaning": "钱",
+      "reading": "don",
+      "term": "돈"
+    },
+    {
+      "entryID": "topik-starter-059",
+      "meaning": "弟妹",
+      "reading": "dongsaeng",
+      "term": "동생"
+    },
+    {
+      "entryID": "topik-starter-060",
+      "meaning": "二",
+      "reading": "dul",
+      "term": "둘"
+    },
+    {
+      "entryID": "topik-starter-061",
+      "meaning": "听",
+      "reading": "deutda",
+      "term": "듣다"
+    },
+    {
+      "entryID": "topik-starter-062",
+      "meaning": "温暖",
+      "reading": "ttatteutada",
+      "term": "따뜻하다"
+    },
+    {
+      "entryID": "topik-starter-063",
+      "meaning": "草莓",
+      "reading": "ttalgi",
+      "term": "딸기"
+    },
+    {
+      "entryID": "topik-starter-064",
+      "meaning": "跑",
+      "reading": "ttwida",
+      "term": "뛰다"
+    },
+    {
+      "entryID": "topik-starter-065",
+      "meaning": "喝",
+      "reading": "masida",
+      "term": "마시다"
+    },
+    {
+      "entryID": "topik-starter-066",
+      "meaning": "心",
+      "reading": "maeum",
+      "term": "마음"
+    },
+    {
+      "entryID": "topik-starter-067",
+      "meaning": "万",
+      "reading": "man",
+      "term": "만"
+    },
+    {
+      "entryID": "topik-starter-068",
+      "meaning": "见面",
+      "reading": "mannada",
+      "term": "만나다"
+    },
+    {
+      "entryID": "topik-starter-069",
+      "meaning": "做",
+      "reading": "mandeulda",
+      "term": "만들다"
+    },
+    {
+      "entryID": "topik-starter-070",
+      "meaning": "多",
+      "reading": "manta",
+      "term": "많다"
+    },
+    {
+      "entryID": "topik-starter-071",
+      "meaning": "很多地",
+      "reading": "mani",
+      "term": "많이"
+    },
+    {
+      "entryID": "topik-starter-072",
+      "meaning": "说",
+      "reading": "malhada",
+      "term": "말하다"
+    },
+    {
+      "entryID": "topik-starter-073",
+      "meaning": "非常",
+      "reading": "maeu",
+      "term": "매우"
+    },
+    {
+      "entryID": "topik-starter-074",
+      "meaning": "啤酒",
+      "reading": "maekju",
+      "term": "맥주"
+    },
+    {
+      "entryID": "topik-starter-075",
+      "meaning": "头",
+      "reading": "meori",
+      "term": "머리"
+    },
+    {
+      "entryID": "topik-starter-076",
+      "meaning": "吃",
+      "reading": "meokda",
+      "term": "먹다"
+    },
+    {
+      "entryID": "topik-starter-077",
+      "meaning": "口渴",
+      "reading": "mokmareuda",
+      "term": "목마르다"
+    },
+    {
+      "entryID": "topik-starter-078",
+      "meaning": "身体",
+      "reading": "mom",
+      "term": "몸"
+    },
+    {
+      "entryID": "topik-starter-079",
+      "meaning": "重的",
+      "reading": "mugeopda",
+      "term": "무겁다"
+    },
+    {
+      "entryID": "topik-starter-080",
+      "meaning": "可怕",
+      "reading": "museopda",
+      "term": "무섭다"
+    },
+    {
+      "entryID": "topik-starter-081",
+      "meaning": "什么",
+      "reading": "mueot",
+      "term": "무엇"
+    },
+    {
+      "entryID": "topik-starter-082",
+      "meaning": "门",
+      "reading": "mun",
+      "term": "문"
+    },
+    {
+      "entryID": "topik-starter-083",
+      "meaning": "问",
+      "reading": "mutda",
+      "term": "묻다"
+    },
+    {
+      "entryID": "topik-starter-084",
+      "meaning": "水",
+      "reading": "mul",
+      "term": "물"
+    },
+    {
+      "entryID": "topik-starter-085",
+      "meaning": "美国",
+      "reading": "miguk",
+      "term": "미국"
+    },
+    {
+      "entryID": "topik-starter-086",
+      "meaning": "对不起",
+      "reading": "mianhamnida",
+      "term": "미안합니다"
+    },
+    {
+      "entryID": "topik-starter-087",
+      "meaning": "忙",
+      "reading": "bappeuda",
+      "term": "바쁘다"
+    },
+    {
+      "entryID": "topik-starter-088",
+      "meaning": "小菜",
+      "reading": "banchan",
+      "term": "반찬"
+    },
+    {
+      "entryID": "topik-starter-089",
+      "meaning": "收到",
+      "reading": "batda",
+      "term": "받다"
+    },
+    {
+      "entryID": "topik-starter-090",
+      "meaning": "脚",
+      "reading": "bal",
+      "term": "발"
+    },
+    {
+      "entryID": "topik-starter-091",
+      "meaning": "亮",
+      "reading": "balgda",
+      "term": "밝다"
+    },
+    {
+      "entryID": "topik-starter-092",
+      "meaning": "夜晚",
+      "reading": "bam",
+      "term": "밤"
+    },
+    {
+      "entryID": "topik-starter-093",
+      "meaning": "米饭",
+      "reading": "bap",
+      "term": "밥"
+    },
+    {
+      "entryID": "topik-starter-094",
+      "meaning": "梨；肚子",
+      "reading": "bae",
+      "term": "배"
+    },
+    {
+      "entryID": "topik-starter-095",
+      "meaning": "饥饿",
+      "reading": "baegopeuda",
+      "term": "배고프다"
+    },
+    {
+      "entryID": "topik-starter-096",
+      "meaning": "学习",
+      "reading": "baeuda",
+      "term": "배우다"
+    },
+    {
+      "entryID": "topik-starter-097",
+      "meaning": "百",
+      "reading": "baek",
+      "term": "백"
+    },
+    {
+      "entryID": "topik-starter-098",
+      "meaning": "百货商店",
+      "reading": "baekhwajeom",
+      "term": "백화점"
+    },
+    {
+      "entryID": "topik-starter-099",
+      "meaning": "公共汽车",
+      "reading": "beoseu",
+      "term": "버스"
+    },
+    {
+      "entryID": "topik-starter-100",
+      "meaning": "已经",
+      "reading": "beolsseo",
+      "term": "벌써"
+    },
+    {
+      "entryID": "topik-starter-101",
+      "meaning": "脱",
+      "reading": "beotda",
+      "term": "벗다"
+    },
+    {
+      "entryID": "topik-starter-102",
+      "meaning": "病",
+      "reading": "byeong",
+      "term": "병"
+    },
+    {
+      "entryID": "topik-starter-103",
+      "meaning": "医院",
+      "reading": "byeongwon",
+      "term": "병원"
+    },
+    {
+      "entryID": "topik-starter-104",
+      "meaning": "看",
+      "reading": "boda",
+      "term": "보다"
+    },
+    {
+      "entryID": "topik-starter-105",
+      "meaning": "春天",
+      "reading": "bom",
+      "term": "봄"
+    },
+    {
+      "entryID": "topik-starter-106",
+      "meaning": "釜山",
+      "reading": "Busan",
+      "term": "부산"
+    },
+    {
+      "entryID": "topik-starter-107",
+      "meaning": "厨房",
+      "reading": "bueok",
+      "term": "부엌"
+    },
+    {
+      "entryID": "topik-starter-108",
+      "meaning": "贵",
+      "reading": "bissada",
+      "term": "비싸다"
+    },
+    {
+      "entryID": "topik-starter-109",
+      "meaning": "飞机",
+      "reading": "bihaenggi",
+      "term": "비행기"
+    },
+    {
+      "entryID": "topik-starter-110",
+      "meaning": "面包",
+      "reading": "ppang",
+      "term": "빵"
+    },
+    {
+      "entryID": "topik-starter-111",
+      "meaning": "苹果",
+      "reading": "sagwa",
+      "term": "사과"
+    },
+    {
+      "entryID": "topik-starter-112",
+      "meaning": "人",
+      "reading": "saram",
+      "term": "사람"
+    },
+    {
+      "entryID": "topik-starter-113",
+      "meaning": "爱",
+      "reading": "sarang",
+      "term": "사랑"
+    },
+    {
+      "entryID": "topik-starter-114",
+      "meaning": "照片",
+      "reading": "sajin",
+      "term": "사진"
+    },
+    {
+      "entryID": "topik-starter-115",
+      "meaning": "生活",
+      "reading": "salda",
+      "term": "살다"
+    },
+    {
+      "entryID": "topik-starter-116",
+      "meaning": "三",
+      "reading": "sam",
+      "term": "삼"
+    },
+    {
+      "entryID": "topik-starter-117",
+      "meaning": "想法",
+      "reading": "saenggak",
+      "term": "생각"
+    },
+    {
+      "entryID": "topik-starter-118",
+      "meaning": "站",
+      "reading": "seoda",
+      "term": "서다"
+    },
+    {
+      "entryID": "topik-starter-119",
+      "meaning": "首尔",
+      "reading": "Seoul",
+      "term": "서울"
+    },
+    {
+      "entryID": "topik-starter-120",
+      "meaning": "老师",
+      "reading": "seonsaengnim",
+      "term": "선생님"
+    },
+    {
+      "entryID": "topik-starter-121",
+      "meaning": "糖",
+      "reading": "seoltang",
+      "term": "설탕"
+    },
+    {
+      "entryID": "topik-starter-122",
+      "meaning": "三",
+      "reading": "set",
+      "term": "셋"
+    },
+    {
+      "entryID": "topik-starter-123",
+      "meaning": "盐",
+      "reading": "sogeum",
+      "term": "소금"
+    },
+    {
+      "entryID": "topik-starter-124",
+      "meaning": "手",
+      "reading": "son",
+      "term": "손"
+    },
+    {
+      "entryID": "topik-starter-125",
+      "meaning": "西瓜",
+      "reading": "subak",
+      "term": "수박"
+    },
+    {
+      "entryID": "topik-starter-126",
+      "meaning": "酒",
+      "reading": "sul",
+      "term": "술"
+    },
+    {
+      "entryID": "topik-starter-127",
+      "meaning": "休息",
+      "reading": "swida",
+      "term": "쉬다"
+    },
+    {
+      "entryID": "topik-starter-128",
+      "meaning": "容易",
+      "reading": "swipda",
+      "term": "쉽다"
+    },
+    {
+      "entryID": "topik-starter-129",
+      "meaning": "悲伤",
+      "reading": "seulpeuda",
+      "term": "슬프다"
+    },
+    {
+      "entryID": "topik-starter-130",
+      "meaning": "时间",
+      "reading": "sigan",
+      "term": "시간"
+    },
+    {
+      "entryID": "topik-starter-131",
+      "meaning": "凉快",
+      "reading": "siwonhada",
+      "term": "시원하다"
+    },
+    {
+      "entryID": "topik-starter-132",
+      "meaning": "开始",
+      "reading": "sijakhada",
+      "term": "시작하다"
+    },
+    {
+      "entryID": "topik-starter-133",
+      "meaning": "市场",
+      "reading": "sijang",
+      "term": "시장"
+    },
+    {
+      "entryID": "topik-starter-134",
+      "meaning": "餐厅",
+      "reading": "sikdang",
+      "term": "식당"
+    },
+    {
+      "entryID": "topik-starter-135",
+      "meaning": "打扰了",
+      "reading": "sillyehamnida",
+      "term": "실례합니다"
+    },
+    {
+      "entryID": "topik-starter-136",
+      "meaning": "十",
+      "reading": "sip",
+      "term": "십"
+    },
+    {
+      "entryID": "topik-starter-137",
+      "meaning": "写",
+      "reading": "sseuda",
+      "term": "쓰다"
+    },
+    {
+      "entryID": "topik-starter-138",
+      "meaning": "爸爸",
+      "reading": "abeoji",
+      "term": "아버지"
+    },
+    {
+      "entryID": "topik-starter-139",
+      "meaning": "孩子",
+      "reading": "ai",
+      "term": "아이"
+    },
+    {
+      "entryID": "topik-starter-140",
+      "meaning": "很",
+      "reading": "aju",
+      "term": "아주"
+    },
+    {
+      "entryID": "topik-starter-141",
+      "meaning": "早上",
+      "reading": "achim",
+      "term": "아침"
+    },
+    {
+      "entryID": "topik-starter-142",
+      "meaning": "你好",
+      "reading": "annyeonghaseyo",
+      "term": "안녕하세요"
+    },
+    {
+      "entryID": "topik-starter-143",
+      "meaning": "坐",
+      "reading": "anjda",
+      "term": "앉다"
+    },
+    {
+      "entryID": "topik-starter-144",
+      "meaning": "知道",
+      "reading": "alda",
+      "term": "알다"
+    },
+    {
+      "entryID": "topik-starter-145",
+      "meaning": "棒球",
+      "reading": "yagu",
+      "term": "야구"
+    },
+    {
+      "entryID": "topik-starter-146",
+      "meaning": "药",
+      "reading": "yak",
+      "term": "약"
+    },
+    {
+      "entryID": "topik-starter-147",
+      "meaning": "约定",
+      "reading": "yaksok",
+      "term": "약속"
+    },
+    {
+      "entryID": "topik-starter-148",
+      "meaning": "黑暗",
+      "reading": "eodupda",
+      "term": "어둡다"
+    },
+    {
+      "entryID": "topik-starter-149",
+      "meaning": "哪里",
+      "reading": "eodi",
+      "term": "어디"
+    },
+    {
+      "entryID": "topik-starter-150",
+      "meaning": "困难",
+      "reading": "eoryeopda",
+      "term": "어렵다"
+    },
+    {
+      "entryID": "topik-starter-151",
+      "meaning": "妈妈",
+      "reading": "eomeoni",
+      "term": "어머니"
+    },
+    {
+      "entryID": "topik-starter-152",
+      "meaning": "昨天",
+      "reading": "eoje",
+      "term": "어제"
+    },
+    {
+      "entryID": "topik-starter-153",
+      "meaning": "什么时候",
+      "reading": "eonje",
+      "term": "언제"
+    },
+    {
+      "entryID": "topik-starter-154",
+      "meaning": "脸",
+      "reading": "eolgul",
+      "term": "얼굴"
+    },
+    {
+      "entryID": "topik-starter-155",
+      "meaning": "夏天",
+      "reading": "yeoreum",
+      "term": "여름"
+    },
+    {
+      "entryID": "topik-starter-156",
+      "meaning": "女人",
+      "reading": "yeoja",
+      "term": "여자"
+    },
+    {
+      "entryID": "topik-starter-157",
+      "meaning": "旅行",
+      "reading": "yeohaeng",
+      "term": "여행"
+    },
+    {
+      "entryID": "topik-starter-158",
+      "meaning": "车站",
+      "reading": "yeok",
+      "term": "역"
+    },
+    {
+      "entryID": "topik-starter-159",
+      "meaning": "铅笔",
+      "reading": "yeonpil",
+      "term": "연필"
+    },
+    {
+      "entryID": "topik-starter-160",
+      "meaning": "十",
+      "reading": "yeol",
+      "term": "열"
+    },
+    {
+      "entryID": "topik-starter-161",
+      "meaning": "打开",
+      "reading": "yeolda",
+      "term": "열다"
+    },
+    {
+      "entryID": "topik-starter-162",
+      "meaning": "电影",
+      "reading": "yeonghwa",
+      "term": "영화"
+    },
+    {
+      "entryID": "topik-starter-163",
+      "meaning": "漂亮",
+      "reading": "yeppeuda",
+      "term": "예쁘다"
+    },
+    {
+      "entryID": "topik-starter-164",
+      "meaning": "五",
+      "reading": "o",
+      "term": "오"
+    },
+    {
+      "entryID": "topik-starter-165",
+      "meaning": "今天",
+      "reading": "oneul",
+      "term": "오늘"
+    },
+    {
+      "entryID": "topik-starter-166",
+      "meaning": "来",
+      "reading": "oda",
+      "term": "오다"
+    },
+    {
+      "entryID": "topik-starter-167",
+      "meaning": "哥哥",
+      "reading": "oppa",
+      "term": "오빠"
+    },
+    {
+      "entryID": "topik-starter-168",
+      "meaning": "为什么",
+      "reading": "wae",
+      "term": "왜"
+    },
+    {
+      "entryID": "topik-starter-169",
+      "meaning": "料理",
+      "reading": "yori",
+      "term": "요리"
+    },
+    {
+      "entryID": "topik-starter-170",
+      "meaning": "我们",
+      "reading": "uri",
+      "term": "우리"
+    },
+    {
+      "entryID": "topik-starter-171",
+      "meaning": "牛奶",
+      "reading": "uyu",
+      "term": "우유"
+    },
+    {
+      "entryID": "topik-starter-172",
+      "meaning": "邮局",
+      "reading": "ucheguk",
+      "term": "우체국"
+    },
+    {
+      "entryID": "topik-starter-173",
+      "meaning": "运动",
+      "reading": "undong",
+      "term": "운동"
+    },
+    {
+      "entryID": "topik-starter-174",
+      "meaning": "哭",
+      "reading": "ulda",
+      "term": "울다"
+    },
+    {
+      "entryID": "topik-starter-175",
+      "meaning": "笑",
+      "reading": "utda",
+      "term": "웃다"
+    },
+    {
+      "entryID": "topik-starter-176",
+      "meaning": "银行",
+      "reading": "eunhaeng",
+      "term": "은행"
+    },
+    {
+      "entryID": "topik-starter-177",
+      "meaning": "食物",
+      "reading": "eumsik",
+      "term": "음식"
+    },
+    {
+      "entryID": "topik-starter-178",
+      "meaning": "音乐",
+      "reading": "eumak",
+      "term": "음악"
+    },
+    {
+      "entryID": "topik-starter-179",
+      "meaning": "医生",
+      "reading": "uisa",
+      "term": "의사"
+    },
+    {
+      "entryID": "topik-starter-180",
+      "meaning": "椅子",
+      "reading": "uija",
+      "term": "의자"
+    },
+    {
+      "entryID": "topik-starter-181",
+      "meaning": "二",
+      "reading": "i",
+      "term": "이"
+    },
+    {
+      "entryID": "topik-starter-182",
+      "meaning": "赢",
+      "reading": "igida",
+      "term": "이기다"
+    },
+    {
+      "entryID": "topik-starter-183",
+      "meaning": "名字",
+      "reading": "ireum",
+      "term": "이름"
+    },
+    {
+      "entryID": "topik-starter-184",
+      "meaning": "已经",
+      "reading": "imi",
+      "term": "이미"
+    },
+    {
+      "entryID": "topik-starter-185",
+      "meaning": "一",
+      "reading": "il",
+      "term": "일"
+    },
+    {
+      "entryID": "topik-starter-186",
+      "meaning": "工作",
+      "reading": "ilhada",
+      "term": "일하다"
+    },
+    {
+      "entryID": "topik-starter-187",
+      "meaning": "读",
+      "reading": "ikda",
+      "term": "읽다"
+    },
+    {
+      "entryID": "topik-starter-188",
+      "meaning": "嘴",
+      "reading": "ip",
+      "term": "입"
+    },
+    {
+      "entryID": "topik-starter-189",
+      "meaning": "睡觉",
+      "reading": "jada",
+      "term": "자다"
+    },
+    {
+      "entryID": "topik-starter-190",
+      "meaning": "汽车",
+      "reading": "jadongcha",
+      "term": "자동차"
+    },
+    {
+      "entryID": "topik-starter-191",
+      "meaning": "自行车",
+      "reading": "jajeongeo",
+      "term": "자전거"
+    },
+    {
+      "entryID": "topik-starter-192",
+      "meaning": "经常",
+      "reading": "jaju",
+      "term": "자주"
+    },
+    {
+      "entryID": "topik-starter-193",
+      "meaning": "小",
+      "reading": "jakda",
+      "term": "작다"
+    },
+    {
+      "entryID": "topik-starter-194",
+      "meaning": "有趣",
+      "reading": "jaemiitda",
+      "term": "재미있다"
+    },
+    {
+      "entryID": "topik-starter-195",
+      "meaning": "傍晚",
+      "reading": "jeonyeok",
+      "term": "저녁"
+    },
+    {
+      "entryID": "topik-starter-196",
+      "meaning": "少",
+      "reading": "jeokda",
+      "term": "적다"
+    },
+    {
+      "entryID": "topik-starter-197",
+      "meaning": "电话",
+      "reading": "jeonhwa",
+      "term": "전화"
+    },
+    {
+      "entryID": "topik-starter-198",
+      "meaning": "中午",
+      "reading": "jeomsim",
+      "term": "점심"
+    },
+    {
+      "entryID": "topik-starter-199",
+      "meaning": "一点",
+      "reading": "jogeum",
+      "term": "조금"
+    },
+    {
+      "entryID": "topik-starter-200",
+      "meaning": "安静",
+      "reading": "joyonghada",
+      "term": "조용하다"
+    },
+    {
+      "entryID": "topik-starter-201",
+      "meaning": "纸",
+      "reading": "jongi",
+      "term": "종이"
+    },
+    {
+      "entryID": "topik-starter-202",
+      "meaning": "好",
+      "reading": "jota",
+      "term": "좋다"
+    },
+    {
+      "entryID": "topik-starter-203",
+      "meaning": "喜欢",
+      "reading": "joahada",
+      "term": "좋아하다"
+    },
+    {
+      "entryID": "topik-starter-204",
+      "meaning": "给",
+      "reading": "juda",
+      "term": "주다"
+    },
+    {
+      "entryID": "topik-starter-205",
+      "meaning": "死",
+      "reading": "jukda",
+      "term": "죽다"
+    },
+    {
+      "entryID": "topik-starter-206",
+      "meaning": "准备",
+      "reading": "junbi",
+      "term": "준비"
+    },
+    {
+      "entryID": "topik-starter-207",
+      "meaning": "中国",
+      "reading": "Jungguk",
+      "term": "중국"
+    },
+    {
+      "entryID": "topik-starter-208",
+      "meaning": "现在",
+      "reading": "jigeum",
+      "term": "지금"
+    },
+    {
+      "entryID": "topik-starter-209",
+      "meaning": "擦",
+      "reading": "jiuda",
+      "term": "지우다"
+    },
+    {
+      "entryID": "topik-starter-210",
+      "meaning": "家",
+      "reading": "jip",
+      "term": "집"
+    },
+    {
+      "entryID": "topik-starter-211",
+      "meaning": "窗户",
+      "reading": "changmun",
+      "term": "창문"
+    },
+    {
+      "entryID": "topik-starter-212",
+      "meaning": "找",
+      "reading": "chajda",
+      "term": "찾다"
+    },
+    {
+      "entryID": "topik-starter-213",
+      "meaning": "书",
+      "reading": "chaek",
+      "term": "책"
+    },
+    {
+      "entryID": "topik-starter-214",
+      "meaning": "书桌",
+      "reading": "chaeksang",
+      "term": "책상"
+    },
+    {
+      "entryID": "topik-starter-215",
+      "meaning": "千",
+      "reading": "cheon",
+      "term": "천"
+    },
+    {
+      "entryID": "topik-starter-216",
+      "meaning": "足球",
+      "reading": "chukgu",
+      "term": "축구"
+    },
+    {
+      "entryID": "topik-starter-217",
+      "meaning": "冷",
+      "reading": "chupda",
+      "term": "춥다"
+    },
+    {
+      "entryID": "topik-starter-218",
+      "meaning": "朋友",
+      "reading": "chingu",
+      "term": "친구"
+    },
+    {
+      "entryID": "topik-starter-219",
+      "meaning": "床",
+      "reading": "chimdae",
+      "term": "침대"
+    },
+    {
+      "entryID": "topik-starter-220",
+      "meaning": "咖啡",
+      "reading": "keopi",
+      "term": "커피"
+    },
+    {
+      "entryID": "topik-starter-221",
+      "meaning": "电脑",
+      "reading": "keompyuteo",
+      "term": "컴퓨터"
+    },
+    {
+      "entryID": "topik-starter-222",
+      "meaning": "杯子",
+      "reading": "keop",
+      "term": "컵"
+    },
+    {
+      "entryID": "topik-starter-223",
+      "meaning": "鼻子",
+      "reading": "ko",
+      "term": "코"
+    },
+    {
+      "entryID": "topik-starter-224",
+      "meaning": "大",
+      "reading": "keuda",
+      "term": "크다"
+    },
+    {
+      "entryID": "topik-starter-225",
+      "meaning": "乘坐",
+      "reading": "tada",
+      "term": "타다"
+    },
+    {
+      "entryID": "topik-starter-226",
+      "meaning": "出生",
+      "reading": "taeeonada",
+      "term": "태어나다"
+    },
+    {
+      "entryID": "topik-starter-227",
+      "meaning": "电视",
+      "reading": "tellebijeon",
+      "term": "텔레비전"
+    },
+    {
+      "entryID": "topik-starter-228",
+      "meaning": "胳膊",
+      "reading": "pal",
+      "term": "팔"
+    },
+    {
+      "entryID": "topik-starter-229",
+      "meaning": "卖",
+      "reading": "palda",
+      "term": "팔다"
+    },
+    {
+      "entryID": "topik-starter-230",
+      "meaning": "疲劳",
+      "reading": "pigonhada",
+      "term": "피곤하다"
+    },
+    {
+      "entryID": "topik-starter-231",
+      "meaning": "一",
+      "reading": "hana",
+      "term": "하나"
+    },
+    {
+      "entryID": "topik-starter-232",
+      "meaning": "学校",
+      "reading": "hakgyo",
+      "term": "학교"
+    },
+    {
+      "entryID": "topik-starter-233",
+      "meaning": "学生",
+      "reading": "haksaeng",
+      "term": "학생"
+    },
+    {
+      "entryID": "topik-starter-234",
+      "meaning": "奶奶",
+      "reading": "halmeoni",
+      "term": "할머니"
+    },
+    {
+      "entryID": "topik-starter-235",
+      "meaning": "爷爷",
+      "reading": "harabeoji",
+      "term": "할아버지"
+    },
+    {
+      "entryID": "topik-starter-236",
+      "meaning": "总是",
+      "reading": "hangsang",
+      "term": "항상"
+    },
+    {
+      "entryID": "topik-starter-237",
+      "meaning": "幸福",
+      "reading": "haengbokhada",
+      "term": "행복하다"
+    },
+    {
+      "entryID": "topik-starter-238",
+      "meaning": "哥哥",
+      "reading": "hyeong",
+      "term": "형"
+    },
+    {
+      "entryID": "topik-starter-239",
+      "meaning": "宾馆",
+      "reading": "hotel",
+      "term": "호텔"
+    },
+    {
+      "entryID": "topik-starter-240",
+      "meaning": "卫生间",
+      "reading": "hwajangsil",
+      "term": "화장실"
+    },
+    {
+      "entryID": "topik-starter-241",
+      "meaning": "公司",
+      "reading": "hoesa",
+      "term": "회사"
+    },
+    {
+      "entryID": "topik-starter-242",
+      "meaning": "家具",
+      "reading": "gagu",
+      "term": "가구"
+    },
+    {
+      "entryID": "topik-starter-243",
+      "meaning": "路灯",
+      "reading": "garodeung",
+      "term": "가로등"
+    },
+    {
+      "entryID": "topik-starter-244",
+      "meaning": "（时间）流逝",
+      "reading": "gasida",
+      "term": "가시다"
+    },
+    {
+      "entryID": "topik-starter-245",
+      "meaning": "简单地",
+      "reading": "gandanhi",
+      "term": "간단히"
+    },
+    {
+      "entryID": "topik-starter-246",
+      "meaning": "排骨",
+      "reading": "galbi",
+      "term": "갈비"
+    },
+    {
+      "entryID": "topik-starter-247",
+      "meaning": "隐藏",
+      "reading": "gamchuida",
+      "term": "감추다"
+    },
+    {
+      "entryID": "topik-starter-248",
+      "meaning": "迎春花",
+      "reading": "gaenari",
+      "term": "개나리"
+    },
+    {
+      "entryID": "topik-starter-249",
+      "meaning": "猛烈",
+      "reading": "geseda",
+      "term": "거세다"
+    },
+    {
+      "entryID": "topik-starter-250",
+      "meaning": "担心",
+      "reading": "geokjeongseureopda",
+      "term": "걱정스럽다"
+    },
+    {
+      "entryID": "topik-starter-251",
+      "meaning": "抹布",
+      "reading": "geolle",
+      "term": "걸레"
+    },
+    {
+      "entryID": "topik-starter-252",
+      "meaning": "懒惰",
+      "reading": "geeureum",
+      "term": "게으름"
+    },
+    {
+      "entryID": "topik-starter-253",
+      "meaning": "绝不",
+      "reading": "gyeolko",
+      "term": "결코"
+    },
+    {
+      "entryID": "topik-starter-254",
+      "meaning": "溪谷",
+      "reading": "gyegok",
+      "term": "계곡"
+    },
+    {
+      "entryID": "topik-starter-255",
+      "meaning": "均匀地",
+      "reading": "goru",
+      "term": "고루"
+    },
+    {
+      "entryID": "topik-starter-256",
+      "meaning": "香喷喷",
+      "reading": "gosohada",
+      "term": "고소하다"
+    },
+    {
+      "entryID": "topik-starter-257",
+      "meaning": "痛苦",
+      "reading": "gotongseureupda",
+      "term": "고통스럽다"
+    },
+    {
+      "entryID": "topik-starter-258",
+      "meaning": "空间",
+      "reading": "gonggan",
+      "term": "공간"
+    },
+    {
+      "entryID": "topik-starter-259",
+      "meaning": "笔记本",
+      "reading": "gongchaek",
+      "term": "공책"
+    },
+    {
+      "entryID": "topik-starter-260",
+      "meaning": "救护车",
+      "reading": "gugeupcha",
+      "term": "구급차"
+    },
+    {
+      "entryID": "topik-starter-261",
+      "meaning": "变硬",
+      "reading": "gutda",
+      "term": "굳다"
+    },
+    {
+      "entryID": "topik-starter-262",
+      "meaning": "宫殿",
+      "reading": "gungjeon",
+      "term": "궁전"
+    },
+    {
+      "entryID": "topik-starter-263",
+      "meaning": "急忙",
+      "reading": "geupi",
+      "term": "급히"
+    },
+    {
+      "entryID": "topik-starter-264",
+      "meaning": "养育",
+      "reading": "gireuda",
+      "term": "기르다"
+    },
+    {
+      "entryID": "topik-starter-265",
+      "meaning": "乌黑",
+      "reading": "kkamahata",
+      "term": "까맣다"
+    },
+    {
+      "entryID": "topik-starter-266",
+      "meaning": "折断",
+      "reading": "kkeokda",
+      "term": "꺾다"
+    },
+    {
+      "entryID": "topik-starter-267",
+      "meaning": "做梦",
+      "reading": "kkuda",
+      "term": "꾸다"
+    },
+    {
+      "entryID": "topik-starter-268",
+      "meaning": "做完",
+      "reading": "kkeutnaeda",
+      "term": "끝내다"
+    },
+    {
+      "entryID": "topik-starter-269",
+      "meaning": "剩余",
+      "reading": "nameoji",
+      "term": "나머지"
+    },
+    {
+      "entryID": "topik-starter-270",
+      "meaning": "飞来飞去",
+      "reading": "naradaninda",
+      "term": "날아다니다"
+    },
+    {
+      "entryID": "topik-starter-271",
+      "meaning": "低",
+      "reading": "natda",
+      "term": "낮다"
+    },
+    {
+      "entryID": "topik-starter-272",
+      "meaning": "俯视",
+      "reading": "naeryeodaboda",
+      "term": "내려다보다"
+    },
+    {
+      "entryID": "topik-starter-273",
+      "meaning": "冰箱",
+      "reading": "naengjanggo",
+      "term": "냉장고"
+    },
+    {
+      "entryID": "topik-starter-274",
+      "meaning": "弄倒",
+      "reading": "neomeotteurida",
+      "term": "넘어뜨리다"
+    },
+    {
+      "entryID": "topik-starter-275",
+      "meaning": "融化",
+      "reading": "nokda",
+      "term": "녹다"
+    },
+    {
+      "entryID": "topik-starter-276",
+      "meaning": "农活",
+      "reading": "nongsa",
+      "term": "농사"
+    },
+    {
+      "entryID": "topik-starter-277",
+      "meaning": "黄澄澄",
+      "reading": "nureota",
+      "term": "누렇다"
+    },
+    {
+      "entryID": "topik-starter-278",
+      "meaning": "熨斗",
+      "reading": "darimi",
+      "term": "다리미"
+    },
+    {
+      "entryID": "topik-starter-279",
+      "meaning": "受伤",
+      "reading": "dachida",
+      "term": "다치다"
+    },
+    {
+      "entryID": "topik-starter-280",
+      "meaning": "枫叶",
+      "reading": "danpung",
+      "term": "단풍"
+    },
+    {
+      "entryID": "topik-starter-281",
+      "meaning": "奔跑",
+      "reading": "dallida",
+      "term": "달리다"
+    },
+    {
+      "entryID": "topik-starter-282",
+      "meaning": "回答",
+      "reading": "dapada",
+      "term": "답하다"
+    },
+    {
+      "entryID": "topik-starter-283",
+      "meaning": "放上",
+      "reading": "daeda",
+      "term": "대다"
+    },
+    {
+      "entryID": "topik-starter-284",
+      "meaning": "暑热",
+      "reading": "deowi",
+      "term": "더위"
+    },
+    {
+      "entryID": "topik-starter-285",
+      "meaning": "挑战",
+      "reading": "dojeon",
+      "term": "도전"
+    },
+    {
+      "entryID": "topik-starter-286",
+      "meaning": "洞穴",
+      "reading": "donggul",
+      "term": "동굴"
+    },
+    {
+      "entryID": "topik-starter-287",
+      "meaning": "东边",
+      "reading": "dongjjok",
+      "term": "동쪽"
+    },
+    {
+      "entryID": "topik-starter-288",
+      "meaning": "大酱",
+      "reading": "doenjang",
+      "term": "된장"
+    },
+    {
+      "entryID": "topik-starter-289",
+      "meaning": "迟钝",
+      "reading": "dunhada",
+      "term": "둔하다"
+    },
+    {
+      "entryID": "topik-starter-290",
+      "meaning": "终于",
+      "reading": "deudieo",
+      "term": "드디어"
+    },
+    {
+      "entryID": "topik-starter-291",
+      "meaning": "听从",
+      "reading": "deureojuda",
+      "term": "들어주다"
+    },
+    {
+      "entryID": "topik-starter-292",
+      "meaning": "采摘",
+      "reading": "ttada",
+      "term": "따다"
+    },
+    {
+      "entryID": "topik-starter-293",
+      "meaning": "地面",
+      "reading": "ttangbadat",
+      "term": "땅바닥"
+    },
+    {
+      "entryID": "topik-starter-294",
+      "meaning": "笔直地",
+      "reading": "ttokbaro",
+      "term": "똑바로"
+    },
+    {
+      "entryID": "topik-starter-295",
+      "meaning": "蹦跳玩耍",
+      "reading": "ttwieonolda",
+      "term": "뛰어놀다"
+    },
+    {
+      "entryID": "topik-starter-296",
+      "meaning": "正好",
+      "reading": "machim",
+      "term": "마침"
+    },
+    {
+      "entryID": "topik-starter-297",
+      "meaning": "损坏",
+      "reading": "manggajida",
+      "term": "망가지다"
+    },
+    {
+      "entryID": "topik-starter-298",
+      "meaning": "系",
+      "reading": "maeda",
+      "term": "매다"
+    },
+    {
+      "entryID": "topik-starter-299",
+      "meaning": "脑海",
+      "reading": "meorissok",
+      "term": "머릿속"
+    },
+    {
+      "entryID": "topik-starter-300",
+      "meaning": "帅气",
+      "reading": "meotjija",
+      "term": "멋지다"
+    },
+    {
+      "entryID": "topik-starter-301",
+      "meaning": "回声",
+      "reading": "meari",
+      "term": "메아리"
+    },
+    {
+      "entryID": "topik-starter-302",
+      "meaning": "帽子",
+      "reading": "moja",
+      "term": "모자"
+    },
+    {
+      "entryID": "topik-starter-303",
+      "meaning": "驾驶",
+      "reading": "molda",
+      "term": "몰다"
+    },
+    {
+      "entryID": "topik-starter-304",
+      "meaning": "变重",
+      "reading": "mugeowojida",
+      "term": "무거워지다"
+    },
+    {
+      "entryID": "topik-starter-305",
+      "meaning": "膝盖",
+      "reading": "mureup",
+      "term": "무릎"
+    },
+    {
+      "entryID": "topik-starter-306",
+      "meaning": "一捆",
+      "reading": "mukkeum",
+      "term": "묶음"
+    },
+    {
+      "entryID": "topik-starter-307",
+      "meaning": "鱼",
+      "reading": "mulgogi",
+      "term": "물고기"
+    },
+    {
+      "entryID": "topik-starter-308",
+      "meaning": "水中",
+      "reading": "mulsok",
+      "term": "물속"
+    },
+    {
+      "entryID": "topik-starter-309",
+      "meaning": "诱饵",
+      "reading": "mikki",
+      "term": "미끼"
+    },
+    {
+      "entryID": "topik-starter-310",
+      "meaning": "美发店",
+      "reading": "miyongsil",
+      "term": "미용실"
+    },
+    {
+      "entryID": "topik-starter-311",
+      "meaning": "推一把",
+      "reading": "mireojuda",
+      "term": "밀어주다"
+    },
+    {
+      "entryID": "topik-starter-312",
+      "meaning": "地板",
+      "reading": "badat",
+      "term": "바닥"
+    },
+    {
+      "entryID": "topik-starter-313",
+      "meaning": "紧紧地",
+      "reading": "bajjak",
+      "term": "바짝"
+    },
+    {
+      "entryID": "topik-starter-314",
+      "meaning": "半月",
+      "reading": "bandal",
+      "term": "반달"
+    },
+    {
+      "entryID": "topik-starter-315",
+      "meaning": "揉面",
+      "reading": "banjuk",
+      "term": "반죽"
+    },
+    {
+      "entryID": "topik-starter-316",
+      "meaning": "脚尖",
+      "reading": "balkkeut",
+      "term": "발끝"
+    },
+    {
+      "entryID": "topik-starter-317",
+      "meaning": "踏板",
+      "reading": "balpan",
+      "term": "발판"
+    },
+    {
+      "entryID": "topik-starter-318",
+      "meaning": "饭碗",
+      "reading": "bapgeureut",
+      "term": "밥그릇"
+    },
+    {
+      "entryID": "topik-starter-319",
+      "meaning": "盾牌",
+      "reading": "bangpae",
+      "term": "방패"
+    },
+    {
+      "entryID": "topik-starter-320",
+      "meaning": "演员",
+      "reading": "baeu",
+      "term": "배우"
+    },
+    {
+      "entryID": "topik-starter-321",
+      "meaning": "忍受",
+      "reading": "beotida",
+      "term": "버티다"
+    },
+    {
+      "entryID": "topik-starter-322",
+      "meaning": "被剥落",
+      "reading": "beotgyeojida",
+      "term": "벗겨지다"
+    },
+    {
+      "entryID": "topik-starter-323",
+      "meaning": "变身",
+      "reading": "byeonsin",
+      "term": "변신"
+    },
+    {
+      "entryID": "topik-starter-324",
+      "meaning": "紫色",
+      "reading": "bola",
+      "term": "보라"
+    },
+    {
+      "entryID": "topik-starter-325",
+      "meaning": "桃子",
+      "reading": "boktunga",
+      "term": "복숭아"
+    },
+    {
+      "entryID": "topik-starter-326",
+      "meaning": "柔软",
+      "reading": "budeureopda",
+      "term": "부드럽다"
+    },
+    {
+      "entryID": "topik-starter-327",
+      "meaning": "打碎",
+      "reading": "busuda",
+      "term": "부수다"
+    },
+    {
+      "entryID": "topik-starter-328",
+      "meaning": "膨胀",
+      "reading": "bupeulda",
+      "term": "부풀다"
+    },
+    {
+      "entryID": "topik-starter-329",
+      "meaning": "不可能",
+      "reading": "bulganeunghada",
+      "term": "불가능하다"
+    },
+    {
+      "entryID": "topik-starter-330",
+      "meaning": "增多",
+      "reading": "bureonada",
+      "term": "불어나다"
+    },
+    {
+      "entryID": "topik-starter-331",
+      "meaning": "鸽子",
+      "reading": "bidulgi",
+      "term": "비둘기"
+    },
+    {
+      "entryID": "topik-starter-332",
+      "meaning": "蹒跚",
+      "reading": "biteulgeorida",
+      "term": "비틀거리다"
+    },
+    {
+      "entryID": "topik-starter-333",
+      "meaning": "红色",
+      "reading": "ppalgang",
+      "term": "빨강"
+    },
+    {
+      "entryID": "topik-starter-334",
+      "meaning": "被夺走",
+      "reading": "ppyaeatkida",
+      "term": "빼앗기다"
+    },
+    {
+      "entryID": "topik-starter-335",
+      "meaning": "梯子",
+      "reading": "sadalli",
+      "term": "사다리"
+    },
+    {
+      "entryID": "topik-starter-336",
+      "meaning": "汽水",
+      "reading": "saida",
+      "term": "사이다"
+    },
+    {
+      "entryID": "topik-starter-337",
+      "meaning": "山火",
+      "reading": "sanbul",
+      "term": "산불"
+    },
+    {
+      "entryID": "topik-starter-338",
+      "meaning": "发胖",
+      "reading": "saljjida",
+      "term": "살찌다"
+    },
+    {
+      "entryID": "topik-starter-339",
+      "meaning": "对方",
+      "reading": "sangdaepyeon",
+      "term": "상대편"
+    },
+    {
+      "entryID": "topik-starter-340",
+      "meaning": "幼崽",
+      "reading": "saekkki",
+      "term": "새끼"
+    },
+    {
+      "entryID": "topik-starter-341",
+      "meaning": "三明治",
+      "reading": "saendeuwichi",
+      "term": "샌드위치"
+    },
+    {
+      "entryID": "topik-starter-342",
+      "meaning": "淋浴",
+      "reading": "syawohada",
+      "term": "샤워하다"
+    },
+    {
+      "entryID": "topik-starter-343",
+      "meaning": "混合",
+      "reading": "seokka",
+      "term": "섞다"
+    },
+    {
+      "entryID": "topik-starter-344",
+      "meaning": "春节",
+      "reading": "seollal",
+      "term": "설날"
+    },
+    {
+      "entryID": "topik-starter-345",
+      "meaning": "细菌",
+      "reading": "segeun",
+      "term": "세균"
+    },
+    {
+      "entryID": "topik-starter-346",
+      "meaning": "中心",
+      "reading": "senteo",
+      "term": "센터"
+    },
+    {
+      "entryID": "topik-starter-347",
+      "meaning": "声音",
+      "reading": "sori",
+      "term": "소리"
+    },
+    {
+      "entryID": "topik-starter-348",
+      "meaning": "噪音",
+      "reading": "soeum",
+      "term": "소음"
+    },
+    {
+      "entryID": "topik-starter-349",
+      "meaning": "属于",
+      "reading": "sokhada",
+      "term": "속하다"
+    },
+    {
+      "entryID": "topik-starter-350",
+      "meaning": "指甲",
+      "reading": "sontop",
+      "term": "손톱"
+    },
+    {
+      "entryID": "topik-starter-351",
+      "meaning": "毛巾",
+      "reading": "sugeon",
+      "term": "수건"
+    },
+    {
+      "entryID": "topik-starter-352",
+      "meaning": "上课",
+      "reading": "sueophada",
+      "term": "수업하다"
+    },
+    {
+      "entryID": "topik-starter-353",
+      "meaning": "瞬间",
+      "reading": "sungan",
+      "term": "순간"
+    },
+    {
+      "entryID": "topik-starter-354",
+      "meaning": "炭火",
+      "reading": "sutbul",
+      "term": "숯불"
+    },
+    {
+      "entryID": "topik-starter-355",
+      "meaning": "菠菜",
+      "reading": "sigumchi",
+      "term": "시금치"
+    },
+    {
+      "entryID": "topik-starter-356",
+      "meaning": "比赛",
+      "reading": "sihap",
+      "term": "시합"
+    },
+    {
+      "entryID": "topik-starter-357",
+      "meaning": "申报",
+      "reading": "singo",
+      "term": "신고"
+    },
+    {
+      "entryID": "topik-starter-358",
+      "meaning": "信号",
+      "reading": "sinho",
+      "term": "신호"
+    },
+    {
+      "entryID": "topik-starter-359",
+      "meaning": "讨厌",
+      "reading": "silta",
+      "term": "싫다"
+    },
+    {
+      "entryID": "topik-starter-360",
+      "meaning": "新鲜",
+      "reading": "singsinghada",
+      "term": "싱싱하다"
+    },
+    {
+      "entryID": "topik-starter-361",
+      "meaning": "雪橇",
+      "reading": "seolmae",
+      "term": "썰매"
+    },
+    {
+      "entryID": "topik-starter-362",
+      "meaning": "刺痛",
+      "reading": "sseurida",
+      "term": "쓰리다"
+    },
+    {
+      "entryID": "topik-starter-363",
+      "meaning": "若无其事",
+      "reading": "amureota",
+      "term": "아무렇다"
+    },
+    {
+      "entryID": "topik-starter-364",
+      "meaning": "公寓",
+      "reading": "apateu",
+      "term": "아파트"
+    },
+    {
+      "entryID": "topik-starter-365",
+      "meaning": "引导",
+      "reading": "annae",
+      "term": "안내"
+    },
+    {
+      "entryID": "topik-starter-366",
+      "meaning": "不（助词性动词）",
+      "reading": "anta",
+      "term": "않다"
+    },
+    {
+      "entryID": "topik-starter-367",
+      "meaning": "门牙",
+      "reading": "apni",
+      "term": "앞니"
+    },
+    {
+      "entryID": "topik-starter-368",
+      "meaning": "宝宝",
+      "reading": "aegi",
+      "term": "애기"
+    },
+    {
+      "entryID": "topik-starter-369",
+      "meaning": "承诺",
+      "reading": "yaksokhada",
+      "term": "약속하다"
+    },
+    {
+      "entryID": "topik-starter-370",
+      "meaning": "刷牙",
+      "reading": "yangchijil",
+      "term": "양치질"
+    },
+    {
+      "entryID": "topik-starter-371",
+      "meaning": "年幼",
+      "reading": "eorida",
+      "term": "어리다"
+    },
+    {
+      "entryID": "topik-starter-372",
+      "meaning": "融合",
+      "reading": "eoureojida",
+      "term": "어우러지다"
+    },
+    {
+      "entryID": "topik-starter-373",
+      "meaning": "语言",
+      "reading": "eoneo",
+      "term": "언어"
+    },
+    {
+      "entryID": "topik-starter-374",
+      "meaning": "妈妈",
+      "reading": "eomma",
+      "term": "엄마"
+    },
+    {
+      "entryID": "topik-starter-375",
+      "meaning": "乱七八糟",
+      "reading": "eongmangjinchang",
+      "term": "엉망진창"
+    },
+    {
+      "entryID": "topik-starter-376",
+      "meaning": "女王",
+      "reading": "yeowang",
+      "term": "여왕"
+    },
+    {
+      "entryID": "topik-starter-377",
+      "meaning": "联络",
+      "reading": "yeollak",
+      "term": "연락"
+    },
+    {
+      "entryID": "topik-starter-378",
+      "meaning": "列车",
+      "reading": "yeolcha",
+      "term": "열차"
+    },
+    {
+      "entryID": "topik-starter-379",
+      "meaning": "隔壁房间",
+      "reading": "yeopbang",
+      "term": "옆방"
+    },
+    {
+      "entryID": "topik-starter-380",
+      "meaning": "很久",
+      "reading": "orae",
+      "term": "오래"
+    },
+    {
+      "entryID": "topik-starter-381",
+      "meaning": "右边",
+      "reading": "oreunjjok",
+      "term": "오른쪽"
+    },
+    {
+      "entryID": "topik-starter-382",
+      "meaning": "屋顶",
+      "reading": "oksang",
+      "term": "옥상"
+    },
+    {
+      "entryID": "topik-starter-383",
+      "meaning": "正确",
+      "reading": "olta",
+      "term": "옳다"
+    },
+    {
+      "entryID": "topik-starter-384",
+      "meaning": "外星人",
+      "reading": "oegyein",
+      "term": "외계인"
+    },
+    {
+      "entryID": "topik-starter-385",
+      "meaning": "左脚",
+      "reading": "oenbal",
+      "term": "왼발"
+    },
+    {
+      "entryID": "topik-starter-386",
+      "meaning": "最近",
+      "reading": "yojeum",
+      "term": "요즘"
+    },
+    {
+      "entryID": "topik-starter-387",
+      "meaning": "宇宙飞船",
+      "reading": "ujuseon",
+      "term": "우주선"
+    },
+    {
+      "entryID": "topik-starter-388",
+      "meaning": "哭闹",
+      "reading": "ureumbo",
+      "term": "울음보"
+    },
+    {
+      "entryID": "topik-starter-389",
+      "meaning": "星期一",
+      "reading": "woryoil",
+      "term": "월요일"
+    },
+    {
+      "entryID": "topik-starter-390",
+      "meaning": "有名",
+      "reading": "yumyeonghada",
+      "term": "유명하다"
+    },
+    {
+      "entryID": "topik-starter-391",
+      "meaning": "饮料",
+      "reading": "eumnyosu",
+      "term": "음료수"
+    },
+    {
+      "entryID": "topik-starter-392",
+      "meaning": "这样",
+      "reading": "ireota",
+      "term": "이렇다"
+    },
+    {
+      "entryID": "topik-starter-393",
+      "meaning": "被子",
+      "reading": "ibul",
+      "term": "이불"
+    },
+    {
+      "entryID": "topik-starter-394",
+      "meaning": "利用",
+      "reading": "iyonghada",
+      "term": "이용하다"
+    },
+    {
+      "entryID": "topik-starter-395",
+      "meaning": "人类",
+      "reading": "ingan",
+      "term": "인간"
+    },
+    {
+      "entryID": "topik-starter-396",
+      "meaning": "首先",
+      "reading": "ildan",
+      "term": "일단"
+    },
+    {
+      "entryID": "topik-starter-397",
+      "meaning": "阅读",
+      "reading": "ilkki",
+      "term": "읽기"
+    },
+    {
+      "entryID": "topik-starter-398",
+      "meaning": "入场",
+      "reading": "ipjang",
+      "term": "입장"
+    },
+    {
+      "entryID": "topik-starter-399",
+      "meaning": "小巧",
+      "reading": "jageumahada",
+      "term": "자그마하다"
+    },
+    {
+      "entryID": "topik-starter-400",
+      "meaning": "锁",
+      "reading": "jamulswe",
+      "term": "자물쇠"
+    },
+    {
+      "entryID": "topik-starter-401",
+      "meaning": "去年",
+      "reading": "jaknyeon",
+      "term": "작년"
+    },
+    {
+      "entryID": "topik-starter-402",
+      "meaning": "纤细",
+      "reading": "jalda",
+      "term": "잘다"
+    },
+    {
+      "entryID": "topik-starter-403",
+      "meaning": "睡眠",
+      "reading": "jamjada",
+      "term": "잠자다"
+    },
+    {
+      "entryID": "topik-starter-404",
+      "meaning": "淘气鬼",
+      "reading": "jangnankkureogi",
+      "term": "장난꾸러기"
+    },
+    {
+      "entryID": "topik-starter-405",
+      "meaning": "残疾人",
+      "reading": "jangnaein",
+      "term": "장애인"
+    },
+    {
+      "entryID": "topik-starter-406",
+      "meaning": "储蓄",
+      "reading": "jeogeum",
+      "term": "저금"
+    },
+    {
+      "entryID": "topik-starter-407",
+      "meaning": "适当地",
+      "reading": "jeokdanghi",
+      "term": "적당히"
+    },
+    {
+      "entryID": "topik-starter-408",
+      "meaning": "展览馆",
+      "reading": "jeonsijang",
+      "term": "전시장"
+    },
+    {
+      "entryID": "topik-starter-409",
+      "meaning": "折叠",
+      "reading": "jeopda",
+      "term": "접다"
+    },
+    {
+      "entryID": "topik-starter-410",
+      "meaning": "正面",
+      "reading": "jeongmyeon",
+      "term": "정면"
+    },
+    {
+      "entryID": "topik-starter-411",
+      "meaning": "准确",
+      "reading": "jeonghwakada",
+      "term": "정확하다"
+    },
+    {
+      "entryID": "topik-starter-412",
+      "meaning": "片",
+      "reading": "jogak",
+      "term": "조각"
+    },
+    {
+      "entryID": "topik-starter-413",
+      "meaning": "尊重",
+      "reading": "jonjun",
+      "term": "존중"
+    },
+    {
+      "entryID": "topik-starter-414",
+      "meaning": "小腿",
+      "reading": "jongari",
+      "term": "종아리"
+    },
+    {
+      "entryID": "topik-starter-415",
+      "meaning": "口袋",
+      "reading": "jumeoni",
+      "term": "주머니"
+    },
+    {
+      "entryID": "topik-starter-416",
+      "meaning": "周围",
+      "reading": "juwi",
+      "term": "주위"
+    },
+    {
+      "entryID": "topik-starter-417",
+      "meaning": "备好",
+      "reading": "junbidoeda",
+      "term": "준비되다"
+    },
+    {
+      "entryID": "topik-starter-418",
+      "meaning": "重要",
+      "reading": "jungyo",
+      "term": "중요"
+    },
+    {
+      "entryID": "topik-starter-419",
+      "meaning": "经过",
+      "reading": "jinada",
+      "term": "지나다"
+    },
+    {
+      "entryID": "topik-starter-420",
+      "meaning": "地方",
+      "reading": "jibang",
+      "term": "지방"
+    },
+    {
+      "entryID": "topik-starter-421",
+      "meaning": "家里",
+      "reading": "jiban",
+      "term": "집안"
+    },
+    {
+      "entryID": "topik-starter-422",
+      "meaning": "撕开",
+      "reading": "jjitda",
+      "term": "찢다"
+    },
+    {
+      "entryID": "topik-starter-423",
+      "meaning": "平静地",
+      "reading": "chabunhi",
+      "term": "차분히"
+    },
+    {
+      "entryID": "topik-starter-424",
+      "meaning": "赞成",
+      "reading": "chanseonghada",
+      "term": "찬성하다"
+    },
+    {
+      "entryID": "topik-starter-425",
+      "meaning": "羞愧",
+      "reading": "changpihada",
+      "term": "창피하다"
+    },
+    {
+      "entryID": "topik-starter-426",
+      "meaning": "处理",
+      "reading": "cheorihada",
+      "term": "처리하다"
+    },
+    {
+      "entryID": "topik-starter-427",
+      "meaning": "牛仔裤",
+      "reading": "cheongbaji",
+      "term": "청바지"
+    },
+    {
+      "entryID": "topik-starter-428",
+      "meaning": "邀请",
+      "reading": "chodaehada",
+      "term": "초대하다"
+    },
+    {
+      "entryID": "topik-starter-429",
+      "meaning": "添加",
+      "reading": "chugahada",
+      "term": "추가하다"
+    },
+    {
+      "entryID": "topik-starter-430",
+      "meaning": "上班",
+      "reading": "chulgeun",
+      "term": "출근"
+    },
+    {
+      "entryID": "topik-starter-431",
+      "meaning": "被取消",
+      "reading": "chwisoedoeda",
+      "term": "취소되다"
+    },
+    {
+      "entryID": "topik-starter-432",
+      "meaning": "亲切",
+      "reading": "chinjeolhada",
+      "term": "친절하다"
+    },
+    {
+      "entryID": "topik-starter-433",
+      "meaning": "可乐",
+      "reading": "kolla",
+      "term": "콜라"
+    },
+    {
+      "entryID": "topik-starter-434",
+      "meaning": "大声",
+      "reading": "keunsori",
+      "term": "큰소리"
+    },
+    {
+      "entryID": "topik-starter-435",
+      "meaning": "脱逃",
+      "reading": "talchul",
+      "term": "탈출"
+    },
+    {
+      "entryID": "topik-starter-436",
+      "meaning": "弄破",
+      "reading": "teoteurida",
+      "term": "터트리다"
+    },
+    {
+      "entryID": "topik-starter-437",
+      "meaning": "通过",
+      "reading": "tonggwahada",
+      "term": "통과하다"
+    },
+    {
+      "entryID": "topik-starter-438",
+      "meaning": "跳溅",
+      "reading": "twida",
+      "term": "튀다"
+    },
+    {
+      "entryID": "topik-starter-439",
+      "meaning": "被埋",
+      "reading": "pamuthida",
+      "term": "파묻히다"
+    },
+    {
+      "entryID": "topik-starter-440",
+      "meaning": "扑腾",
+      "reading": "paljjak",
+      "term": "팔짝"
+    },
+    {
+      "entryID": "topik-starter-441",
+      "meaning": "展开",
+      "reading": "pyeoda",
+      "term": "펴다"
+    },
+    {
+      "entryID": "topik-starter-442",
+      "meaning": "平时",
+      "reading": "pyeongso",
+      "term": "평소"
+    },
+    {
+      "entryID": "topik-starter-443",
+      "meaning": "烟火",
+      "reading": "pokjung",
+      "term": "폭죽"
+    },
+    {
+      "entryID": "topik-starter-444",
+      "meaning": "塑料",
+      "reading": "peullaseutik",
+      "term": "플라스틱"
+    },
+    {
+      "entryID": "topik-starter-445",
+      "meaning": "笔袋",
+      "reading": "piltong",
+      "term": "필통"
+    },
+    {
+      "entryID": "topik-starter-446",
+      "meaning": "河马",
+      "reading": "hama",
+      "term": "하마"
+    },
+    {
+      "entryID": "topik-starter-447",
+      "meaning": "清闲",
+      "reading": "hangahada",
+      "term": "한가하다"
+    },
+    {
+      "entryID": "topik-starter-448",
+      "meaning": "韩服",
+      "reading": "hanbok",
+      "term": "한복"
+    },
+    {
+      "entryID": "topik-starter-449",
+      "meaning": "太阳",
+      "reading": "haenim",
+      "term": "해님"
+    },
+    {
+      "entryID": "topik-starter-450",
+      "meaning": "阳光",
+      "reading": "haetssal",
+      "term": "햇살"
+    },
+    {
+      "entryID": "topik-starter-451",
+      "meaning": "崩塌",
+      "reading": "heomureojida",
+      "term": "허물어지다"
+    },
+    {
+      "entryID": "topik-starter-452",
+      "meaning": "涮洗",
+      "reading": "hengguda",
+      "term": "헹구다"
+    },
+    {
+      "entryID": "topik-starter-453",
+      "meaning": "挨训",
+      "reading": "honnada",
+      "term": "혼나다"
+    },
+    {
+      "entryID": "topik-starter-454",
+      "meaning": "烧伤",
+      "reading": "hwasang",
+      "term": "화상"
+    },
+    {
+      "entryID": "topik-starter-455",
+      "meaning": "欢迎",
+      "reading": "hwanyeonghada",
+      "term": "환영하다"
+    },
+    {
+      "entryID": "topik-starter-456",
+      "meaning": "恢复",
+      "reading": "hoebokhada",
+      "term": "회복하다"
+    },
+    {
+      "entryID": "topik-starter-457",
+      "meaning": "训练",
+      "reading": "hunryeonhada",
+      "term": "훈련하다"
+    },
+    {
+      "entryID": "topik-starter-458",
+      "meaning": "休假",
+      "reading": "hyuga",
+      "term": "휴가"
+    },
+    {
+      "entryID": "topik-starter-459",
+      "meaning": "摇晃",
+      "reading": "heundeullida",
+      "term": "흔들리다"
+    },
+    {
+      "entryID": "topik-starter-460",
+      "meaning": "希望",
+      "reading": "huimang",
+      "term": "희망"
+    },
+    {
+      "entryID": "topik-starter-461",
+      "meaning": "钟表",
+      "reading": "sigye",
+      "term": "시계"
+    },
+    {
+      "entryID": "topik-starter-462",
+      "meaning": "雨伞",
+      "reading": "usan",
+      "term": "우산"
+    },
+    {
+      "entryID": "topik-starter-463",
+      "meaning": "剪刀",
+      "reading": "gawi",
+      "term": "가위"
+    },
+    {
+      "entryID": "topik-starter-464",
+      "meaning": "钥匙",
+      "reading": "yeolsoe",
+      "term": "열쇠"
+    },
+    {
+      "entryID": "topik-starter-465",
+      "meaning": "相机",
+      "reading": "kamera",
+      "term": "카메라"
+    },
+    {
+      "entryID": "topik-starter-466",
+      "meaning": "礼物",
+      "reading": "seonmul",
+      "term": "선물"
+    },
+    {
+      "entryID": "topik-starter-467",
+      "meaning": "生日",
+      "reading": "saengil",
+      "term": "생일"
+    },
+    {
+      "entryID": "topik-starter-468",
+      "meaning": "派对",
+      "reading": "pati",
+      "term": "파티"
+    },
+    {
+      "entryID": "topik-starter-469",
+      "meaning": "钱包",
+      "reading": "jigap",
+      "term": "지갑"
+    },
+    {
+      "entryID": "topik-starter-470",
+      "meaning": "鞋",
+      "reading": "sinbal",
+      "term": "신발"
+    },
+    {
+      "entryID": "topik-starter-471",
+      "meaning": "衣服",
+      "reading": "ot",
+      "term": "옷"
+    },
+    {
+      "entryID": "topik-starter-472",
+      "meaning": "裤子",
+      "reading": "baji",
+      "term": "바지"
+    },
+    {
+      "entryID": "topik-starter-473",
+      "meaning": "眼镜",
+      "reading": "angyeong",
+      "term": "안경"
+    },
+    {
+      "entryID": "topik-starter-474",
+      "meaning": "碗碟",
+      "reading": "geureut",
+      "term": "그릇"
+    },
+    {
+      "entryID": "topik-starter-475",
+      "meaning": "筷子",
+      "reading": "jeotgarak",
+      "term": "젓가락"
+    },
+    {
+      "entryID": "topik-starter-476",
+      "meaning": "刀",
+      "reading": "kal",
+      "term": "칼"
+    },
+    {
+      "entryID": "topik-starter-477",
+      "meaning": "味道",
+      "reading": "mat",
+      "term": "맛"
+    },
+    {
+      "entryID": "topik-starter-478",
+      "meaning": "心情",
+      "reading": "gibun",
+      "term": "기분"
+    },
+    {
+      "entryID": "topik-starter-479",
+      "meaning": "图画",
+      "reading": "geurim",
+      "term": "그림"
+    },
+    {
+      "entryID": "topik-starter-480",
+      "meaning": "假期",
+      "reading": "banghak",
+      "term": "방학"
+    },
+    {
+      "entryID": "topik-starter-481",
+      "meaning": "作业",
+      "reading": "sukje",
+      "term": "숙제"
+    },
+    {
+      "entryID": "topik-starter-482",
+      "meaning": "考试",
+      "reading": "siheom",
+      "term": "시험"
+    },
+    {
+      "entryID": "topik-starter-483",
+      "meaning": "提问",
+      "reading": "jilmun",
+      "term": "질문"
+    },
+    {
+      "entryID": "topik-starter-484",
+      "meaning": "回答",
+      "reading": "daedab",
+      "term": "대답"
+    },
+    {
+      "entryID": "topik-starter-485",
+      "meaning": "药房",
+      "reading": "yakkuk",
+      "term": "약국"
+    },
+    {
+      "entryID": "topik-starter-486",
+      "meaning": "村庄",
+      "reading": "maeul",
+      "term": "마을"
+    },
+    {
+      "entryID": "topik-starter-487",
+      "meaning": "大海",
+      "reading": "bada",
+      "term": "바다"
+    },
+    {
+      "entryID": "topik-starter-488",
+      "meaning": "山",
+      "reading": "san",
+      "term": "산"
+    },
+    {
+      "entryID": "topik-starter-489",
+      "meaning": "江",
+      "reading": "gang",
+      "term": "강"
+    },
+    {
+      "entryID": "topik-starter-490",
+      "meaning": "风",
+      "reading": "baram",
+      "term": "바람"
+    },
+    {
+      "entryID": "topik-starter-491",
+      "meaning": "天空",
+      "reading": "haneul",
+      "term": "하늘"
+    },
+    {
+      "entryID": "topik-starter-492",
+      "meaning": "星星",
+      "reading": "byeol",
+      "term": "별"
+    },
+    {
+      "entryID": "topik-starter-493",
+      "meaning": "月亮",
+      "reading": "dal",
+      "term": "달"
+    },
+    {
+      "entryID": "topik-starter-494",
+      "meaning": "云",
+      "reading": "gureum",
+      "term": "구름"
+    },
+    {
+      "entryID": "topik-starter-495",
+      "meaning": "雨",
+      "reading": "bi",
+      "term": "비"
+    },
+    {
+      "entryID": "topik-starter-496",
+      "meaning": "动物",
+      "reading": "dongmul",
+      "term": "동물"
+    },
+    {
+      "entryID": "topik-starter-497",
+      "meaning": "狗",
+      "reading": "gae",
+      "term": "개"
+    },
+    {
+      "entryID": "topik-starter-498",
+      "meaning": "猫",
+      "reading": "goyangi",
+      "term": "고양이"
+    },
+    {
+      "entryID": "topik-starter-499",
+      "meaning": "鸡",
+      "reading": "dak",
+      "term": "닭"
+    },
+    {
+      "entryID": "topik-starter-500",
+      "meaning": "鸟",
+      "reading": "sae",
+      "term": "새"
+    }
+  ],
+  "entryCount": 500,
+  "metadata": {
+    "classification": "topik",
+    "description": "面向中文用户的韩语入门试点词包（首批 500 词）。词目选自韩国国立国语院《2023年国语基础词汇选定及词汇分级研究》公开名单（KOGL Type 1）的一级词汇范围，并含少量本项目补充的生活基础词；RR 转写与中文释义为本项目编写。本包为项目整理版，非 TOPIK 官方词表，亦未获任何考试机构授权。",
+    "language": "ko",
+    "level": "starter",
+    "tags": [
+      "korean",
+      "topik",
+      "starter",
+      "chinese"
+    ],
+    "title": "TOPIK 入门基础词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ko.topik.starter",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

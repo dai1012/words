@@ -1,0 +1,6021 @@
+{
+  "entries": [
+    {
+      "entryID": "cet4-core-0001",
+      "meaning": "目录",
+      "reading": "'kætәlɒg",
+      "term": "catalog"
+    },
+    {
+      "entryID": "cet4-core-0002",
+      "meaning": "附近",
+      "reading": "'neibәhud",
+      "term": "neighborhood"
+    },
+    {
+      "entryID": "cet4-core-0003",
+      "meaning": "好意",
+      "reading": "'feivә",
+      "term": "favor"
+    },
+    {
+      "entryID": "cet4-core-0004",
+      "meaning": "幽默",
+      "reading": "'hju:mә",
+      "term": "humor"
+    },
+    {
+      "entryID": "cet4-core-0005",
+      "meaning": "镭",
+      "reading": "'reidiәm",
+      "term": "radium"
+    },
+    {
+      "entryID": "cet4-core-0006",
+      "meaning": "千米",
+      "reading": "'kilәmi:tә",
+      "term": "kilometer"
+    },
+    {
+      "entryID": "cet4-core-0007",
+      "meaning": "熟练的",
+      "reading": "'skilful",
+      "term": "skillful"
+    },
+    {
+      "entryID": "cet4-core-0008",
+      "meaning": "大洋洲",
+      "reading": ".әuʃi'æniә",
+      "term": "Oceania"
+    },
+    {
+      "entryID": "cet4-core-0009",
+      "meaning": "瑞士人",
+      "reading": "swis",
+      "term": "Swiss"
+    },
+    {
+      "entryID": "cet4-core-0010",
+      "meaning": "使开化",
+      "reading": "'sivilaiz",
+      "term": "civilize"
+    },
+    {
+      "entryID": "cet4-core-0011",
+      "meaning": "学期",
+      "reading": "si'mestә",
+      "term": "semester"
+    },
+    {
+      "entryID": "cet4-core-0012",
+      "meaning": "使工业化",
+      "reading": "in'dʌstriәlaiz",
+      "term": "industrialize"
+    },
+    {
+      "entryID": "cet4-core-0013",
+      "meaning": "希腊人",
+      "reading": "gri:k",
+      "term": "Greek"
+    },
+    {
+      "entryID": "cet4-core-0014",
+      "meaning": "宿舍",
+      "reading": "dɒ:m",
+      "term": "dorm"
+    },
+    {
+      "entryID": "cet4-core-0015",
+      "meaning": "再讲",
+      "reading": "ri:'tel",
+      "term": "retell"
+    },
+    {
+      "entryID": "cet4-core-0016",
+      "meaning": "未付的",
+      "reading": "'әuiŋ",
+      "term": "owing"
+    },
+    {
+      "entryID": "cet4-core-0017",
+      "meaning": "然后",
+      "reading": "'ɑ:ftәwәd",
+      "term": "afterward"
+    },
+    {
+      "entryID": "cet4-core-0018",
+      "meaning": "一致",
+      "reading": "ә'kɒ:dәns",
+      "term": "accordance"
+    },
+    {
+      "entryID": "cet4-core-0019",
+      "meaning": "海港",
+      "reading": "'si:pɒ:t",
+      "term": "seaport"
+    },
+    {
+      "entryID": "cet4-core-0020",
+      "meaning": "因特网",
+      "reading": "'intәnet",
+      "term": "internet"
+    },
+    {
+      "entryID": "cet4-core-0021",
+      "meaning": "会话",
+      "reading": "'daiәlɒg",
+      "term": "dialog"
+    },
+    {
+      "entryID": "cet4-core-0022",
+      "meaning": "行为",
+      "reading": "bi'heivjә",
+      "term": "behavior"
+    },
+    {
+      "entryID": "cet4-core-0023",
+      "meaning": "斧头",
+      "reading": "æks",
+      "term": "ax"
+    },
+    {
+      "entryID": "cet4-core-0024",
+      "meaning": "华氏温度计的",
+      "reading": "'færәnhait",
+      "term": "fahrenheit"
+    },
+    {
+      "entryID": "cet4-core-0025",
+      "meaning": "百分度的",
+      "reading": "'sentigreid",
+      "term": "centigrade"
+    },
+    {
+      "entryID": "cet4-core-0026",
+      "meaning": "前置词",
+      "reading": ".prepә'ziʃәn",
+      "term": "preposition"
+    },
+    {
+      "entryID": "cet4-core-0027",
+      "meaning": "台风",
+      "reading": "tai'fu:n",
+      "term": "typhoon"
+    },
+    {
+      "entryID": "cet4-core-0028",
+      "meaning": "排球",
+      "reading": "'vɒlibɒ:l",
+      "term": "volleyball"
+    },
+    {
+      "entryID": "cet4-core-0029",
+      "meaning": "颜色",
+      "reading": "'kʌlә",
+      "term": "color"
+    },
+    {
+      "entryID": "cet4-core-0030",
+      "meaning": "克",
+      "reading": "græm",
+      "term": "gramme"
+    },
+    {
+      "entryID": "cet4-core-0031",
+      "meaning": "马力",
+      "reading": "'hɒ:spauә",
+      "term": "horsepower"
+    },
+    {
+      "entryID": "cet4-core-0032",
+      "meaning": "气体的",
+      "reading": "'gæsiәs",
+      "term": "gaseous"
+    },
+    {
+      "entryID": "cet4-core-0033",
+      "meaning": "汽油",
+      "reading": "'gæsәli:n",
+      "term": "gasoline"
+    },
+    {
+      "entryID": "cet4-core-0034",
+      "meaning": "祝贺",
+      "reading": "kәn.grætʃә'leiʃәn",
+      "term": "congratulation"
+    },
+    {
+      "entryID": "cet4-core-0035",
+      "meaning": "夸脱",
+      "reading": "kwɒ:t",
+      "term": "quart"
+    },
+    {
+      "entryID": "cet4-core-0036",
+      "meaning": "暴风雪",
+      "reading": "'snәustɒ:m",
+      "term": "snowstorm"
+    },
+    {
+      "entryID": "cet4-core-0037",
+      "meaning": "空中小姐",
+      "reading": "'stju:wәdis",
+      "term": "stewardess"
+    },
+    {
+      "entryID": "cet4-core-0038",
+      "meaning": "不名誉",
+      "reading": "dis'ɔnә",
+      "term": "dishonour"
+    },
+    {
+      "entryID": "cet4-core-0039",
+      "meaning": "基督徒",
+      "reading": "'kristʃәn",
+      "term": "Christian"
+    },
+    {
+      "entryID": "cet4-core-0040",
+      "meaning": "飞机",
+      "reading": "'єәplein",
+      "term": "airplane"
+    },
+    {
+      "entryID": "cet4-core-0041",
+      "meaning": "耳的",
+      "reading": "'ɒ:rәl",
+      "term": "aural"
+    },
+    {
+      "entryID": "cet4-core-0042",
+      "meaning": "使不愉快",
+      "reading": "dis'pli:z",
+      "term": "displease"
+    },
+    {
+      "entryID": "cet4-core-0043",
+      "meaning": "实习生",
+      "reading": "in'tә:n",
+      "term": "intern"
+    },
+    {
+      "entryID": "cet4-core-0044",
+      "meaning": "听写",
+      "reading": "dik'teiʃәn",
+      "term": "dictation"
+    },
+    {
+      "entryID": "cet4-core-0045",
+      "meaning": "桶",
+      "reading": "peil",
+      "term": "pail"
+    },
+    {
+      "entryID": "cet4-core-0046",
+      "meaning": "准时的",
+      "reading": "'pәŋktʃuәl",
+      "term": "punctual"
+    },
+    {
+      "entryID": "cet4-core-0047",
+      "meaning": "铁路",
+      "reading": "'reilrәud",
+      "term": "railroad"
+    },
+    {
+      "entryID": "cet4-core-0048",
+      "meaning": "节目报告员",
+      "reading": "ә'naunsә",
+      "term": "announcer"
+    },
+    {
+      "entryID": "cet4-core-0049",
+      "meaning": "光学",
+      "reading": "'ɒptiks",
+      "term": "optics"
+    },
+    {
+      "entryID": "cet4-core-0050",
+      "meaning": "憎恨的",
+      "reading": "'heitful",
+      "term": "hateful"
+    },
+    {
+      "entryID": "cet4-core-0051",
+      "meaning": "使润滑",
+      "reading": "'lu:brikeit",
+      "term": "lubricate"
+    },
+    {
+      "entryID": "cet4-core-0052",
+      "meaning": "白色涂料",
+      "reading": "'hwaitwɒʃ",
+      "term": "whitewash"
+    },
+    {
+      "entryID": "cet4-core-0053",
+      "meaning": "芜菁",
+      "reading": "'tә:nip",
+      "term": "turnip"
+    },
+    {
+      "entryID": "cet4-core-0054",
+      "meaning": "热衷的",
+      "reading": "'zelәs",
+      "term": "zealous"
+    },
+    {
+      "entryID": "cet4-core-0055",
+      "meaning": "兴奋剂",
+      "reading": "'kɒ:djәl",
+      "term": "cordial"
+    },
+    {
+      "entryID": "cet4-core-0056",
+      "meaning": "自助餐厅",
+      "reading": ".kæfi'tiәriә",
+      "term": "cafeteria"
+    },
+    {
+      "entryID": "cet4-core-0057",
+      "meaning": "使烦恼",
+      "reading": "veks",
+      "term": "vex"
+    },
+    {
+      "entryID": "cet4-core-0058",
+      "meaning": "春天",
+      "reading": "'spriŋtaim",
+      "term": "springtime"
+    },
+    {
+      "entryID": "cet4-core-0059",
+      "meaning": "象男人的",
+      "reading": "'mænli",
+      "term": "manly"
+    },
+    {
+      "entryID": "cet4-core-0060",
+      "meaning": "同班同学",
+      "reading": "'klɑ:smeit",
+      "term": "classmate"
+    },
+    {
+      "entryID": "cet4-core-0061",
+      "meaning": "木材",
+      "reading": "'lʌmbә",
+      "term": "lumber"
+    },
+    {
+      "entryID": "cet4-core-0062",
+      "meaning": "使惊讶",
+      "reading": "ә'stɒniʃ",
+      "term": "astonish"
+    },
+    {
+      "entryID": "cet4-core-0063",
+      "meaning": "勤勉的",
+      "reading": "'dilidʒәnt",
+      "term": "diligent"
+    },
+    {
+      "entryID": "cet4-core-0064",
+      "meaning": "副词",
+      "reading": "'ædvә:b",
+      "term": "adverb"
+    },
+    {
+      "entryID": "cet4-core-0065",
+      "meaning": "小萝卜",
+      "reading": "'rædiʃ",
+      "term": "radish"
+    },
+    {
+      "entryID": "cet4-core-0066",
+      "meaning": "航天飞船",
+      "reading": "'speiskræft",
+      "term": "spacecraft"
+    },
+    {
+      "entryID": "cet4-core-0067",
+      "meaning": "烟雾",
+      "reading": "smәug",
+      "term": "smog"
+    },
+    {
+      "entryID": "cet4-core-0068",
+      "meaning": "代数学",
+      "reading": "'ældʒibrә",
+      "term": "algebra"
+    },
+    {
+      "entryID": "cet4-core-0069",
+      "meaning": "放射性",
+      "reading": ".reidiәuæk'tiviti",
+      "term": "radioactivity"
+    },
+    {
+      "entryID": "cet4-core-0070",
+      "meaning": "唤醒",
+      "reading": "'weikn",
+      "term": "waken"
+    },
+    {
+      "entryID": "cet4-core-0071",
+      "meaning": "宇宙飞船",
+      "reading": "'speisʃip",
+      "term": "spaceship"
+    },
+    {
+      "entryID": "cet4-core-0072",
+      "meaning": "太空旅行者",
+      "reading": "'æstrәnɒ:t",
+      "term": "astronaut"
+    },
+    {
+      "entryID": "cet4-core-0073",
+      "meaning": "火药",
+      "reading": "'gʌnpaudә",
+      "term": "gunpowder"
+    },
+    {
+      "entryID": "cet4-core-0074",
+      "meaning": "汽车旅馆",
+      "reading": "mәu'tel",
+      "term": "motel"
+    },
+    {
+      "entryID": "cet4-core-0075",
+      "meaning": "东北",
+      "reading": ".nɒ:θ'i:st",
+      "term": "northeast"
+    },
+    {
+      "entryID": "cet4-core-0076",
+      "meaning": "斑马",
+      "reading": "'zi:brә",
+      "term": "zebra"
+    },
+    {
+      "entryID": "cet4-core-0077",
+      "meaning": "千克",
+      "reading": "'kilәgræm",
+      "term": "kilogram"
+    },
+    {
+      "entryID": "cet4-core-0078",
+      "meaning": "倒转的",
+      "reading": "in'vә:s",
+      "term": "inverse"
+    },
+    {
+      "entryID": "cet4-core-0079",
+      "meaning": "黑人",
+      "reading": "'ni:grәu",
+      "term": "negro"
+    },
+    {
+      "entryID": "cet4-core-0080",
+      "meaning": "好骂街的人",
+      "reading": "skәuld",
+      "term": "scold"
+    },
+    {
+      "entryID": "cet4-core-0081",
+      "meaning": "羽毛球运动",
+      "reading": "'bædmintәn",
+      "term": "badminton"
+    },
+    {
+      "entryID": "cet4-core-0082",
+      "meaning": "印度人",
+      "reading": "'indiәn",
+      "term": "Indian"
+    },
+    {
+      "entryID": "cet4-core-0083",
+      "meaning": "复数",
+      "reading": "'pluәrәl",
+      "term": "plural"
+    },
+    {
+      "entryID": "cet4-core-0084",
+      "meaning": "地铁",
+      "reading": "'sʌbwei",
+      "term": "subway"
+    },
+    {
+      "entryID": "cet4-core-0085",
+      "meaning": "观光",
+      "reading": "'saitsi:iŋ",
+      "term": "sightseeing"
+    },
+    {
+      "entryID": "cet4-core-0086",
+      "meaning": "大熊猫",
+      "reading": "'pændә",
+      "term": "panda"
+    },
+    {
+      "entryID": "cet4-core-0087",
+      "meaning": "健身房",
+      "reading": "dʒim'neiziәm",
+      "term": "gymnasium"
+    },
+    {
+      "entryID": "cet4-core-0088",
+      "meaning": "一窝",
+      "reading": "bru:d",
+      "term": "brood"
+    },
+    {
+      "entryID": "cet4-core-0089",
+      "meaning": "羊肉",
+      "reading": "'mʌtn",
+      "term": "mutton"
+    },
+    {
+      "entryID": "cet4-core-0090",
+      "meaning": "西南",
+      "reading": "sauθ'west",
+      "term": "southwest"
+    },
+    {
+      "entryID": "cet4-core-0091",
+      "meaning": "边",
+      "reading": "brim",
+      "term": "brim"
+    },
+    {
+      "entryID": "cet4-core-0092",
+      "meaning": "圆周",
+      "reading": "sә'kʌmfәrәns",
+      "term": "circumference"
+    },
+    {
+      "entryID": "cet4-core-0093",
+      "meaning": "后悔",
+      "reading": "ri'pent",
+      "term": "repent"
+    },
+    {
+      "entryID": "cet4-core-0094",
+      "meaning": "温度计",
+      "reading": "θә'mɒmitә",
+      "term": "thermometer"
+    },
+    {
+      "entryID": "cet4-core-0095",
+      "meaning": "朝西的方向",
+      "reading": "'westwәd",
+      "term": "westward"
+    },
+    {
+      "entryID": "cet4-core-0096",
+      "meaning": "户外",
+      "reading": "'aut'dɒ:z",
+      "term": "outdoors"
+    },
+    {
+      "entryID": "cet4-core-0097",
+      "meaning": "小睡",
+      "reading": "næp",
+      "term": "nap"
+    },
+    {
+      "entryID": "cet4-core-0098",
+      "meaning": "西北",
+      "reading": ".nɒ:θ'west",
+      "term": "northwest"
+    },
+    {
+      "entryID": "cet4-core-0099",
+      "meaning": "打字员",
+      "reading": "'taipist",
+      "term": "typist"
+    },
+    {
+      "entryID": "cet4-core-0100",
+      "meaning": "同情",
+      "reading": "'simpәθaiz",
+      "term": "sympathize"
+    },
+    {
+      "entryID": "cet4-core-0101",
+      "meaning": "使成熟",
+      "reading": "'raipәn",
+      "term": "ripen"
+    },
+    {
+      "entryID": "cet4-core-0102",
+      "meaning": "群",
+      "reading": "θrɒ:ŋ",
+      "term": "throng"
+    },
+    {
+      "entryID": "cet4-core-0103",
+      "meaning": "阿拉伯的",
+      "reading": "ә'reibiәn",
+      "term": "Arabian"
+    },
+    {
+      "entryID": "cet4-core-0104",
+      "meaning": "大树枝",
+      "reading": "bau",
+      "term": "bough"
+    },
+    {
+      "entryID": "cet4-core-0105",
+      "meaning": "懦弱的人",
+      "reading": "'kauәd",
+      "term": "coward"
+    },
+    {
+      "entryID": "cet4-core-0106",
+      "meaning": "责备",
+      "reading": "ri'prәutʃ",
+      "term": "reproach"
+    },
+    {
+      "entryID": "cet4-core-0107",
+      "meaning": "哑子",
+      "reading": "mju:t",
+      "term": "mute"
+    },
+    {
+      "entryID": "cet4-core-0108",
+      "meaning": "麻雀",
+      "reading": "'spærәu",
+      "term": "sparrow"
+    },
+    {
+      "entryID": "cet4-core-0109",
+      "meaning": "压迫",
+      "reading": "ә'pres",
+      "term": "oppress"
+    },
+    {
+      "entryID": "cet4-core-0110",
+      "meaning": "恶意",
+      "reading": "spait",
+      "term": "spite"
+    },
+    {
+      "entryID": "cet4-core-0111",
+      "meaning": "扩音器",
+      "reading": "'laud'spi:kә",
+      "term": "loudspeaker"
+    },
+    {
+      "entryID": "cet4-core-0112",
+      "meaning": "潮湿的",
+      "reading": "'hju:mid",
+      "term": "humid"
+    },
+    {
+      "entryID": "cet4-core-0113",
+      "meaning": "欺骗",
+      "reading": "di'si:t",
+      "term": "deceit"
+    },
+    {
+      "entryID": "cet4-core-0114",
+      "meaning": "多雪的",
+      "reading": "'snәui",
+      "term": "snowy"
+    },
+    {
+      "entryID": "cet4-core-0115",
+      "meaning": "汉堡(德国港口)",
+      "reading": "'hæmbә:gә",
+      "term": "hamburger"
+    },
+    {
+      "entryID": "cet4-core-0116",
+      "meaning": "辅助者",
+      "reading": "ɒ:g'ziljәri",
+      "term": "auxiliary"
+    },
+    {
+      "entryID": "cet4-core-0117",
+      "meaning": "杠杆作用",
+      "reading": "'levәridʒ",
+      "term": "leverage"
+    },
+    {
+      "entryID": "cet4-core-0118",
+      "meaning": "露珠",
+      "reading": "dju:",
+      "term": "dew"
+    },
+    {
+      "entryID": "cet4-core-0119",
+      "meaning": "宿舍",
+      "reading": "'dɒ:mitәri",
+      "term": "dormitory"
+    },
+    {
+      "entryID": "cet4-core-0120",
+      "meaning": "锈",
+      "reading": "rʌst",
+      "term": "rust"
+    },
+    {
+      "entryID": "cet4-core-0121",
+      "meaning": "回忆",
+      "reading": ".rekә'lekt",
+      "term": "recollect"
+    },
+    {
+      "entryID": "cet4-core-0122",
+      "meaning": "刚毛",
+      "reading": "'brisl",
+      "term": "bristle"
+    },
+    {
+      "entryID": "cet4-core-0123",
+      "meaning": "欢喜的",
+      "reading": "'dʒɒiful",
+      "term": "joyful"
+    },
+    {
+      "entryID": "cet4-core-0124",
+      "meaning": "使习惯于",
+      "reading": "ә'kʌstәm",
+      "term": "accustom"
+    },
+    {
+      "entryID": "cet4-core-0125",
+      "meaning": "使浓缩",
+      "reading": "kәn'dens",
+      "term": "condense"
+    },
+    {
+      "entryID": "cet4-core-0126",
+      "meaning": "体贴的",
+      "reading": "kәn'sidәrit",
+      "term": "considerate"
+    },
+    {
+      "entryID": "cet4-core-0127",
+      "meaning": "谜",
+      "reading": "'ridl",
+      "term": "riddle"
+    },
+    {
+      "entryID": "cet4-core-0128",
+      "meaning": "表示尊敬的",
+      "reading": "ri'spektful",
+      "term": "respectful"
+    },
+    {
+      "entryID": "cet4-core-0129",
+      "meaning": "最坏",
+      "reading": "wә:st",
+      "term": "worst"
+    },
+    {
+      "entryID": "cet4-core-0130",
+      "meaning": "视力",
+      "reading": "'aisait",
+      "term": "eyesight"
+    },
+    {
+      "entryID": "cet4-core-0131",
+      "meaning": "下雨的",
+      "reading": "'reini",
+      "term": "rainy"
+    },
+    {
+      "entryID": "cet4-core-0132",
+      "meaning": "变压器",
+      "reading": "træns'fɒ:mә",
+      "term": "transformer"
+    },
+    {
+      "entryID": "cet4-core-0133",
+      "meaning": "分析",
+      "reading": "'ænәlaiz",
+      "term": "analyze"
+    },
+    {
+      "entryID": "cet4-core-0134",
+      "meaning": "堇菜",
+      "reading": "'vaiәlit",
+      "term": "violet"
+    },
+    {
+      "entryID": "cet4-core-0135",
+      "meaning": "闪烁",
+      "reading": "'twiŋkl",
+      "term": "twinkle"
+    },
+    {
+      "entryID": "cet4-core-0136",
+      "meaning": "阴历的",
+      "reading": "'lu:nә",
+      "term": "lunar"
+    },
+    {
+      "entryID": "cet4-core-0137",
+      "meaning": "有关系",
+      "reading": ".relә'tiviti",
+      "term": "relativity"
+    },
+    {
+      "entryID": "cet4-core-0138",
+      "meaning": "溶解的",
+      "reading": "'sɒljubl",
+      "term": "soluble"
+    },
+    {
+      "entryID": "cet4-core-0139",
+      "meaning": "瓜",
+      "reading": "'melәn",
+      "term": "melon"
+    },
+    {
+      "entryID": "cet4-core-0140",
+      "meaning": "唯物主义",
+      "reading": "mә'tiәriәlizm",
+      "term": "materialism"
+    },
+    {
+      "entryID": "cet4-core-0141",
+      "meaning": "胸部",
+      "reading": "'buzәm",
+      "term": "bosom"
+    },
+    {
+      "entryID": "cet4-core-0142",
+      "meaning": "理发师",
+      "reading": "'bɑ:bә",
+      "term": "barber"
+    },
+    {
+      "entryID": "cet4-core-0143",
+      "meaning": "怪人",
+      "reading": "kwiә",
+      "term": "queer"
+    },
+    {
+      "entryID": "cet4-core-0144",
+      "meaning": "伏特",
+      "reading": "vәult",
+      "term": "volt"
+    },
+    {
+      "entryID": "cet4-core-0145",
+      "meaning": "故意的",
+      "reading": "in'tenʃәnәl",
+      "term": "intentional"
+    },
+    {
+      "entryID": "cet4-core-0146",
+      "meaning": "电梯",
+      "reading": "'eliveitә",
+      "term": "elevator"
+    },
+    {
+      "entryID": "cet4-core-0147",
+      "meaning": "蚊子",
+      "reading": "mә'ski:tәu",
+      "term": "mosquito"
+    },
+    {
+      "entryID": "cet4-core-0148",
+      "meaning": "黄瓜",
+      "reading": "'kju:kәmbә",
+      "term": "cucumber"
+    },
+    {
+      "entryID": "cet4-core-0149",
+      "meaning": "花圈",
+      "reading": "ri:θ",
+      "term": "wreath"
+    },
+    {
+      "entryID": "cet4-core-0150",
+      "meaning": "棉被",
+      "reading": "kwilt",
+      "term": "quilt"
+    },
+    {
+      "entryID": "cet4-core-0151",
+      "meaning": "龟",
+      "reading": "'tɒ:tәs",
+      "term": "tortoise"
+    },
+    {
+      "entryID": "cet4-core-0152",
+      "meaning": "群",
+      "reading": "swɒ:m",
+      "term": "swarm"
+    },
+    {
+      "entryID": "cet4-core-0153",
+      "meaning": "垃圾",
+      "reading": "'gɑ:bidʒ",
+      "term": "garbage"
+    },
+    {
+      "entryID": "cet4-core-0154",
+      "meaning": "旋转的",
+      "reading": "'rәutәri",
+      "term": "rotary"
+    },
+    {
+      "entryID": "cet4-core-0155",
+      "meaning": "倾斜",
+      "reading": "in'klain",
+      "term": "incline"
+    },
+    {
+      "entryID": "cet4-core-0156",
+      "meaning": "振动",
+      "reading": "'vaibreit",
+      "term": "vibrate"
+    },
+    {
+      "entryID": "cet4-core-0157",
+      "meaning": "可测量的",
+      "reading": "'meʒәrәbl",
+      "term": "measurable"
+    },
+    {
+      "entryID": "cet4-core-0158",
+      "meaning": "一瞥",
+      "reading": "pi:p",
+      "term": "peep"
+    },
+    {
+      "entryID": "cet4-core-0159",
+      "meaning": "烤肉",
+      "reading": "rәust",
+      "term": "roast"
+    },
+    {
+      "entryID": "cet4-core-0160",
+      "meaning": "理发",
+      "reading": "'hєәkʌt",
+      "term": "haircut"
+    },
+    {
+      "entryID": "cet4-core-0161",
+      "meaning": "溜冰",
+      "reading": "skeit",
+      "term": "skate"
+    },
+    {
+      "entryID": "cet4-core-0162",
+      "meaning": "窗玻璃",
+      "reading": "pein",
+      "term": "pane"
+    },
+    {
+      "entryID": "cet4-core-0163",
+      "meaning": "汽船",
+      "reading": "'sti:mә",
+      "term": "steamer"
+    },
+    {
+      "entryID": "cet4-core-0164",
+      "meaning": "减去",
+      "reading": "sәb'trækt",
+      "term": "subtract"
+    },
+    {
+      "entryID": "cet4-core-0165",
+      "meaning": "模糊的",
+      "reading": "in'definit",
+      "term": "indefinite"
+    },
+    {
+      "entryID": "cet4-core-0166",
+      "meaning": "汽车",
+      "reading": "'ɒ:tәu",
+      "term": "auto"
+    },
+    {
+      "entryID": "cet4-core-0167",
+      "meaning": "粥",
+      "reading": "'pɒ:ridʒ",
+      "term": "porridge"
+    },
+    {
+      "entryID": "cet4-core-0168",
+      "meaning": "日出",
+      "reading": "'sʌnraiz",
+      "term": "sunrise"
+    },
+    {
+      "entryID": "cet4-core-0169",
+      "meaning": "连接词",
+      "reading": "kәn'dʒʌŋkʃәn",
+      "term": "conjunction"
+    },
+    {
+      "entryID": "cet4-core-0170",
+      "meaning": "变纯净",
+      "reading": "'pjuәrifai",
+      "term": "purify"
+    },
+    {
+      "entryID": "cet4-core-0171",
+      "meaning": "食品商",
+      "reading": "'grәusә",
+      "term": "grocer"
+    },
+    {
+      "entryID": "cet4-core-0172",
+      "meaning": "便宜的",
+      "reading": ".inik'spensiv",
+      "term": "inexpensive"
+    },
+    {
+      "entryID": "cet4-core-0173",
+      "meaning": "牛",
+      "reading": "ɒks",
+      "term": "ox"
+    },
+    {
+      "entryID": "cet4-core-0174",
+      "meaning": "琐事",
+      "reading": "'traifl",
+      "term": "trifle"
+    },
+    {
+      "entryID": "cet4-core-0175",
+      "meaning": "注意的",
+      "reading": "ә'tentiv",
+      "term": "attentive"
+    },
+    {
+      "entryID": "cet4-core-0176",
+      "meaning": "跛足的",
+      "reading": "leim",
+      "term": "lame"
+    },
+    {
+      "entryID": "cet4-core-0177",
+      "meaning": "机械",
+      "reading": "mi'kænikәli",
+      "term": "mechanically"
+    },
+    {
+      "entryID": "cet4-core-0178",
+      "meaning": "口渴",
+      "reading": "θә:st",
+      "term": "thirst"
+    },
+    {
+      "entryID": "cet4-core-0179",
+      "meaning": "孙女",
+      "reading": "'^rændɔ:tә(r)",
+      "term": "granddaughter"
+    },
+    {
+      "entryID": "cet4-core-0180",
+      "meaning": "愤怒的",
+      "reading": "in'dignәnt",
+      "term": "indignant"
+    },
+    {
+      "entryID": "cet4-core-0181",
+      "meaning": "多石的",
+      "reading": "'stәuni",
+      "term": "stony"
+    },
+    {
+      "entryID": "cet4-core-0182",
+      "meaning": "轻蔑",
+      "reading": "skɒ:n",
+      "term": "scorn"
+    },
+    {
+      "entryID": "cet4-core-0183",
+      "meaning": "焊接处",
+      "reading": "weld",
+      "term": "weld"
+    },
+    {
+      "entryID": "cet4-core-0184",
+      "meaning": "单数",
+      "reading": "'siŋgjulә",
+      "term": "singular"
+    },
+    {
+      "entryID": "cet4-core-0185",
+      "meaning": "地中海",
+      "reading": ".meditә'reiniәn",
+      "term": "Mediterranean"
+    },
+    {
+      "entryID": "cet4-core-0186",
+      "meaning": "细菌",
+      "reading": "dʒә:m",
+      "term": "germ"
+    },
+    {
+      "entryID": "cet4-core-0187",
+      "meaning": "立场",
+      "reading": "'stændpɒint",
+      "term": "standpoint"
+    },
+    {
+      "entryID": "cet4-core-0188",
+      "meaning": "畜生",
+      "reading": "bru:t",
+      "term": "brute"
+    },
+    {
+      "entryID": "cet4-core-0189",
+      "meaning": "使悲伤",
+      "reading": "gri:v",
+      "term": "grieve"
+    },
+    {
+      "entryID": "cet4-core-0190",
+      "meaning": "邮递员",
+      "reading": "'pәustmәn",
+      "term": "postman"
+    },
+    {
+      "entryID": "cet4-core-0191",
+      "meaning": "不仁慈的",
+      "reading": ".ʌn'kaind",
+      "term": "unkind"
+    },
+    {
+      "entryID": "cet4-core-0192",
+      "meaning": "荫凉的",
+      "reading": "'ʃeidi",
+      "term": "shady"
+    },
+    {
+      "entryID": "cet4-core-0193",
+      "meaning": "驯服的",
+      "reading": "teim",
+      "term": "tame"
+    },
+    {
+      "entryID": "cet4-core-0194",
+      "meaning": "匆匆的",
+      "reading": "'heisti",
+      "term": "hasty"
+    },
+    {
+      "entryID": "cet4-core-0195",
+      "meaning": "胆小的",
+      "reading": "'timid",
+      "term": "timid"
+    },
+    {
+      "entryID": "cet4-core-0196",
+      "meaning": "使浸水",
+      "reading": "sәb'mә:dʒ",
+      "term": "submerge"
+    },
+    {
+      "entryID": "cet4-core-0197",
+      "meaning": "使失去能力",
+      "reading": "dis'eibl",
+      "term": "disable"
+    },
+    {
+      "entryID": "cet4-core-0198",
+      "meaning": "汽车",
+      "reading": "'ɒ:tәmәbi:l",
+      "term": "automobile"
+    },
+    {
+      "entryID": "cet4-core-0199",
+      "meaning": "无耻的",
+      "reading": "'infәmәs",
+      "term": "infamous"
+    },
+    {
+      "entryID": "cet4-core-0200",
+      "meaning": "胜利的",
+      "reading": "vik'tɔ:riәs",
+      "term": "victorious"
+    },
+    {
+      "entryID": "cet4-core-0201",
+      "meaning": "与生命有关地",
+      "reading": "'vaitli",
+      "term": "vitally"
+    },
+    {
+      "entryID": "cet4-core-0202",
+      "meaning": "加快",
+      "reading": "'kwikәn",
+      "term": "quicken"
+    },
+    {
+      "entryID": "cet4-core-0203",
+      "meaning": "行礼",
+      "reading": "sә'lu:t",
+      "term": "salute"
+    },
+    {
+      "entryID": "cet4-core-0204",
+      "meaning": "周日",
+      "reading": "'wi:kdei",
+      "term": "weekday"
+    },
+    {
+      "entryID": "cet4-core-0205",
+      "meaning": "照亮",
+      "reading": "'laitn",
+      "term": "lighten"
+    },
+    {
+      "entryID": "cet4-core-0206",
+      "meaning": "奔流",
+      "reading": "'tɒ:rәnt",
+      "term": "torrent"
+    },
+    {
+      "entryID": "cet4-core-0207",
+      "meaning": "俘虏",
+      "reading": "'kæptiv",
+      "term": "captive"
+    },
+    {
+      "entryID": "cet4-core-0208",
+      "meaning": "使清新",
+      "reading": "ri'freʃ",
+      "term": "refresh"
+    },
+    {
+      "entryID": "cet4-core-0209",
+      "meaning": "习惯的",
+      "reading": "hә'hitʃuәl",
+      "term": "habitual"
+    },
+    {
+      "entryID": "cet4-core-0210",
+      "meaning": "花费",
+      "reading": "ik'spend",
+      "term": "expend"
+    },
+    {
+      "entryID": "cet4-core-0211",
+      "meaning": "反驳",
+      "reading": "ri'fju:t. ri:-",
+      "term": "refute"
+    },
+    {
+      "entryID": "cet4-core-0212",
+      "meaning": "消遣",
+      "reading": "'pæstaim",
+      "term": "pastime"
+    },
+    {
+      "entryID": "cet4-core-0213",
+      "meaning": "字母",
+      "reading": "'ælfәbit",
+      "term": "alphabet"
+    },
+    {
+      "entryID": "cet4-core-0214",
+      "meaning": "轮胎",
+      "reading": "taiә",
+      "term": "tire"
+    },
+    {
+      "entryID": "cet4-core-0215",
+      "meaning": "使吃惊",
+      "reading": "ә'meiz",
+      "term": "amaze"
+    },
+    {
+      "entryID": "cet4-core-0216",
+      "meaning": "每年的",
+      "reading": "'jiәli",
+      "term": "yearly"
+    },
+    {
+      "entryID": "cet4-core-0217",
+      "meaning": "热心",
+      "reading": "zi:l",
+      "term": "zeal"
+    },
+    {
+      "entryID": "cet4-core-0218",
+      "meaning": "跛者",
+      "reading": "'kripl",
+      "term": "cripple"
+    },
+    {
+      "entryID": "cet4-core-0219",
+      "meaning": "过期的",
+      "reading": "'әuvә'dju:",
+      "term": "overdue"
+    },
+    {
+      "entryID": "cet4-core-0220",
+      "meaning": "公尺的",
+      "reading": "'metrik",
+      "term": "metric"
+    },
+    {
+      "entryID": "cet4-core-0221",
+      "meaning": "灿烂",
+      "reading": "'glitә",
+      "term": "glitter"
+    },
+    {
+      "entryID": "cet4-core-0222",
+      "meaning": "罗马人",
+      "reading": "'rәumәn",
+      "term": "Roman"
+    },
+    {
+      "entryID": "cet4-core-0223",
+      "meaning": "晶体管",
+      "reading": "træn'zistә",
+      "term": "transistor"
+    },
+    {
+      "entryID": "cet4-core-0224",
+      "meaning": "东南",
+      "reading": "sauθ'i:st",
+      "term": "southeast"
+    },
+    {
+      "entryID": "cet4-core-0225",
+      "meaning": "自动化",
+      "reading": ".ɒ:tә'meiʃәn",
+      "term": "automation"
+    },
+    {
+      "entryID": "cet4-core-0226",
+      "meaning": "回旋",
+      "reading": "hwә:l",
+      "term": "whirl"
+    },
+    {
+      "entryID": "cet4-core-0227",
+      "meaning": "糖果",
+      "reading": "'kændi",
+      "term": "candy"
+    },
+    {
+      "entryID": "cet4-core-0228",
+      "meaning": "外套大衣",
+      "reading": "'әuvәkәut",
+      "term": "overcoat"
+    },
+    {
+      "entryID": "cet4-core-0229",
+      "meaning": "尖锐的响声",
+      "reading": "ʃri:k",
+      "term": "shriek"
+    },
+    {
+      "entryID": "cet4-core-0230",
+      "meaning": "涡轮机",
+      "reading": "'tә:bain",
+      "term": "turbine"
+    },
+    {
+      "entryID": "cet4-core-0231",
+      "meaning": "肥料",
+      "reading": "'fә:tilaizә",
+      "term": "fertilizer"
+    },
+    {
+      "entryID": "cet4-core-0232",
+      "meaning": "哈欠",
+      "reading": "jɒ:n",
+      "term": "yawn"
+    },
+    {
+      "entryID": "cet4-core-0233",
+      "meaning": "合金",
+      "reading": "'ælɒi. ә'lɒi",
+      "term": "alloy"
+    },
+    {
+      "entryID": "cet4-core-0234",
+      "meaning": "计算",
+      "reading": "kәm'pju:t",
+      "term": "compute"
+    },
+    {
+      "entryID": "cet4-core-0235",
+      "meaning": "洗头",
+      "reading": "ʃæm'pu:",
+      "term": "shampoo"
+    },
+    {
+      "entryID": "cet4-core-0236",
+      "meaning": "喘息",
+      "reading": "pænt",
+      "term": "pant"
+    },
+    {
+      "entryID": "cet4-core-0237",
+      "meaning": "恶劣地",
+      "reading": "'ɒ:fuli",
+      "term": "awfully"
+    },
+    {
+      "entryID": "cet4-core-0238",
+      "meaning": "火山",
+      "reading": "vɒl'keinәu",
+      "term": "volcano"
+    },
+    {
+      "entryID": "cet4-core-0239",
+      "meaning": "裂缝",
+      "reading": "slit",
+      "term": "slit"
+    },
+    {
+      "entryID": "cet4-core-0240",
+      "meaning": "爪",
+      "reading": "pɒ:",
+      "term": "paw"
+    },
+    {
+      "entryID": "cet4-core-0241",
+      "meaning": "习语",
+      "reading": "'idiәm",
+      "term": "idiom"
+    },
+    {
+      "entryID": "cet4-core-0242",
+      "meaning": "立方体的",
+      "reading": "'kju:bik",
+      "term": "cubic"
+    },
+    {
+      "entryID": "cet4-core-0243",
+      "meaning": "叛逆",
+      "reading": "'tri:zn",
+      "term": "treason"
+    },
+    {
+      "entryID": "cet4-core-0244",
+      "meaning": "东方",
+      "reading": "'ɒ:riәnt",
+      "term": "orient"
+    },
+    {
+      "entryID": "cet4-core-0245",
+      "meaning": "小溪",
+      "reading": "bruk",
+      "term": "brook"
+    },
+    {
+      "entryID": "cet4-core-0246",
+      "meaning": "醋",
+      "reading": "'vinigә",
+      "term": "vinegar"
+    },
+    {
+      "entryID": "cet4-core-0247",
+      "meaning": "松鼠",
+      "reading": "'skwә:rәl",
+      "term": "squirrel"
+    },
+    {
+      "entryID": "cet4-core-0248",
+      "meaning": "女房东",
+      "reading": "'lændleidi",
+      "term": "landlady"
+    },
+    {
+      "entryID": "cet4-core-0249",
+      "meaning": "花",
+      "reading": "'blɒsәm",
+      "term": "blossom"
+    },
+    {
+      "entryID": "cet4-core-0250",
+      "meaning": "项链",
+      "reading": "'neklis",
+      "term": "necklace"
+    },
+    {
+      "entryID": "cet4-core-0251",
+      "meaning": "利用",
+      "reading": "'ju:tilaiz",
+      "term": "utilize"
+    },
+    {
+      "entryID": "cet4-core-0252",
+      "meaning": "发明家",
+      "reading": "in'ventә",
+      "term": "inventor"
+    },
+    {
+      "entryID": "cet4-core-0253",
+      "meaning": "分",
+      "reading": "sent",
+      "term": "cent"
+    },
+    {
+      "entryID": "cet4-core-0254",
+      "meaning": "觉醒",
+      "reading": "rauz",
+      "term": "rouse"
+    },
+    {
+      "entryID": "cet4-core-0255",
+      "meaning": "灯笼",
+      "reading": "'læntәn",
+      "term": "lantern"
+    },
+    {
+      "entryID": "cet4-core-0256",
+      "meaning": "耙子",
+      "reading": "reik",
+      "term": "rake"
+    },
+    {
+      "entryID": "cet4-core-0257",
+      "meaning": "放射",
+      "reading": "'reidieit",
+      "term": "radiate"
+    },
+    {
+      "entryID": "cet4-core-0258",
+      "meaning": "更远的",
+      "reading": "'fɑ:ðә",
+      "term": "farther"
+    },
+    {
+      "entryID": "cet4-core-0259",
+      "meaning": "修剪",
+      "reading": "ʃiә",
+      "term": "shear"
+    },
+    {
+      "entryID": "cet4-core-0260",
+      "meaning": "火炉",
+      "reading": "'fә:nis",
+      "term": "furnace"
+    },
+    {
+      "entryID": "cet4-core-0261",
+      "meaning": "浆果",
+      "reading": "'beri",
+      "term": "berry"
+    },
+    {
+      "entryID": "cet4-core-0262",
+      "meaning": "叛逆者",
+      "reading": "'treitә",
+      "term": "traitor"
+    },
+    {
+      "entryID": "cet4-core-0263",
+      "meaning": "棒球",
+      "reading": "'beisbɒ:l",
+      "term": "baseball"
+    },
+    {
+      "entryID": "cet4-core-0264",
+      "meaning": "持久的",
+      "reading": "'djurәbl",
+      "term": "durable"
+    },
+    {
+      "entryID": "cet4-core-0265",
+      "meaning": "熄灭的",
+      "reading": "ik'stiŋkt",
+      "term": "extinct"
+    },
+    {
+      "entryID": "cet4-core-0266",
+      "meaning": "鹰",
+      "reading": "hɒ:k",
+      "term": "hawk"
+    },
+    {
+      "entryID": "cet4-core-0267",
+      "meaning": "把手",
+      "reading": "nɒb",
+      "term": "knob"
+    },
+    {
+      "entryID": "cet4-core-0268",
+      "meaning": "电报",
+      "reading": "'teli^ræm",
+      "term": "telegram"
+    },
+    {
+      "entryID": "cet4-core-0269",
+      "meaning": "尿",
+      "reading": "steil",
+      "term": "stale"
+    },
+    {
+      "entryID": "cet4-core-0270",
+      "meaning": "虚荣心",
+      "reading": "'væniti",
+      "term": "vanity"
+    },
+    {
+      "entryID": "cet4-core-0271",
+      "meaning": "松紧带",
+      "reading": "i'læstik",
+      "term": "elastic"
+    },
+    {
+      "entryID": "cet4-core-0272",
+      "meaning": "亲切的",
+      "reading": "'greiʃәs",
+      "term": "gracious"
+    },
+    {
+      "entryID": "cet4-core-0273",
+      "meaning": "女主人",
+      "reading": "'hәustis",
+      "term": "hostess"
+    },
+    {
+      "entryID": "cet4-core-0274",
+      "meaning": "苏打",
+      "reading": "'sәudә",
+      "term": "soda"
+    },
+    {
+      "entryID": "cet4-core-0275",
+      "meaning": "防水材料",
+      "reading": "'wɒtәpru:f",
+      "term": "waterproof"
+    },
+    {
+      "entryID": "cet4-core-0276",
+      "meaning": "撇取浮沫",
+      "reading": "skim",
+      "term": "skim"
+    },
+    {
+      "entryID": "cet4-core-0277",
+      "meaning": "残骸",
+      "reading": "'rekidʒ",
+      "term": "wreckage"
+    },
+    {
+      "entryID": "cet4-core-0278",
+      "meaning": "增强",
+      "reading": "'æmplifai",
+      "term": "amplify"
+    },
+    {
+      "entryID": "cet4-core-0279",
+      "meaning": "啼叫",
+      "reading": "krәu",
+      "term": "crow"
+    },
+    {
+      "entryID": "cet4-core-0280",
+      "meaning": "大约的",
+      "reading": "ә'prɒksimәt",
+      "term": "approximate"
+    },
+    {
+      "entryID": "cet4-core-0281",
+      "meaning": "丰富的",
+      "reading": "'æfluәnt",
+      "term": "affluent"
+    },
+    {
+      "entryID": "cet4-core-0282",
+      "meaning": "刺",
+      "reading": "θɒ:n",
+      "term": "thorn"
+    },
+    {
+      "entryID": "cet4-core-0283",
+      "meaning": "给...穿衣",
+      "reading": "klәuð",
+      "term": "clothe"
+    },
+    {
+      "entryID": "cet4-core-0284",
+      "meaning": "强盗",
+      "reading": "'rɒbә",
+      "term": "robber"
+    },
+    {
+      "entryID": "cet4-core-0285",
+      "meaning": "电冰箱",
+      "reading": "ri'fridʒәreitә",
+      "term": "refrigerator"
+    },
+    {
+      "entryID": "cet4-core-0286",
+      "meaning": "毫米",
+      "reading": "'milimi:tә",
+      "term": "millimetre"
+    },
+    {
+      "entryID": "cet4-core-0287",
+      "meaning": "乞丐",
+      "reading": "'begә",
+      "term": "beggar"
+    },
+    {
+      "entryID": "cet4-core-0288",
+      "meaning": "头梳",
+      "reading": "kәum",
+      "term": "comb"
+    },
+    {
+      "entryID": "cet4-core-0289",
+      "meaning": "亭",
+      "reading": "bu:θ",
+      "term": "booth"
+    },
+    {
+      "entryID": "cet4-core-0290",
+      "meaning": "变亮",
+      "reading": "'braitn",
+      "term": "brighten"
+    },
+    {
+      "entryID": "cet4-core-0291",
+      "meaning": "卷轴",
+      "reading": "ri:l",
+      "term": "reel"
+    },
+    {
+      "entryID": "cet4-core-0292",
+      "meaning": "无法忍受的",
+      "reading": ".ʌn'bєәrәbl",
+      "term": "unbearable"
+    },
+    {
+      "entryID": "cet4-core-0293",
+      "meaning": "扫帚",
+      "reading": "bru:m",
+      "term": "broom"
+    },
+    {
+      "entryID": "cet4-core-0294",
+      "meaning": "椭圆形",
+      "reading": "'әuvәl",
+      "term": "oval"
+    },
+    {
+      "entryID": "cet4-core-0295",
+      "meaning": "季度的",
+      "reading": "'kwɔ:tәli",
+      "term": "quarterly"
+    },
+    {
+      "entryID": "cet4-core-0296",
+      "meaning": "一阵喷烟",
+      "reading": "pʌf",
+      "term": "puff"
+    },
+    {
+      "entryID": "cet4-core-0297",
+      "meaning": "孤儿",
+      "reading": "'ɒ:fәn",
+      "term": "orphan"
+    },
+    {
+      "entryID": "cet4-core-0298",
+      "meaning": "超时",
+      "reading": "'әuvәtaim",
+      "term": "overtime"
+    },
+    {
+      "entryID": "cet4-core-0299",
+      "meaning": "邮资",
+      "reading": "'pәustidʒ",
+      "term": "postage"
+    },
+    {
+      "entryID": "cet4-core-0300",
+      "meaning": "无价值的",
+      "reading": "vein",
+      "term": "vain"
+    },
+    {
+      "entryID": "cet4-core-0301",
+      "meaning": "生物",
+      "reading": "'mɒ:tәl",
+      "term": "mortal"
+    },
+    {
+      "entryID": "cet4-core-0302",
+      "meaning": "狡猾的",
+      "reading": "'kʌniŋ",
+      "term": "cunning"
+    },
+    {
+      "entryID": "cet4-core-0303",
+      "meaning": "优美的",
+      "reading": "'greisful",
+      "term": "graceful"
+    },
+    {
+      "entryID": "cet4-core-0304",
+      "meaning": "食品杂货店",
+      "reading": "'grәusәri",
+      "term": "grocery"
+    },
+    {
+      "entryID": "cet4-core-0305",
+      "meaning": "困乏的",
+      "reading": "'sli:pi",
+      "term": "sleepy"
+    },
+    {
+      "entryID": "cet4-core-0306",
+      "meaning": "不公平的",
+      "reading": ".ʌn'dʒʌst",
+      "term": "unjust"
+    },
+    {
+      "entryID": "cet4-core-0307",
+      "meaning": "结果实的",
+      "reading": "'fru:tful",
+      "term": "fruitful"
+    },
+    {
+      "entryID": "cet4-core-0308",
+      "meaning": "生锈的",
+      "reading": "'rʌsti",
+      "term": "rusty"
+    },
+    {
+      "entryID": "cet4-core-0309",
+      "meaning": "流利的",
+      "reading": "'flu:әnt",
+      "term": "fluent"
+    },
+    {
+      "entryID": "cet4-core-0310",
+      "meaning": "许多的",
+      "reading": "'plentiful",
+      "term": "plentiful"
+    },
+    {
+      "entryID": "cet4-core-0311",
+      "meaning": "以免",
+      "reading": "lest",
+      "term": "lest"
+    },
+    {
+      "entryID": "cet4-core-0312",
+      "meaning": "微弱的",
+      "reading": "fi:bl",
+      "term": "feeble"
+    },
+    {
+      "entryID": "cet4-core-0313",
+      "meaning": "麻烦的",
+      "reading": "'trʌblsәm",
+      "term": "troublesome"
+    },
+    {
+      "entryID": "cet4-core-0314",
+      "meaning": "尾部",
+      "reading": "stә:n",
+      "term": "stern"
+    },
+    {
+      "entryID": "cet4-core-0315",
+      "meaning": "悲观的",
+      "reading": ".pesi'mistik",
+      "term": "pessimistic"
+    },
+    {
+      "entryID": "cet4-core-0316",
+      "meaning": "腐烂",
+      "reading": "rɒt",
+      "term": "rot"
+    },
+    {
+      "entryID": "cet4-core-0317",
+      "meaning": "压缩",
+      "reading": "kәm'pres",
+      "term": "compress"
+    },
+    {
+      "entryID": "cet4-core-0318",
+      "meaning": "大胆的",
+      "reading": "'dєәriŋ",
+      "term": "daring"
+    },
+    {
+      "entryID": "cet4-core-0319",
+      "meaning": "定金",
+      "reading": "'ә:nist",
+      "term": "earnest"
+    },
+    {
+      "entryID": "cet4-core-0320",
+      "meaning": "威胁",
+      "reading": "in'timideit",
+      "term": "intimidate"
+    },
+    {
+      "entryID": "cet4-core-0321",
+      "meaning": "有毒的",
+      "reading": "'pɒizәnәs",
+      "term": "poisonous"
+    },
+    {
+      "entryID": "cet4-core-0322",
+      "meaning": "木匠",
+      "reading": "'kɑ:pintә",
+      "term": "carpenter"
+    },
+    {
+      "entryID": "cet4-core-0323",
+      "meaning": "哀悼",
+      "reading": "mɒ:n",
+      "term": "mourn"
+    },
+    {
+      "entryID": "cet4-core-0324",
+      "meaning": "假期",
+      "reading": "vei'keiʃәn",
+      "term": "vacation"
+    },
+    {
+      "entryID": "cet4-core-0325",
+      "meaning": "使失望",
+      "reading": ".disә'pɒint",
+      "term": "disappoint"
+    },
+    {
+      "entryID": "cet4-core-0326",
+      "meaning": "使困窘",
+      "reading": "im'bærәs",
+      "term": "embarrass"
+    },
+    {
+      "entryID": "cet4-core-0327",
+      "meaning": "极端地",
+      "reading": "ik'si:diŋli",
+      "term": "exceedingly"
+    },
+    {
+      "entryID": "cet4-core-0328",
+      "meaning": "无价值的",
+      "reading": "'wә:θlis",
+      "term": "worthless"
+    },
+    {
+      "entryID": "cet4-core-0329",
+      "meaning": "暴风雨的",
+      "reading": "'stɒ:mi",
+      "term": "stormy"
+    },
+    {
+      "entryID": "cet4-core-0330",
+      "meaning": "姓",
+      "reading": "'sә:neim",
+      "term": "surname"
+    },
+    {
+      "entryID": "cet4-core-0331",
+      "meaning": "匆忙",
+      "reading": "heist",
+      "term": "haste"
+    },
+    {
+      "entryID": "cet4-core-0332",
+      "meaning": "弄复杂",
+      "reading": "'kɒmplikeit",
+      "term": "complicate"
+    },
+    {
+      "entryID": "cet4-core-0333",
+      "meaning": "富幽默感的",
+      "reading": "'hju:mәrәs",
+      "term": "humorous"
+    },
+    {
+      "entryID": "cet4-core-0334",
+      "meaning": "使沮丧",
+      "reading": "di'pres",
+      "term": "depress"
+    },
+    {
+      "entryID": "cet4-core-0335",
+      "meaning": "极限",
+      "reading": "'ʌtmәust",
+      "term": "utmost"
+    },
+    {
+      "entryID": "cet4-core-0336",
+      "meaning": "落后",
+      "reading": "læg",
+      "term": "lag"
+    },
+    {
+      "entryID": "cet4-core-0337",
+      "meaning": "沼泽",
+      "reading": "swɒmp",
+      "term": "swamp"
+    },
+    {
+      "entryID": "cet4-core-0338",
+      "meaning": "半导体",
+      "reading": ".semikәn'dʌktә",
+      "term": "semiconductor"
+    },
+    {
+      "entryID": "cet4-core-0339",
+      "meaning": "代词",
+      "reading": "'prәunaun",
+      "term": "pronoun"
+    },
+    {
+      "entryID": "cet4-core-0340",
+      "meaning": "背心",
+      "reading": "vest",
+      "term": "vest"
+    },
+    {
+      "entryID": "cet4-core-0341",
+      "meaning": "狡猾的",
+      "reading": "slai",
+      "term": "sly"
+    },
+    {
+      "entryID": "cet4-core-0342",
+      "meaning": "道歉",
+      "reading": "ә'pɒlәdʒaiz",
+      "term": "apologize"
+    },
+    {
+      "entryID": "cet4-core-0343",
+      "meaning": "独木舟",
+      "reading": "kә'nu:",
+      "term": "canoe"
+    },
+    {
+      "entryID": "cet4-core-0344",
+      "meaning": "茶碟",
+      "reading": "'sɒ:sә",
+      "term": "saucer"
+    },
+    {
+      "entryID": "cet4-core-0345",
+      "meaning": "考查",
+      "reading": "kwiz",
+      "term": "quiz"
+    },
+    {
+      "entryID": "cet4-core-0346",
+      "meaning": "使变硬",
+      "reading": "'stifn",
+      "term": "stiffen"
+    },
+    {
+      "entryID": "cet4-core-0347",
+      "meaning": "序",
+      "reading": "'prefis",
+      "term": "preface"
+    },
+    {
+      "entryID": "cet4-core-0348",
+      "meaning": "无论如何",
+      "reading": "'enihau",
+      "term": "anyhow"
+    },
+    {
+      "entryID": "cet4-core-0349",
+      "meaning": "一口",
+      "reading": "'mauθful",
+      "term": "mouthful"
+    },
+    {
+      "entryID": "cet4-core-0350",
+      "meaning": "拖鞋",
+      "reading": "'slipә",
+      "term": "slipper"
+    },
+    {
+      "entryID": "cet4-core-0351",
+      "meaning": "运动员",
+      "reading": "'spɒ:tsmәn",
+      "term": "sportsman"
+    },
+    {
+      "entryID": "cet4-core-0352",
+      "meaning": "几何学",
+      "reading": "dʒi'ɒmәtri",
+      "term": "geometry"
+    },
+    {
+      "entryID": "cet4-core-0353",
+      "meaning": "佝偻",
+      "reading": "stu:p",
+      "term": "stoop"
+    },
+    {
+      "entryID": "cet4-core-0354",
+      "meaning": "梨子",
+      "reading": "pєә",
+      "term": "pear"
+    },
+    {
+      "entryID": "cet4-core-0355",
+      "meaning": "酒",
+      "reading": "'likә",
+      "term": "liquor"
+    },
+    {
+      "entryID": "cet4-core-0356",
+      "meaning": "面团",
+      "reading": "peist",
+      "term": "paste"
+    },
+    {
+      "entryID": "cet4-core-0357",
+      "meaning": "油炸食物",
+      "reading": "frai",
+      "term": "fry"
+    },
+    {
+      "entryID": "cet4-core-0358",
+      "meaning": "穿梭",
+      "reading": "'ʃʌtl",
+      "term": "shuttle"
+    },
+    {
+      "entryID": "cet4-core-0359",
+      "meaning": "奴隶的身分",
+      "reading": "'sleivәri",
+      "term": "slavery"
+    },
+    {
+      "entryID": "cet4-core-0360",
+      "meaning": "矛",
+      "reading": "spiә",
+      "term": "spear"
+    },
+    {
+      "entryID": "cet4-core-0361",
+      "meaning": "坚实(或沉重)的脚步声",
+      "reading": "træmp",
+      "term": "tramp"
+    },
+    {
+      "entryID": "cet4-core-0362",
+      "meaning": "厘米",
+      "reading": "'senti,mi:tә(r)",
+      "term": "centimetre"
+    },
+    {
+      "entryID": "cet4-core-0363",
+      "meaning": "闪耀",
+      "reading": "'spɑ:kl",
+      "term": "sparkle"
+    },
+    {
+      "entryID": "cet4-core-0364",
+      "meaning": "黄褐色",
+      "reading": "tæn",
+      "term": "tan"
+    },
+    {
+      "entryID": "cet4-core-0365",
+      "meaning": "球拍",
+      "reading": "'rækit",
+      "term": "racket"
+    },
+    {
+      "entryID": "cet4-core-0366",
+      "meaning": "喇叭",
+      "reading": "'trʌmpit",
+      "term": "trumpet"
+    },
+    {
+      "entryID": "cet4-core-0367",
+      "meaning": "计算者",
+      "reading": "'kælkjuleitә",
+      "term": "calculator"
+    },
+    {
+      "entryID": "cet4-core-0368",
+      "meaning": "巾帼英雄",
+      "reading": "'herәuin",
+      "term": "heroine"
+    },
+    {
+      "entryID": "cet4-core-0369",
+      "meaning": "滑动",
+      "reading": "glaid",
+      "term": "glide"
+    },
+    {
+      "entryID": "cet4-core-0370",
+      "meaning": "裁缝",
+      "reading": "'teilә",
+      "term": "tailor"
+    },
+    {
+      "entryID": "cet4-core-0371",
+      "meaning": "无线电",
+      "reading": "'waiәlis",
+      "term": "wireless"
+    },
+    {
+      "entryID": "cet4-core-0372",
+      "meaning": "学费",
+      "reading": "tju:'iʃәn",
+      "term": "tuition"
+    },
+    {
+      "entryID": "cet4-core-0373",
+      "meaning": "说谎者",
+      "reading": "'laiә",
+      "term": "liar"
+    },
+    {
+      "entryID": "cet4-core-0374",
+      "meaning": "叮",
+      "reading": "stiŋ",
+      "term": "sting"
+    },
+    {
+      "entryID": "cet4-core-0375",
+      "meaning": "行李",
+      "reading": "'bægidʒ",
+      "term": "baggage"
+    },
+    {
+      "entryID": "cet4-core-0376",
+      "meaning": "算术",
+      "reading": "ә'riθmәtik",
+      "term": "arithmetic"
+    },
+    {
+      "entryID": "cet4-core-0377",
+      "meaning": "沐浴",
+      "reading": "beið",
+      "term": "bathe"
+    },
+    {
+      "entryID": "cet4-core-0378",
+      "meaning": "使特殊化",
+      "reading": "'speʃәlaiz",
+      "term": "specialize"
+    },
+    {
+      "entryID": "cet4-core-0379",
+      "meaning": "污染",
+      "reading": "pә'lu:t",
+      "term": "pollute"
+    },
+    {
+      "entryID": "cet4-core-0380",
+      "meaning": "询问",
+      "reading": "in'kwaiә",
+      "term": "inquire"
+    },
+    {
+      "entryID": "cet4-core-0381",
+      "meaning": "向外的",
+      "reading": "'autwәd",
+      "term": "outward"
+    },
+    {
+      "entryID": "cet4-core-0382",
+      "meaning": "刺穿",
+      "reading": "piәs",
+      "term": "pierce"
+    },
+    {
+      "entryID": "cet4-core-0383",
+      "meaning": "易碎的",
+      "reading": "'britl",
+      "term": "brittle"
+    },
+    {
+      "entryID": "cet4-core-0384",
+      "meaning": "消遣",
+      "reading": "ә'mju:z",
+      "term": "amuse"
+    },
+    {
+      "entryID": "cet4-core-0385",
+      "meaning": "天真的",
+      "reading": "'tʃaildiʃ",
+      "term": "childish"
+    },
+    {
+      "entryID": "cet4-core-0386",
+      "meaning": "恐惧",
+      "reading": "dred",
+      "term": "dread"
+    },
+    {
+      "entryID": "cet4-core-0387",
+      "meaning": "政治家",
+      "reading": "'steitsmәn",
+      "term": "statesman"
+    },
+    {
+      "entryID": "cet4-core-0388",
+      "meaning": "狂暴的",
+      "reading": "'tә:bjulәnt",
+      "term": "turbulent"
+    },
+    {
+      "entryID": "cet4-core-0389",
+      "meaning": "外部",
+      "reading": "ik'stiәriә",
+      "term": "exterior"
+    },
+    {
+      "entryID": "cet4-core-0390",
+      "meaning": "合作",
+      "reading": "kәu'ɒpәreit",
+      "term": "cooperate"
+    },
+    {
+      "entryID": "cet4-core-0391",
+      "meaning": "剪刀",
+      "reading": "'sizәz",
+      "term": "scissors"
+    },
+    {
+      "entryID": "cet4-core-0392",
+      "meaning": "铲子",
+      "reading": "speid",
+      "term": "spade"
+    },
+    {
+      "entryID": "cet4-core-0393",
+      "meaning": "愉快的",
+      "reading": "'dʒɒli",
+      "term": "jolly"
+    },
+    {
+      "entryID": "cet4-core-0394",
+      "meaning": "盎司",
+      "reading": "auns",
+      "term": "ounce"
+    },
+    {
+      "entryID": "cet4-core-0395",
+      "meaning": "卷心菜",
+      "reading": "'kæbidʒ",
+      "term": "cabbage"
+    },
+    {
+      "entryID": "cet4-core-0396",
+      "meaning": "桶",
+      "reading": "tʌb",
+      "term": "tub"
+    },
+    {
+      "entryID": "cet4-core-0397",
+      "meaning": "毛织品",
+      "reading": "'wulin",
+      "term": "woollen"
+    },
+    {
+      "entryID": "cet4-core-0398",
+      "meaning": "笨拙的",
+      "reading": "'klʌmzi",
+      "term": "clumsy"
+    },
+    {
+      "entryID": "cet4-core-0399",
+      "meaning": "滑的",
+      "reading": "'slipәri",
+      "term": "slippery"
+    },
+    {
+      "entryID": "cet4-core-0400",
+      "meaning": "适当的",
+      "reading": "әd'vaizәbl",
+      "term": "advisable"
+    },
+    {
+      "entryID": "cet4-core-0401",
+      "meaning": "自传",
+      "reading": ".ɒ:tәubai'ɒgrәfi",
+      "term": "autobiography"
+    },
+    {
+      "entryID": "cet4-core-0402",
+      "meaning": "强烈的",
+      "reading": "brisk",
+      "term": "brisk"
+    },
+    {
+      "entryID": "cet4-core-0403",
+      "meaning": "刻度盘",
+      "reading": "'daiәl",
+      "term": "dial"
+    },
+    {
+      "entryID": "cet4-core-0404",
+      "meaning": "单身汉",
+      "reading": "'bætʃәlә",
+      "term": "bachelor"
+    },
+    {
+      "entryID": "cet4-core-0405",
+      "meaning": "剃刀",
+      "reading": "'reizә",
+      "term": "razor"
+    },
+    {
+      "entryID": "cet4-core-0406",
+      "meaning": "严肃的",
+      "reading": "'sɒlәm",
+      "term": "solemn"
+    },
+    {
+      "entryID": "cet4-core-0407",
+      "meaning": "饥饿",
+      "reading": "stɑ:'veiʃәn",
+      "term": "starvation"
+    },
+    {
+      "entryID": "cet4-core-0408",
+      "meaning": "贪婪的",
+      "reading": "'gri:di",
+      "term": "greedy"
+    },
+    {
+      "entryID": "cet4-core-0409",
+      "meaning": "贫民窟",
+      "reading": "slʌm",
+      "term": "slum"
+    },
+    {
+      "entryID": "cet4-core-0410",
+      "meaning": "背诵",
+      "reading": "ri'sait",
+      "term": "recite"
+    },
+    {
+      "entryID": "cet4-core-0411",
+      "meaning": "屠夫",
+      "reading": "'butʃә",
+      "term": "butcher"
+    },
+    {
+      "entryID": "cet4-core-0412",
+      "meaning": "向外地",
+      "reading": "'autwәdz",
+      "term": "outwards"
+    },
+    {
+      "entryID": "cet4-core-0413",
+      "meaning": "使欢喜",
+      "reading": "ri'dʒɒis",
+      "term": "rejoice"
+    },
+    {
+      "entryID": "cet4-core-0414",
+      "meaning": "缺点",
+      "reading": "'ʃɒ:t'kʌmiŋ",
+      "term": "shortcoming"
+    },
+    {
+      "entryID": "cet4-core-0415",
+      "meaning": "年轻的",
+      "reading": "'ju:θful",
+      "term": "youthful"
+    },
+    {
+      "entryID": "cet4-core-0416",
+      "meaning": "不可缺少之物",
+      "reading": ".indis'pensәbl",
+      "term": "indispensable"
+    },
+    {
+      "entryID": "cet4-core-0417",
+      "meaning": "解放",
+      "reading": "'libәreit",
+      "term": "liberate"
+    },
+    {
+      "entryID": "cet4-core-0418",
+      "meaning": "鹤",
+      "reading": "krein",
+      "term": "crane"
+    },
+    {
+      "entryID": "cet4-core-0419",
+      "meaning": "不吉利的",
+      "reading": ".ʌn'lʌki",
+      "term": "unlucky"
+    },
+    {
+      "entryID": "cet4-core-0420",
+      "meaning": "催促",
+      "reading": "'heisn",
+      "term": "hasten"
+    },
+    {
+      "entryID": "cet4-core-0421",
+      "meaning": "磁铁",
+      "reading": "'mægnit",
+      "term": "magnet"
+    },
+    {
+      "entryID": "cet4-core-0422",
+      "meaning": "向下的",
+      "reading": "'daunwәd",
+      "term": "downward"
+    },
+    {
+      "entryID": "cet4-core-0423",
+      "meaning": "摩擦",
+      "reading": "'frikʃәn",
+      "term": "friction"
+    },
+    {
+      "entryID": "cet4-core-0424",
+      "meaning": "零售商",
+      "reading": "'ʃɒp.ki:pә",
+      "term": "shopkeeper"
+    },
+    {
+      "entryID": "cet4-core-0425",
+      "meaning": "向后地",
+      "reading": "'bækwәd",
+      "term": "backward"
+    },
+    {
+      "entryID": "cet4-core-0426",
+      "meaning": "节俭的",
+      "reading": ".i:kә'nɒmikәl",
+      "term": "economical"
+    },
+    {
+      "entryID": "cet4-core-0427",
+      "meaning": "抽空",
+      "reading": "ig'zɒ:stʃәn",
+      "term": "exhaustion"
+    },
+    {
+      "entryID": "cet4-core-0428",
+      "meaning": "马具",
+      "reading": "'hɑ:nis",
+      "term": "harness"
+    },
+    {
+      "entryID": "cet4-core-0429",
+      "meaning": "无关紧要的",
+      "reading": ".insig'nifikәnt",
+      "term": "insignificant"
+    },
+    {
+      "entryID": "cet4-core-0430",
+      "meaning": "羡慕",
+      "reading": "'envi",
+      "term": "envy"
+    },
+    {
+      "entryID": "cet4-core-0431",
+      "meaning": "误导",
+      "reading": "mis'li:d",
+      "term": "mislead"
+    },
+    {
+      "entryID": "cet4-core-0432",
+      "meaning": "不赞成",
+      "reading": ".disә'pru:v",
+      "term": "disapprove"
+    },
+    {
+      "entryID": "cet4-core-0433",
+      "meaning": "铺设",
+      "reading": "peiv",
+      "term": "pave"
+    },
+    {
+      "entryID": "cet4-core-0434",
+      "meaning": "班机",
+      "reading": "'lainә",
+      "term": "liner"
+    },
+    {
+      "entryID": "cet4-core-0435",
+      "meaning": "有秩序的",
+      "reading": "'ɒ:dәli",
+      "term": "orderly"
+    },
+    {
+      "entryID": "cet4-core-0436",
+      "meaning": "收割",
+      "reading": "ri:p",
+      "term": "reap"
+    },
+    {
+      "entryID": "cet4-core-0437",
+      "meaning": "蒸发",
+      "reading": "i'væpәreit",
+      "term": "evaporate"
+    },
+    {
+      "entryID": "cet4-core-0438",
+      "meaning": "沉闷的",
+      "reading": "'ti:diәs",
+      "term": "tedious"
+    },
+    {
+      "entryID": "cet4-core-0439",
+      "meaning": "诚实的",
+      "reading": "sin'siә",
+      "term": "sincere"
+    },
+    {
+      "entryID": "cet4-core-0440",
+      "meaning": "减少",
+      "reading": "'lesn",
+      "term": "lessen"
+    },
+    {
+      "entryID": "cet4-core-0441",
+      "meaning": "误解",
+      "reading": ".misʌndә'stænd",
+      "term": "misunderstand"
+    },
+    {
+      "entryID": "cet4-core-0442",
+      "meaning": "有过失的",
+      "reading": "'fɒ:lti",
+      "term": "faulty"
+    },
+    {
+      "entryID": "cet4-core-0443",
+      "meaning": "先生",
+      "reading": "'mistә",
+      "term": "Mister"
+    },
+    {
+      "entryID": "cet4-core-0444",
+      "meaning": "疼痛",
+      "reading": "eik",
+      "term": "ache"
+    },
+    {
+      "entryID": "cet4-core-0445",
+      "meaning": "波长",
+      "reading": "'weivleŋθ",
+      "term": "wavelength"
+    },
+    {
+      "entryID": "cet4-core-0446",
+      "meaning": "物理学家",
+      "reading": "'fizisist",
+      "term": "physicist"
+    },
+    {
+      "entryID": "cet4-core-0447",
+      "meaning": "望远镜",
+      "reading": "'teliskәup",
+      "term": "telescope"
+    },
+    {
+      "entryID": "cet4-core-0448",
+      "meaning": "矿石",
+      "reading": "ɒ:",
+      "term": "ore"
+    },
+    {
+      "entryID": "cet4-core-0449",
+      "meaning": "发音",
+      "reading": "prәu.nʌnsi'eiʃәn",
+      "term": "pronunciation"
+    },
+    {
+      "entryID": "cet4-core-0450",
+      "meaning": "啜泣",
+      "reading": "sɒb",
+      "term": "sob"
+    },
+    {
+      "entryID": "cet4-core-0451",
+      "meaning": "石油",
+      "reading": "pә'trәuliәm",
+      "term": "petroleum"
+    },
+    {
+      "entryID": "cet4-core-0452",
+      "meaning": "音频的",
+      "reading": "'ɒ:diou",
+      "term": "audio"
+    },
+    {
+      "entryID": "cet4-core-0453",
+      "meaning": "高度",
+      "reading": "'æltitju:d",
+      "term": "altitude"
+    },
+    {
+      "entryID": "cet4-core-0454",
+      "meaning": "校园",
+      "reading": "'kæmpәs",
+      "term": "campus"
+    },
+    {
+      "entryID": "cet4-core-0455",
+      "meaning": "使移居",
+      "reading": "træns'plɑ:nt",
+      "term": "transplant"
+    },
+    {
+      "entryID": "cet4-core-0456",
+      "meaning": "爪",
+      "reading": "klɒ:",
+      "term": "claw"
+    },
+    {
+      "entryID": "cet4-core-0457",
+      "meaning": "大气的",
+      "reading": "ætmәs'ferik",
+      "term": "atmospheric"
+    },
+    {
+      "entryID": "cet4-core-0458",
+      "meaning": "流感",
+      "reading": "flu:",
+      "term": "flu"
+    },
+    {
+      "entryID": "cet4-core-0459",
+      "meaning": "瀑布",
+      "reading": "'wɒtәfɒ:l",
+      "term": "waterfall"
+    },
+    {
+      "entryID": "cet4-core-0460",
+      "meaning": "拍手",
+      "reading": "klæp",
+      "term": "clap"
+    },
+    {
+      "entryID": "cet4-core-0461",
+      "meaning": "可实行的",
+      "reading": "'præktikәbl",
+      "term": "practicable"
+    },
+    {
+      "entryID": "cet4-core-0462",
+      "meaning": "青肿",
+      "reading": "bru:z",
+      "term": "bruise"
+    },
+    {
+      "entryID": "cet4-core-0463",
+      "meaning": "小圆石",
+      "reading": "'pebl",
+      "term": "pebble"
+    },
+    {
+      "entryID": "cet4-core-0464",
+      "meaning": "同等的人(或物)",
+      "reading": "kәu'ɒ:dineit",
+      "term": "coordinate"
+    },
+    {
+      "entryID": "cet4-core-0465",
+      "meaning": "除去",
+      "reading": "i.limi'neiʃәn",
+      "term": "elimination"
+    },
+    {
+      "entryID": "cet4-core-0466",
+      "meaning": "线圈",
+      "reading": "kɒil",
+      "term": "coil"
+    },
+    {
+      "entryID": "cet4-core-0467",
+      "meaning": "花",
+      "reading": "blu:m",
+      "term": "bloom"
+    },
+    {
+      "entryID": "cet4-core-0468",
+      "meaning": "面纱",
+      "reading": "veil",
+      "term": "veil"
+    },
+    {
+      "entryID": "cet4-core-0469",
+      "meaning": "侄女",
+      "reading": "ni:s",
+      "term": "niece"
+    },
+    {
+      "entryID": "cet4-core-0470",
+      "meaning": "海绵",
+      "reading": "spʌndʒ",
+      "term": "sponge"
+    },
+    {
+      "entryID": "cet4-core-0471",
+      "meaning": "归因于",
+      "reading": "ә'skraib",
+      "term": "ascribe"
+    },
+    {
+      "entryID": "cet4-core-0472",
+      "meaning": "公鸡",
+      "reading": "kɒk",
+      "term": "cock"
+    },
+    {
+      "entryID": "cet4-core-0473",
+      "meaning": "合作",
+      "reading": "kә'læbәreit",
+      "term": "collaborate"
+    },
+    {
+      "entryID": "cet4-core-0474",
+      "meaning": "轻视",
+      "reading": "di'spaiz",
+      "term": "despise"
+    },
+    {
+      "entryID": "cet4-core-0475",
+      "meaning": "门廊",
+      "reading": "pɒ:tʃ",
+      "term": "porch"
+    },
+    {
+      "entryID": "cet4-core-0476",
+      "meaning": "汽",
+      "reading": "'veipә",
+      "term": "vapour"
+    },
+    {
+      "entryID": "cet4-core-0477",
+      "meaning": "洒",
+      "reading": "'spriŋkl",
+      "term": "sprinkle"
+    },
+    {
+      "entryID": "cet4-core-0478",
+      "meaning": "内心的",
+      "reading": "'inwәd",
+      "term": "inward"
+    },
+    {
+      "entryID": "cet4-core-0479",
+      "meaning": "蜜月",
+      "reading": "'hʌnimu:n",
+      "term": "honeymoon"
+    },
+    {
+      "entryID": "cet4-core-0480",
+      "meaning": "发出",
+      "reading": "i'mit",
+      "term": "emit"
+    },
+    {
+      "entryID": "cet4-core-0481",
+      "meaning": "树胶",
+      "reading": "gʌm",
+      "term": "gum"
+    },
+    {
+      "entryID": "cet4-core-0482",
+      "meaning": "理解",
+      "reading": ".kɒmpri'henʃәn",
+      "term": "comprehension"
+    },
+    {
+      "entryID": "cet4-core-0483",
+      "meaning": "胶",
+      "reading": "glu:",
+      "term": "glue"
+    },
+    {
+      "entryID": "cet4-core-0484",
+      "meaning": "孵化",
+      "reading": "hætʃ",
+      "term": "hatch"
+    },
+    {
+      "entryID": "cet4-core-0485",
+      "meaning": "惊愕",
+      "reading": "'stɑ:tl",
+      "term": "startle"
+    },
+    {
+      "entryID": "cet4-core-0486",
+      "meaning": "骆驼",
+      "reading": "'kæml",
+      "term": "camel"
+    },
+    {
+      "entryID": "cet4-core-0487",
+      "meaning": "厌恶",
+      "reading": "dis'gʌst",
+      "term": "disgust"
+    },
+    {
+      "entryID": "cet4-core-0488",
+      "meaning": "潮湿的",
+      "reading": "mɒist",
+      "term": "moist"
+    },
+    {
+      "entryID": "cet4-core-0489",
+      "meaning": "薄暮",
+      "reading": "dʌsk",
+      "term": "dusk"
+    },
+    {
+      "entryID": "cet4-core-0490",
+      "meaning": "疲乏",
+      "reading": "fә'ti:g",
+      "term": "fatigue"
+    },
+    {
+      "entryID": "cet4-core-0491",
+      "meaning": "颜料",
+      "reading": "dai",
+      "term": "dye"
+    },
+    {
+      "entryID": "cet4-core-0492",
+      "meaning": "闪光",
+      "reading": "'flєә",
+      "term": "flare"
+    },
+    {
+      "entryID": "cet4-core-0493",
+      "meaning": "草莓",
+      "reading": "'strɒ:bәri",
+      "term": "strawberry"
+    },
+    {
+      "entryID": "cet4-core-0494",
+      "meaning": "运输",
+      "reading": ".trænspә'teiʃәn",
+      "term": "transportation"
+    },
+    {
+      "entryID": "cet4-core-0495",
+      "meaning": "精炼",
+      "reading": "ri'fain",
+      "term": "refine"
+    },
+    {
+      "entryID": "cet4-core-0496",
+      "meaning": "笔迹",
+      "reading": "'hændraitiŋ",
+      "term": "handwriting"
+    },
+    {
+      "entryID": "cet4-core-0497",
+      "meaning": "摇摆",
+      "reading": "swei",
+      "term": "sway"
+    },
+    {
+      "entryID": "cet4-core-0498",
+      "meaning": "丰富的",
+      "reading": "ә'bʌndәnt",
+      "term": "abundant"
+    },
+    {
+      "entryID": "cet4-core-0499",
+      "meaning": "点心",
+      "reading": "ri'freʃmәnt",
+      "term": "refreshment"
+    },
+    {
+      "entryID": "cet4-core-0500",
+      "meaning": "傀儡",
+      "reading": "'pʌpit",
+      "term": "puppet"
+    },
+    {
+      "entryID": "cet4-core-0501",
+      "meaning": "无效率的",
+      "reading": ".ini'fiʃәnt",
+      "term": "inefficient"
+    },
+    {
+      "entryID": "cet4-core-0502",
+      "meaning": "一条面包",
+      "reading": "lәuf",
+      "term": "loaf"
+    },
+    {
+      "entryID": "cet4-core-0503",
+      "meaning": "震颤",
+      "reading": "θril",
+      "term": "thrill"
+    },
+    {
+      "entryID": "cet4-core-0504",
+      "meaning": "葡萄牙人",
+      "reading": ".pɒ:tju'gi:z",
+      "term": "Portuguese"
+    },
+    {
+      "entryID": "cet4-core-0505",
+      "meaning": "疏散",
+      "reading": "i'vækjueit",
+      "term": "evacuate"
+    },
+    {
+      "entryID": "cet4-core-0506",
+      "meaning": "半岛",
+      "reading": "pi'ninsjulә",
+      "term": "peninsula"
+    },
+    {
+      "entryID": "cet4-core-0507",
+      "meaning": "裤子",
+      "reading": "pænts",
+      "term": "pants"
+    },
+    {
+      "entryID": "cet4-core-0508",
+      "meaning": "吵架",
+      "reading": "'kwɒrәl",
+      "term": "quarrel"
+    },
+    {
+      "entryID": "cet4-core-0509",
+      "meaning": "酸的",
+      "reading": "'sauә",
+      "term": "sour"
+    },
+    {
+      "entryID": "cet4-core-0510",
+      "meaning": "蜡",
+      "reading": "wæks",
+      "term": "wax"
+    },
+    {
+      "entryID": "cet4-core-0511",
+      "meaning": "鼓掌",
+      "reading": "ә'plɒ:z",
+      "term": "applause"
+    },
+    {
+      "entryID": "cet4-core-0512",
+      "meaning": "在户内",
+      "reading": "'in'dɒ:z",
+      "term": "indoors"
+    },
+    {
+      "entryID": "cet4-core-0513",
+      "meaning": "日落",
+      "reading": "'sʌnset",
+      "term": "sunset"
+    },
+    {
+      "entryID": "cet4-core-0514",
+      "meaning": "推论",
+      "reading": "di'dju:s",
+      "term": "deduce"
+    },
+    {
+      "entryID": "cet4-core-0515",
+      "meaning": "捏",
+      "reading": "pintʃ",
+      "term": "pinch"
+    },
+    {
+      "entryID": "cet4-core-0516",
+      "meaning": "楼",
+      "reading": "'stɔ:ri",
+      "term": "storey"
+    },
+    {
+      "entryID": "cet4-core-0517",
+      "meaning": "石灰",
+      "reading": "laim",
+      "term": "lime"
+    },
+    {
+      "entryID": "cet4-core-0518",
+      "meaning": "洗衣店",
+      "reading": "'lɒ:ndri",
+      "term": "laundry"
+    },
+    {
+      "entryID": "cet4-core-0519",
+      "meaning": "立方体",
+      "reading": "kju:b",
+      "term": "cube"
+    },
+    {
+      "entryID": "cet4-core-0520",
+      "meaning": "杰作",
+      "reading": "'mɑ:stәpi:s",
+      "term": "masterpiece"
+    },
+    {
+      "entryID": "cet4-core-0521",
+      "meaning": "锚",
+      "reading": "'æŋkә",
+      "term": "anchor"
+    },
+    {
+      "entryID": "cet4-core-0522",
+      "meaning": "粗心的",
+      "reading": "'kєәlis",
+      "term": "careless"
+    },
+    {
+      "entryID": "cet4-core-0523",
+      "meaning": "泥泞的",
+      "reading": "'mʌdi",
+      "term": "muddy"
+    },
+    {
+      "entryID": "cet4-core-0524",
+      "meaning": "可繁殖的",
+      "reading": "'fә:tail",
+      "term": "fertile"
+    },
+    {
+      "entryID": "cet4-core-0525",
+      "meaning": "未醉的",
+      "reading": "'sәubә",
+      "term": "sober"
+    },
+    {
+      "entryID": "cet4-core-0526",
+      "meaning": "打字机",
+      "reading": "'taip.raitә",
+      "term": "typewriter"
+    },
+    {
+      "entryID": "cet4-core-0527",
+      "meaning": "深思的",
+      "reading": "'θɒ:tful",
+      "term": "thoughtful"
+    },
+    {
+      "entryID": "cet4-core-0528",
+      "meaning": "模仿",
+      "reading": "'imiteit",
+      "term": "imitate"
+    },
+    {
+      "entryID": "cet4-core-0529",
+      "meaning": "快乐的",
+      "reading": "'meri",
+      "term": "merry"
+    },
+    {
+      "entryID": "cet4-core-0530",
+      "meaning": "英勇的",
+      "reading": "hi'rәuik",
+      "term": "heroic"
+    },
+    {
+      "entryID": "cet4-core-0531",
+      "meaning": "装饰",
+      "reading": "'ɒ:nәmәnt",
+      "term": "ornament"
+    },
+    {
+      "entryID": "cet4-core-0532",
+      "meaning": "以前的",
+      "reading": "'sʌmtaim",
+      "term": "sometime"
+    },
+    {
+      "entryID": "cet4-core-0533",
+      "meaning": "卸货",
+      "reading": ".ʌn'lәud",
+      "term": "unload"
+    },
+    {
+      "entryID": "cet4-core-0534",
+      "meaning": "抵住",
+      "reading": "wið'stænd",
+      "term": "withstand"
+    },
+    {
+      "entryID": "cet4-core-0535",
+      "meaning": "蜜饯",
+      "reading": "kәn'sә:v",
+      "term": "conserve"
+    },
+    {
+      "entryID": "cet4-core-0536",
+      "meaning": "在船上",
+      "reading": "ә'bɒ:d",
+      "term": "aboard"
+    },
+    {
+      "entryID": "cet4-core-0537",
+      "meaning": "勇气",
+      "reading": "plʌk",
+      "term": "pluck"
+    },
+    {
+      "entryID": "cet4-core-0538",
+      "meaning": "正午",
+      "reading": "'middei",
+      "term": "midday"
+    },
+    {
+      "entryID": "cet4-core-0539",
+      "meaning": "放松",
+      "reading": "lu:sn",
+      "term": "loosen"
+    },
+    {
+      "entryID": "cet4-core-0540",
+      "meaning": "向上的",
+      "reading": "'ʌpwәd",
+      "term": "upward"
+    },
+    {
+      "entryID": "cet4-core-0541",
+      "meaning": "圣徒",
+      "reading": "seint",
+      "term": "Saint"
+    },
+    {
+      "entryID": "cet4-core-0542",
+      "meaning": "惊吓",
+      "reading": "skєә",
+      "term": "scare"
+    },
+    {
+      "entryID": "cet4-core-0543",
+      "meaning": "证明",
+      "reading": "'verifai",
+      "term": "verify"
+    },
+    {
+      "entryID": "cet4-core-0544",
+      "meaning": "宽度",
+      "reading": "bredθ",
+      "term": "breadth"
+    },
+    {
+      "entryID": "cet4-core-0545",
+      "meaning": "克服",
+      "reading": "'kɒŋkә",
+      "term": "conquer"
+    },
+    {
+      "entryID": "cet4-core-0546",
+      "meaning": "最初的",
+      "reading": "'fәumәust",
+      "term": "foremost"
+    },
+    {
+      "entryID": "cet4-core-0547",
+      "meaning": "文摘",
+      "reading": "di'dʒest",
+      "term": "digest"
+    },
+    {
+      "entryID": "cet4-core-0548",
+      "meaning": "刺激",
+      "reading": "ik'sait",
+      "term": "excite"
+    },
+    {
+      "entryID": "cet4-core-0549",
+      "meaning": "持续不断的",
+      "reading": "kәn'tinjuәl",
+      "term": "continual"
+    },
+    {
+      "entryID": "cet4-core-0550",
+      "meaning": "(使)饿死",
+      "reading": "stɑ:v",
+      "term": "starve"
+    },
+    {
+      "entryID": "cet4-core-0551",
+      "meaning": "挫败",
+      "reading": "'frʌstreit",
+      "term": "frustrate"
+    },
+    {
+      "entryID": "cet4-core-0552",
+      "meaning": "漠不关心的",
+      "reading": "in'difәrәnt",
+      "term": "indifferent"
+    },
+    {
+      "entryID": "cet4-core-0553",
+      "meaning": "成熟的",
+      "reading": "raip",
+      "term": "ripe"
+    },
+    {
+      "entryID": "cet4-core-0554",
+      "meaning": "使尖锐",
+      "reading": "'ʃɑ:pn",
+      "term": "sharpen"
+    },
+    {
+      "entryID": "cet4-core-0555",
+      "meaning": "懒惰的",
+      "reading": "'aidl",
+      "term": "idle"
+    },
+    {
+      "entryID": "cet4-core-0556",
+      "meaning": "不需要的",
+      "reading": "'ni:dlis",
+      "term": "needless"
+    },
+    {
+      "entryID": "cet4-core-0557",
+      "meaning": "经常开支",
+      "reading": "'әuvәhed",
+      "term": "overhead"
+    },
+    {
+      "entryID": "cet4-core-0558",
+      "meaning": "微电脑",
+      "reading": ".maikrәu'kɒmpjutә",
+      "term": "microcomputer"
+    },
+    {
+      "entryID": "cet4-core-0559",
+      "meaning": "扣子",
+      "reading": "klɑ:sp",
+      "term": "clasp"
+    },
+    {
+      "entryID": "cet4-core-0560",
+      "meaning": "地质学",
+      "reading": "dʒi'ɒlәdʒi",
+      "term": "geology"
+    },
+    {
+      "entryID": "cet4-core-0561",
+      "meaning": "概述",
+      "reading": "'sʌmәraiz",
+      "term": "summarize"
+    },
+    {
+      "entryID": "cet4-core-0562",
+      "meaning": "水银",
+      "reading": "'mә:kjuri",
+      "term": "mercury"
+    },
+    {
+      "entryID": "cet4-core-0563",
+      "meaning": "显微镜",
+      "reading": "'maikrәuskәup",
+      "term": "microscope"
+    },
+    {
+      "entryID": "cet4-core-0564",
+      "meaning": "船员",
+      "reading": "'si:mәn",
+      "term": "seaman"
+    },
+    {
+      "entryID": "cet4-core-0565",
+      "meaning": "管道",
+      "reading": "'paiplain",
+      "term": "pipeline"
+    },
+    {
+      "entryID": "cet4-core-0566",
+      "meaning": "抵抗者",
+      "reading": "ri'zistәnt",
+      "term": "resistant"
+    },
+    {
+      "entryID": "cet4-core-0567",
+      "meaning": "芦苇",
+      "reading": "ri:d",
+      "term": "reed"
+    },
+    {
+      "entryID": "cet4-core-0568",
+      "meaning": "恶习",
+      "reading": "vais",
+      "term": "vice"
+    },
+    {
+      "entryID": "cet4-core-0569",
+      "meaning": "外壳",
+      "reading": "krʌst",
+      "term": "crust"
+    },
+    {
+      "entryID": "cet4-core-0570",
+      "meaning": "直译程序",
+      "reading": "in'tә:pritә",
+      "term": "interpreter"
+    },
+    {
+      "entryID": "cet4-core-0571",
+      "meaning": "干旱",
+      "reading": "draut",
+      "term": "drought"
+    },
+    {
+      "entryID": "cet4-core-0572",
+      "meaning": "种植园",
+      "reading": "plæn'teiʃәn",
+      "term": "plantation"
+    },
+    {
+      "entryID": "cet4-core-0573",
+      "meaning": "水滴",
+      "reading": "drip",
+      "term": "drip"
+    },
+    {
+      "entryID": "cet4-core-0574",
+      "meaning": "推论出",
+      "reading": "in'fә:",
+      "term": "infer"
+    },
+    {
+      "entryID": "cet4-core-0575",
+      "meaning": "修面",
+      "reading": "ʃeiv",
+      "term": "shave"
+    },
+    {
+      "entryID": "cet4-core-0576",
+      "meaning": "方言",
+      "reading": "'daiәlekt",
+      "term": "dialect"
+    },
+    {
+      "entryID": "cet4-core-0577",
+      "meaning": "顽皮的",
+      "reading": "'nɒ:ti",
+      "term": "naughty"
+    },
+    {
+      "entryID": "cet4-core-0578",
+      "meaning": "行李",
+      "reading": "'lʌgidʒ",
+      "term": "luggage"
+    },
+    {
+      "entryID": "cet4-core-0579",
+      "meaning": "航行",
+      "reading": ".nævi'geiʃәn",
+      "term": "navigation"
+    },
+    {
+      "entryID": "cet4-core-0580",
+      "meaning": "器械",
+      "reading": "ә'plaiәns",
+      "term": "appliance"
+    },
+    {
+      "entryID": "cet4-core-0581",
+      "meaning": "拴紧",
+      "reading": "'fɑ:sәn",
+      "term": "fasten"
+    },
+    {
+      "entryID": "cet4-core-0582",
+      "meaning": "心爱的",
+      "reading": "bi'lʌvd",
+      "term": "beloved"
+    },
+    {
+      "entryID": "cet4-core-0583",
+      "meaning": "自己",
+      "reading": "wʌn'self",
+      "term": "oneself"
+    },
+    {
+      "entryID": "cet4-core-0584",
+      "meaning": "纯净",
+      "reading": "'pjuәrәti",
+      "term": "purity"
+    },
+    {
+      "entryID": "cet4-core-0585",
+      "meaning": "大炮",
+      "reading": "'kænәn",
+      "term": "cannon"
+    },
+    {
+      "entryID": "cet4-core-0586",
+      "meaning": "皮夹",
+      "reading": "'wɒlit",
+      "term": "wallet"
+    },
+    {
+      "entryID": "cet4-core-0587",
+      "meaning": "尼龙",
+      "reading": "'nailɒn",
+      "term": "nylon"
+    },
+    {
+      "entryID": "cet4-core-0588",
+      "meaning": "火焰",
+      "reading": "bleiz",
+      "term": "blaze"
+    },
+    {
+      "entryID": "cet4-core-0589",
+      "meaning": "初步的",
+      "reading": ".eli'mentәri",
+      "term": "elementary"
+    },
+    {
+      "entryID": "cet4-core-0590",
+      "meaning": "透镜",
+      "reading": "lenz",
+      "term": "lens"
+    },
+    {
+      "entryID": "cet4-core-0591",
+      "meaning": "悲伤",
+      "reading": "'sɒrәu",
+      "term": "sorrow"
+    },
+    {
+      "entryID": "cet4-core-0592",
+      "meaning": "雷达",
+      "reading": "'reidә",
+      "term": "radar"
+    },
+    {
+      "entryID": "cet4-core-0593",
+      "meaning": "社论",
+      "reading": ".edi'tɒ:riәl",
+      "term": "editorial"
+    },
+    {
+      "entryID": "cet4-core-0594",
+      "meaning": "小提琴",
+      "reading": ".vaiә'lin",
+      "term": "violin"
+    },
+    {
+      "entryID": "cet4-core-0595",
+      "meaning": "拷问",
+      "reading": "'tɒ:tʃә",
+      "term": "torture"
+    },
+    {
+      "entryID": "cet4-core-0596",
+      "meaning": "半径",
+      "reading": "'reidiәs",
+      "term": "radius"
+    },
+    {
+      "entryID": "cet4-core-0597",
+      "meaning": "樱桃",
+      "reading": "'tʃeri",
+      "term": "cherry"
+    },
+    {
+      "entryID": "cet4-core-0598",
+      "meaning": "暗淡的",
+      "reading": "dim",
+      "term": "dim"
+    },
+    {
+      "entryID": "cet4-core-0599",
+      "meaning": "不安静的",
+      "reading": "'restlis",
+      "term": "restless"
+    },
+    {
+      "entryID": "cet4-core-0600",
+      "meaning": "单一化",
+      "reading": "'simplifai",
+      "term": "simplify"
+    },
+    {
+      "entryID": "cet4-core-0601",
+      "meaning": "加速",
+      "reading": "әk.selә'reiʃәn",
+      "term": "acceleration"
+    },
+    {
+      "entryID": "cet4-core-0602",
+      "meaning": "水壶",
+      "reading": "kæn'ti:n",
+      "term": "canteen"
+    },
+    {
+      "entryID": "cet4-core-0603",
+      "meaning": "初学者",
+      "reading": "bi'ginә",
+      "term": "beginner"
+    },
+    {
+      "entryID": "cet4-core-0604",
+      "meaning": "国际象棋",
+      "reading": "tʃes",
+      "term": "chess"
+    },
+    {
+      "entryID": "cet4-core-0605",
+      "meaning": "指南针",
+      "reading": "'kʌmpәs",
+      "term": "compass"
+    },
+    {
+      "entryID": "cet4-core-0606",
+      "meaning": "湿气",
+      "reading": "'mɒistʃә",
+      "term": "moisture"
+    },
+    {
+      "entryID": "cet4-core-0607",
+      "meaning": "斑纹",
+      "reading": "straip",
+      "term": "stripe"
+    },
+    {
+      "entryID": "cet4-core-0608",
+      "meaning": "不正确的",
+      "reading": ".inkә'rekt",
+      "term": "incorrect"
+    },
+    {
+      "entryID": "cet4-core-0609",
+      "meaning": "工人",
+      "reading": "'wә:kmәn",
+      "term": "workman"
+    },
+    {
+      "entryID": "cet4-core-0610",
+      "meaning": "非常好的",
+      "reading": "tә'rifik",
+      "term": "terrific"
+    },
+    {
+      "entryID": "cet4-core-0611",
+      "meaning": "附件",
+      "reading": "әk'sesәri",
+      "term": "accessory"
+    },
+    {
+      "entryID": "cet4-core-0612",
+      "meaning": "东方人",
+      "reading": ".ɒ:ri'entl",
+      "term": "oriental"
+    },
+    {
+      "entryID": "cet4-core-0613",
+      "meaning": "不耐烦的",
+      "reading": "im'peiʃәnt",
+      "term": "impatient"
+    },
+    {
+      "entryID": "cet4-core-0614",
+      "meaning": "驴子",
+      "reading": "'dɒŋki",
+      "term": "donkey"
+    },
+    {
+      "entryID": "cet4-core-0615",
+      "meaning": "野兔",
+      "reading": "hєә",
+      "term": "hare"
+    },
+    {
+      "entryID": "cet4-core-0616",
+      "meaning": "香水",
+      "reading": "'pә:fju:m",
+      "term": "perfume"
+    },
+    {
+      "entryID": "cet4-core-0617",
+      "meaning": "粗糙的",
+      "reading": "kɒ:s",
+      "term": "coarse"
+    },
+    {
+      "entryID": "cet4-core-0618",
+      "meaning": "洗脸盆",
+      "reading": "'lævәtәri",
+      "term": "lavatory"
+    },
+    {
+      "entryID": "cet4-core-0619",
+      "meaning": "疲倦的",
+      "reading": "'wiәri",
+      "term": "weary"
+    },
+    {
+      "entryID": "cet4-core-0620",
+      "meaning": "洞",
+      "reading": "'hɒlәu",
+      "term": "hollow"
+    },
+    {
+      "entryID": "cet4-core-0621",
+      "meaning": "疤痕",
+      "reading": "skɑ:",
+      "term": "scar"
+    },
+    {
+      "entryID": "cet4-core-0622",
+      "meaning": "不规则物",
+      "reading": "i'regjulә",
+      "term": "irregular"
+    },
+    {
+      "entryID": "cet4-core-0623",
+      "meaning": "牵引器",
+      "reading": "'træktә",
+      "term": "tractor"
+    },
+    {
+      "entryID": "cet4-core-0624",
+      "meaning": "仁慈",
+      "reading": "'kaindnis",
+      "term": "kindness"
+    },
+    {
+      "entryID": "cet4-core-0625",
+      "meaning": "报信者",
+      "reading": "'mesindʒә",
+      "term": "messenger"
+    },
+    {
+      "entryID": "cet4-core-0626",
+      "meaning": "滚筒",
+      "reading": "'rәulә",
+      "term": "roller"
+    },
+    {
+      "entryID": "cet4-core-0627",
+      "meaning": "使变硬",
+      "reading": "hɑ:dn",
+      "term": "harden"
+    },
+    {
+      "entryID": "cet4-core-0628",
+      "meaning": "自私的",
+      "reading": "'selfiʃ",
+      "term": "selfish"
+    },
+    {
+      "entryID": "cet4-core-0629",
+      "meaning": "抑沉的",
+      "reading": "'glu:mi",
+      "term": "gloomy"
+    },
+    {
+      "entryID": "cet4-core-0630",
+      "meaning": "缰绳",
+      "reading": "rein",
+      "term": "rein"
+    },
+    {
+      "entryID": "cet4-core-0631",
+      "meaning": "不稳定的",
+      "reading": ".ʌn'steibl",
+      "term": "unstable"
+    },
+    {
+      "entryID": "cet4-core-0632",
+      "meaning": "辞别",
+      "reading": "'fєә'wel",
+      "term": "farewell"
+    },
+    {
+      "entryID": "cet4-core-0633",
+      "meaning": "难题",
+      "reading": "'pʌzl",
+      "term": "puzzle"
+    },
+    {
+      "entryID": "cet4-core-0634",
+      "meaning": "口哨",
+      "reading": "'hwisl",
+      "term": "whistle"
+    },
+    {
+      "entryID": "cet4-core-0635",
+      "meaning": "锯子",
+      "reading": "sɒ:",
+      "term": "saw"
+    },
+    {
+      "entryID": "cet4-core-0636",
+      "meaning": "孙子",
+      "reading": "'grændsʌn",
+      "term": "grandson"
+    },
+    {
+      "entryID": "cet4-core-0637",
+      "meaning": "霜",
+      "reading": "frɒst",
+      "term": "frost"
+    },
+    {
+      "entryID": "cet4-core-0638",
+      "meaning": "中间",
+      "reading": "midst",
+      "term": "midst"
+    },
+    {
+      "entryID": "cet4-core-0639",
+      "meaning": "无知识的",
+      "reading": "'ignәrәnt",
+      "term": "ignorant"
+    },
+    {
+      "entryID": "cet4-core-0640",
+      "meaning": "饥荒",
+      "reading": "'fæmin",
+      "term": "famine"
+    },
+    {
+      "entryID": "cet4-core-0641",
+      "meaning": "杠杆",
+      "reading": "'levә",
+      "term": "lever"
+    },
+    {
+      "entryID": "cet4-core-0642",
+      "meaning": "产生器",
+      "reading": "'dʒenәreitә",
+      "term": "generator"
+    },
+    {
+      "entryID": "cet4-core-0643",
+      "meaning": "失事",
+      "reading": "rek",
+      "term": "wreck"
+    },
+    {
+      "entryID": "cet4-core-0644",
+      "meaning": "意外的",
+      "reading": ".æksi'dentl",
+      "term": "accidental"
+    },
+    {
+      "entryID": "cet4-core-0645",
+      "meaning": "欺骗",
+      "reading": "di'si:v",
+      "term": "deceive"
+    },
+    {
+      "entryID": "cet4-core-0646",
+      "meaning": "犁",
+      "reading": "plau",
+      "term": "plough"
+    },
+    {
+      "entryID": "cet4-core-0647",
+      "meaning": "居住于",
+      "reading": "in'hæbit",
+      "term": "inhabit"
+    },
+    {
+      "entryID": "cet4-core-0648",
+      "meaning": "更可取的",
+      "reading": "'prefәrәbl",
+      "term": "preferable"
+    },
+    {
+      "entryID": "cet4-core-0649",
+      "meaning": "成功的",
+      "reading": "'prɒspәrәs",
+      "term": "prosperous"
+    },
+    {
+      "entryID": "cet4-core-0650",
+      "meaning": "指距",
+      "reading": "spæn",
+      "term": "span"
+    },
+    {
+      "entryID": "cet4-core-0651",
+      "meaning": "透明的",
+      "reading": "træns'pærәnt",
+      "term": "transparent"
+    },
+    {
+      "entryID": "cet4-core-0652",
+      "meaning": "水泥",
+      "reading": "si'ment",
+      "term": "cement"
+    },
+    {
+      "entryID": "cet4-core-0653",
+      "meaning": "专长",
+      "reading": ".speʃi'æliti",
+      "term": "speciality"
+    },
+    {
+      "entryID": "cet4-core-0654",
+      "meaning": "母猪",
+      "reading": "sau. sәu",
+      "term": "sow"
+    },
+    {
+      "entryID": "cet4-core-0655",
+      "meaning": "守候",
+      "reading": "skaut",
+      "term": "scout"
+    },
+    {
+      "entryID": "cet4-core-0656",
+      "meaning": "地震",
+      "reading": "'ә:θkweik",
+      "term": "earthquake"
+    },
+    {
+      "entryID": "cet4-core-0657",
+      "meaning": "售货员",
+      "reading": "'seilzmәn",
+      "term": "salesman"
+    },
+    {
+      "entryID": "cet4-core-0658",
+      "meaning": "辐状的",
+      "reading": "'rәuteit",
+      "term": "rotate"
+    },
+    {
+      "entryID": "cet4-core-0659",
+      "meaning": "可怕的",
+      "reading": "'fiәful",
+      "term": "fearful"
+    },
+    {
+      "entryID": "cet4-core-0660",
+      "meaning": "难得的",
+      "reading": "skɑ:s",
+      "term": "scarce"
+    },
+    {
+      "entryID": "cet4-core-0661",
+      "meaning": "深化",
+      "reading": "'dipәn",
+      "term": "deepen"
+    },
+    {
+      "entryID": "cet4-core-0662",
+      "meaning": "炸药",
+      "reading": "ik'splәusiv",
+      "term": "explosive"
+    },
+    {
+      "entryID": "cet4-core-0663",
+      "meaning": "有希望之人",
+      "reading": "'hәupful",
+      "term": "hopeful"
+    },
+    {
+      "entryID": "cet4-core-0664",
+      "meaning": "球",
+      "reading": "glәub",
+      "term": "globe"
+    },
+    {
+      "entryID": "cet4-core-0665",
+      "meaning": "想像的",
+      "reading": "i'mædʒinәri",
+      "term": "imaginary"
+    },
+    {
+      "entryID": "cet4-core-0666",
+      "meaning": "侮辱",
+      "reading": "'insʌlt",
+      "term": "insult"
+    },
+    {
+      "entryID": "cet4-core-0667",
+      "meaning": "不适合的",
+      "reading": ".ʌn'sju:tәbl",
+      "term": "unsuitable"
+    },
+    {
+      "entryID": "cet4-core-0668",
+      "meaning": "诚实",
+      "reading": "'ɒnisti",
+      "term": "honesty"
+    },
+    {
+      "entryID": "cet4-core-0669",
+      "meaning": "预先",
+      "reading": "bi'fɒ:hænd",
+      "term": "beforehand"
+    },
+    {
+      "entryID": "cet4-core-0670",
+      "meaning": "更坏的事",
+      "reading": "wә:s",
+      "term": "worse"
+    },
+    {
+      "entryID": "cet4-core-0671",
+      "meaning": "放射性的",
+      "reading": ".reidiәu'æktiv",
+      "term": "radioactive"
+    },
+    {
+      "entryID": "cet4-core-0672",
+      "meaning": "手帕",
+      "reading": "'hæŋkәtʃif",
+      "term": "handkerchief"
+    },
+    {
+      "entryID": "cet4-core-0673",
+      "meaning": "电车轨道",
+      "reading": "træm",
+      "term": "tram"
+    },
+    {
+      "entryID": "cet4-core-0674",
+      "meaning": "哑的",
+      "reading": "dʌm",
+      "term": "dumb"
+    },
+    {
+      "entryID": "cet4-core-0675",
+      "meaning": "硫",
+      "reading": "'sʌlfә",
+      "term": "sulphur"
+    },
+    {
+      "entryID": "cet4-core-0676",
+      "meaning": "振动",
+      "reading": "vai'breiʃәn",
+      "term": "vibration"
+    },
+    {
+      "entryID": "cet4-core-0677",
+      "meaning": "女士",
+      "reading": "'mædәm",
+      "term": "madam"
+    },
+    {
+      "entryID": "cet4-core-0678",
+      "meaning": "毛衣",
+      "reading": "'swetә",
+      "term": "sweater"
+    },
+    {
+      "entryID": "cet4-core-0679",
+      "meaning": "宽松长袍",
+      "reading": "rәub",
+      "term": "robe"
+    },
+    {
+      "entryID": "cet4-core-0680",
+      "meaning": "咒骂",
+      "reading": "kә:s",
+      "term": "curse"
+    },
+    {
+      "entryID": "cet4-core-0681",
+      "meaning": "信度",
+      "reading": "ri.laiә'biliti",
+      "term": "reliability"
+    },
+    {
+      "entryID": "cet4-core-0682",
+      "meaning": "相反",
+      "reading": "'kɔnv\\\\\\\\:sli",
+      "term": "conversely"
+    },
+    {
+      "entryID": "cet4-core-0683",
+      "meaning": "机械人",
+      "reading": "'rәubәt",
+      "term": "robot"
+    },
+    {
+      "entryID": "cet4-core-0684",
+      "meaning": "有学问的",
+      "reading": "'lә:nid",
+      "term": "learned"
+    },
+    {
+      "entryID": "cet4-core-0685",
+      "meaning": "天鹅",
+      "reading": "swɒn",
+      "term": "swan"
+    },
+    {
+      "entryID": "cet4-core-0686",
+      "meaning": "救火队员",
+      "reading": "'faiәmәn",
+      "term": "fireman"
+    },
+    {
+      "entryID": "cet4-core-0687",
+      "meaning": "执照",
+      "reading": "'laisns",
+      "term": "license"
+    },
+    {
+      "entryID": "cet4-core-0688",
+      "meaning": "文明",
+      "reading": "si.vilai'zeiʃәn",
+      "term": "civilization"
+    },
+    {
+      "entryID": "cet4-core-0689",
+      "meaning": "寒冷",
+      "reading": "tʃil",
+      "term": "chill"
+    },
+    {
+      "entryID": "cet4-core-0690",
+      "meaning": "飞溅",
+      "reading": "splæʃ",
+      "term": "splash"
+    },
+    {
+      "entryID": "cet4-core-0691",
+      "meaning": "藤本植物",
+      "reading": "vain",
+      "term": "vine"
+    },
+    {
+      "entryID": "cet4-core-0692",
+      "meaning": "火炉",
+      "reading": "stәuv",
+      "term": "stove"
+    },
+    {
+      "entryID": "cet4-core-0693",
+      "meaning": "合成物质",
+      "reading": "sin'θetik",
+      "term": "synthetic"
+    },
+    {
+      "entryID": "cet4-core-0694",
+      "meaning": "树皮",
+      "reading": "bɑ:k",
+      "term": "bark"
+    },
+    {
+      "entryID": "cet4-core-0695",
+      "meaning": "鞍",
+      "reading": "'sædl",
+      "term": "saddle"
+    },
+    {
+      "entryID": "cet4-core-0696",
+      "meaning": "桃子",
+      "reading": "pi:tʃ",
+      "term": "peach"
+    },
+    {
+      "entryID": "cet4-core-0697",
+      "meaning": "运动员",
+      "reading": "'æθli:t",
+      "term": "athlete"
+    },
+    {
+      "entryID": "cet4-core-0698",
+      "meaning": "向旁边",
+      "reading": "'saidweiz",
+      "term": "sideways"
+    },
+    {
+      "entryID": "cet4-core-0699",
+      "meaning": "潜水艇",
+      "reading": "'sʌbmәri:n",
+      "term": "submarine"
+    },
+    {
+      "entryID": "cet4-core-0700",
+      "meaning": "珍珠",
+      "reading": "pә:l",
+      "term": "pearl"
+    },
+    {
+      "entryID": "cet4-core-0701",
+      "meaning": "正直的",
+      "reading": "'ʌprait",
+      "term": "upright"
+    },
+    {
+      "entryID": "cet4-core-0702",
+      "meaning": "第三",
+      "reading": "'θә:dli",
+      "term": "thirdly"
+    },
+    {
+      "entryID": "cet4-core-0703",
+      "meaning": "斗蓬",
+      "reading": "klәuk",
+      "term": "cloak"
+    },
+    {
+      "entryID": "cet4-core-0704",
+      "meaning": "远足",
+      "reading": "ik'skә:ʒәn",
+      "term": "excursion"
+    },
+    {
+      "entryID": "cet4-core-0705",
+      "meaning": "叛乱",
+      "reading": "ri'vәult",
+      "term": "revolt"
+    },
+    {
+      "entryID": "cet4-core-0706",
+      "meaning": "花瓶",
+      "reading": "veis",
+      "term": "vase"
+    },
+    {
+      "entryID": "cet4-core-0707",
+      "meaning": "围巾",
+      "reading": "skɑ:f",
+      "term": "scarf"
+    },
+    {
+      "entryID": "cet4-core-0708",
+      "meaning": "反常的",
+      "reading": "æb'nɒ:mәl",
+      "term": "abnormal"
+    },
+    {
+      "entryID": "cet4-core-0709",
+      "meaning": "同志",
+      "reading": "'kɒmreid",
+      "term": "comrade"
+    },
+    {
+      "entryID": "cet4-core-0710",
+      "meaning": "雷",
+      "reading": "'θʌndә",
+      "term": "thunder"
+    },
+    {
+      "entryID": "cet4-core-0711",
+      "meaning": "呻吟",
+      "reading": "mәun",
+      "term": "moan"
+    },
+    {
+      "entryID": "cet4-core-0712",
+      "meaning": "带",
+      "reading": "stræp",
+      "term": "strap"
+    },
+    {
+      "entryID": "cet4-core-0713",
+      "meaning": "葡萄",
+      "reading": "greip",
+      "term": "grape"
+    },
+    {
+      "entryID": "cet4-core-0714",
+      "meaning": "水坝",
+      "reading": "dæm",
+      "term": "dam"
+    },
+    {
+      "entryID": "cet4-core-0715",
+      "meaning": "干草",
+      "reading": "hei",
+      "term": "hay"
+    },
+    {
+      "entryID": "cet4-core-0716",
+      "meaning": "打扰",
+      "reading": ".intә'rʌpʃәn",
+      "term": "interruption"
+    },
+    {
+      "entryID": "cet4-core-0717",
+      "meaning": "沙的",
+      "reading": "'sændi",
+      "term": "sandy"
+    },
+    {
+      "entryID": "cet4-core-0718",
+      "meaning": "野餐",
+      "reading": "'piknik",
+      "term": "picnic"
+    },
+    {
+      "entryID": "cet4-core-0719",
+      "meaning": "苗条的",
+      "reading": "'slendә",
+      "term": "slender"
+    },
+    {
+      "entryID": "cet4-core-0720",
+      "meaning": "悲伤的",
+      "reading": "sɒ:",
+      "term": "sore"
+    },
+    {
+      "entryID": "cet4-core-0721",
+      "meaning": "战胜",
+      "reading": "'kɒŋkwest",
+      "term": "conquest"
+    },
+    {
+      "entryID": "cet4-core-0722",
+      "meaning": "无助的",
+      "reading": "'helplis",
+      "term": "helpless"
+    },
+    {
+      "entryID": "cet4-core-0723",
+      "meaning": "豌豆",
+      "reading": "pi:",
+      "term": "pea"
+    },
+    {
+      "entryID": "cet4-core-0724",
+      "meaning": "长袜",
+      "reading": "'stɒkiŋ",
+      "term": "stocking"
+    },
+    {
+      "entryID": "cet4-core-0725",
+      "meaning": "航行",
+      "reading": "'vɒiidʒ",
+      "term": "voyage"
+    },
+    {
+      "entryID": "cet4-core-0726",
+      "meaning": "祝贺",
+      "reading": "'gri:tiŋ",
+      "term": "greeting"
+    },
+    {
+      "entryID": "cet4-core-0727",
+      "meaning": "山坡",
+      "reading": "'hilsaid",
+      "term": "hillside"
+    },
+    {
+      "entryID": "cet4-core-0728",
+      "meaning": "皮",
+      "reading": "pi:l",
+      "term": "peel"
+    },
+    {
+      "entryID": "cet4-core-0729",
+      "meaning": "厚度",
+      "reading": "'θiknis",
+      "term": "thickness"
+    },
+    {
+      "entryID": "cet4-core-0730",
+      "meaning": "碰撞",
+      "reading": "kә'liʒәn",
+      "term": "collision"
+    },
+    {
+      "entryID": "cet4-core-0731",
+      "meaning": "刺",
+      "reading": "pәuk",
+      "term": "poke"
+    },
+    {
+      "entryID": "cet4-core-0732",
+      "meaning": "人类",
+      "reading": "mæn'kaind",
+      "term": "mankind"
+    },
+    {
+      "entryID": "cet4-core-0733",
+      "meaning": "风景",
+      "reading": "'si:nәri",
+      "term": "scenery"
+    },
+    {
+      "entryID": "cet4-core-0734",
+      "meaning": "草地",
+      "reading": "'medәu",
+      "term": "meadow"
+    },
+    {
+      "entryID": "cet4-core-0735",
+      "meaning": "表面",
+      "reading": ".sju:pә'fiʃәl",
+      "term": "superficial"
+    },
+    {
+      "entryID": "cet4-core-0736",
+      "meaning": "芽",
+      "reading": "bʌd",
+      "term": "bud"
+    },
+    {
+      "entryID": "cet4-core-0737",
+      "meaning": "大楼管理员",
+      "reading": "'pɒ:tә",
+      "term": "porter"
+    },
+    {
+      "entryID": "cet4-core-0738",
+      "meaning": "提示",
+      "reading": "kju:",
+      "term": "cue"
+    },
+    {
+      "entryID": "cet4-core-0739",
+      "meaning": "流血",
+      "reading": "bli:d",
+      "term": "bleed"
+    },
+    {
+      "entryID": "cet4-core-0740",
+      "meaning": "沟渠",
+      "reading": "ditʃ",
+      "term": "ditch"
+    },
+    {
+      "entryID": "cet4-core-0741",
+      "meaning": "运动场",
+      "reading": "'pleigraund",
+      "term": "playground"
+    },
+    {
+      "entryID": "cet4-core-0742",
+      "meaning": "有害的",
+      "reading": "'hɑ:mful",
+      "term": "harmful"
+    },
+    {
+      "entryID": "cet4-core-0743",
+      "meaning": "懒惰的",
+      "reading": "'leizi",
+      "term": "lazy"
+    },
+    {
+      "entryID": "cet4-core-0744",
+      "meaning": "标准度量",
+      "reading": "geidʒ",
+      "term": "gauge"
+    },
+    {
+      "entryID": "cet4-core-0745",
+      "meaning": "缝纫",
+      "reading": "sәu",
+      "term": "sew"
+    },
+    {
+      "entryID": "cet4-core-0746",
+      "meaning": "使下狱",
+      "reading": "im'prizn",
+      "term": "imprison"
+    },
+    {
+      "entryID": "cet4-core-0747",
+      "meaning": "侄子",
+      "reading": "'nefju:",
+      "term": "nephew"
+    },
+    {
+      "entryID": "cet4-core-0748",
+      "meaning": "腐烂的",
+      "reading": "'rɒtn",
+      "term": "rotten"
+    },
+    {
+      "entryID": "cet4-core-0749",
+      "meaning": "惯常的",
+      "reading": "ә'kʌstәmd",
+      "term": "accustomed"
+    },
+    {
+      "entryID": "cet4-core-0750",
+      "meaning": "标签",
+      "reading": "tæg",
+      "term": "tag"
+    },
+    {
+      "entryID": "cet4-core-0751",
+      "meaning": "技师",
+      "reading": "tek'niʃәn",
+      "term": "technician"
+    },
+    {
+      "entryID": "cet4-core-0752",
+      "meaning": "能实行的",
+      "reading": "'fi:zәbl",
+      "term": "feasible"
+    },
+    {
+      "entryID": "cet4-core-0753",
+      "meaning": "垫",
+      "reading": "mæt",
+      "term": "mat"
+    },
+    {
+      "entryID": "cet4-core-0754",
+      "meaning": "解开",
+      "reading": ".ʌn'du:",
+      "term": "undo"
+    },
+    {
+      "entryID": "cet4-core-0755",
+      "meaning": "培养",
+      "reading": "'kʌltiveit",
+      "term": "cultivate"
+    },
+    {
+      "entryID": "cet4-core-0756",
+      "meaning": "珠宝",
+      "reading": "'dʒu:әl",
+      "term": "jewel"
+    },
+    {
+      "entryID": "cet4-core-0757",
+      "meaning": "呐喊声",
+      "reading": "'slәugәn",
+      "term": "slogan"
+    },
+    {
+      "entryID": "cet4-core-0758",
+      "meaning": "繁荣",
+      "reading": "θraiv",
+      "term": "thrive"
+    },
+    {
+      "entryID": "cet4-core-0759",
+      "meaning": "不令人满意的",
+      "reading": "'ʌn.sætis'fæktәri",
+      "term": "unsatisfactory"
+    },
+    {
+      "entryID": "cet4-core-0760",
+      "meaning": "老手",
+      "reading": "'vetәrәn",
+      "term": "veteran"
+    },
+    {
+      "entryID": "cet4-core-0761",
+      "meaning": "闪电",
+      "reading": "'laitniŋ",
+      "term": "lightning"
+    },
+    {
+      "entryID": "cet4-core-0762",
+      "meaning": "飞机",
+      "reading": "'єәrәplein",
+      "term": "aeroplane"
+    },
+    {
+      "entryID": "cet4-core-0763",
+      "meaning": "无希望的",
+      "reading": "'hәuplis",
+      "term": "hopeless"
+    },
+    {
+      "entryID": "cet4-core-0764",
+      "meaning": "钱包",
+      "reading": "pә:s",
+      "term": "purse"
+    },
+    {
+      "entryID": "cet4-core-0765",
+      "meaning": "牧羊人",
+      "reading": "'ʃepәd",
+      "term": "shepherd"
+    },
+    {
+      "entryID": "cet4-core-0766",
+      "meaning": "宽容",
+      "reading": "'tɒlәrәns",
+      "term": "tolerance"
+    },
+    {
+      "entryID": "cet4-core-0767",
+      "meaning": "依附",
+      "reading": "әd'hiә",
+      "term": "adhere"
+    },
+    {
+      "entryID": "cet4-core-0768",
+      "meaning": "艰难",
+      "reading": "'hɑ:dʃip",
+      "term": "hardship"
+    },
+    {
+      "entryID": "cet4-core-0769",
+      "meaning": "椅子的背罩",
+      "reading": "'taidi",
+      "term": "tidy"
+    },
+    {
+      "entryID": "cet4-core-0770",
+      "meaning": "低下的",
+      "reading": "'hʌmbl",
+      "term": "humble"
+    },
+    {
+      "entryID": "cet4-core-0771",
+      "meaning": "悲哀",
+      "reading": "'sædnis",
+      "term": "sadness"
+    },
+    {
+      "entryID": "cet4-core-0772",
+      "meaning": "毁灭性的",
+      "reading": "di'strʌktiv",
+      "term": "destructive"
+    },
+    {
+      "entryID": "cet4-core-0773",
+      "meaning": "感激之情",
+      "reading": "'grætitju:d",
+      "term": "gratitude"
+    },
+    {
+      "entryID": "cet4-core-0774",
+      "meaning": "火花",
+      "reading": "spɑ:k",
+      "term": "spark"
+    },
+    {
+      "entryID": "cet4-core-0775",
+      "meaning": "空的",
+      "reading": "'veikәnt",
+      "term": "vacant"
+    },
+    {
+      "entryID": "cet4-core-0776",
+      "meaning": "痊愈",
+      "reading": "hi:l",
+      "term": "heal"
+    },
+    {
+      "entryID": "cet4-core-0777",
+      "meaning": "扩大",
+      "reading": "in'lɑ:dʒ",
+      "term": "enlarge"
+    },
+    {
+      "entryID": "cet4-core-0778",
+      "meaning": "显而易见的",
+      "reading": "'nәutisәbl",
+      "term": "noticeable"
+    },
+    {
+      "entryID": "cet4-core-0779",
+      "meaning": "旋转",
+      "reading": "'tә:niŋ",
+      "term": "turning"
+    },
+    {
+      "entryID": "cet4-core-0780",
+      "meaning": "强制",
+      "reading": "ә'blaidʒ",
+      "term": "oblige"
+    },
+    {
+      "entryID": "cet4-core-0781",
+      "meaning": "氮",
+      "reading": "'naitrәdʒәn",
+      "term": "nitrogen"
+    },
+    {
+      "entryID": "cet4-core-0782",
+      "meaning": "名词",
+      "reading": "naun",
+      "term": "noun"
+    },
+    {
+      "entryID": "cet4-core-0783",
+      "meaning": "滑雪橇",
+      "reading": "ski:",
+      "term": "ski"
+    },
+    {
+      "entryID": "cet4-core-0784",
+      "meaning": "气味",
+      "reading": "'әudә",
+      "term": "odour"
+    },
+    {
+      "entryID": "cet4-core-0785",
+      "meaning": "比例的",
+      "reading": "prә'pɒ:ʃәnl",
+      "term": "proportional"
+    },
+    {
+      "entryID": "cet4-core-0786",
+      "meaning": "在前的",
+      "reading": ".pri:'si:diŋ",
+      "term": "preceding"
+    },
+    {
+      "entryID": "cet4-core-0787",
+      "meaning": "舔",
+      "reading": "lik",
+      "term": "lick"
+    },
+    {
+      "entryID": "cet4-core-0788",
+      "meaning": "呻吟",
+      "reading": "grәun",
+      "term": "groan"
+    },
+    {
+      "entryID": "cet4-core-0789",
+      "meaning": "大学本科生",
+      "reading": ".ʌndә'grædjuit",
+      "term": "undergraduate"
+    },
+    {
+      "entryID": "cet4-core-0790",
+      "meaning": "旋转",
+      "reading": "rәu'teiʃәn",
+      "term": "rotation"
+    },
+    {
+      "entryID": "cet4-core-0791",
+      "meaning": "轨道",
+      "reading": "'ɒ:bit",
+      "term": "orbit"
+    },
+    {
+      "entryID": "cet4-core-0792",
+      "meaning": "领导者",
+      "reading": "kәn'dʌktә",
+      "term": "conductor"
+    },
+    {
+      "entryID": "cet4-core-0793",
+      "meaning": "赤热",
+      "reading": "glәu",
+      "term": "glow"
+    },
+    {
+      "entryID": "cet4-core-0794",
+      "meaning": "信任",
+      "reading": "ri'laiәns",
+      "term": "reliance"
+    },
+    {
+      "entryID": "cet4-core-0795",
+      "meaning": "户内的",
+      "reading": "'indɒ:",
+      "term": "indoor"
+    },
+    {
+      "entryID": "cet4-core-0796",
+      "meaning": "天鹅绒",
+      "reading": "'velvit",
+      "term": "velvet"
+    },
+    {
+      "entryID": "cet4-core-0797",
+      "meaning": "眼睛的",
+      "reading": "'ɒptikl",
+      "term": "optical"
+    },
+    {
+      "entryID": "cet4-core-0798",
+      "meaning": "家畜",
+      "reading": "'laivstɒk",
+      "term": "livestock"
+    },
+    {
+      "entryID": "cet4-core-0799",
+      "meaning": "传染",
+      "reading": "in'fekt",
+      "term": "infect"
+    },
+    {
+      "entryID": "cet4-core-0800",
+      "meaning": "鹿",
+      "reading": "diә",
+      "term": "deer"
+    },
+    {
+      "entryID": "cet4-core-0801",
+      "meaning": "医师",
+      "reading": "fi'ziʃәn",
+      "term": "physician"
+    },
+    {
+      "entryID": "cet4-core-0802",
+      "meaning": "发现",
+      "reading": "di'tekʃәn",
+      "term": "detection"
+    },
+    {
+      "entryID": "cet4-core-0803",
+      "meaning": "坟墓",
+      "reading": "tu:m",
+      "term": "tomb"
+    },
+    {
+      "entryID": "cet4-core-0804",
+      "meaning": "全然的",
+      "reading": "'ʌtә",
+      "term": "utter"
+    },
+    {
+      "entryID": "cet4-core-0805",
+      "meaning": "烘焙",
+      "reading": "beik",
+      "term": "bake"
+    },
+    {
+      "entryID": "cet4-core-0806",
+      "meaning": "四轮马车",
+      "reading": "'wægәn",
+      "term": "wagon"
+    },
+    {
+      "entryID": "cet4-core-0807",
+      "meaning": "匙",
+      "reading": "spu:n",
+      "term": "spoon"
+    },
+    {
+      "entryID": "cet4-core-0808",
+      "meaning": "堆叠",
+      "reading": "stæk",
+      "term": "stack"
+    },
+    {
+      "entryID": "cet4-core-0809",
+      "meaning": "实际上起作用的",
+      "reading": "'vә:tʃuәl",
+      "term": "virtual"
+    },
+    {
+      "entryID": "cet4-core-0810",
+      "meaning": "移民",
+      "reading": "'imigrәnt",
+      "term": "immigrant"
+    },
+    {
+      "entryID": "cet4-core-0811",
+      "meaning": "教科书",
+      "reading": "'tekstbuk",
+      "term": "textbook"
+    },
+    {
+      "entryID": "cet4-core-0812",
+      "meaning": "垫子",
+      "reading": "'kuʃәn",
+      "term": "cushion"
+    },
+    {
+      "entryID": "cet4-core-0813",
+      "meaning": "近来",
+      "reading": "'leitli",
+      "term": "lately"
+    },
+    {
+      "entryID": "cet4-core-0814",
+      "meaning": "母鸡",
+      "reading": "hen",
+      "term": "hen"
+    },
+    {
+      "entryID": "cet4-core-0815",
+      "meaning": "抢掠",
+      "reading": "'rɒbәri",
+      "term": "robbery"
+    },
+    {
+      "entryID": "cet4-core-0816",
+      "meaning": "鹅",
+      "reading": "gu:s",
+      "term": "goose"
+    },
+    {
+      "entryID": "cet4-core-0817",
+      "meaning": "窒息",
+      "reading": "tʃәuk",
+      "term": "choke"
+    },
+    {
+      "entryID": "cet4-core-0818",
+      "meaning": "火箭",
+      "reading": "'rɒkit",
+      "term": "rocket"
+    },
+    {
+      "entryID": "cet4-core-0819",
+      "meaning": "间谍",
+      "reading": "spai",
+      "term": "spy"
+    },
+    {
+      "entryID": "cet4-core-0820",
+      "meaning": "照相的",
+      "reading": ".fәutә'græfik",
+      "term": "photographic"
+    },
+    {
+      "entryID": "cet4-core-0821",
+      "meaning": "鞭子",
+      "reading": "hwip",
+      "term": "whip"
+    },
+    {
+      "entryID": "cet4-core-0822",
+      "meaning": "鸽子",
+      "reading": "'pidʒin",
+      "term": "pigeon"
+    },
+    {
+      "entryID": "cet4-core-0823",
+      "meaning": "石膏",
+      "reading": "'plæstә",
+      "term": "plaster"
+    },
+    {
+      "entryID": "cet4-core-0824",
+      "meaning": "无限",
+      "reading": "'infinit",
+      "term": "infinite"
+    },
+    {
+      "entryID": "cet4-core-0825",
+      "meaning": "粘的",
+      "reading": "'stiki",
+      "term": "sticky"
+    },
+    {
+      "entryID": "cet4-core-0826",
+      "meaning": "值得尊敬的",
+      "reading": "'ɒnәrәbl",
+      "term": "honourable"
+    },
+    {
+      "entryID": "cet4-core-0827",
+      "meaning": "队伍",
+      "reading": "prә'seʃәn",
+      "term": "procession"
+    },
+    {
+      "entryID": "cet4-core-0828",
+      "meaning": "胡萝卜",
+      "reading": "'kærәt",
+      "term": "carrot"
+    },
+    {
+      "entryID": "cet4-core-0829",
+      "meaning": "出卖",
+      "reading": "bi'trei",
+      "term": "betray"
+    },
+    {
+      "entryID": "cet4-core-0830",
+      "meaning": "地窖",
+      "reading": "'selә",
+      "term": "cellar"
+    },
+    {
+      "entryID": "cet4-core-0831",
+      "meaning": "水源",
+      "reading": "'fauntin",
+      "term": "fountain"
+    },
+    {
+      "entryID": "cet4-core-0832",
+      "meaning": "致命的",
+      "reading": "'dedli",
+      "term": "deadly"
+    },
+    {
+      "entryID": "cet4-core-0833",
+      "meaning": "跌倒",
+      "reading": "tʌmbl",
+      "term": "tumble"
+    },
+    {
+      "entryID": "cet4-core-0834",
+      "meaning": "无疑的",
+      "reading": "'dautlis",
+      "term": "doubtless"
+    },
+    {
+      "entryID": "cet4-core-0835",
+      "meaning": "祝贺",
+      "reading": "kәn'grætʃәleit",
+      "term": "congratulate"
+    },
+    {
+      "entryID": "cet4-core-0836",
+      "meaning": "可携带的",
+      "reading": "'pɒ:tәbl",
+      "term": "portable"
+    },
+    {
+      "entryID": "cet4-core-0837",
+      "meaning": "加仑",
+      "reading": "'gælәn",
+      "term": "gallon"
+    },
+    {
+      "entryID": "cet4-core-0838",
+      "meaning": "蘑菇形物",
+      "reading": "'mʌʃrum",
+      "term": "mushroom"
+    },
+    {
+      "entryID": "cet4-core-0839",
+      "meaning": "衰退",
+      "reading": "di'kei",
+      "term": "decay"
+    },
+    {
+      "entryID": "cet4-core-0840",
+      "meaning": "架",
+      "reading": "ræk",
+      "term": "rack"
+    },
+    {
+      "entryID": "cet4-core-0841",
+      "meaning": "墨水",
+      "reading": "iŋk",
+      "term": "ink"
+    },
+    {
+      "entryID": "cet4-core-0842",
+      "meaning": "杂草",
+      "reading": "wi:d",
+      "term": "weed"
+    },
+    {
+      "entryID": "cet4-core-0843",
+      "meaning": "密集的",
+      "reading": "dens",
+      "term": "dense"
+    },
+    {
+      "entryID": "cet4-core-0844",
+      "meaning": "驱逐",
+      "reading": "ik'spel",
+      "term": "expel"
+    },
+    {
+      "entryID": "cet4-core-0845",
+      "meaning": "粉笔",
+      "reading": "tʃɒ:k",
+      "term": "chalk"
+    },
+    {
+      "entryID": "cet4-core-0846",
+      "meaning": "咖啡馆",
+      "reading": "kɑ:'fei",
+      "term": "cafe"
+    },
+    {
+      "entryID": "cet4-core-0847",
+      "meaning": "碎布",
+      "reading": "ræg",
+      "term": "rag"
+    },
+    {
+      "entryID": "cet4-core-0848",
+      "meaning": "便利的",
+      "reading": "'hændi",
+      "term": "handy"
+    },
+    {
+      "entryID": "cet4-core-0849",
+      "meaning": "褐雨燕",
+      "reading": "swift",
+      "term": "swift"
+    },
+    {
+      "entryID": "cet4-core-0850",
+      "meaning": "滴答声",
+      "reading": "tik",
+      "term": "tick"
+    },
+    {
+      "entryID": "cet4-core-0851",
+      "meaning": "混合",
+      "reading": "blend",
+      "term": "blend"
+    },
+    {
+      "entryID": "cet4-core-0852",
+      "meaning": "订正",
+      "reading": "kә'rekʃәn",
+      "term": "correction"
+    },
+    {
+      "entryID": "cet4-core-0853",
+      "meaning": "塞子",
+      "reading": "plʌg",
+      "term": "plug"
+    },
+    {
+      "entryID": "cet4-core-0854",
+      "meaning": "整齐",
+      "reading": "trim",
+      "term": "trim"
+    },
+    {
+      "entryID": "cet4-core-0855",
+      "meaning": "刮",
+      "reading": "skreip",
+      "term": "scrape"
+    },
+    {
+      "entryID": "cet4-core-0856",
+      "meaning": "认识",
+      "reading": "ә'kweintәns",
+      "term": "acquaintance"
+    },
+    {
+      "entryID": "cet4-core-0857",
+      "meaning": "次等的",
+      "reading": "in'fiәriә",
+      "term": "inferior"
+    },
+    {
+      "entryID": "cet4-core-0858",
+      "meaning": "紧张的",
+      "reading": "tens",
+      "term": "tense"
+    },
+    {
+      "entryID": "cet4-core-0859",
+      "meaning": "旗帜",
+      "reading": "'bænә",
+      "term": "banner"
+    },
+    {
+      "entryID": "cet4-core-0860",
+      "meaning": "漏洞",
+      "reading": "li:k",
+      "term": "leak"
+    },
+    {
+      "entryID": "cet4-core-0861",
+      "meaning": "预防",
+      "reading": "pri'kɒ:ʃәn",
+      "term": "precaution"
+    },
+    {
+      "entryID": "cet4-core-0862",
+      "meaning": "丢弃",
+      "reading": "dis'kɑ:d",
+      "term": "discard"
+    },
+    {
+      "entryID": "cet4-core-0863",
+      "meaning": "欺骗",
+      "reading": "tʃi:t",
+      "term": "cheat"
+    },
+    {
+      "entryID": "cet4-core-0864",
+      "meaning": "赶上",
+      "reading": ".әuvә'teik",
+      "term": "overtake"
+    },
+    {
+      "entryID": "cet4-core-0865",
+      "meaning": "令人讨厌的人",
+      "reading": "bɒ:",
+      "term": "bore"
+    },
+    {
+      "entryID": "cet4-core-0866",
+      "meaning": "夸大",
+      "reading": "ig'zædʒәreit",
+      "term": "exaggerate"
+    },
+    {
+      "entryID": "cet4-core-0867",
+      "meaning": "无论那一个",
+      "reading": "hwitʃ'evә",
+      "term": "whichever"
+    },
+    {
+      "entryID": "cet4-core-0868",
+      "meaning": "语法的",
+      "reading": "grә'mætikl",
+      "term": "grammatical"
+    },
+    {
+      "entryID": "cet4-core-0869",
+      "meaning": "电压",
+      "reading": "'vәultidʒ",
+      "term": "voltage"
+    },
+    {
+      "entryID": "cet4-core-0870",
+      "meaning": "航空",
+      "reading": ".eivi'eiʃәn",
+      "term": "aviation"
+    },
+    {
+      "entryID": "cet4-core-0871",
+      "meaning": "速度",
+      "reading": "vi'lɒsәti",
+      "term": "velocity"
+    },
+    {
+      "entryID": "cet4-core-0872",
+      "meaning": "风筝",
+      "reading": "kait",
+      "term": "kite"
+    },
+    {
+      "entryID": "cet4-core-0873",
+      "meaning": "核心",
+      "reading": "'nju:kliәs",
+      "term": "nucleus"
+    },
+    {
+      "entryID": "cet4-core-0874",
+      "meaning": "出声地",
+      "reading": "ә'laud",
+      "term": "aloud"
+    },
+    {
+      "entryID": "cet4-core-0875",
+      "meaning": "形容词",
+      "reading": "'ædʒiktiv",
+      "term": "adjective"
+    },
+    {
+      "entryID": "cet4-core-0876",
+      "meaning": "蚂蚁",
+      "reading": "ænt",
+      "term": "ant"
+    },
+    {
+      "entryID": "cet4-core-0877",
+      "meaning": "传真",
+      "reading": "fæks",
+      "term": "FAX"
+    },
+    {
+      "entryID": "cet4-core-0878",
+      "meaning": "可选择的",
+      "reading": "'ɒpʃәnl",
+      "term": "optional"
+    },
+    {
+      "entryID": "cet4-core-0879",
+      "meaning": "睡衣",
+      "reading": "gaun",
+      "term": "gown"
+    },
+    {
+      "entryID": "cet4-core-0880",
+      "meaning": "禁止",
+      "reading": "prә'hibit",
+      "term": "prohibit"
+    },
+    {
+      "entryID": "cet4-core-0881",
+      "meaning": "露天大型运动场",
+      "reading": "'steidiәm",
+      "term": "stadium"
+    },
+    {
+      "entryID": "cet4-core-0882",
+      "meaning": "白兰地酒",
+      "reading": "'brændi",
+      "term": "brandy"
+    },
+    {
+      "entryID": "cet4-core-0883",
+      "meaning": "删除",
+      "reading": "di'li:t",
+      "term": "delete"
+    },
+    {
+      "entryID": "cet4-core-0884",
+      "meaning": "轴",
+      "reading": "'æksis",
+      "term": "axis"
+    },
+    {
+      "entryID": "cet4-core-0885",
+      "meaning": "茶壶",
+      "reading": "'ketl",
+      "term": "kettle"
+    },
+    {
+      "entryID": "cet4-core-0886",
+      "meaning": "拼",
+      "reading": "'speliŋ",
+      "term": "spelling"
+    },
+    {
+      "entryID": "cet4-core-0887",
+      "meaning": "污染",
+      "reading": "stein",
+      "term": "stain"
+    },
+    {
+      "entryID": "cet4-core-0888",
+      "meaning": "数学",
+      "reading": "mæθs",
+      "term": "maths"
+    },
+    {
+      "entryID": "cet4-core-0889",
+      "meaning": "侍者",
+      "reading": "'weitә",
+      "term": "waiter"
+    },
+    {
+      "entryID": "cet4-core-0890",
+      "meaning": "有柄大杯",
+      "reading": "mʌg",
+      "term": "mug"
+    },
+    {
+      "entryID": "cet4-core-0891",
+      "meaning": "吼",
+      "reading": "rɒ:",
+      "term": "roar"
+    },
+    {
+      "entryID": "cet4-core-0892",
+      "meaning": "船货",
+      "reading": "'freit",
+      "term": "freight"
+    },
+    {
+      "entryID": "cet4-core-0893",
+      "meaning": "兽群",
+      "reading": "hә:d",
+      "term": "herd"
+    },
+    {
+      "entryID": "cet4-core-0894",
+      "meaning": "爵士乐",
+      "reading": "dʒæz",
+      "term": "jazz"
+    },
+    {
+      "entryID": "cet4-core-0895",
+      "meaning": "共产主义",
+      "reading": "'kɒmjunizm",
+      "term": "communism"
+    },
+    {
+      "entryID": "cet4-core-0896",
+      "meaning": "咳嗽",
+      "reading": "kɒf",
+      "term": "cough"
+    },
+    {
+      "entryID": "cet4-core-0897",
+      "meaning": "吐司",
+      "reading": "tәust",
+      "term": "toast"
+    },
+    {
+      "entryID": "cet4-core-0898",
+      "meaning": "青蛙",
+      "reading": "frɒg",
+      "term": "frog"
+    },
+    {
+      "entryID": "cet4-core-0899",
+      "meaning": "手枪",
+      "reading": "'pistl",
+      "term": "pistol"
+    },
+    {
+      "entryID": "cet4-core-0900",
+      "meaning": "蜘蛛",
+      "reading": "'spaidә",
+      "term": "spider"
+    },
+    {
+      "entryID": "cet4-core-0901",
+      "meaning": "主妇",
+      "reading": "'hauswaif",
+      "term": "housewife"
+    },
+    {
+      "entryID": "cet4-core-0902",
+      "meaning": "脚步",
+      "reading": "'futstep",
+      "term": "footstep"
+    },
+    {
+      "entryID": "cet4-core-0903",
+      "meaning": "烟囱",
+      "reading": "'tʃimni",
+      "term": "chimney"
+    },
+    {
+      "entryID": "cet4-core-0904",
+      "meaning": "娱乐",
+      "reading": ".rekri'eiʃәn",
+      "term": "recreation"
+    },
+    {
+      "entryID": "cet4-core-0905",
+      "meaning": "彩虹",
+      "reading": "'reinbәu",
+      "term": "rainbow"
+    },
+    {
+      "entryID": "cet4-core-0906",
+      "meaning": "嫉妒的",
+      "reading": "'dʒelәs",
+      "term": "jealous"
+    },
+    {
+      "entryID": "cet4-core-0907",
+      "meaning": "先令",
+      "reading": "'ʃiliŋ",
+      "term": "shilling"
+    },
+    {
+      "entryID": "cet4-core-0908",
+      "meaning": "球茎",
+      "reading": "bʌlb",
+      "term": "bulb"
+    },
+    {
+      "entryID": "cet4-core-0909",
+      "meaning": "广口瓶",
+      "reading": "dʒɑ:",
+      "term": "jar"
+    },
+    {
+      "entryID": "cet4-core-0910",
+      "meaning": "亚麻布",
+      "reading": "'linin",
+      "term": "linen"
+    },
+    {
+      "entryID": "cet4-core-0911",
+      "meaning": "国籍",
+      "reading": ".næʃә'nælәti",
+      "term": "nationality"
+    },
+    {
+      "entryID": "cet4-core-0912",
+      "meaning": "扩音器",
+      "reading": "'maikrәfәun",
+      "term": "microphone"
+    },
+    {
+      "entryID": "cet4-core-0913",
+      "meaning": "肋条肉",
+      "reading": "tʃɒp",
+      "term": "chop"
+    },
+    {
+      "entryID": "cet4-core-0914",
+      "meaning": "中尉",
+      "reading": "lef'tenәnt",
+      "term": "lieutenant"
+    },
+    {
+      "entryID": "cet4-core-0915",
+      "meaning": "通知",
+      "reading": "'nәutifai",
+      "term": "notify"
+    },
+    {
+      "entryID": "cet4-core-0916",
+      "meaning": "香肠",
+      "reading": "'sɒsidʒ",
+      "term": "sausage"
+    },
+    {
+      "entryID": "cet4-core-0917",
+      "meaning": "货物",
+      "reading": "'kɑ:gәu",
+      "term": "cargo"
+    },
+    {
+      "entryID": "cet4-core-0918",
+      "meaning": "咀嚼",
+      "reading": "tʃu:",
+      "term": "chew"
+    },
+    {
+      "entryID": "cet4-core-0919",
+      "meaning": "着手",
+      "reading": "'autset",
+      "term": "outset"
+    },
+    {
+      "entryID": "cet4-core-0920",
+      "meaning": "绳索",
+      "reading": "kɒ:d",
+      "term": "cord"
+    },
+    {
+      "entryID": "cet4-core-0921",
+      "meaning": "预演",
+      "reading": "ri'hә:sl",
+      "term": "rehearsal"
+    },
+    {
+      "entryID": "cet4-core-0922",
+      "meaning": "钢盔",
+      "reading": "'helmit",
+      "term": "helmet"
+    },
+    {
+      "entryID": "cet4-core-0923",
+      "meaning": "水沫",
+      "reading": "sprei",
+      "term": "spray"
+    },
+    {
+      "entryID": "cet4-core-0924",
+      "meaning": "粗鲁无礼的",
+      "reading": "ru:d",
+      "term": "rude"
+    },
+    {
+      "entryID": "cet4-core-0925",
+      "meaning": "冲撞",
+      "reading": "dæʃ",
+      "term": "dash"
+    },
+    {
+      "entryID": "cet4-core-0926",
+      "meaning": "浸",
+      "reading": "sәuk",
+      "term": "soak"
+    },
+    {
+      "entryID": "cet4-core-0927",
+      "meaning": "牛奶公司",
+      "reading": "'dєәri",
+      "term": "dairy"
+    },
+    {
+      "entryID": "cet4-core-0928",
+      "meaning": "模子",
+      "reading": "mәuld",
+      "term": "mould"
+    },
+    {
+      "entryID": "cet4-core-0929",
+      "meaning": "宴会",
+      "reading": "fi:st",
+      "term": "feast"
+    },
+    {
+      "entryID": "cet4-core-0930",
+      "meaning": "气球",
+      "reading": "bә'lu:n",
+      "term": "balloon"
+    },
+    {
+      "entryID": "cet4-core-0931",
+      "meaning": "小麦",
+      "reading": "hwi:t",
+      "term": "wheat"
+    },
+    {
+      "entryID": "cet4-core-0932",
+      "meaning": "缎带",
+      "reading": "'ribәn",
+      "term": "ribbon"
+    },
+    {
+      "entryID": "cet4-core-0933",
+      "meaning": "取回",
+      "reading": "ri'tri:v",
+      "term": "retrieve"
+    },
+    {
+      "entryID": "cet4-core-0934",
+      "meaning": "单纯",
+      "reading": "sim'plisiti",
+      "term": "simplicity"
+    },
+    {
+      "entryID": "cet4-core-0935",
+      "meaning": "目前",
+      "reading": "'prezntli",
+      "term": "presently"
+    },
+    {
+      "entryID": "cet4-core-0936",
+      "meaning": "不寻常地",
+      "reading": "ʌn'ju:ʒәli",
+      "term": "unusually"
+    },
+    {
+      "entryID": "cet4-core-0937",
+      "meaning": "胡须",
+      "reading": "biәd",
+      "term": "beard"
+    },
+    {
+      "entryID": "cet4-core-0938",
+      "meaning": "年长者",
+      "reading": "'eldә",
+      "term": "elder"
+    },
+    {
+      "entryID": "cet4-core-0939",
+      "meaning": "毒药",
+      "reading": "'pɒizn",
+      "term": "poison"
+    },
+    {
+      "entryID": "cet4-core-0940",
+      "meaning": "自然的",
+      "reading": "spɒn'teiniәs",
+      "term": "spontaneous"
+    },
+    {
+      "entryID": "cet4-core-0941",
+      "meaning": "捆",
+      "reading": "'bʌndl",
+      "term": "bundle"
+    },
+    {
+      "entryID": "cet4-core-0942",
+      "meaning": "污垢",
+      "reading": "dә:t",
+      "term": "dirt"
+    },
+    {
+      "entryID": "cet4-core-0943",
+      "meaning": "堆",
+      "reading": "hi:p",
+      "term": "heap"
+    },
+    {
+      "entryID": "cet4-core-0944",
+      "meaning": "一致",
+      "reading": "ә'kɒ:d",
+      "term": "accord"
+    },
+    {
+      "entryID": "cet4-core-0945",
+      "meaning": "叉子",
+      "reading": "fɒ:k",
+      "term": "fork"
+    },
+    {
+      "entryID": "cet4-core-0946",
+      "meaning": "心神不安的",
+      "reading": ".ʌn'i:zi",
+      "term": "uneasy"
+    },
+    {
+      "entryID": "cet4-core-0947",
+      "meaning": "揭露",
+      "reading": ".ʌn'kʌvә",
+      "term": "uncover"
+    },
+    {
+      "entryID": "cet4-core-0948",
+      "meaning": "不愿意的",
+      "reading": ".ʌn'wiliŋ",
+      "term": "unwilling"
+    },
+    {
+      "entryID": "cet4-core-0949",
+      "meaning": "铝",
+      "reading": ".ælju'miniәm",
+      "term": "aluminium"
+    },
+    {
+      "entryID": "cet4-core-0950",
+      "meaning": "极大的痛苦",
+      "reading": "'ægәni",
+      "term": "agony"
+    },
+    {
+      "entryID": "cet4-core-0951",
+      "meaning": "一阵风",
+      "reading": "blæst",
+      "term": "blast"
+    },
+    {
+      "entryID": "cet4-core-0952",
+      "meaning": "果酱",
+      "reading": "dʒæm",
+      "term": "jam"
+    },
+    {
+      "entryID": "cet4-core-0953",
+      "meaning": "泡沫",
+      "reading": "'bʌbl",
+      "term": "bubble"
+    },
+    {
+      "entryID": "cet4-core-0954",
+      "meaning": "天堂",
+      "reading": "'pærәdais",
+      "term": "paradise"
+    },
+    {
+      "entryID": "cet4-core-0955",
+      "meaning": "抑制",
+      "reading": "ri'strein",
+      "term": "restrain"
+    },
+    {
+      "entryID": "cet4-core-0956",
+      "meaning": "模糊的",
+      "reading": "әb'skjuә",
+      "term": "obscure"
+    },
+    {
+      "entryID": "cet4-core-0957",
+      "meaning": "柱子",
+      "reading": "'pilә",
+      "term": "pillar"
+    },
+    {
+      "entryID": "cet4-core-0958",
+      "meaning": "精力充沛的",
+      "reading": "'vigәrәs",
+      "term": "vigorous"
+    },
+    {
+      "entryID": "cet4-core-0959",
+      "meaning": "生动的",
+      "reading": "'vivid",
+      "term": "vivid"
+    },
+    {
+      "entryID": "cet4-core-0960",
+      "meaning": "方便",
+      "reading": "kә'vi:njәns",
+      "term": "convenience"
+    },
+    {
+      "entryID": "cet4-core-0961",
+      "meaning": "侵入",
+      "reading": "in'veid",
+      "term": "invade"
+    },
+    {
+      "entryID": "cet4-core-0962",
+      "meaning": "在下面",
+      "reading": ".ʌndә'ni:θ",
+      "term": "underneath"
+    },
+    {
+      "entryID": "cet4-core-0963",
+      "meaning": "平滑地",
+      "reading": "'smu:ðli",
+      "term": "smoothly"
+    },
+    {
+      "entryID": "cet4-core-0964",
+      "meaning": "繁荣",
+      "reading": "'flʌriʃ",
+      "term": "flourish"
+    },
+    {
+      "entryID": "cet4-core-0965",
+      "meaning": "完成",
+      "reading": "ә'kʌmpliʃ",
+      "term": "accomplish"
+    },
+    {
+      "entryID": "cet4-core-0966",
+      "meaning": "假面目",
+      "reading": "dis'gaiz",
+      "term": "disguise"
+    },
+    {
+      "entryID": "cet4-core-0967",
+      "meaning": "忠实的",
+      "reading": "'feiθful",
+      "term": "faithful"
+    },
+    {
+      "entryID": "cet4-core-0968",
+      "meaning": "犯罪",
+      "reading": "ә'fend",
+      "term": "offend"
+    },
+    {
+      "entryID": "cet4-core-0969",
+      "meaning": "磨",
+      "reading": "graind",
+      "term": "grind"
+    },
+    {
+      "entryID": "cet4-core-0970",
+      "meaning": "增大",
+      "reading": "swel",
+      "term": "swell"
+    },
+    {
+      "entryID": "cet4-core-0971",
+      "meaning": "前夕",
+      "reading": "i:v",
+      "term": "eve"
+    },
+    {
+      "entryID": "cet4-core-0972",
+      "meaning": "收缩",
+      "reading": "ʃriŋk",
+      "term": "shrink"
+    },
+    {
+      "entryID": "cet4-core-0973",
+      "meaning": "真空",
+      "reading": "''vækjuәm",
+      "term": "vacuum"
+    },
+    {
+      "entryID": "cet4-core-0974",
+      "meaning": "无论什么",
+      "reading": ".hwɒtsәu'evә",
+      "term": "whatsoever"
+    },
+    {
+      "entryID": "cet4-core-0975",
+      "meaning": "闪耀光",
+      "reading": "glєә",
+      "term": "glare"
+    },
+    {
+      "entryID": "cet4-core-0976",
+      "meaning": "大叫",
+      "reading": "iks'kleim",
+      "term": "exclaim"
+    },
+    {
+      "entryID": "cet4-core-0977",
+      "meaning": "灰色",
+      "reading": "grei",
+      "term": "gray"
+    },
+    {
+      "entryID": "cet4-core-0978",
+      "meaning": "凳子",
+      "reading": "stu:l",
+      "term": "stool"
+    },
+    {
+      "entryID": "cet4-core-0979",
+      "meaning": "电冰箱",
+      "reading": "fridʒ",
+      "term": "fridge"
+    },
+    {
+      "entryID": "cet4-core-0980",
+      "meaning": "温室",
+      "reading": "'gri:nhaus",
+      "term": "greenhouse"
+    },
+    {
+      "entryID": "cet4-core-0981",
+      "meaning": "跪下",
+      "reading": "ni:l",
+      "term": "kneel"
+    },
+    {
+      "entryID": "cet4-core-0982",
+      "meaning": "枕头",
+      "reading": "'pilәu",
+      "term": "pillow"
+    },
+    {
+      "entryID": "cet4-core-0983",
+      "meaning": "来复枪",
+      "reading": "'raifl",
+      "term": "rifle"
+    },
+    {
+      "entryID": "cet4-core-0984",
+      "meaning": "楼梯",
+      "reading": "'stєәkeis",
+      "term": "staircase"
+    },
+    {
+      "entryID": "cet4-core-0985",
+      "meaning": "胡椒粉",
+      "reading": "'pepә",
+      "term": "pepper"
+    },
+    {
+      "entryID": "cet4-core-0986",
+      "meaning": "原子的",
+      "reading": "ә'tɒmik",
+      "term": "atomic"
+    },
+    {
+      "entryID": "cet4-core-0987",
+      "meaning": "美味的",
+      "reading": "di'liʃәs",
+      "term": "delicious"
+    },
+    {
+      "entryID": "cet4-core-0988",
+      "meaning": "气味",
+      "reading": "sent",
+      "term": "scent"
+    },
+    {
+      "entryID": "cet4-core-0989",
+      "meaning": "流溢",
+      "reading": "flʌʃ",
+      "term": "flush"
+    },
+    {
+      "entryID": "cet4-core-0990",
+      "meaning": "雾",
+      "reading": "fɒg",
+      "term": "fog"
+    },
+    {
+      "entryID": "cet4-core-0991",
+      "meaning": "笔记本",
+      "reading": "'nәutbuk",
+      "term": "notebook"
+    },
+    {
+      "entryID": "cet4-core-0992",
+      "meaning": "刺",
+      "reading": "stæb",
+      "term": "stab"
+    },
+    {
+      "entryID": "cet4-core-0993",
+      "meaning": "猴子",
+      "reading": "'mʌŋki",
+      "term": "monkey"
+    },
+    {
+      "entryID": "cet4-core-0994",
+      "meaning": "阳台",
+      "reading": "'bælkәni",
+      "term": "balcony"
+    },
+    {
+      "entryID": "cet4-core-0995",
+      "meaning": "唾液",
+      "reading": "spit",
+      "term": "spit"
+    },
+    {
+      "entryID": "cet4-core-0996",
+      "meaning": "螺旋",
+      "reading": "skru:",
+      "term": "screw"
+    },
+    {
+      "entryID": "cet4-core-0997",
+      "meaning": "生物学",
+      "reading": "bai'ɒlәdʒi",
+      "term": "biology"
+    },
+    {
+      "entryID": "cet4-core-0998",
+      "meaning": "布丁",
+      "reading": "'pudiŋ",
+      "term": "pudding"
+    },
+    {
+      "entryID": "cet4-core-0999",
+      "meaning": "户外的",
+      "reading": "'autdɒ:",
+      "term": "outdoor"
+    },
+    {
+      "entryID": "cet4-core-1000",
+      "meaning": "大陆",
+      "reading": "'meinlәnd",
+      "term": "mainland"
+    }
+  ],
+  "entryCount": 1000,
+  "metadata": {
+    "classification": "cet4",
+    "description": "面向中文用户的大学英语四级范围核心词汇试点包（首批 1000 词）。选词来自开源词典 ECDICT（MIT License）的公开 cet4 标签词条，按 BNC 语料词频降序筛选；音标沿用 ECDICT 原始注音，中文释义为项目在其数据基础上缩编整理。本包为项目自定义筛选的学习资料，不是官方四级词表，未获教育部教育考试院或任何考试机构授权。",
+    "language": "en",
+    "level": "core",
+    "tags": [
+      "english",
+      "cet4",
+      "core",
+      "chinese"
+    ],
+    "title": "CET-4 核心词汇（项目筛选版）"
+  },
+  "packID": "com.dai1012.cn.en.cet4.core",
+  "packVersion": 1,
+  "schemaVersion": 1
+}
