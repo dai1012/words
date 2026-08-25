@@ -1,0 +1,621 @@
+{
+  "entries": [
+    {
+      "entryID": "sbx-zj00-001",
+      "meaning": "搬家",
+      "reading": "ひっこし",
+      "term": "引っ越し"
+    },
+    {
+      "entryID": "sbx-zj00-002",
+      "meaning": "新居",
+      "reading": "しんきょ",
+      "term": "新居"
+    },
+    {
+      "entryID": "sbx-zj00-003",
+      "meaning": "打包",
+      "reading": "にづくり",
+      "term": "荷造り"
+    },
+    {
+      "entryID": "sbx-zj00-004",
+      "meaning": "纸箱",
+      "reading": "ダンボール",
+      "term": "ダンボール"
+    },
+    {
+      "entryID": "sbx-zj00-005",
+      "meaning": "房产中介",
+      "reading": "ふどうさんや",
+      "term": "不動産屋"
+    },
+    {
+      "entryID": "sbx-zj00-006",
+      "meaning": "房租",
+      "reading": "やちん",
+      "term": "家賃"
+    },
+    {
+      "entryID": "sbx-zj00-007",
+      "meaning": "押金",
+      "reading": "しききん",
+      "term": "敷金"
+    },
+    {
+      "entryID": "sbx-zj00-008",
+      "meaning": "礼金",
+      "reading": "れいきん",
+      "term": "礼金"
+    },
+    {
+      "entryID": "sbx-zj00-009",
+      "meaning": "户型",
+      "reading": "まどり",
+      "term": "間取り"
+    },
+    {
+      "entryID": "sbx-zj00-010",
+      "meaning": "最近的车站",
+      "reading": "もよりえき",
+      "term": "最寄り駅"
+    },
+    {
+      "entryID": "sbx-zj00-011",
+      "meaning": "生活费",
+      "reading": "せいかつひ",
+      "term": "生活費"
+    },
+    {
+      "entryID": "sbx-zj00-012",
+      "meaning": "水电燃气费",
+      "reading": "こうねつひ",
+      "term": "光熱費"
+    },
+    {
+      "entryID": "sbx-zj00-013",
+      "meaning": "街坊",
+      "reading": "ごきんじょ",
+      "term": "ご近所"
+    },
+    {
+      "entryID": "sbx-zj00-014",
+      "meaning": "邻近地区",
+      "reading": "きんりん",
+      "term": "近隣"
+    },
+    {
+      "entryID": "sbx-zj00-015",
+      "meaning": "登门问候",
+      "reading": "あいさつまわり",
+      "term": "挨拶回り"
+    },
+    {
+      "entryID": "sbx-zj00-016",
+      "meaning": "新生活",
+      "reading": "しんせいかつ",
+      "term": "新生活"
+    },
+    {
+      "entryID": "sbx-zj00-017",
+      "meaning": "独居",
+      "reading": "ひとりぐらし",
+      "term": "一人暮らし"
+    },
+    {
+      "entryID": "sbx-zj00-018",
+      "meaning": "自立",
+      "reading": "じりつ",
+      "term": "自立"
+    },
+    {
+      "entryID": "sbx-zj00-019",
+      "meaning": "焕然一新",
+      "reading": "しんきたいってん",
+      "term": "心機一転"
+    },
+    {
+      "entryID": "sbx-zj00-020",
+      "meaning": "清爽",
+      "reading": "すがすがしい",
+      "term": "清々しい"
+    },
+    {
+      "entryID": "sbx-zj00-021",
+      "meaning": "重逢",
+      "reading": "さいかい",
+      "term": "再会"
+    },
+    {
+      "entryID": "sbx-zj00-022",
+      "meaning": "老友",
+      "reading": "きゅうゆう",
+      "term": "旧友"
+    },
+    {
+      "entryID": "sbx-zj00-023",
+      "meaning": "令人怀念",
+      "reading": "なつかしい",
+      "term": "懐かしい"
+    },
+    {
+      "entryID": "sbx-zj00-024",
+      "meaning": "故乡",
+      "reading": "ふるさと",
+      "term": "ふるさと"
+    },
+    {
+      "entryID": "sbx-zj00-025",
+      "meaning": "老家",
+      "reading": "じっか",
+      "term": "実家"
+    },
+    {
+      "entryID": "sbx-zj00-026",
+      "meaning": "父母身边",
+      "reading": "おやもと",
+      "term": "親元"
+    },
+    {
+      "entryID": "sbx-zj00-027",
+      "meaning": "独立生活",
+      "reading": "ひとりだち",
+      "term": "一人立ち"
+    },
+    {
+      "entryID": "sbx-zj00-028",
+      "meaning": "重新",
+      "reading": "あらためて",
+      "term": "改めて"
+    },
+    {
+      "entryID": "sbx-zj00-029",
+      "meaning": "兴奋期待",
+      "reading": "わくわく",
+      "term": "わくわく"
+    },
+    {
+      "entryID": "sbx-zj00-030",
+      "meaning": "紧张感",
+      "reading": "きんちょうかん",
+      "term": "緊張感"
+    },
+    {
+      "entryID": "sbx-zj00-031",
+      "meaning": "新学期",
+      "reading": "しんがっき",
+      "term": "新学期"
+    },
+    {
+      "entryID": "sbx-zj00-032",
+      "meaning": "全年计划",
+      "reading": "ねんかんけいかく",
+      "term": "年間計画"
+    },
+    {
+      "entryID": "sbx-zj00-033",
+      "meaning": "每日惯例",
+      "reading": "にっか",
+      "term": "日課"
+    },
+    {
+      "entryID": "sbx-zj00-034",
+      "meaning": "养成习惯",
+      "reading": "しゅうかんづける",
+      "term": "習慣づける"
+    },
+    {
+      "entryID": "sbx-zj00-035",
+      "meaning": "持续",
+      "reading": "けいぞく",
+      "term": "継続"
+    },
+    {
+      "entryID": "sbx-zj00-036",
+      "meaning": "从容适度",
+      "reading": "むりがない",
+      "term": "無理がない"
+    },
+    {
+      "entryID": "sbx-zj00-037",
+      "meaning": "自己的节奏",
+      "reading": "じぶんのペース",
+      "term": "自分のペース"
+    },
+    {
+      "entryID": "sbx-zj00-038",
+      "meaning": "脚踏实地",
+      "reading": "コツコツ",
+      "term": "コツコツ"
+    },
+    {
+      "entryID": "sbx-zj00-039",
+      "meaning": "偷懒",
+      "reading": "なまける",
+      "term": "怠ける"
+    },
+    {
+      "entryID": "sbx-zj00-040",
+      "meaning": "专注力",
+      "reading": "しゅうちゅうりょく",
+      "term": "集中力"
+    },
+    {
+      "entryID": "sbx-zj00-041",
+      "meaning": "专注",
+      "reading": "しゅうちゅうする",
+      "term": "集中する"
+    },
+    {
+      "entryID": "sbx-zj00-042",
+      "meaning": "结出成果",
+      "reading": "みをむすぶ",
+      "term": "実を結ぶ"
+    },
+    {
+      "entryID": "sbx-zj00-043",
+      "meaning": "回顾",
+      "reading": "ふりかえる",
+      "term": "振り返る"
+    },
+    {
+      "entryID": "sbx-zj00-044",
+      "meaning": "意愿",
+      "reading": "いよく",
+      "term": "意欲"
+    },
+    {
+      "entryID": "sbx-zj00-045",
+      "meaning": "干劲",
+      "reading": "やるき",
+      "term": "やる気"
+    },
+    {
+      "entryID": "sbx-zj00-046",
+      "meaning": "提出",
+      "reading": "かかげる",
+      "term": "掲げる"
+    },
+    {
+      "entryID": "sbx-zj00-047",
+      "meaning": "挑战",
+      "reading": "ちょうせん",
+      "term": "挑戦"
+    },
+    {
+      "entryID": "sbx-zj00-048",
+      "meaning": "一步",
+      "reading": "いっぽ",
+      "term": "一歩"
+    },
+    {
+      "entryID": "sbx-zj00-049",
+      "meaning": "迈出",
+      "reading": "ふみだす",
+      "term": "踏み出す"
+    },
+    {
+      "entryID": "sbx-zj00-050",
+      "meaning": "新天地",
+      "reading": "しんてんち",
+      "term": "新天地"
+    },
+    {
+      "entryID": "sbx-zj00-051",
+      "meaning": "环境改变",
+      "reading": "かんきょうがかわる",
+      "term": "環境が変わる"
+    },
+    {
+      "entryID": "sbx-zj00-052",
+      "meaning": "习惯",
+      "reading": "なれる",
+      "term": "慣れる"
+    },
+    {
+      "entryID": "sbx-zj00-053",
+      "meaning": "住惯了的",
+      "reading": "すみなれた",
+      "term": "住み慣れた"
+    },
+    {
+      "entryID": "sbx-zj00-054",
+      "meaning": "土地；当地",
+      "reading": "とち",
+      "term": "土地"
+    },
+    {
+      "entryID": "sbx-zj00-055",
+      "meaning": "风土",
+      "reading": "ふうど",
+      "term": "風土"
+    },
+    {
+      "entryID": "sbx-zj00-056",
+      "meaning": "四季风情",
+      "reading": "しきおりおり",
+      "term": "四季折々"
+    },
+    {
+      "entryID": "sbx-zj00-057",
+      "meaning": "根基",
+      "reading": "きばん",
+      "term": "基盤"
+    },
+    {
+      "entryID": "sbx-zj00-058",
+      "meaning": "支撑",
+      "reading": "ささえる",
+      "term": "支える"
+    },
+    {
+      "entryID": "sbx-zj00-059",
+      "meaning": "担负",
+      "reading": "になう",
+      "term": "担う"
+    },
+    {
+      "entryID": "sbx-zj00-060",
+      "meaning": "周围",
+      "reading": "しゅうい",
+      "term": "周囲"
+    },
+    {
+      "entryID": "sbx-zj00-061",
+      "meaning": "不负期望",
+      "reading": "きたいにこたえる",
+      "term": "期待に応える"
+    },
+    {
+      "entryID": "sbx-zj00-062",
+      "meaning": "重新开始",
+      "reading": "さいスタート",
+      "term": "再スタート"
+    },
+    {
+      "entryID": "sbx-zj00-063",
+      "meaning": "重置",
+      "reading": "リセット",
+      "term": "リセット"
+    },
+    {
+      "entryID": "sbx-zj00-064",
+      "meaning": "新年度",
+      "reading": "しんねんど",
+      "term": "新年度"
+    },
+    {
+      "entryID": "sbx-zj00-065",
+      "meaning": "四月",
+      "reading": "しがつ",
+      "term": "四月"
+    },
+    {
+      "entryID": "sbx-zj00-066",
+      "meaning": "樱花时节",
+      "reading": "さくらのきせつ",
+      "term": "桜の季節"
+    },
+    {
+      "entryID": "sbx-zj00-067",
+      "meaning": "备考学习",
+      "reading": "しけんべんきょう",
+      "term": "試験勉強"
+    },
+    {
+      "entryID": "sbx-zj00-068",
+      "meaning": "再学习",
+      "reading": "さいがくしゅう",
+      "term": "再学習"
+    },
+    {
+      "entryID": "sbx-zj00-069",
+      "meaning": "生活节奏",
+      "reading": "せいかつリズム",
+      "term": "生活リズム"
+    },
+    {
+      "entryID": "sbx-zj00-070",
+      "meaning": "健康管理",
+      "reading": "たいちょうかんり",
+      "term": "体調管理"
+    },
+    {
+      "entryID": "sbx-zj00-071",
+      "meaning": "营养均衡",
+      "reading": "えいようバランス",
+      "term": "栄養バランス"
+    },
+    {
+      "entryID": "sbx-zj00-072",
+      "meaning": "拉伸",
+      "reading": "ストレッチ",
+      "term": "ストレッチ"
+    },
+    {
+      "entryID": "sbx-zj00-073",
+      "meaning": "健身房",
+      "reading": "ジム",
+      "term": "ジム"
+    },
+    {
+      "entryID": "sbx-zj00-074",
+      "meaning": "定期前往",
+      "reading": "かよう",
+      "term": "通う"
+    },
+    {
+      "entryID": "sbx-zj00-075",
+      "meaning": "讲座课程",
+      "reading": "こうざ",
+      "term": "講座"
+    },
+    {
+      "entryID": "sbx-zj00-076",
+      "meaning": "听讲",
+      "reading": "じゅこう",
+      "term": "受講"
+    },
+    {
+      "entryID": "sbx-zj00-077",
+      "meaning": "同班同学",
+      "reading": "クラスメート",
+      "term": "クラスメート"
+    },
+    {
+      "entryID": "sbx-zj00-078",
+      "meaning": "交谈",
+      "reading": "かたらい",
+      "term": "語らい"
+    },
+    {
+      "entryID": "sbx-zj00-079",
+      "meaning": "闲聊",
+      "reading": "ざつだん",
+      "term": "雑談"
+    },
+    {
+      "entryID": "sbx-zj00-080",
+      "meaning": "共同话题",
+      "reading": "きょうつうのわだい",
+      "term": "共通の話題"
+    },
+    {
+      "entryID": "sbx-zj00-081",
+      "meaning": "亲睦",
+      "reading": "しんぼく",
+      "term": "親睦"
+    },
+    {
+      "entryID": "sbx-zj00-082",
+      "meaning": "联谊会",
+      "reading": "こんしんかい",
+      "term": "懇親会"
+    },
+    {
+      "entryID": "sbx-zj00-083",
+      "meaning": "交流会",
+      "reading": "こうりゅうかい",
+      "term": "交流会"
+    },
+    {
+      "entryID": "sbx-zj00-084",
+      "meaning": "信息交流",
+      "reading": "じょうほうこうかん",
+      "term": "情報交換"
+    },
+    {
+      "entryID": "sbx-zj00-085",
+      "meaning": "人脉",
+      "reading": "じんみゃく",
+      "term": "人脈"
+    },
+    {
+      "entryID": "sbx-zj00-086",
+      "meaning": "关系性",
+      "reading": "かんけいせい",
+      "term": "関係性"
+    },
+    {
+      "entryID": "sbx-zj00-087",
+      "meaning": "关系",
+      "reading": "かんけい",
+      "term": "関係"
+    },
+    {
+      "entryID": "sbx-zj00-088",
+      "meaning": "逐步建立",
+      "reading": "きずきあげる",
+      "term": "築き上げる"
+    },
+    {
+      "entryID": "sbx-zj00-089",
+      "meaning": "长久地",
+      "reading": "すえながく",
+      "term": "末永く"
+    },
+    {
+      "entryID": "sbx-zj00-090",
+      "meaning": "长久的交往",
+      "reading": "ながいおつきあい",
+      "term": "長いお付き合い"
+    },
+    {
+      "entryID": "sbx-zj00-091",
+      "meaning": "珍惜缘分",
+      "reading": "えんをたいせつに",
+      "term": "縁を大切に"
+    },
+    {
+      "entryID": "sbx-zj00-092",
+      "meaning": "自我介绍",
+      "reading": "じこしょうかい",
+      "term": "自己紹介"
+    },
+    {
+      "entryID": "sbx-zj00-093",
+      "meaning": "初次见面",
+      "reading": "はじめまして",
+      "term": "初めまして"
+    },
+    {
+      "entryID": "sbx-zj00-094",
+      "meaning": "请多关照",
+      "reading": "よろしくおねがいします",
+      "term": "よろしくお願いします"
+    },
+    {
+      "entryID": "sbx-zj00-095",
+      "meaning": "承蒙关照",
+      "reading": "おせわになります",
+      "term": "お世話になります"
+    },
+    {
+      "entryID": "sbx-zj00-096",
+      "meaning": "今后",
+      "reading": "これから",
+      "term": "これから"
+    },
+    {
+      "entryID": "sbx-zj00-097",
+      "meaning": "今后也",
+      "reading": "こんごとも",
+      "term": "今後とも"
+    },
+    {
+      "entryID": "sbx-zj00-098",
+      "meaning": "继续",
+      "reading": "ひきづづき",
+      "term": "引き続き"
+    },
+    {
+      "entryID": "sbx-zj00-099",
+      "meaning": "致意",
+      "reading": "ごあいさつ",
+      "term": "ご挨拶"
+    },
+    {
+      "entryID": "sbx-zj00-100",
+      "meaning": "代替问候之物",
+      "reading": "あいさつがわり",
+      "term": "挨拶代わり"
+    }
+  ],
+  "entryCount": 100,
+  "metadata": {
+    "classification": "sbx",
+    "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 1–4 课主题（新生活准备、初対面礼节、新学期规划）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+    "language": "ja",
+    "level": "intermediate",
+    "tags": [
+      "japanese",
+      "sbx",
+      "intermediate",
+      "chinese"
+    ],
+    "title": "标准日本语·中级 第01-04课词汇（项目整理版）"
+  },
+  "packID": "com.dai1012.cn.ja.sbx.zj00",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

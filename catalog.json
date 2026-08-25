@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 23,
-  "generatedAt": "2026-08-25T08:27:40Z",
+  "catalogVersion": 24,
+  "generatedAt": "2026-08-25T08:38:55Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -616,6 +616,33 @@
         "chinese"
       ],
       "title": "标准日本语·初级 第45-48课词汇（项目整理版）"
+    },
+    {
+      "classification": "sbx",
+      "description": "本项目依据《新版中日交流標準日本語》中级课程公开的主题顺序原创编写：第 1–4 课主题（新生活准备、初対面礼节、新学期规划）。词条选择、排序、假名读音与中文释义均为本项目独立完成，未复制教材词表，也未复制任何第三方词库内容。本包为项目整理版，非官方课程词表，与出版社及任何词表作者均无关联。",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "新标准日本语",
+        "中级",
+        "第01-04课"
+      ],
+      "entryCount": 100,
+      "fileSize": 14889,
+      "fileURL": "packs/sbx-zj00.json",
+      "language": "ja",
+      "level": "intermediate",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.sbx.zj00",
+      "packVersion": 1,
+      "sha256": "f057a98747d7cba893d95042e668d990129328528a6a59da6ecbc692b9ab6500",
+      "tags": [
+        "japanese",
+        "sbx",
+        "intermediate",
+        "chinese"
+      ],
+      "title": "标准日本语·中级 第01-04课词汇（项目整理版）"
     },
     {
       "classification": "sbx",
