@@ -626,6 +626,27 @@ python3 scripts/build_catalog.py --check
 python3 scripts/validate_release.py
 ```
 
+## 高频更新的推荐工作流
+
+日常维护按以下顺序执行，可避免绝大多数发布事故：
+
+1. `git status` 确认工作树干净；`git pull --ff-only` 同步远端；
+2. 只修改 `sources/` 下的 `.source.json`；移动 source 用 `git mv` 且保持
+   basename 不变（pack 文件、下载地址与版本均不变，规则见第四章）；
+   packs 与 catalog 永远交给生成脚本，不手改；
+3. 用 `python3 -m json.tool <文件> >/dev/null` 校验改动文件的 JSON 语法；
+4. 运行 `python3 scripts/build_catalog.py` 生成，随后 `--check` 与
+   `validate_release.py` 三连验证；
+5. 审查 `git status` / `git diff`：
+   - 变更是否只有预期中的 source、catalog.json 和对应 pack；
+   - 既有 pack 除新增文件外不应出现 M 状态（出现即身份漂移，停止检查）；
+   - 排除 `.DS_Store` 及任何未知文件，不要加入提交；
+6. 提交前用 `git diff --cached --name-status` 核对暂存区，只允许
+   allowlist 内的文件；
+7. push 后到 Actions 确认 validate-word-packs 成功、没有自动 commit、
+   没有第二次触发；
+8. Actions 结束后 `git pull --ff-only`，确认 working tree clean。
+
 ---
 
 # 十、GitHub Actions 成功后的操作
@@ -851,6 +872,20 @@ git pull --ff-only
 - 其他 pack 未变化
 - 没有无限循环
 
+## 移动词包目录
+
+- `git mv` 移动 source，保持 basename 与 JSON 内容不变
+- 既有 pack 文件逐字节不变（packID、basename、fileURL、entryID、entries
+  顺序全部保持），packVersion 无需提升
+- Actions 自动更新对应 descriptor 的 directoryPath 并提升 catalogVersion
+- 已两次真实验证（JLPT N1–N5 归入 CN/中日，以及全量 CN 市场迁移）
+
+## 批量新增语言方向
+
+- 在 sources/CN/<双语目录>/ 下新增 source（如中法-Chinese-French）
+- 一次 push 17 个新语言 starter 包（catalog v16，30 packs）验证通过
+- 生成器幂等：本地生成后 Actions 零 diff 通过，无自动 commit、无二次触发
+
 ---
 
 # 十八、不要做的操作
@@ -920,3 +955,65 @@ chore: regenerate word pack catalog [skip ci]
 2. 修改已发布词包时，packVersion 必须 +1
 3. Actions 成功后执行 git pull --ff-only
 ```
+
+---
+
+# 二十一、公开仓库发布边界
+
+本仓库是公开仓库，Git 历史永久公开。凡是进入 commit 的内容都应按
+"任何人可见、且长期可见"来对待。
+
+## 可以进入仓库的内容
+
+- 可公开发布的最终词条：source 即最终形态，不放入中间产物；
+- 真实、明确的来源说明：原创内容如实声明原创；使用第三方数据时写明
+  来源与许可证，并在 source 同目录放置 license / attribution 文件；
+- 公开的标音/转写方法名称引用（方法正文受版权保护时不复制其内容）。
+
+## 禁止进入仓库的内容
+
+- 私有原始数据、采集方法、清洗方法或内部加工记录；
+- AI prompt 或任何内部审核笔记；
+- 账号、Token、Cookie、密码等任何凭据；
+- 私有 URL 或不可公开的第三方原始内容；
+- `.DS_Store` 等本地系统文件。
+
+## 处理原则
+
+- 来源或许可不确定时停止并核实，不要猜测；
+- 不伪造词源、版权或机构授权；
+- attribution 只写真实、必要的信息，不声称不存在的第三方授权；
+- 一旦误提交敏感信息，注意历史无法简单抹除，应立即按泄露处理。
+
+---
+
+# 二十二、多市场扩展与目录规划
+
+## 市场语义
+
+顶层目录 `CN/`、`JP/`、`EN/` 表示用户市场与产品入口，不表示词条语言。
+同一目标语言可以服务多个市场。市场之下按学习方向分目录（如中日、
+中英），需要时再按场景细分一层，即"市场 → 语言方向 → 场景"。
+
+## 当前状态
+
+- CN 市场已建成上线（19 个语言方向）；
+- JP、EN 尚未建设。未来将复用同一套
+  source → build_catalog.py → packs/catalog → validate_release.py →
+  GitHub Actions 流程，不需要新增工具链。
+
+## 目录命名约定
+
+- 新增方向目录使用双语命名：`中文名-English Name`，
+  如 `中法-Chinese-French`、`中俄-Chinese-Russian`，
+  便于非中文背景的维护者识别；
+- 旧短名目录（中日、中英、中韩、中西）暂时保留原样，本次不移动。
+
+## 后续整理计划（记录在案，尚未执行）
+
+- 将旧短名方向目录统一迁移为双语命名；
+- 迁移时必须遵守既有稳定性规则：packID、basename、fileURL、entryID
+  与 entries 顺序全部保持不变，参照第十七章"移动词包目录"的已验证流程；
+  迁移本身只更新 descriptor 的 directoryPath 并提升 catalogVersion；
+- directoryPath 变化只影响 App 下载页导航，但批量调整前仍需做一次
+  App 端 UX 审查，确认层级展示与排序符合预期。

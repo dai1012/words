@@ -91,6 +91,10 @@ Swift validator 不做目录段规则检查：解码层仅要求数组为字符�
 默认 `[]`、显式 null 解码失败。也就是说，目录段规则一旦在生成侧放松，
 App 不会拦截——本仓库构建脚本是这条规则的唯一防线。
 
+已验证的移动行为：仅移动 source（保持 basename 与 JSON 内容不变）时，
+pack 文件 byte-identical，descriptor 中只有 directoryPath 变化，catalogVersion
+随之 +1；packID、fileURL、fileSize、sha256 与 entries 顺序均不变。
+
 ## 发布后验证（真实 Raw URL）
 
 ```bash
