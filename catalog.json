@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 27,
-  "generatedAt": "2026-08-25T10:53:31Z",
+  "catalogVersion": 28,
+  "generatedAt": "2026-09-03T05:16:02Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -1967,44 +1967,6 @@
         "japanese"
       ],
       "title": "中国語 HSK1 Preview 単語集"
-    },
-    {
-      "classification": "test",
-      "description": "Issue 006 联调用测试词包，仅用于验证远程词库下载流程，内容非真实学习数据。",
-      "directoryPath": [],
-      "entryCount": 6,
-      "fileSize": 1401,
-      "fileURL": "packs/test-basic.json",
-      "language": "ja",
-      "level": "beginner",
-      "minimumAppVersion": "1.0.0",
-      "packID": "com.dai1012.test.basic",
-      "packVersion": 2,
-      "sha256": "ae3fe7f8eabdfb9e23894a6b6040663c605b27de4a048c31f0fde3b7502ba993",
-      "tags": [
-        "test",
-        "basic"
-      ],
-      "title": "测试基础词包（Test Basic）"
-    },
-    {
-      "classification": "travel",
-      "description": "Issue 006 联调用旅行场景测试词包，内容非真实学习数据。",
-      "directoryPath": [],
-      "entryCount": 5,
-      "fileSize": 1172,
-      "fileURL": "packs/test-travel.json",
-      "language": "ja",
-      "level": "beginner",
-      "minimumAppVersion": "1.0.0",
-      "packID": "com.dai1012.test.travel",
-      "packVersion": 1,
-      "sha256": "e575671c6d87445f24dccbb6c1650c66b8fd180e0001692a2c7c36faf77cac0a",
-      "tags": [
-        "travel",
-        "test"
-      ],
-      "title": "测试旅行词包（Test Travel）"
     },
     {
       "classification": "toefl",
