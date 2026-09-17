@@ -12,7 +12,7 @@ set -euo pipefail
 
 MODE="${1:-prepare}"
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ALLOWED_PATHS="^(README\.md|catalog\.json|\.gitignore|packs/|sources/|scripts/|schemas/|\.github/)"
+ALLOWED_PATHS="^(README\.md|catalog\.json|\.gitignore|docs/|packs/|sources/|scripts/|schemas/|\.github/)"
 
 cd "$REPO_ROOT"
 
@@ -87,7 +87,7 @@ print(", ".join("{}@v{}".format(p["packID"], p["packVersion"]) for p in c["packs
 ')"
 MESSAGE="chore: publish word pack catalog v${CATALOG_VERSION} (${PACK_SUMMARY})"
 
-git add README.md catalog.json packs sources scripts schemas .github .gitignore
+git add README.md catalog.json packs sources scripts schemas .github .gitignore docs
 git commit -m "$MESSAGE"
 REMOTE="${UPSTREAM%%/*}"
 BRANCH="${UPSTREAM#*/}"

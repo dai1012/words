@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iWatchWord — Privacy Policy</title>
+<link rel="stylesheet" href="/words/assets/style.css">
+</head>
+<body>
+<nav class="top">
+  <a href="/words/">iWatchWord</a>
+  <a href="/words/privacy/">Privacy</a>
+  <a href="/words/support/">Support</a>
+</nav>
+
+<h1>Privacy Policy</h1>
+<p class="meta">Effective date: 2026-09-17 · App: iWatchWord (iPhone &amp; Apple Watch)</p>
+
+<p>This policy describes what the iWatchWord app actually does with your data. It is written to match the app's real behavior, not aspirational promises.</p>
+
+<h2>At a glance</h2>
+<ul>
+  <li>No account or sign-in is required. The developer operates no user accounts and no servers that receive your personal data.</li>
+  <li>The app contains no advertising and no third-party analytics, tracking SDKs, or behavioral profiling.</li>
+  <li>Your word packs, favorites, learning state, and settings are stored locally on your devices.</li>
+  <li>AI features are "bring your own key" (BYOK): when you ask the app to generate vocabulary, the request is sent <strong>directly from your device to the third-party AI provider you configured</strong>, using your API key. The developer is not a party to that request and cannot see it.</li>
+  <li>Your API key is stored on your device in the iOS Keychain.</li>
+  <li>Purchases are processed by Apple. The developer does not receive your payment card information.</li>
+  <li>The developer does not sell your data and does not use it for cross-app or cross-website tracking.</li>
+</ul>
+
+<h2>Data stored on your device</h2>
+<p>The following is stored locally on your iPhone (and synchronized to your paired Apple Watch where applicable). It is not transmitted to the developer:</p>
+<ul>
+  <li>Word packs you download or create, including AI-generated packs</li>
+  <li>Favorites, hidden words, and favorite collections</li>
+  <li>Learning and rotation state (which word is shown, rotation progress, interval settings)</li>
+  <li>App settings, and your AI provider / model configuration</li>
+  <li>A local record of your App Store purchase status (for offline unlock)</li>
+</ul>
+<p>App data shared between the app, its widgets, and its Watch companion uses an iOS App Group container on your device — this is local device storage, not a server.</p>
+
+<h2>What leaves your device</h2>
+<p>There are exactly three situations in which the app communicates over the network, plus device-to-device sync:</p>
+<ol>
+  <li><strong>Downloading public content (GitHub).</strong> The app downloads the word-pack catalog, downloadable pack files, and public capability registries from GitHub (<code>raw.githubusercontent.com</code>). These are plain downloads of public files; no personal data is sent.</li>
+  <li><strong>Your AI provider (only when you trigger an AI action).</strong> When you ask the app to generate or polish vocabulary, your request — the text you entered (e.g., a topic or list of words), the generation parameters, and your API key for authentication — is sent directly from your device to the AI provider endpoint you configured (for example, a provider's official API or any OpenAI-compatible endpoint you enter). That provider's own terms and privacy policy apply to that request. The developer does not proxy, log, or receive your prompts or your API key.</li>
+  <li><strong>Apple (App Store).</strong> Purchases and restores are handled by Apple through StoreKit. The developer receives only the entitlement status that Apple provides; no payment card details.</li>
+</ol>
+<p><strong>iPhone ↔ Apple Watch sync.</strong> The app synchronizes your packs and learning state between your iPhone and your own paired Apple Watch using Apple's WatchConnectivity framework. This communication stays within your own devices; the developer does not receive it.</p>
+
+<h2>What the app does not do</h2>
+<ul>
+  <li>No account creation, no sign-in, no developer-side user profiles.</li>
+  <li>No advertising, no ad networks, no data brokers.</li>
+  <li>No third-party analytics or crash-reporting SDKs.</li>
+  <li>No developer-operated server that collects your content.</li>
+  <li>No selling or sharing of personal data.</li>
+  <li>No cross-app or cross-website tracking, and no use of Apple's advertising identifier.</li>
+</ul>
+
+<h2>Your controls</h2>
+<ul>
+  <li>You can delete word packs, favorites, hidden words, and collections from within the app at any time.</li>
+  <li>You can change your AI API key at any time in the app's AI settings.</li>
+  <li>Deleting the app removes its locally stored data from your device. Purchases remain associated with your Apple ID and can be restored via "Restore Purchase".</li>
+</ul>
+
+<h2>Children</h2>
+<p>The app does not collect personal information from anyone, including children.</p>
+
+<h2>Changes to this policy</h2>
+<p>If the app's data behavior changes, this policy will be updated and the effective date above will change. Material changes will be reflected on this page.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy: see the <a href="/words/support/">Support page</a> or open an issue at <a href="https://github.com/dai1012/words/issues">github.com/dai1012/words/issues</a>.</p>
+
+<hr>
+
+<h1 lang="ja">プライバシーポリシー</h1>
+<p class="meta" lang="ja">施行日：2026-09-17 · 対象アプリ：iWatchWord（iPhone / Apple Watch）</p>
+
+<p lang="ja">本ポリシーは、iWatchWord アプリが実際にデータをどのように扱うかを説明するものです。実際の動作に基づいて記載しています。</p>
+
+<h2 lang="ja">概要</h2>
+<ul lang="ja">
+  <li>アカウント登録・ログインは不要です。開発者はユーザーアカウントや、個人データを受け取るサーバーを運営していません。</li>
+  <li>広告はありません。第三者の解析（アナリティクス）・トラッキング SDK・行動プロファイリングもありません。</li>
+  <li>単語パック、お気に入り、学習状態、設定はお使いの端末内に保存されます。</li>
+  <li>AI 機能は BYOK（Bring Your Own Key）方式です。語彙の生成を実行したとき、リクエストは<strong>お使いの端末から、あなたが設定した第三者の AI プロバイダへ直接</strong>送信されます。開発者はその通信に関与せず、内容を見ることはできません。</li>
+  <li>API キーは端末内の iOS キーチェーンに保存されます。</li>
+  <li>購入は Apple が処理します。開発者がクレジットカード情報を受け取ることはありません。</li>
+  <li>開発者はデータを販売せず、アプリ・Web をまたぐトラッキングにも使用しません。</li>
+</ul>
+
+<h2 lang="ja">端末内に保存されるデータ</h2>
+<ul lang="ja">
+  <li>ダウンロードまたは作成した単語パック（AI で生成したパックを含む）</li>
+  <li>お気に入り・非表示語・お気に入りコレクション</li>
+  <li>学習・ローテーション状態（表示中の単語、進捗、切替間隔の設定）</li>
+  <li>アプリ設定、AI プロバイダ／モデルの設定</li>
+  <li>App Store 購入状態のローカル記録（オフラインでの解除確認用）</li>
+</ul>
+<p lang="ja">アプリ・ウィジェット・Watch コンパニオン間で共有されるデータは、端末内の iOS App Group コンテナに保存されます（サーバーではありません）。</p>
+
+<h2 lang="ja">端末外へ送信されるもの</h2>
+<ol lang="ja">
+  <li><strong>公開コンテンツのダウンロード（GitHub）。</strong> 単語パックのカタログ、パックファイル、公開レジストリを GitHub（<code>raw.githubusercontent.com</code>）からダウンロードします。公開ファイルの取得のみで、個人データは送信されません。</li>
+  <li><strong>あなたの AI プロバイダ（AI 操作を実行したときのみ）。</strong> 語彙の生成・推敲を実行すると、入力したテキスト（トピックや単語リストなど）、生成パラメータ、認証用の API キーが、お使いの端末から設定済みの AI プロバイダ（公式 API、または入力した OpenAI 互換エンドポイント）へ直接送信されます。当該プロバイダの利用規約・プライバシーポリシーが適用されます。開発者はプロンプトや API キーを中継・記録・受信しません。</li>
+  <li><strong>Apple（App Store）。</strong> 購入・復元は StoreKit を通じて Apple が処理します。開発者は Apple が提供する購入権利の状態のみを受け取り、カード情報は受け取りません。</li>
+</ol>
+<p lang="ja"><strong>iPhone ↔ Apple Watch 同期。</strong> パックと学習状態は、Apple の WatchConnectivity により、お使いの iPhone とペアリング済みの Apple Watch 間で同期されます。この通信はあなたの端末間で完結し、開発者は受け取りません。</p>
+
+<h2 lang="ja">アプリが行わないこと</h2>
+<ul lang="ja">
+  <li>アカウント作成・ログイン・開発者側のユーザープロファイル</li>
+  <li>広告・広告ネットワーク・データブローカーへの提供</li>
+  <li>第三者のアナリティクス・クラッシュレポート SDK</li>
+  <li>コンテンツを収集する開発者運営のサーバー</li>
+  <li>個人データの販売・共有</li>
+  <li>アプリ・Web をまたぐトラッキング、広告識別子の利用</li>
+</ul>
+
+<h2 lang="ja">あなたが管理できること</h2>
+<ul lang="ja">
+  <li>単語パック・お気に入り・非表示語・コレクションは、アプリ内でいつでも削除できます。</li>
+  <li>AI の API キーはアプリの AI 設定でいつでも変更できます。</li>
+  <li>アプリを削除すると端末内のデータは消去されます。購入は Apple ID に紐づき、「購入の復元」で復元できます。</li>
+</ul>
+
+<h2 lang="ja">お子様について</h2>
+<p lang="ja">本アプリは、お子様を含め、いかなる個人情報も収集しません。</p>
+
+<h2 lang="ja">ポリシーの変更</h2>
+<p lang="ja">データの取り扱いが変わる場合は本ポリシーを更新し、施行日を変更します。</p>
+
+<h2 lang="ja">お問い合わせ</h2>
+<p lang="ja">本ポリシーに関するお問い合わせは、<a href="/words/support/">サポートページ</a>、または <a href="https://github.com/dai1012/words/issues">github.com/dai1012/words/issues</a> までお願いします。</p>
+
+</body>
+</html>
