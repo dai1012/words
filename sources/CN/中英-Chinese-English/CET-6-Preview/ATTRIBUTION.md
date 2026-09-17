@@ -10,3 +10,10 @@
 - 适用范围：随 words 仓库公开发布；ECDICT 部分按 MIT License 使用并保留其版权声明；
   单独复用词条时请同时保留本声明。
 - 联系方式：GitHub Issues（https://github.com/dai1012/words）。
+
+## ECDICT MIT 许可全文
+
+本包使用 ECDICT（Copyright (c) 2025 Linwei，MIT License）数据。
+许可全文见 `sources/CN/中英-Chinese-English/ECDICT.LICENSE.txt`（逐字取自
+https://github.com/skywind3000/ECDICT/blob/master/LICENSE ）。
+按 MIT 要求，本仓库保留其版权与许可声明。

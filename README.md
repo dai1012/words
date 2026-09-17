@@ -1019,3 +1019,30 @@ chore: regenerate word pack catalog [skip ci]
   迁移本身只更新 descriptor 的 directoryPath 并提升 catalogVersion；
 - directoryPath 变化只影响 App 下载页导航，但批量调整前仍需做一次
   App 端 UX 审查，确认层级展示与排序符合预期。
+
+
+## production catalog 发布规则（provenance / licensing）
+
+任何进入 production catalog 的 pack **必须具备**：
+
+1. 明确 source / provenance（来源、上游项目、获取方式）。
+2. 可验证的 license，或明确的 first-party original 声明（自建内容须写明"本项目原创编写"）。
+3. 商业 redistribution 条件可说明（允许 / 条件 / 禁止）。
+4. attribution requirement 已满足；catalog description 与 ATTRIBUTION 中引用的
+   任何仓库内路径**必须真实存在**（禁止 dead link）。
+5. 以下内容**不得**作为清权证据：仅 "AI generated"、仅"网上公开可下载"、
+   仅"未复制"自述、指向不存在文件的许可路径、仅有项目名而无实际 license。
+
+**entryID 规则**（与 App 侧 index-stable update contract 对应）：
+
+- entryID 与词条正文内容无关（禁止 term/reading/meaning 内容 hash）。
+- 同一 packID 内：既有序号对应的 entryID 永久稳定；原位修改 term/reading/meaning
+  不改变 entryID；tail append 分配新的后续 ID。
+- 插入 / 删除 / 重排属于 destructive update —— 应改用新 packID 发布。
+- 新增 ID 推荐形式：`<packID>-e000001`（六位零填充序号）。
+- 检查：`python3 scripts/check_update_contract.py`（fixture：v1→v2 合法更新与
+  destructive 判定）；`python3 scripts/check_release_policy.py`（entryID policy +
+  引用路径存在性）。
+
+**packVersion 规则补充**：pack 内容变化（含 entryID、description、metadata）必须提升
+packVersion；`build_catalog.py` 对"内容变化但版本未提升"fail closed。

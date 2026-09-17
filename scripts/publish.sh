@@ -23,7 +23,9 @@ if [[ "$(git rev-parse --show-toplevel 2>/dev/null)" != "$REPO_ROOT" ]]; then
 fi
 
 # 2. 确认工作树状态：不允许词库发布范围之外的未提交变更。
-STRAY="$(git status --porcelain | awk '{print $2}' | { grep -vE "$ALLOWED_PATHS" || true; })"
+# core.quotepath=false：非 ASCII 路径（sources 中的中文/日文目录）不再被 git 加引号包裹，
+# 否则带引号前缀的路径无法匹配 ALLOWED_PATHS，会被误判为"范围外变更"。
+STRAY="$(git -c core.quotepath=false status --porcelain | sed 's/^...//' | { grep -vE "$ALLOWED_PATHS" || true; })"
 if [[ -n "$STRAY" ]]; then
     echo "error: 存在词库发布范围外的未提交变更，先处理它们：" >&2
     echo "$STRAY" >&2
