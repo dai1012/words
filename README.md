@@ -41,6 +41,23 @@ GitHub Actions 自动更新 catalog.json
 
 ---
 
+# Production Pack Maintenance / 生产词库维护
+
+一句话：**新增 / 更新 / 下线一个进入 production catalog 的词库，全部在本仓库完成；正常流程不需要改 iWatchWord App 仓库。**
+
+| 我要做什么 | 看哪里 |
+|---|---|
+| 新增词库（先过来源 / 许可 gate） | 第三章「新增词库」+ 第二十三章 A/B |
+| 更新现有词库（原位修正 / 尾部追加） | 第四章「修改现有词库」+ 第二十三章 C |
+| 删除 / 下线词库（含许可风险紧急撤下） | 第五章「删除词库」+ 第二十三章 G |
+| entryID / packVersion / entries 顺序规则 | 第七章 + 第十二章 + 第二十三章 B/C |
+| 发布前检查（必须 0 errors） | 第九章 + 第二十三章 E（checkers） |
+| 发布与验证（push / raw 可访问 / 手机刷新） | 第十章 + 第十六章 + 第二十三章 F |
+| 什么时候才需要改 iWatchWord App 仓库 | 第二十三章 H |
+| 当前已知观察项（中日基础词库缺口） | 第二十三章 I |
+
+---
+
 # 二、目录说明
 
 ```text
@@ -1046,3 +1063,95 @@ chore: regenerate word pack catalog [skip ci]
 
 **packVersion 规则补充**：pack 内容变化（含 entryID、description、metadata）必须提升
 packVersion；`build_catalog.py` 对"内容变化但版本未提升"fail closed。
+
+---
+
+# 二十三、生产词库维护（Production Pack Maintenance）
+
+本仓库是 downloadable packs / catalog / provenance·license 的 **canonical source**。
+新增、更新、下线生产词库均按下述流程执行；**正常内容维护不需要改动 iWatchWord App 仓库**。
+
+## A. 来源 / 许可 gate（新增任何词库前的第一道门）
+
+1. 先确认来源：上游项目、获取方式、来源 URL，落盘保存（source 同目录的
+   ATTRIBUTION / license 文件）。
+2. 必须允许 **commercial use + redistribution**；只有"可下载 / 可查看"不算。
+3. 保存 source URL / license / attribution / provenance；catalog description 与
+   ATTRIBUTION 中引用的任何仓库内路径**必须真实存在**（见第二十二章 production catalog 发布规则）。
+4. 来源或许可不确定 → **不进入 production catalog**（宁可不上，不猜）。
+5. "AI generated" 不能洗掉原始来源的版权/许可问题：AI 改写不改变上游权利归属；
+   以 AI 生成为由标注 first-party 原创，仅适用于**确实无第三方来源**的内容。
+
+## B. Pack identity
+
+- 新词库使用**新的稳定 packID**（`com.dai1012.<market>.<lang>.<theme>[.<level>]` 形式）。
+- 已发布 pack 的 **packID 永远不随内容更新变化**。
+- entryID 必须 **content-independent**：禁止 term/reading/meaning 内容 hash 或任何随内容变化的自动生成；
+  推荐 `<packID>-e000001` 形式（六位零填充序号）。
+- 检查：`python3 scripts/check_release_policy.py`（entryID policy + 引用路径存在性）。
+
+## C. 更新现有 pack
+
+允许（同一 packID 内，packVersion +1）：
+
+- 原 index 的 entryID **保持不变**；
+- 原位置内容字段修正（term / reading / meaning / description / metadata）；
+- **尾部 append** 新词条（新 entryID 全包唯一）。
+
+**不允许**（属 destructive update）：
+
+- 中间 insert、delete、reorder、shorten、大规模结构重排、去重/清洗改变既有索引。
+
+发生上述破坏性变更 → **换新 packID 重新发布**（新包 = 新身份；旧包按第五章下线）。
+检查：`python3 scripts/check_update_contract.py`（v1→v2 合法更新与 destructive fixture 判定）。
+
+## D. Catalog
+
+- 由生成脚本更新 metadata / packVersion / language pair / title / description / attribution；
+  **不要手改 catalog.json 或 packs/**（见第一、二章与第九章）。
+- catalog 中只允许通过 production policy 的 pack（第二十二章）。
+
+## E. 发布前验证（必须 0 errors）
+
+```bash
+python3 scripts/build_catalog.py        # 生成
+python3 scripts/build_catalog.py --check
+python3 scripts/validate_release.py     # 结构/内容校验（含生成一致性）
+python3 scripts/check_release_policy.py
+python3 scripts/check_update_contract.py
+```
+
+或直接 `./scripts/publish.sh`（构建→校验→零 diff；`--check` 只检查）。
+**任何一步非 0 errors → 不允许 push production catalog。**
+
+## F. 发布
+
+1. `./scripts/publish.sh --push`（或按第三章流程 commit + push）；
+2. 等待 GitHub Actions 成功（validate-word-packs）、本地 `git pull --ff-only`；
+3. 确认 GitHub raw catalog / packs 可访问（`catalog.json` 与对应 `packs/*.json`）；
+4. 必要时打开 App 刷新在线词库，确认 NEW / UPDATE 正常出现；
+5. **单纯新增 / 更新合法 pack 不需要重新发布 iOS App**。
+
+## G. 删除 / 下线
+
+- **从 catalog 下线**：按第五章删除 source → Actions 自动移除 descriptor（raw URL 404、App 刷新后不再显示）；
+- **repo 内保留历史**：不自动 rewrite git history；旧 pack 文件历史仍可在 commit 历史中追溯；
+- **许可风险紧急撤下**：优先"删 source + push + 确认 raw 404"（分钟级生效）；
+  若法律要求从历史中清除内容，属**单独高风险操作**（history purge），另行评估与授权后执行，不在此流程内自动进行。
+
+## H. 什么时候才需要改 iWatchWord App 仓库
+
+仅当以下**契约**变化时才进入 App 仓库：
+
+- pack schema / catalog schema 改变；
+- update compatibility contract 改变（如 entryID / 顺序稳定性语义）；
+- 客户端 UI / 下载行为需要随之调整；
+- 新增字段需要 App 理解（如新的 presentation / 类型语义）。
+
+普通维护——**新增词库 / 修改词条 / bump packVersion / 修补 attribution——全部只在 words 仓库完成。**
+
+## I. 当前观察项（TODO，记录在案）
+
+> Commercial v1 当前 zh→ja / ja↔zh 可下载生产内容较少，现有主要为 IT Workplace；
+> 上线前/后续考虑增加一个更通用的中日基础词库（届时按本流程 A–F 执行）。
+> 本条目仅为记录：未创建新词库、未删除 IT Workplace。
