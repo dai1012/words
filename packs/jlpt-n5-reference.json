@@ -1,0 +1,4330 @@
+{
+  "entries": [
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000001",
+      "meaning": "啊；哦",
+      "reading": "ああ",
+      "term": "ああ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000002",
+      "meaning": "见面；会面",
+      "reading": "あう",
+      "term": "会う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000003",
+      "meaning": "蓝色；青色",
+      "reading": "あお",
+      "term": "青"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000004",
+      "meaning": "蓝色的；青色的",
+      "reading": "あおい",
+      "term": "青い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000005",
+      "meaning": "红色",
+      "reading": "あか",
+      "term": "赤"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000006",
+      "meaning": "红色的",
+      "reading": "あかい",
+      "term": "赤い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000007",
+      "meaning": "明亮的；开朗的；晴朗的",
+      "reading": "あかるい",
+      "term": "明るい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000008",
+      "meaning": "秋天",
+      "reading": "あき",
+      "term": "秋"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000009",
+      "meaning": "开；打开；敞开（自动词）",
+      "reading": "あく",
+      "term": "開く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000010",
+      "meaning": "打开；开启（他动词）",
+      "reading": "あける",
+      "term": "開ける"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000011",
+      "meaning": "举起；提高",
+      "reading": "あげる",
+      "term": "上げる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000012",
+      "meaning": "早晨；上午",
+      "reading": "あさ",
+      "term": "朝"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000013",
+      "meaning": "早饭；早餐",
+      "reading": "あさごはん",
+      "term": "朝御飯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000014",
+      "meaning": "后天",
+      "reading": "あさって",
+      "term": "明後日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000015",
+      "meaning": "脚；腿",
+      "reading": "あし",
+      "term": "足; 脚"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000016",
+      "meaning": "明天",
+      "reading": "あした",
+      "term": "明日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000017",
+      "meaning": "那里；那边",
+      "reading": "あそこ",
+      "term": "あそこ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000018",
+      "meaning": "玩耍；游玩；消遣",
+      "reading": "あそぶ",
+      "term": "遊ぶ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000019",
+      "meaning": "温暖的；暖和的",
+      "reading": "あたたかい",
+      "term": "暖かい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000020",
+      "meaning": "头；头部",
+      "reading": "あたま",
+      "term": "頭"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000021",
+      "meaning": "新的",
+      "reading": "あたらしい",
+      "term": "新しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000022",
+      "meaning": "那边；那位（礼貌说法）",
+      "reading": "あちら",
+      "term": "あちら"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000023",
+      "meaning": "热的；炎热的（天气）",
+      "reading": "あつい",
+      "term": "暑い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000024",
+      "meaning": "烫的；热的（物体）",
+      "reading": "あつい",
+      "term": "熱い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000025",
+      "meaning": "厚的；深厚的",
+      "reading": "あつい",
+      "term": "厚い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000026",
+      "meaning": "那边；那里",
+      "reading": "あっち",
+      "term": "あっち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000027",
+      "meaning": "之后；以后；剩余",
+      "reading": "あと",
+      "term": "後"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000028",
+      "meaning": "你；您",
+      "reading": "あなた",
+      "term": "あなた"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000029",
+      "meaning": "哥哥（对外谦称自己的哥哥）",
+      "reading": "あに",
+      "term": "兄"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000030",
+      "meaning": "姐姐（对外谦称自己的姐姐）",
+      "reading": "あね",
+      "term": "姉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000031",
+      "meaning": "公寓；出租公寓",
+      "reading": "アパート",
+      "term": "アパート"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000032",
+      "meaning": "那个；嗯……",
+      "reading": "あの",
+      "term": "あの"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000033",
+      "meaning": "淋浴；沐浴",
+      "reading": "あびる",
+      "term": "浴びる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000034",
+      "meaning": "危险的；危急的",
+      "reading": "あぶない",
+      "term": "危ない"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000035",
+      "meaning": "甜的；宽松的；天真的",
+      "reading": "あまい",
+      "term": "甘い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000036",
+      "meaning": "不太……（接否定）；剩余",
+      "reading": "あまり",
+      "term": "余り"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000037",
+      "meaning": "雨",
+      "reading": "あめ",
+      "term": "雨"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000038",
+      "meaning": "糖果；硬糖",
+      "reading": "あめ",
+      "term": "飴"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000039",
+      "meaning": "洗；清洗",
+      "reading": "あらう",
+      "term": "洗う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000040",
+      "meaning": "在；存在（无生命物）",
+      "reading": "ある",
+      "term": "在る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000041",
+      "meaning": "有；拥有",
+      "reading": "ある",
+      "term": "有る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000042",
+      "meaning": "走路；步行",
+      "reading": "あるく",
+      "term": "歩く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000043",
+      "meaning": "那个；那件",
+      "reading": "あれ",
+      "term": "あれ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000044",
+      "meaning": "好的；不错的",
+      "reading": "いい; よい",
+      "term": "いい; よい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000045",
+      "meaning": "不；不是",
+      "reading": "いいえ",
+      "term": "いいえ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000046",
+      "meaning": "说；讲",
+      "reading": "いう",
+      "term": "言う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000047",
+      "meaning": "家；房子",
+      "reading": "いえ",
+      "term": "家"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000048",
+      "meaning": "如何；怎么样（礼貌说法）",
+      "reading": "いかが",
+      "term": "いかが"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000049",
+      "meaning": "去；前往",
+      "reading": "いく; ゆく",
+      "term": "行く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000050",
+      "meaning": "几个；多少岁",
+      "reading": "いくつ",
+      "term": "いくつ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000051",
+      "meaning": "多少钱；多少",
+      "reading": "いくら",
+      "term": "いくら"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000052",
+      "meaning": "池塘",
+      "reading": "いけ",
+      "term": "池"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000053",
+      "meaning": "医生",
+      "reading": "いしゃ",
+      "term": "医者"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000054",
+      "meaning": "椅子",
+      "reading": "いす",
+      "term": "椅子"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000055",
+      "meaning": "忙的",
+      "reading": "いそがしい",
+      "term": "忙しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000056",
+      "meaning": "疼的；痛的",
+      "reading": "いたい",
+      "term": "痛い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000057",
+      "meaning": "一",
+      "reading": "いち",
+      "term": "一"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000058",
+      "meaning": "一天（时长）",
+      "reading": "いちにち",
+      "term": "一日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000059",
+      "meaning": "最；第一；第一名",
+      "reading": "いちばん",
+      "term": "一番"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000060",
+      "meaning": "什么时候",
+      "reading": "いつ",
+      "term": "いつ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000061",
+      "meaning": "五天；五号",
+      "reading": "いつか",
+      "term": "五日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000062",
+      "meaning": "一起；一同",
+      "reading": "いっしょ",
+      "term": "一緒"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000063",
+      "meaning": "五个",
+      "reading": "いつつ",
+      "term": "五つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000064",
+      "meaning": "总是；经常；每次；从不（接否定）",
+      "reading": "いつも",
+      "term": "いつも"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000065",
+      "meaning": "狗",
+      "reading": "いぬ",
+      "term": "犬"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000066",
+      "meaning": "现在",
+      "reading": "いま",
+      "term": "今"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000067",
+      "meaning": "意思；含义",
+      "reading": "いみ",
+      "term": "意味"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000068",
+      "meaning": "妹妹（对外谦称自己的妹妹）",
+      "reading": "いもうと",
+      "term": "妹"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000069",
+      "meaning": "讨厌的；不愿意的",
+      "reading": "いや",
+      "term": "嫌"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000070",
+      "meaning": "入口",
+      "reading": "いりぐち",
+      "term": "入口"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000071",
+      "meaning": "在；存在（有生命物，谦逊表达）",
+      "reading": "いる",
+      "term": "居る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000072",
+      "meaning": "需要；必要",
+      "reading": "いる",
+      "term": "要る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000073",
+      "meaning": "放入；装入",
+      "reading": "いれる",
+      "term": "入れる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000074",
+      "meaning": "颜色",
+      "reading": "いろ",
+      "term": "色"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000075",
+      "meaning": "各种各样",
+      "reading": "いろいろ",
+      "term": "色々"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000076",
+      "meaning": "上面；上方；之上",
+      "reading": "うえ",
+      "term": "上"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000077",
+      "meaning": "后面；背后",
+      "reading": "うしろ",
+      "term": "後ろ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000078",
+      "meaning": "薄的；淡的；弱的",
+      "reading": "うすい",
+      "term": "薄い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000079",
+      "meaning": "歌；歌曲",
+      "reading": "うた",
+      "term": "歌"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000080",
+      "meaning": "唱；歌唱",
+      "reading": "うたう",
+      "term": "歌う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000081",
+      "meaning": "家；家里；我家",
+      "reading": "うち",
+      "term": "うち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000082",
+      "meaning": "出生",
+      "reading": "うまれる",
+      "term": "生まれる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000083",
+      "meaning": "海；海边",
+      "reading": "うみ",
+      "term": "海"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000084",
+      "meaning": "卖；出售（他动词）",
+      "reading": "うる",
+      "term": "売る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000085",
+      "meaning": "吵闹的；烦人的",
+      "reading": "うるさい",
+      "term": "うるさい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000086",
+      "meaning": "上衣；外套",
+      "reading": "うわぎ",
+      "term": "上着"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000087",
+      "meaning": "画；图画；图片",
+      "reading": "え",
+      "term": "絵"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000088",
+      "meaning": "电影",
+      "reading": "えいが",
+      "term": "映画"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000089",
+      "meaning": "电影院",
+      "reading": "えいがかん",
+      "term": "映画館"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000090",
+      "meaning": "英语",
+      "reading": "えいご",
+      "term": "英語"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000091",
+      "meaning": "是；对",
+      "reading": "ええ",
+      "term": "ええ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000092",
+      "meaning": "车站",
+      "reading": "えき",
+      "term": "駅"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000093",
+      "meaning": "电梯",
+      "reading": "エレベーター",
+      "term": "エレベーター"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000094",
+      "meaning": "～日元",
+      "reading": "～えん",
+      "term": "～円"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000095",
+      "meaning": "铅笔",
+      "reading": "えんぴつ",
+      "term": "鉛筆"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000096",
+      "meaning": "敬语接头词“御～”",
+      "reading": "お～",
+      "term": "お～"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000097",
+      "meaning": "好吃的；美味的",
+      "reading": "おいしい",
+      "term": "美味しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000098",
+      "meaning": "多的；有很多",
+      "reading": "おおい",
+      "term": "多い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000099",
+      "meaning": "大的",
+      "reading": "おおきい",
+      "term": "大きい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000100",
+      "meaning": "大的（连体词）",
+      "reading": "おおきな",
+      "term": "大きな"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000101",
+      "meaning": "许多人",
+      "reading": "おおぜい",
+      "term": "大勢"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000102",
+      "meaning": "母亲；妈妈（敬称）",
+      "reading": "おかあさん",
+      "term": "お母さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000103",
+      "meaning": "点心；糖果；零食",
+      "reading": "おかし",
+      "term": "お菓子"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000104",
+      "meaning": "钱；金钱",
+      "reading": "おかね",
+      "term": "お金"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000105",
+      "meaning": "起床；发生",
+      "reading": "おきる",
+      "term": "起きる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000106",
+      "meaning": "放置；搁置",
+      "reading": "おく",
+      "term": "置く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000107",
+      "meaning": "夫人；太太（称他人妻子的敬语）",
+      "reading": "おくさん",
+      "term": "奥さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000108",
+      "meaning": "日本酒；酒",
+      "reading": "おさけ",
+      "term": "お酒"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000109",
+      "meaning": "盘子；碟子",
+      "reading": "おさら",
+      "term": "お皿"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000110",
+      "meaning": "伯父；叔父；中年男子",
+      "reading": "おじさん",
+      "term": "伯父; 叔父さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000111",
+      "meaning": "祖父；爷爷；老年男子",
+      "reading": "おじいさん",
+      "term": "おじいさん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000112",
+      "meaning": "教；告诉；指导",
+      "reading": "おしえる",
+      "term": "教える"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000113",
+      "meaning": "推；按；盖章",
+      "reading": "おす",
+      "term": "押す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000114",
+      "meaning": "慢的；迟的；晚的",
+      "reading": "おそい",
+      "term": "遅い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000115",
+      "meaning": "茶；绿茶",
+      "reading": "おちゃ",
+      "term": "お茶"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000116",
+      "meaning": "洗手间；厕所",
+      "reading": "おてあらい",
+      "term": "お手洗い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000117",
+      "meaning": "父亲；爸爸（敬称）",
+      "reading": "おとうさん",
+      "term": "お父さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000118",
+      "meaning": "弟弟",
+      "reading": "おとうと",
+      "term": "弟"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000119",
+      "meaning": "男人；男性",
+      "reading": "おとこ",
+      "term": "男"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000120",
+      "meaning": "男孩",
+      "reading": "おとこのこ",
+      "term": "男の子"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000121",
+      "meaning": "前天",
+      "reading": "おととい",
+      "term": "一昨日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000122",
+      "meaning": "前年",
+      "reading": "おととし",
+      "term": "おととし"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000123",
+      "meaning": "成年人；大人",
+      "reading": "おとな",
+      "term": "大人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000124",
+      "meaning": "肚子；腹部",
+      "reading": "おなか",
+      "term": "お腹"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000125",
+      "meaning": "相同的；一样的",
+      "reading": "おなじ",
+      "term": "同じ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000126",
+      "meaning": "哥哥（称他人哥哥的敬语）",
+      "reading": "おにいさん",
+      "term": "お兄さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000127",
+      "meaning": "姐姐（敬称）",
+      "reading": "おねえさん",
+      "term": "お姉さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000128",
+      "meaning": "伯母；婶母；阿姨",
+      "reading": "おばさん",
+      "term": "伯母さん; 叔母さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000129",
+      "meaning": "祖母；奶奶；老年女性",
+      "reading": "おばあさん",
+      "term": "おばあさん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000130",
+      "meaning": "洗澡；浴室；浴缸",
+      "reading": "おふろ",
+      "term": "お風呂"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000131",
+      "meaning": "盒饭；便当",
+      "reading": "おべんとう",
+      "term": "お弁当"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000132",
+      "meaning": "记住；学会；背诵",
+      "reading": "おぼえる",
+      "term": "覚える"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000133",
+      "meaning": "警察（亲切称呼）",
+      "reading": "おまわりさん",
+      "term": "おまわりさん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000134",
+      "meaning": "重的；严重的",
+      "reading": "おもい",
+      "term": "重い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000135",
+      "meaning": "有趣的；好笑的",
+      "reading": "おもしろい",
+      "term": "面白い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000136",
+      "meaning": "游泳",
+      "reading": "およぐ",
+      "term": "泳ぐ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000137",
+      "meaning": "下车；下来",
+      "reading": "おりる",
+      "term": "降りる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000138",
+      "meaning": "结束；完毕（自动词）",
+      "reading": "おわる",
+      "term": "終る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000139",
+      "meaning": "音乐",
+      "reading": "おんがく",
+      "term": "音楽"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000140",
+      "meaning": "女人；女性",
+      "reading": "おんな",
+      "term": "女"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000141",
+      "meaning": "女孩",
+      "reading": "おんなのこ",
+      "term": "女の子"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000142",
+      "meaning": "～次（次数助数词）",
+      "reading": "～かい",
+      "term": "～回"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000143",
+      "meaning": "～层；～楼（楼层助数词）",
+      "reading": "～かい",
+      "term": "～階"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000144",
+      "meaning": "外国；国外",
+      "reading": "がいこく",
+      "term": "外国"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000145",
+      "meaning": "外国人",
+      "reading": "がいこくじん",
+      "term": "外国人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000146",
+      "meaning": "公司",
+      "reading": "かいしゃ",
+      "term": "会社"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000147",
+      "meaning": "楼梯",
+      "reading": "かいだん",
+      "term": "階段"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000148",
+      "meaning": "购物；买东西",
+      "reading": "かいもの",
+      "term": "買い物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000149",
+      "meaning": "买；购买",
+      "reading": "かう",
+      "term": "買う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000150",
+      "meaning": "归还；退还（他动词）",
+      "reading": "かえす",
+      "term": "返す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000151",
+      "meaning": "回去；回家；返回（自动词）",
+      "reading": "かえる",
+      "term": "帰る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000152",
+      "meaning": "脸；面部",
+      "reading": "かお",
+      "term": "顔"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000153",
+      "meaning": "花费；需要（时间或金钱，自动词）",
+      "reading": "かかる",
+      "term": "かかる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000154",
+      "meaning": "钥匙；锁",
+      "reading": "かぎ",
+      "term": "鍵"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000155",
+      "meaning": "写；书写",
+      "reading": "かく",
+      "term": "書く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000156",
+      "meaning": "学生（多指大学生）",
+      "reading": "がくせい",
+      "term": "学生"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000157",
+      "meaning": "～个月",
+      "reading": "～かげつ",
+      "term": "～か月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000158",
+      "meaning": "戴上（眼镜等）；悬挂",
+      "reading": "かける",
+      "term": "掛ける"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000159",
+      "meaning": "打电话；坐下",
+      "reading": "かける",
+      "term": "かける"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000160",
+      "meaning": "伞；阳伞",
+      "reading": "かさ",
+      "term": "傘"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000161",
+      "meaning": "借给；出租",
+      "reading": "かす",
+      "term": "貸す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000162",
+      "meaning": "风",
+      "reading": "かぜ",
+      "term": "風"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000163",
+      "meaning": "感冒",
+      "reading": "かぜ",
+      "term": "風邪"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000164",
+      "meaning": "位；人（“人”的敬语）；方法",
+      "reading": "かた",
+      "term": "方"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000165",
+      "meaning": "家人；家庭",
+      "reading": "かぞく",
+      "term": "家族"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000166",
+      "meaning": "片假名",
+      "reading": "かたかな",
+      "term": "片仮名"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000167",
+      "meaning": "～月（月份）",
+      "reading": "～がつ",
+      "term": "～月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000168",
+      "meaning": "学校",
+      "reading": "がっこう",
+      "term": "学校"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000169",
+      "meaning": "杯子",
+      "reading": "カップ",
+      "term": "カップ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000170",
+      "meaning": "家庭；家",
+      "reading": "かてい",
+      "term": "家庭"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000171",
+      "meaning": "角；拐角",
+      "reading": "かど",
+      "term": "角"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000172",
+      "meaning": "包；提包",
+      "reading": "かばん",
+      "term": "かばん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000173",
+      "meaning": "花瓶",
+      "reading": "かびん",
+      "term": "花瓶"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000174",
+      "meaning": "戴上（帽子等）",
+      "reading": "かぶる",
+      "term": "かぶる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000175",
+      "meaning": "纸",
+      "reading": "かみ",
+      "term": "紙"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000176",
+      "meaning": "照相机",
+      "reading": "カメラ",
+      "term": "カメラ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000177",
+      "meaning": "星期二",
+      "reading": "かようび",
+      "term": "火曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000178",
+      "meaning": "辣的；咸的",
+      "reading": "からい",
+      "term": "辛い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000179",
+      "meaning": "身体；健康状况",
+      "reading": "からだ",
+      "term": "体"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000180",
+      "meaning": "借入；借用",
+      "reading": "かりる",
+      "term": "借りる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000181",
+      "meaning": "表示他人显露某种感受的后缀“～がる”",
+      "reading": "～がる",
+      "term": "～がる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000182",
+      "meaning": "轻的；轻微的",
+      "reading": "かるい",
+      "term": "軽い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000183",
+      "meaning": "咖喱饭",
+      "reading": "カレー",
+      "term": "カレー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000184",
+      "meaning": "日历",
+      "reading": "カレンダー",
+      "term": "カレンダー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000185",
+      "meaning": "河；河流",
+      "reading": "かわ",
+      "term": "川; 河"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000186",
+      "meaning": "～侧；～一边",
+      "reading": "～がわ",
+      "term": "～側"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000187",
+      "meaning": "可爱的",
+      "reading": "かわいい",
+      "term": "可愛い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000188",
+      "meaning": "汉字",
+      "reading": "かんじ",
+      "term": "漢字"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000189",
+      "meaning": "树；木材",
+      "reading": "き",
+      "term": "木"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000190",
+      "meaning": "黄色",
+      "reading": "きいろ",
+      "term": "黄色"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000191",
+      "meaning": "黄色的",
+      "reading": "きいろい",
+      "term": "黄色い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000192",
+      "meaning": "消失；熄灭（自动词）",
+      "reading": "きえる",
+      "term": "消える"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000193",
+      "meaning": "听；询问",
+      "reading": "きく",
+      "term": "聞く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000194",
+      "meaning": "北；北方",
+      "reading": "きた",
+      "term": "北"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000195",
+      "meaning": "吉他",
+      "reading": "ギター",
+      "term": "ギター"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000196",
+      "meaning": "脏的；肮脏的",
+      "reading": "きたない",
+      "term": "汚い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000197",
+      "meaning": "咖啡馆；茶馆",
+      "reading": "きっさてん",
+      "term": "喫茶店"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000198",
+      "meaning": "邮票",
+      "reading": "きって",
+      "term": "切手"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000199",
+      "meaning": "票；车票",
+      "reading": "きっぷ",
+      "term": "切符"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000200",
+      "meaning": "昨天",
+      "reading": "きのう",
+      "term": "昨日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000201",
+      "meaning": "九",
+      "reading": "きゅう",
+      "term": "九"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000202",
+      "meaning": "牛肉",
+      "reading": "ぎゅうにく",
+      "term": "牛肉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000203",
+      "meaning": "牛奶",
+      "reading": "ぎゅうにゅう",
+      "term": "牛乳"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000204",
+      "meaning": "今天",
+      "reading": "きょう",
+      "term": "今日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000205",
+      "meaning": "教室",
+      "reading": "きょうしつ",
+      "term": "教室"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000206",
+      "meaning": "兄弟姐妹（对外谦称自己的兄弟姐妹）",
+      "reading": "きょうだい",
+      "term": "兄弟"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000207",
+      "meaning": "去年",
+      "reading": "きょねん",
+      "term": "去年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000208",
+      "meaning": "讨厌；不喜欢",
+      "reading": "きらい",
+      "term": "嫌い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000209",
+      "meaning": "切；剪；挂断电话（他动词）",
+      "reading": "きる",
+      "term": "切る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000210",
+      "meaning": "穿；穿上（上半身衣物）",
+      "reading": "きる",
+      "term": "着る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000211",
+      "meaning": "漂亮的；干净的；整洁的",
+      "reading": "きれい",
+      "term": "綺麗"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000212",
+      "meaning": "千克；公斤（缩写）",
+      "reading": "キロ; キログラム",
+      "term": "キロ; キログラム"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000213",
+      "meaning": "千米；公里（缩写）",
+      "reading": "キロ; キロメートル",
+      "term": "キロ; キロメートル"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000214",
+      "meaning": "银行",
+      "reading": "ぎんこう",
+      "term": "銀行"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000215",
+      "meaning": "星期五",
+      "reading": "きんようび",
+      "term": "金曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000216",
+      "meaning": "九",
+      "reading": "く",
+      "term": "九"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000217",
+      "meaning": "药；药品",
+      "reading": "くすり",
+      "term": "薬"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000218",
+      "meaning": "请……（接动词て形的请求表达）",
+      "reading": "ください",
+      "term": "下さい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000219",
+      "meaning": "水果",
+      "reading": "くだもの",
+      "term": "果物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000220",
+      "meaning": "嘴；口；空缺职位",
+      "reading": "くち",
+      "term": "口"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000221",
+      "meaning": "鞋",
+      "reading": "くつ",
+      "term": "靴"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000222",
+      "meaning": "袜子",
+      "reading": "くつした",
+      "term": "靴下"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000223",
+      "meaning": "国家；故乡",
+      "reading": "くに",
+      "term": "国"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000224",
+      "meaning": "阴天；多云",
+      "reading": "くもり",
+      "term": "曇り"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000225",
+      "meaning": "变阴；变暗（自动词）",
+      "reading": "くもる",
+      "term": "曇る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000226",
+      "meaning": "暗的；阴沉的",
+      "reading": "くらい",
+      "term": "暗い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000227",
+      "meaning": "大约；左右（数量）",
+      "reading": "～くらい; ぐらい",
+      "term": "～くらい; ぐらい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000228",
+      "meaning": "班级；课程",
+      "reading": "クラス",
+      "term": "クラス"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000229",
+      "meaning": "克",
+      "reading": "グラム",
+      "term": "グラム"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000230",
+      "meaning": "来",
+      "reading": "くる",
+      "term": "来る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000231",
+      "meaning": "车；汽车",
+      "reading": "くるま",
+      "term": "車"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000232",
+      "meaning": "黑色",
+      "reading": "くろ",
+      "term": "黒"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000233",
+      "meaning": "黑色的；暗的",
+      "reading": "くろい",
+      "term": "黒い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000234",
+      "meaning": "警察；警官",
+      "reading": "けいかん",
+      "term": "警官"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000235",
+      "meaning": "今天早晨",
+      "reading": "けさ",
+      "term": "今朝"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000236",
+      "meaning": "擦除；关掉（他动词）",
+      "reading": "けす",
+      "term": "消す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000237",
+      "meaning": "很好；足够；不用了",
+      "reading": "けっこう",
+      "term": "結構"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000238",
+      "meaning": "结婚",
+      "reading": "けっこん (する)",
+      "term": "結婚"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000239",
+      "meaning": "星期一",
+      "reading": "げつようび",
+      "term": "月曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000240",
+      "meaning": "玄关；门厅",
+      "reading": "げんかん",
+      "term": "玄関"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000241",
+      "meaning": "健康的；有精神的",
+      "reading": "げんき",
+      "term": "元気"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000242",
+      "meaning": "～个（小件物品助数词）",
+      "reading": "～こ",
+      "term": "～個"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000243",
+      "meaning": "五",
+      "reading": "ご",
+      "term": "五"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000244",
+      "meaning": "～语；语言",
+      "reading": "～ご",
+      "term": "～語"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000245",
+      "meaning": "公园",
+      "reading": "こうえん",
+      "term": "公園"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000246",
+      "meaning": "十字路口；交叉路口",
+      "reading": "こうさてん",
+      "term": "交差点"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000247",
+      "meaning": "红茶",
+      "reading": "こうちゃ",
+      "term": "紅茶"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000248",
+      "meaning": "派出所",
+      "reading": "こうばん",
+      "term": "交番"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000249",
+      "meaning": "声音；嗓音",
+      "reading": "こえ",
+      "term": "声"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000250",
+      "meaning": "外套；球场",
+      "reading": "コート",
+      "term": "コート"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000251",
+      "meaning": "咖啡",
+      "reading": "コーヒー",
+      "term": "コーヒー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000252",
+      "meaning": "这里",
+      "reading": "ここ",
+      "term": "ここ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000253",
+      "meaning": "下午",
+      "reading": "ごご",
+      "term": "午後"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000254",
+      "meaning": "九天；九号",
+      "reading": "ここのか",
+      "term": "九日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000255",
+      "meaning": "九个",
+      "reading": "ここのつ",
+      "term": "九つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000256",
+      "meaning": "上午",
+      "reading": "ごぜん",
+      "term": "午前"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000257",
+      "meaning": "回答；答复",
+      "reading": "こたえる",
+      "term": "答える"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000258",
+      "meaning": "这位；这边（礼貌说法）",
+      "reading": "こちら",
+      "term": "こちら"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000259",
+      "meaning": "这边；这个人；这个方向",
+      "reading": "こっち",
+      "term": "こっち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000260",
+      "meaning": "玻璃杯",
+      "reading": "コップ",
+      "term": "コップ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000261",
+      "meaning": "今年",
+      "reading": "ことし",
+      "term": "今年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000262",
+      "meaning": "词语；语言；表达",
+      "reading": "ことば",
+      "term": "言葉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000263",
+      "meaning": "孩子；儿童",
+      "reading": "こども",
+      "term": "子供"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000264",
+      "meaning": "这个（连体词）",
+      "reading": "この",
+      "term": "この"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000265",
+      "meaning": "米饭；饭；餐",
+      "reading": "ごはん",
+      "term": "御飯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000266",
+      "meaning": "复制；复印",
+      "reading": "コピーする",
+      "term": "コピーする"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000267",
+      "meaning": "为难；困扰",
+      "reading": "こまる",
+      "term": "困る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000268",
+      "meaning": "这个；这件",
+      "reading": "これ",
+      "term": "これ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000269",
+      "meaning": "大约；左右（时间）",
+      "reading": "～ころ; ～ごろ",
+      "term": "～ころ; ～ごろ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000270",
+      "meaning": "这个月",
+      "reading": "こんげつ",
+      "term": "今月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000271",
+      "meaning": "这周；本周",
+      "reading": "こんしゅう",
+      "term": "今週"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000272",
+      "meaning": "这样的",
+      "reading": "こんな",
+      "term": "こんな"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000273",
+      "meaning": "今晚；今天晚上",
+      "reading": "こんばん",
+      "term": "今晩"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000274",
+      "meaning": "来吧；那么；嗯",
+      "reading": "さあ",
+      "term": "さあ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000275",
+      "meaning": "～岁（年龄助数词）",
+      "reading": "～さい",
+      "term": "～歳"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000276",
+      "meaning": "钱包",
+      "reading": "さいふ",
+      "term": "財布"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000277",
+      "meaning": "鱼",
+      "reading": "さかな",
+      "term": "魚"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000278",
+      "meaning": "前方；先；未来",
+      "reading": "さき",
+      "term": "先"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000279",
+      "meaning": "开花",
+      "reading": "さく",
+      "term": "咲く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000280",
+      "meaning": "作文；文章",
+      "reading": "さくぶん",
+      "term": "作文"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000281",
+      "meaning": "撑（伞）；伸出；举起",
+      "reading": "さす",
+      "term": "差す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000282",
+      "meaning": "～册（书本助数词）",
+      "reading": "～さつ",
+      "term": "～冊"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000283",
+      "meaning": "杂志；期刊",
+      "reading": "ざっし",
+      "term": "雑誌"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000284",
+      "meaning": "糖；砂糖",
+      "reading": "さとう",
+      "term": "砂糖"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000285",
+      "meaning": "冷的；寒冷的（天气）",
+      "reading": "さむい",
+      "term": "寒い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000286",
+      "meaning": "后年",
+      "reading": "さらいねん",
+      "term": "さ来年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000287",
+      "meaning": "～先生；～女士（称谓敬称）",
+      "reading": "～さん",
+      "term": "～さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000288",
+      "meaning": "三",
+      "reading": "さん",
+      "term": "三"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000289",
+      "meaning": "散步",
+      "reading": "さんぽ (する)",
+      "term": "散歩"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000290",
+      "meaning": "四",
+      "reading": "し",
+      "term": "四"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000291",
+      "meaning": "～点（时刻）",
+      "reading": "～じ",
+      "term": "～時"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000292",
+      "meaning": "盐",
+      "reading": "しお",
+      "term": "塩"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000293",
+      "meaning": "但是；然而",
+      "reading": "しかし",
+      "term": "しかし"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000294",
+      "meaning": "时间",
+      "reading": "じかん",
+      "term": "時間"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000295",
+      "meaning": "～小时",
+      "reading": "～じかん",
+      "term": "～時間"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000296",
+      "meaning": "工作；职业",
+      "reading": "しごと",
+      "term": "仕事"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000297",
+      "meaning": "词典；字典",
+      "reading": "じしょ",
+      "term": "辞書"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000298",
+      "meaning": "安静的；平静的",
+      "reading": "しずか",
+      "term": "静か"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000299",
+      "meaning": "下面；下方",
+      "reading": "した",
+      "term": "下"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000300",
+      "meaning": "七",
+      "reading": "しち",
+      "term": "七"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000301",
+      "meaning": "问题；提问",
+      "reading": "しつもん",
+      "term": "質問"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000302",
+      "meaning": "自行车",
+      "reading": "じてんしゃ",
+      "term": "自転車"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000303",
+      "meaning": "汽车",
+      "reading": "じどうしゃ",
+      "term": "自動車"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000304",
+      "meaning": "死；死亡",
+      "reading": "しぬ",
+      "term": "死ぬ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000305",
+      "meaning": "词典；字典",
+      "reading": "じびき",
+      "term": "字引"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000306",
+      "meaning": "自己；自身",
+      "reading": "じぶん",
+      "term": "自分"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000307",
+      "meaning": "关上；关闭（自动词）",
+      "reading": "しまる",
+      "term": "閉まる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000308",
+      "meaning": "关闭；关上（他动词）",
+      "reading": "しめる",
+      "term": "閉める"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000309",
+      "meaning": "系紧；扎紧；勒紧（他动词）",
+      "reading": "しめる",
+      "term": "締める"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000310",
+      "meaning": "那么；那就",
+      "reading": "じゃ; じゃあ",
+      "term": "じゃ; じゃあ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000311",
+      "meaning": "照片；图片",
+      "reading": "しゃしん",
+      "term": "写真"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000312",
+      "meaning": "衬衫",
+      "reading": "シャツ",
+      "term": "シャツ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000313",
+      "meaning": "淋浴",
+      "reading": "シャワー",
+      "term": "シャワー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000314",
+      "meaning": "十",
+      "reading": "じゅう",
+      "term": "十"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000315",
+      "meaning": "整个期间；到处",
+      "reading": "～じゅう",
+      "term": "～中"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000316",
+      "meaning": "～周（时长）",
+      "reading": "～しゅうかん",
+      "term": "～週間"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000317",
+      "meaning": "课程；上课",
+      "reading": "じゅぎょう",
+      "term": "授業"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000318",
+      "meaning": "作业",
+      "reading": "しゅくだい",
+      "term": "宿題"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000319",
+      "meaning": "擅长的；熟练的",
+      "reading": "じょうず",
+      "term": "上手"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000320",
+      "meaning": "结实的；坚固的；健康的",
+      "reading": "じょうぶ",
+      "term": "丈夫"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000321",
+      "meaning": "酱油",
+      "reading": "しょうゆ",
+      "term": "醤油"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000322",
+      "meaning": "食堂；餐厅",
+      "reading": "しょくどう",
+      "term": "食堂"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000323",
+      "meaning": "知道；认识",
+      "reading": "しる",
+      "term": "知る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000324",
+      "meaning": "白色",
+      "reading": "しろ",
+      "term": "白"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000325",
+      "meaning": "白色的",
+      "reading": "しろい",
+      "term": "白い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000326",
+      "meaning": "～人（国籍或职业等的接尾词）",
+      "reading": "～じん",
+      "term": "～人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000327",
+      "meaning": "报纸",
+      "reading": "しんぶん",
+      "term": "新聞"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000328",
+      "meaning": "星期三",
+      "reading": "すいようび",
+      "term": "水曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000329",
+      "meaning": "吸；抽（烟）",
+      "reading": "すう",
+      "term": "吸う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000330",
+      "meaning": "裙子",
+      "reading": "スカート",
+      "term": "スカート"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000331",
+      "meaning": "喜欢；喜爱",
+      "reading": "すき",
+      "term": "好き"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000332",
+      "meaning": "经过；超过；过度",
+      "reading": "～すぎ",
+      "term": "～すぎ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000333",
+      "meaning": "少的；不多的",
+      "reading": "すくない",
+      "term": "少ない"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000334",
+      "meaning": "马上；立刻",
+      "reading": "すぐに",
+      "term": "すぐに"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000335",
+      "meaning": "一点；少量",
+      "reading": "すこし",
+      "term": "少し"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000336",
+      "meaning": "凉爽的（天气）",
+      "reading": "すずしい",
+      "term": "涼しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000337",
+      "meaning": "每～；各～；逐一",
+      "reading": "～ずつ",
+      "term": "～ずつ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000338",
+      "meaning": "取暖炉；暖炉",
+      "reading": "ストーブ",
+      "term": "ストーブ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000339",
+      "meaning": "勺子",
+      "reading": "スプーン",
+      "term": "スプーン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000340",
+      "meaning": "运动；体育",
+      "reading": "スポーツ",
+      "term": "スポーツ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000341",
+      "meaning": "裤子",
+      "reading": "ズボン",
+      "term": "ズボン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000342",
+      "meaning": "居住；生活",
+      "reading": "すむ",
+      "term": "住む"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000343",
+      "meaning": "做；尝试；佩戴（领带、手表等小件物品）",
+      "reading": "する",
+      "term": "する"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000344",
+      "meaning": "坐；坐下",
+      "reading": "すわる",
+      "term": "座る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000345",
+      "meaning": "身高；个子",
+      "reading": "せい",
+      "term": "背"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000346",
+      "meaning": "学生；中小学生",
+      "reading": "せいと",
+      "term": "生徒"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000347",
+      "meaning": "毛衣",
+      "reading": "セーター",
+      "term": "セーター"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000348",
+      "meaning": "肥皂",
+      "reading": "せっけん",
+      "term": "石鹸"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000349",
+      "meaning": "男式西装",
+      "reading": "せびろ",
+      "term": "背広"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000350",
+      "meaning": "窄的；狭小的",
+      "reading": "せまい",
+      "term": "狭い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000351",
+      "meaning": "零",
+      "reading": "ゼロ",
+      "term": "ゼロ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000352",
+      "meaning": "一千",
+      "reading": "せん",
+      "term": "千"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000353",
+      "meaning": "上个月",
+      "reading": "せんげつ",
+      "term": "先月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000354",
+      "meaning": "上周",
+      "reading": "せんしゅう",
+      "term": "先週"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000355",
+      "meaning": "老师；教授；医生；先生",
+      "reading": "せんせい",
+      "term": "先生"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000356",
+      "meaning": "洗衣；洗涤",
+      "reading": "せんたく",
+      "term": "洗濯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000357",
+      "meaning": "全部；所有",
+      "reading": "ぜんぶ",
+      "term": "全部"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000358",
+      "meaning": "是的；似乎；是那样",
+      "reading": "そう; そうです",
+      "term": "そう; そうです"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000359",
+      "meaning": "打扫；清扫",
+      "reading": "そうじ (する)",
+      "term": "掃除"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000360",
+      "meaning": "然后；而且",
+      "reading": "そうして; そして",
+      "term": "そうして; そして"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000361",
+      "meaning": "那里；底部",
+      "reading": "そこ",
+      "term": "そこ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000362",
+      "meaning": "那边（礼貌说法）",
+      "reading": "そちら",
+      "term": "そちら"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000363",
+      "meaning": "那边",
+      "reading": "そっち",
+      "term": "そっち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000364",
+      "meaning": "外面；外部",
+      "reading": "そと",
+      "term": "外"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000365",
+      "meaning": "那个（连体词）",
+      "reading": "その",
+      "term": "その"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000366",
+      "meaning": "旁边；附近；荞麦面",
+      "reading": "そば",
+      "term": "そば"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000367",
+      "meaning": "天空",
+      "reading": "そら",
+      "term": "空"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000368",
+      "meaning": "那个；那件",
+      "reading": "それ",
+      "term": "それ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000369",
+      "meaning": "然后；此后",
+      "reading": "それから",
+      "term": "それから"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000370",
+      "meaning": "那么；既然如此",
+      "reading": "それでは",
+      "term": "それでは"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000371",
+      "meaning": "～台（车辆、机器助数词）",
+      "reading": "～だい",
+      "term": "～台"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000372",
+      "meaning": "大学",
+      "reading": "だいがく",
+      "term": "大学"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000373",
+      "meaning": "大使馆",
+      "reading": "たいしかん",
+      "term": "大使館"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000374",
+      "meaning": "没关系；不要紧；放心",
+      "reading": "だいじょうぶ",
+      "term": "大丈夫"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000375",
+      "meaning": "非常喜欢；最喜欢",
+      "reading": "だいすき",
+      "term": "大好き"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000376",
+      "meaning": "重要的；珍贵的",
+      "reading": "たいせつ",
+      "term": "大切"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000377",
+      "meaning": "厨房",
+      "reading": "だいどころ",
+      "term": "台所"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000378",
+      "meaning": "非常；辛苦的；严重的",
+      "reading": "たいへん",
+      "term": "大変"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000379",
+      "meaning": "高的；贵的",
+      "reading": "たかい",
+      "term": "高い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000380",
+      "meaning": "只有；仅仅",
+      "reading": "～だけ",
+      "term": "～だけ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000381",
+      "meaning": "很多；许多",
+      "reading": "たくさん",
+      "term": "沢山"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000382",
+      "meaning": "出租车",
+      "reading": "タクシー",
+      "term": "タクシー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000383",
+      "meaning": "拿出；提交（他动词）",
+      "reading": "だす",
+      "term": "出す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000384",
+      "meaning": "表示复数的接尾词“～们”",
+      "reading": "～たち",
+      "term": "～たち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000385",
+      "meaning": "站；站立",
+      "reading": "たつ",
+      "term": "立つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000386",
+      "meaning": "纵向；长度；高度",
+      "reading": "たて",
+      "term": "たて"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000387",
+      "meaning": "建筑物",
+      "reading": "たてもの",
+      "term": "建物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000388",
+      "meaning": "快乐的；有趣的",
+      "reading": "たのしい",
+      "term": "楽しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000389",
+      "meaning": "请求；拜托；点（餐）",
+      "reading": "たのむ",
+      "term": "頼む"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000390",
+      "meaning": "烟草；香烟",
+      "reading": "たばこ",
+      "term": "たばこ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000391",
+      "meaning": "大概；也许",
+      "reading": "たぶん",
+      "term": "多分"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000392",
+      "meaning": "食物",
+      "reading": "たべもの",
+      "term": "食べ物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000393",
+      "meaning": "吃",
+      "reading": "たべる",
+      "term": "食べる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000394",
+      "meaning": "鸡蛋",
+      "reading": "たまご",
+      "term": "卵"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000395",
+      "meaning": "谁",
+      "reading": "だれ",
+      "term": "誰"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000396",
+      "meaning": "某人；有人",
+      "reading": "だれか",
+      "term": "誰か"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000397",
+      "meaning": "生日",
+      "reading": "たんじょうび",
+      "term": "誕生日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000398",
+      "meaning": "渐渐；逐渐",
+      "reading": "だんだん",
+      "term": "段々"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000399",
+      "meaning": "小的",
+      "reading": "ちいさい",
+      "term": "小さい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000400",
+      "meaning": "小的（连体词）",
+      "reading": "ちいさな",
+      "term": "小さな"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000401",
+      "meaning": "近的；短的",
+      "reading": "ちかい",
+      "term": "近い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000402",
+      "meaning": "不同；不对",
+      "reading": "ちがう",
+      "term": "違う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000403",
+      "meaning": "附近；近处",
+      "reading": "ちかく",
+      "term": "近く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000404",
+      "meaning": "地铁",
+      "reading": "ちかてつ",
+      "term": "地下鉄"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000405",
+      "meaning": "地图",
+      "reading": "ちず",
+      "term": "地図"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000406",
+      "meaning": "父亲（对外谦称自己的父亲）",
+      "reading": "ちち",
+      "term": "父"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000407",
+      "meaning": "棕色",
+      "reading": "ちゃいろ",
+      "term": "茶色"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000408",
+      "meaning": "饭碗；茶碗",
+      "reading": "ちゃわん",
+      "term": "茶碗"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000409",
+      "meaning": "正在～；～期间",
+      "reading": "～ちゅう",
+      "term": "～中"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000410",
+      "meaning": "正好；恰好；准确地",
+      "reading": "ちょうど",
+      "term": "丁度"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000411",
+      "meaning": "一点；稍微；等一下",
+      "reading": "ちょっと",
+      "term": "ちょっと"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000412",
+      "meaning": "一天；一号",
+      "reading": "ついたち",
+      "term": "一日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000413",
+      "meaning": "使用",
+      "reading": "つかう",
+      "term": "使う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000414",
+      "meaning": "疲劳；累（自动词）",
+      "reading": "つかれる",
+      "term": "疲れる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000415",
+      "meaning": "下一个；其次",
+      "reading": "つぎ",
+      "term": "次"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000416",
+      "meaning": "到达（自动词）",
+      "reading": "つく",
+      "term": "着く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000417",
+      "meaning": "书桌",
+      "reading": "つくえ",
+      "term": "机"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000418",
+      "meaning": "制作；制造",
+      "reading": "つくる",
+      "term": "作る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000419",
+      "meaning": "打开（电器等）；安装；附上",
+      "reading": "つける",
+      "term": "つける"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000420",
+      "meaning": "任职；工作",
+      "reading": "つとめる",
+      "term": "勤める"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000421",
+      "meaning": "无聊的；无趣的；无价值的",
+      "reading": "つまらない",
+      "term": "つまらない"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000422",
+      "meaning": "冰冷的；冷淡的",
+      "reading": "つめたい",
+      "term": "冷たい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000423",
+      "meaning": "强的；强壮的",
+      "reading": "つよい",
+      "term": "強い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000424",
+      "meaning": "手",
+      "reading": "て",
+      "term": "手"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000425",
+      "meaning": "胶带；磁带",
+      "reading": "テープ",
+      "term": "テープ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000426",
+      "meaning": "磁带录音机",
+      "reading": "テープレコーダー",
+      "term": "テープレコーダー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000427",
+      "meaning": "桌子；餐桌",
+      "reading": "テーブル",
+      "term": "テーブル"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000428",
+      "meaning": "出门；外出",
+      "reading": "でかける",
+      "term": "出かける"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000429",
+      "meaning": "信；书信",
+      "reading": "てがみ",
+      "term": "手紙"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000430",
+      "meaning": "能够；会；完成",
+      "reading": "できる",
+      "term": "できる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000431",
+      "meaning": "出口",
+      "reading": "でぐち",
+      "term": "出口"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000432",
+      "meaning": "测验；测试",
+      "reading": "テスト",
+      "term": "テスト"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000433",
+      "meaning": "那么；既然这样",
+      "reading": "では",
+      "term": "では"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000434",
+      "meaning": "百货商店",
+      "reading": "デパート",
+      "term": "デパート"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000435",
+      "meaning": "但是；不过",
+      "reading": "でも",
+      "term": "でも"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000436",
+      "meaning": "出来；离开；出现",
+      "reading": "でる",
+      "term": "出る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000437",
+      "meaning": "电视",
+      "reading": "テレビ",
+      "term": "テレビ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000438",
+      "meaning": "天气",
+      "reading": "てんき",
+      "term": "天気"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000439",
+      "meaning": "电；电灯",
+      "reading": "でんき",
+      "term": "電気"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000440",
+      "meaning": "电车",
+      "reading": "でんしゃ",
+      "term": "電車"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000441",
+      "meaning": "电话",
+      "reading": "でんわ",
+      "term": "電話"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000442",
+      "meaning": "门；拉门（日式）",
+      "reading": "と",
+      "term": "戸"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000443",
+      "meaning": "～次；～度；～度数",
+      "reading": "～ど",
+      "term": "～度"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000444",
+      "meaning": "门（西式）",
+      "reading": "ドア",
+      "term": "ドア"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000445",
+      "meaning": "厕所；洗手间",
+      "reading": "トイレ",
+      "term": "トイレ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000446",
+      "meaning": "怎样；如何",
+      "reading": "どう",
+      "term": "どう"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000447",
+      "meaning": "为什么",
+      "reading": "どうして",
+      "term": "どうして"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000448",
+      "meaning": "请；请用；不客气",
+      "reading": "どうぞ",
+      "term": "どうぞ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000449",
+      "meaning": "动物",
+      "reading": "どうぶつ",
+      "term": "動物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000450",
+      "meaning": "谢谢；很；总觉得",
+      "reading": "どうも",
+      "term": "どうも"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000451",
+      "meaning": "十个",
+      "reading": "(〜を) とお",
+      "term": "十"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000452",
+      "meaning": "远的；遥远的",
+      "reading": "とおい",
+      "term": "遠い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000453",
+      "meaning": "十天；十号",
+      "reading": "とおか",
+      "term": "十日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000454",
+      "meaning": "～的时候",
+      "reading": "～とき",
+      "term": "～時"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000455",
+      "meaning": "有时；偶尔",
+      "reading": "ときどき",
+      "term": "時々"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000456",
+      "meaning": "钟；手表",
+      "reading": "とけい",
+      "term": "時計"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000457",
+      "meaning": "哪里",
+      "reading": "どこ",
+      "term": "どこ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000458",
+      "meaning": "地方；场所",
+      "reading": "ところ",
+      "term": "所"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000459",
+      "meaning": "年；年龄",
+      "reading": "とし",
+      "term": "年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000460",
+      "meaning": "图书馆",
+      "reading": "としょかん",
+      "term": "図書館"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000461",
+      "meaning": "哪一个；哪边；哪里（礼貌说法）",
+      "reading": "どちら",
+      "term": "どちら"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000462",
+      "meaning": "哪一个；哪边",
+      "reading": "どっち",
+      "term": "どっち"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000463",
+      "meaning": "非常；很",
+      "reading": "とても",
+      "term": "とても"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000464",
+      "meaning": "哪位；谁（敬语）",
+      "reading": "どなた",
+      "term": "どなた"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000465",
+      "meaning": "旁边；隔壁",
+      "reading": "となり",
+      "term": "隣"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000466",
+      "meaning": "哪个（连体词）",
+      "reading": "どの",
+      "term": "どの"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000467",
+      "meaning": "飞；跳",
+      "reading": "とぶ",
+      "term": "飛ぶ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000468",
+      "meaning": "停止；停下（自动词）",
+      "reading": "とまる",
+      "term": "止まる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000469",
+      "meaning": "朋友",
+      "reading": "ともだち",
+      "term": "友達"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000470",
+      "meaning": "星期六",
+      "reading": "どようび",
+      "term": "土曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000471",
+      "meaning": "鸟；鸡",
+      "reading": "とり",
+      "term": "鳥"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000472",
+      "meaning": "鸡肉",
+      "reading": "とりにく",
+      "term": "鶏肉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000473",
+      "meaning": "拿；取得；选修",
+      "reading": "とる",
+      "term": "取る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000474",
+      "meaning": "拍照；拍摄",
+      "reading": "とる",
+      "term": "撮る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000475",
+      "meaning": "哪一个",
+      "reading": "どれ",
+      "term": "どれ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000476",
+      "meaning": "什么样的",
+      "reading": "どんな",
+      "term": "どんな"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000477",
+      "meaning": "没有；不存在",
+      "reading": "ない",
+      "term": "ない"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000478",
+      "meaning": "刀；小刀",
+      "reading": "ナイフ",
+      "term": "ナイフ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000479",
+      "meaning": "里面；中间；之中",
+      "reading": "なか",
+      "term": "中"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000480",
+      "meaning": "长的",
+      "reading": "ながい",
+      "term": "長い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000481",
+      "meaning": "鸣叫（动物）",
+      "reading": "なく",
+      "term": "鳴く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000482",
+      "meaning": "丢失；弄丢（他动词）",
+      "reading": "なくす",
+      "term": "無くす"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000483",
+      "meaning": "为什么",
+      "reading": "なぜ",
+      "term": "なぜ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000484",
+      "meaning": "夏天",
+      "reading": "なつ",
+      "term": "夏"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000485",
+      "meaning": "暑假",
+      "reading": "なつやすみ",
+      "term": "夏休み"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000486",
+      "meaning": "等等；之类",
+      "reading": "～など",
+      "term": "～など"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000487",
+      "meaning": "七个",
+      "reading": "ななつ",
+      "term": "七つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000488",
+      "meaning": "什么",
+      "reading": "なん; なに",
+      "term": "何"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000489",
+      "meaning": "七天；七号",
+      "reading": "なのか",
+      "term": "七日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000490",
+      "meaning": "名字；姓名",
+      "reading": "なまえ",
+      "term": "名前"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000491",
+      "meaning": "学习；跟随老师学习",
+      "reading": "ならう",
+      "term": "習う"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000492",
+      "meaning": "排列；排队（自动词）",
+      "reading": "ならぶ",
+      "term": "並ぶ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000493",
+      "meaning": "排列；摆放（他动词）",
+      "reading": "ならべる",
+      "term": "並べる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000494",
+      "meaning": "变成；成为",
+      "reading": "なる",
+      "term": "なる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000495",
+      "meaning": "什么样的～",
+      "reading": "なん～",
+      "term": "何～"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000496",
+      "meaning": "二",
+      "reading": "に",
+      "term": "二"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000497",
+      "meaning": "热闹的",
+      "reading": "にぎやか",
+      "term": "にぎやか"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000498",
+      "meaning": "肉",
+      "reading": "にく",
+      "term": "肉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000499",
+      "meaning": "西；西方",
+      "reading": "にし",
+      "term": "西"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000500",
+      "meaning": "～号；～天",
+      "reading": "～にち",
+      "term": "～日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000501",
+      "meaning": "星期日",
+      "reading": "にちようび",
+      "term": "日曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000502",
+      "meaning": "行李",
+      "reading": "にもつ",
+      "term": "荷物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000503",
+      "meaning": "新闻；消息",
+      "reading": "ニュース",
+      "term": "ニュース"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000504",
+      "meaning": "院子；庭院",
+      "reading": "にわ",
+      "term": "庭"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000505",
+      "meaning": "～人（人数助数词）",
+      "reading": "～にん",
+      "term": "～人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000506",
+      "meaning": "脱下（衣物）",
+      "reading": "ぬぐ",
+      "term": "脱ぐ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000507",
+      "meaning": "温的；不够热的",
+      "reading": "ぬるい",
+      "term": "温い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000508",
+      "meaning": "领带",
+      "reading": "ネクタイ",
+      "term": "ネクタイ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000509",
+      "meaning": "猫",
+      "reading": "ねこ",
+      "term": "猫"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000510",
+      "meaning": "睡觉；就寝",
+      "reading": "ねる",
+      "term": "寝る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000511",
+      "meaning": "～年",
+      "reading": "～ねん",
+      "term": "～年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000512",
+      "meaning": "笔记本",
+      "reading": "ノート",
+      "term": "ノート"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000513",
+      "meaning": "登；攀登",
+      "reading": "のぼる",
+      "term": "登る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000514",
+      "meaning": "饮料",
+      "reading": "のみもの",
+      "term": "飲み物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000515",
+      "meaning": "喝",
+      "reading": "のむ",
+      "term": "飲む"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000516",
+      "meaning": "乘坐；上车",
+      "reading": "のる",
+      "term": "乗る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000517",
+      "meaning": "牙齿",
+      "reading": "は",
+      "term": "歯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000518",
+      "meaning": "聚会；派对",
+      "reading": "パーティー",
+      "term": "パーティー"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000519",
+      "meaning": "是；对",
+      "reading": "はい",
+      "term": "はい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000520",
+      "meaning": "～杯（杯数助数词）",
+      "reading": "～はい",
+      "term": "～杯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000521",
+      "meaning": "烟灰缸",
+      "reading": "はいざら",
+      "term": "灰皿"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000522",
+      "meaning": "进入；装有；容纳（自动词）",
+      "reading": "はいる",
+      "term": "入る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000523",
+      "meaning": "明信片",
+      "reading": "はがき",
+      "term": "葉書"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000524",
+      "meaning": "穿；穿上（下半身衣物或鞋袜）",
+      "reading": "はく",
+      "term": "はく"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000525",
+      "meaning": "箱子；盒子",
+      "reading": "はこ",
+      "term": "箱"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000526",
+      "meaning": "桥",
+      "reading": "はし",
+      "term": "橋"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000527",
+      "meaning": "筷子",
+      "reading": "はし",
+      "term": "箸"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000528",
+      "meaning": "开始（自动词）",
+      "reading": "はじまる",
+      "term": "始まる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000529",
+      "meaning": "开始；开头",
+      "reading": "はじめ",
+      "term": "初め; 始め"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000530",
+      "meaning": "第一次；初次",
+      "reading": "はじめて",
+      "term": "初めて"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000531",
+      "meaning": "跑",
+      "reading": "はしる",
+      "term": "走る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000532",
+      "meaning": "公共汽车；浴缸；低音",
+      "reading": "バス",
+      "term": "バス"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000533",
+      "meaning": "黄油",
+      "reading": "バター",
+      "term": "バター"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000534",
+      "meaning": "二十岁",
+      "reading": "はたち",
+      "term": "二十歳"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000535",
+      "meaning": "工作；劳动",
+      "reading": "はたらく",
+      "term": "働く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000536",
+      "meaning": "八",
+      "reading": "はち",
+      "term": "八"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000537",
+      "meaning": "二十天；二十号",
+      "reading": "はつか",
+      "term": "二十日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000538",
+      "meaning": "花",
+      "reading": "はな",
+      "term": "花"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000539",
+      "meaning": "鼻子",
+      "reading": "はな",
+      "term": "鼻"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000540",
+      "meaning": "谈话；故事",
+      "reading": "はなし",
+      "term": "話"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000541",
+      "meaning": "说；讲",
+      "reading": "はなす",
+      "term": "話す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000542",
+      "meaning": "母亲（对外谦称自己的母亲）",
+      "reading": "はは",
+      "term": "母"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000543",
+      "meaning": "早的",
+      "reading": "はやい",
+      "term": "早い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000544",
+      "meaning": "快的；迅速的",
+      "reading": "はやい",
+      "term": "速い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000545",
+      "meaning": "春天",
+      "reading": "はる",
+      "term": "春"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000546",
+      "meaning": "贴；粘；张贴",
+      "reading": "はる",
+      "term": "貼る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000547",
+      "meaning": "晴天",
+      "reading": "はれ",
+      "term": "晴れ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000548",
+      "meaning": "放晴（自动词）",
+      "reading": "はれる",
+      "term": "晴れる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000549",
+      "meaning": "一半；半",
+      "reading": "はん",
+      "term": "半"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000550",
+      "meaning": "晚上",
+      "reading": "ばん",
+      "term": "晩"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000551",
+      "meaning": "～号；第～名",
+      "reading": "～ばん",
+      "term": "～番"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000552",
+      "meaning": "面包",
+      "reading": "パン",
+      "term": "パン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000553",
+      "meaning": "手帕",
+      "reading": "ハンカチ",
+      "term": "ハンカチ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000554",
+      "meaning": "号码；编号",
+      "reading": "ばんごう",
+      "term": "番号"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000555",
+      "meaning": "晚饭；晚餐",
+      "reading": "ばんごはん",
+      "term": "晩御飯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000556",
+      "meaning": "一半",
+      "reading": "はんぶん",
+      "term": "半分"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000557",
+      "meaning": "东；东方",
+      "reading": "ひがし",
+      "term": "東"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000558",
+      "meaning": "～只；～匹（小动物助数词）",
+      "reading": "～ひき",
+      "term": "～匹"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000559",
+      "meaning": "拉；减去；查（词典）",
+      "reading": "ひく",
+      "term": "引く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000560",
+      "meaning": "弹奏（弦乐器、钢琴等）",
+      "reading": "ひく",
+      "term": "弾く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000561",
+      "meaning": "低的；矮的",
+      "reading": "ひくい",
+      "term": "低い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000562",
+      "meaning": "飞机",
+      "reading": "ひこうき",
+      "term": "飛行機"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000563",
+      "meaning": "左边",
+      "reading": "ひだり",
+      "term": "左"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000564",
+      "meaning": "人",
+      "reading": "ひと",
+      "term": "人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000565",
+      "meaning": "一个",
+      "reading": "ひとつ",
+      "term": "一つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000566",
+      "meaning": "一个月",
+      "reading": "ひとつき",
+      "term": "一月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000567",
+      "meaning": "一个人",
+      "reading": "ひとり",
+      "term": "一人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000568",
+      "meaning": "空闲；闲暇",
+      "reading": "ひま",
+      "term": "暇"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000569",
+      "meaning": "一百",
+      "reading": "ひゃく",
+      "term": "百"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000570",
+      "meaning": "医院",
+      "reading": "びょういん",
+      "term": "病院"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000571",
+      "meaning": "病；疾病",
+      "reading": "びょうき",
+      "term": "病気"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000572",
+      "meaning": "平假名",
+      "reading": "ひらがな",
+      "term": "平仮名"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000573",
+      "meaning": "中午；白天",
+      "reading": "ひる",
+      "term": "昼"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000574",
+      "meaning": "午饭；午餐",
+      "reading": "ひるごはん",
+      "term": "昼御飯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000575",
+      "meaning": "宽阔的；宽敞的",
+      "reading": "ひろい",
+      "term": "広い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000576",
+      "meaning": "胶卷；电影胶片",
+      "reading": "フィルム",
+      "term": "フィルム"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000577",
+      "meaning": "信封",
+      "reading": "ふうとう",
+      "term": "封筒"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000578",
+      "meaning": "游泳池",
+      "reading": "プール",
+      "term": "プール"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000579",
+      "meaning": "叉子",
+      "reading": "フォーク",
+      "term": "フォーク"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000580",
+      "meaning": "吹；刮（风）",
+      "reading": "ふく",
+      "term": "吹く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000581",
+      "meaning": "衣服",
+      "reading": "ふく",
+      "term": "服"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000582",
+      "meaning": "两个",
+      "reading": "ふたつ",
+      "term": "二つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000583",
+      "meaning": "猪肉",
+      "reading": "ぶたにく",
+      "term": "豚肉"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000584",
+      "meaning": "两个人",
+      "reading": "ふたり",
+      "term": "二人"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000585",
+      "meaning": "两天；二号",
+      "reading": "ふつか",
+      "term": "二日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000586",
+      "meaning": "粗的；胖的",
+      "reading": "ふとい",
+      "term": "太い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000587",
+      "meaning": "冬天",
+      "reading": "ふゆ",
+      "term": "冬"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000588",
+      "meaning": "下（雨、雪等）",
+      "reading": "ふる",
+      "term": "降る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000589",
+      "meaning": "旧的；古老的（物品）",
+      "reading": "ふるい",
+      "term": "古い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000590",
+      "meaning": "～分钟",
+      "reading": "～ふん",
+      "term": "～分"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000591",
+      "meaning": "文章；句子",
+      "reading": "ぶんしょう",
+      "term": "文章"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000592",
+      "meaning": "页",
+      "reading": "ページ",
+      "term": "ページ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000593",
+      "meaning": "不擅长的；水平差的",
+      "reading": "へた",
+      "term": "下手"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000594",
+      "meaning": "床",
+      "reading": "ベッド",
+      "term": "ベッド"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000595",
+      "meaning": "宠物",
+      "reading": "ペット",
+      "term": "ペット"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000596",
+      "meaning": "房间",
+      "reading": "へや",
+      "term": "部屋"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000597",
+      "meaning": "一带；附近",
+      "reading": "へん",
+      "term": "辺"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000598",
+      "meaning": "笔",
+      "reading": "ペン",
+      "term": "ペン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000599",
+      "meaning": "学习；用功",
+      "reading": "べんきょう (する)",
+      "term": "勉強"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000600",
+      "meaning": "方便的",
+      "reading": "べんり",
+      "term": "便利"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000601",
+      "meaning": "帽子",
+      "reading": "ぼうし",
+      "term": "帽子"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000602",
+      "meaning": "圆珠笔",
+      "reading": "ボールペン",
+      "term": "ボールペン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000603",
+      "meaning": "其他；其余",
+      "reading": "ほか",
+      "term": "外"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000604",
+      "meaning": "口袋",
+      "reading": "ポケット",
+      "term": "ポケット"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000605",
+      "meaning": "想要；希望得到",
+      "reading": "ほしい",
+      "term": "欲しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000606",
+      "meaning": "邮筒；职位",
+      "reading": "ポスト",
+      "term": "ポスト"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000607",
+      "meaning": "细的；纤细的",
+      "reading": "ほそい",
+      "term": "細い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000608",
+      "meaning": "纽扣；按钮",
+      "reading": "ボタン",
+      "term": "ボタン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000609",
+      "meaning": "酒店；宾馆",
+      "reading": "ホテル",
+      "term": "ホテル"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000610",
+      "meaning": "书",
+      "reading": "ほん",
+      "term": "本"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000611",
+      "meaning": "～根；～支（细长物助数词）",
+      "reading": "～ほん",
+      "term": "～本"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000612",
+      "meaning": "书架",
+      "reading": "ほんだな",
+      "term": "本棚"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000613",
+      "meaning": "真的；真实的",
+      "reading": "ほんとう",
+      "term": "本当"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000614",
+      "meaning": "～张；～片（扁平物助数词）",
+      "reading": "～まい",
+      "term": "～枚"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000615",
+      "meaning": "每天早晨",
+      "reading": "まいあさ",
+      "term": "毎朝"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000616",
+      "meaning": "每月",
+      "reading": "まいげつ; まいつき",
+      "term": "毎月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000617",
+      "meaning": "每周",
+      "reading": "まいしゅう",
+      "term": "毎週"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000618",
+      "meaning": "每天",
+      "reading": "まいにち",
+      "term": "毎日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000619",
+      "meaning": "每年",
+      "reading": "まいねん; まいとし",
+      "term": "毎年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000620",
+      "meaning": "每天晚上",
+      "reading": "まいばん",
+      "term": "毎晩"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000621",
+      "meaning": "前面；以前",
+      "reading": "まえ",
+      "term": "前"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000622",
+      "meaning": "～前面",
+      "reading": "～まえ",
+      "term": "～前"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000623",
+      "meaning": "转弯；弯曲（自动词）",
+      "reading": "まがる",
+      "term": "曲る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000624",
+      "meaning": "难吃的；不妙的",
+      "reading": "まずい",
+      "term": "まずい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000625",
+      "meaning": "又；还；再",
+      "reading": "また",
+      "term": "また"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000626",
+      "meaning": "还；尚未",
+      "reading": "まだ",
+      "term": "まだ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000627",
+      "meaning": "城镇；街道",
+      "reading": "まち",
+      "term": "町"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000628",
+      "meaning": "等待",
+      "reading": "まつ",
+      "term": "待つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000629",
+      "meaning": "笔直；径直",
+      "reading": "まっすぐ",
+      "term": "まっすぐ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000630",
+      "meaning": "火柴；比赛",
+      "reading": "マッチ",
+      "term": "マッチ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000631",
+      "meaning": "窗户",
+      "reading": "まど",
+      "term": "窓"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000632",
+      "meaning": "圆的",
+      "reading": "まるい",
+      "term": "丸い; 円い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000633",
+      "meaning": "一万",
+      "reading": "まん",
+      "term": "万"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000634",
+      "meaning": "钢笔；自来水笔",
+      "reading": "まんねんひつ",
+      "term": "万年筆"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000635",
+      "meaning": "刷；磨；擦亮",
+      "reading": "みがく",
+      "term": "磨く"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000636",
+      "meaning": "右边",
+      "reading": "みぎ",
+      "term": "右"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000637",
+      "meaning": "短的（长度）",
+      "reading": "みじかい",
+      "term": "短い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000638",
+      "meaning": "水",
+      "reading": "みず",
+      "term": "水"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000639",
+      "meaning": "商店；店铺",
+      "reading": "みせ",
+      "term": "店"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000640",
+      "meaning": "给看；展示（他动词）",
+      "reading": "みせる",
+      "term": "見せる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000641",
+      "meaning": "道路；路；方向",
+      "reading": "みち",
+      "term": "道"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000642",
+      "meaning": "三天；三号",
+      "reading": "みっか",
+      "term": "三日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000643",
+      "meaning": "三个",
+      "reading": "みっつ",
+      "term": "三つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000644",
+      "meaning": "绿色",
+      "reading": "みどり",
+      "term": "緑"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000645",
+      "meaning": "大家；各位",
+      "reading": "みなさん",
+      "term": "皆さん"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000646",
+      "meaning": "南；南方",
+      "reading": "みなみ",
+      "term": "南"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000647",
+      "meaning": "耳朵",
+      "reading": "みみ",
+      "term": "耳"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000648",
+      "meaning": "看；观看",
+      "reading": "みる",
+      "term": "見る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000649",
+      "meaning": "大家；全部",
+      "reading": "みんな",
+      "term": "みんな"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000650",
+      "meaning": "六天；六号",
+      "reading": "むいか",
+      "term": "六日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000651",
+      "meaning": "对面；那边",
+      "reading": "むこう",
+      "term": "向こう"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000652",
+      "meaning": "难的；困难的",
+      "reading": "むずかしい",
+      "term": "難しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000653",
+      "meaning": "六个",
+      "reading": "むっつ",
+      "term": "六つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000654",
+      "meaning": "村庄",
+      "reading": "むら",
+      "term": "村"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000655",
+      "meaning": "眼睛",
+      "reading": "め",
+      "term": "目"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000656",
+      "meaning": "米；公尺",
+      "reading": "メートル",
+      "term": "メートル"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000657",
+      "meaning": "眼镜",
+      "reading": "めがね",
+      "term": "眼鏡"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000658",
+      "meaning": "已经；再；还要",
+      "reading": "もう",
+      "term": "もう"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000659",
+      "meaning": "星期四",
+      "reading": "もくようび",
+      "term": "木曜日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000660",
+      "meaning": "喂（电话用语）",
+      "reading": "もしもし",
+      "term": "もしもし"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000661",
+      "meaning": "拿；携带；拥有",
+      "reading": "もつ",
+      "term": "持つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000662",
+      "meaning": "更多；更加",
+      "reading": "もっと",
+      "term": "もっと"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000663",
+      "meaning": "东西；物品",
+      "reading": "もの",
+      "term": "物"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000664",
+      "meaning": "门；大门",
+      "reading": "もん",
+      "term": "門"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000665",
+      "meaning": "问题；难题",
+      "reading": "もんだい",
+      "term": "問題"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000666",
+      "meaning": "～店；～铺；从事某职业的人",
+      "reading": "～や",
+      "term": "～屋"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000667",
+      "meaning": "蔬菜水果店",
+      "reading": "やおや",
+      "term": "八百屋"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000668",
+      "meaning": "蔬菜",
+      "reading": "やさい",
+      "term": "野菜"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000669",
+      "meaning": "容易的；简单的",
+      "reading": "やさしい",
+      "term": "易しい"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000670",
+      "meaning": "便宜的",
+      "reading": "やすい",
+      "term": "安い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000671",
+      "meaning": "休息；假日；缺席",
+      "reading": "やすみ",
+      "term": "休み"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000672",
+      "meaning": "休息；请假",
+      "reading": "やすむ",
+      "term": "休む"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000673",
+      "meaning": "八个",
+      "reading": "やっつ",
+      "term": "八つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000674",
+      "meaning": "山",
+      "reading": "やま",
+      "term": "山"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000675",
+      "meaning": "做；给（晚辈、动植物等）",
+      "reading": "やる",
+      "term": "やる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000676",
+      "meaning": "傍晚；黄昏",
+      "reading": "ゆうがた",
+      "term": "夕方"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000677",
+      "meaning": "晚饭；晚餐",
+      "reading": "ゆうはん",
+      "term": "夕飯"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000678",
+      "meaning": "邮局",
+      "reading": "ゆうびんきょく",
+      "term": "郵便局"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000679",
+      "meaning": "昨晚",
+      "reading": "ゆうべ",
+      "term": "昨夜"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000680",
+      "meaning": "有名的；著名的",
+      "reading": "ゆうめい",
+      "term": "有名"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000681",
+      "meaning": "雪",
+      "reading": "ゆき",
+      "term": "雪"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000682",
+      "meaning": "慢慢地；悠闲地",
+      "reading": "ゆっくりと",
+      "term": "ゆっくりと"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000683",
+      "meaning": "八天；八号",
+      "reading": "ようか",
+      "term": "八日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000684",
+      "meaning": "西式服装",
+      "reading": "ようふく",
+      "term": "洋服"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000685",
+      "meaning": "经常；好好地；熟练地",
+      "reading": "よく",
+      "term": "よく"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000686",
+      "meaning": "旁边；侧面；宽度",
+      "reading": "よこ",
+      "term": "横"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000687",
+      "meaning": "四天；四号",
+      "reading": "よっか",
+      "term": "四日"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000688",
+      "meaning": "四个",
+      "reading": "よっつ",
+      "term": "四つ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000689",
+      "meaning": "呼叫；称呼；邀请",
+      "reading": "よぶ",
+      "term": "呼ぶ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000690",
+      "meaning": "读；阅读",
+      "reading": "よむ",
+      "term": "読む"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000691",
+      "meaning": "夜晚；晚上",
+      "reading": "よる",
+      "term": "夜"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000692",
+      "meaning": "弱的；虚弱的",
+      "reading": "よわい",
+      "term": "弱い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000693",
+      "meaning": "下个月",
+      "reading": "らいげつ",
+      "term": "来月"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000694",
+      "meaning": "下周",
+      "reading": "らいしゅう",
+      "term": "来週"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000695",
+      "meaning": "明年",
+      "reading": "らいねん",
+      "term": "来年"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000696",
+      "meaning": "收音机",
+      "reading": "ラジオ",
+      "term": "ラジオ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000697",
+      "meaning": "收录机；盒式磁带收音机",
+      "reading": "ラジオカセ",
+      "term": "ラジオカセ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000698",
+      "meaning": "出色的；气派的",
+      "reading": "りっぱ",
+      "term": "りっぱ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000699",
+      "meaning": "留学生",
+      "reading": "りゅうがくせい",
+      "term": "留学生"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000700",
+      "meaning": "父母；双亲",
+      "reading": "りょうしん",
+      "term": "両親"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000701",
+      "meaning": "烹饪；菜肴",
+      "reading": "りょうり",
+      "term": "料理"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000702",
+      "meaning": "旅行",
+      "reading": "りょこう",
+      "term": "旅行"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000703",
+      "meaning": "零",
+      "reading": "れい",
+      "term": "零"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000704",
+      "meaning": "冰箱",
+      "reading": "れいぞうこ",
+      "term": "冷蔵庫"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000705",
+      "meaning": "唱片；记录",
+      "reading": "レコード",
+      "term": "レコード"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000706",
+      "meaning": "餐厅；饭店",
+      "reading": "レストラン",
+      "term": "レストラン"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000707",
+      "meaning": "练习",
+      "reading": "れんしゅう (する)",
+      "term": "練習"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000708",
+      "meaning": "走廊",
+      "reading": "ろうか",
+      "term": "廊下"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000709",
+      "meaning": "六",
+      "reading": "ろく",
+      "term": "六"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000710",
+      "meaning": "衬衫；商务衬衫",
+      "reading": "ワイシャツ",
+      "term": "ワイシャツ"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000711",
+      "meaning": "年轻的",
+      "reading": "わかい",
+      "term": "若い"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000712",
+      "meaning": "明白；理解",
+      "reading": "わかる",
+      "term": "分かる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000713",
+      "meaning": "忘记",
+      "reading": "わすれる",
+      "term": "忘れる"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000714",
+      "meaning": "我；自己",
+      "reading": "わたし",
+      "term": "私"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000715",
+      "meaning": "我（正式、谦逊说法）；私事",
+      "reading": "わたくし",
+      "term": "私"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000716",
+      "meaning": "交给；递给；使通过（他动词）",
+      "reading": "わたす",
+      "term": "渡す"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000717",
+      "meaning": "渡过；穿过（自动词）",
+      "reading": "わたる",
+      "term": "渡る"
+    },
+    {
+      "entryID": "com.dai1012.cn.ja.jlpt.n5.reference-e000718",
+      "meaning": "坏的；不好的；有过错的",
+      "reading": "わるい",
+      "term": "悪い"
+    }
+  ],
+  "entryCount": 718,
+  "metadata": {
+    "classification": "jlpt",
+    "description": "JLPT N5 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+    "language": "ja",
+    "level": "reference",
+    "tags": [
+      "jlpt",
+      "n5",
+      "reference",
+      "chinese",
+      "vocabulary"
+    ],
+    "title": "JLPT N5 Reference Vocabulary"
+  },
+  "packID": "com.dai1012.cn.ja.jlpt.n5.reference",
+  "packVersion": 1,
+  "schemaVersion": 1
+}

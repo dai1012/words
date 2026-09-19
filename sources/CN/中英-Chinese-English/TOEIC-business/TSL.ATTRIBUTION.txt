@@ -1,0 +1,26 @@
+TOEIC Service List 1.2 (TSL 1.2)
+
+Authors:
+Charles Browne
+Brent Culligan
+
+Official source:
+https://www.newgeneralservicelist.com/toeic-service-list
+
+License:
+Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)
+
+License URL:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution notice:
+
+本 Business English Vocabulary 词包的 TOEIC 覆盖范围词目选择参考了
+TOEIC Service List 1.2 (TSL 1.2)（Charles Browne / Brent Culligan，
+CC BY-SA 4.0）；本仓库不复制 TSL 官方词表文本，词条读音与中文释义采用
+ECDICT（MIT）数据并经本项目整理。按 CC BY-SA 4.0 要求保留原作者署名；
+本包新增的整理内容同样以 CC BY-SA 4.0 共享。
+
+Note: this file does not imply that the entire words repository or
+other word packs are licensed under CC BY-SA.

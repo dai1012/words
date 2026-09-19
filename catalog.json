@@ -1,6 +1,6 @@
 {
-  "catalogVersion": 29,
-  "generatedAt": "2026-09-17T01:14:24Z",
+  "catalogVersion": 30,
+  "generatedAt": "2026-09-19T13:13:14Z",
   "packs": [
     {
       "classification": "business-japanese",
@@ -99,6 +99,81 @@
         "chinese"
       ],
       "title": "希腊语入门基础词汇"
+    },
+    {
+      "classification": "english",
+      "description": "Academic English Vocabulary（中英）。词条源自 skywind3000/ECDICT（MIT License），原考试覆盖范围词条，中文释义保留原数据；本包为项目自定义筛选的学习资料，不是官方考试词表，未获任何考试机构授权。完整词库未来可由 App 内 AI 按需生成。详见 https://github.com/skywind3000/ECDICT。",
+      "directoryPath": [
+        "CN",
+        "中英-Chinese-English",
+        "TOEFL-academic"
+      ],
+      "entryCount": 6974,
+      "fileSize": 1425124,
+      "fileURL": "packs/academic-english.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.en.academic.english",
+      "packVersion": 1,
+      "sha256": "8e1248502e8395dac62ec3efcb810b48e9beee0bbf1da8392235cfb7a6d31d74",
+      "tags": [
+        "english",
+        "chinese",
+        "vocabulary",
+        "core"
+      ],
+      "title": "Academic English Vocabulary"
+    },
+    {
+      "classification": "english",
+      "description": "Academic & Practical English Vocabulary（中英）。词条源自 skywind3000/ECDICT（MIT License），原考试覆盖范围词条，中文释义保留原数据；本包为项目自定义筛选的学习资料，不是官方考试词表，未获任何考试机构授权。完整词库未来可由 App 内 AI 按需生成。详见 https://github.com/skywind3000/ECDICT。",
+      "directoryPath": [
+        "CN",
+        "中英-Chinese-English",
+        "IELTS-academic"
+      ],
+      "entryCount": 5040,
+      "fileSize": 1064230,
+      "fileURL": "packs/academic-practical.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.en.academic.practical",
+      "packVersion": 1,
+      "sha256": "69f9f5325d3734e922efbcb7a7a4c4c56faa3f9675cdc75b2d906458a1702443",
+      "tags": [
+        "english",
+        "chinese",
+        "vocabulary",
+        "core"
+      ],
+      "title": "Academic & Practical English Vocabulary"
+    },
+    {
+      "classification": "english",
+      "description": "Business English Vocabulary（中英）。词条源自 skywind3000/ECDICT（MIT License），原考试覆盖范围词条，中文释义保留原数据；本包为项目自定义筛选的学习资料，不是官方考试词表，未获任何考试机构授权。完整词库未来可由 App 内 AI 按需生成。详见 https://github.com/skywind3000/ECDICT。",
+      "directoryPath": [
+        "CN",
+        "中英-Chinese-English",
+        "TOEIC-business"
+      ],
+      "entryCount": 1250,
+      "fileSize": 250571,
+      "fileURL": "packs/business-english.json",
+      "language": "en",
+      "level": "core",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.en.business.english",
+      "packVersion": 1,
+      "sha256": "9ebf37701ae70dc67b7497ddaa8981c330bedf2122ca6e6c2206ff66005e7578",
+      "tags": [
+        "english",
+        "chinese",
+        "vocabulary",
+        "core"
+      ],
+      "title": "Business English Vocabulary"
     },
     {
       "classification": "cet4",
@@ -316,6 +391,136 @@
         "chinese"
       ],
       "title": "意大利语入门基础词汇"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N1 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT"
+      ],
+      "entryCount": 2699,
+      "fileSize": 471868,
+      "fileURL": "packs/jlpt-n1-reference.json",
+      "language": "ja",
+      "level": "reference",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n1.reference",
+      "packVersion": 1,
+      "sha256": "a8a7f4a5d9df36335a5d2c9135336902ba3755b1243e02451e7b6fe74097d6bf",
+      "tags": [
+        "jlpt",
+        "n1",
+        "reference",
+        "chinese",
+        "vocabulary"
+      ],
+      "title": "JLPT N1 Reference Vocabulary"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N2 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT"
+      ],
+      "entryCount": 1905,
+      "fileSize": 333422,
+      "fileURL": "packs/jlpt-n2-reference.json",
+      "language": "ja",
+      "level": "reference",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n2.reference",
+      "packVersion": 1,
+      "sha256": "d54e6b5c93eb5614d842e3920cd7e97b738637ce644b43cb37941c5962e047ca",
+      "tags": [
+        "jlpt",
+        "n2",
+        "reference",
+        "chinese",
+        "vocabulary"
+      ],
+      "title": "JLPT N2 Reference Vocabulary"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N3 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT"
+      ],
+      "entryCount": 2140,
+      "fileSize": 367431,
+      "fileURL": "packs/jlpt-n3-reference.json",
+      "language": "ja",
+      "level": "reference",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n3.reference",
+      "packVersion": 1,
+      "sha256": "fe688c1ffc942198b4e865462c5a84ed95ab87c3aa1ffe13f340bea99061c535",
+      "tags": [
+        "jlpt",
+        "n3",
+        "reference",
+        "chinese",
+        "vocabulary"
+      ],
+      "title": "JLPT N3 Reference Vocabulary"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N4 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT"
+      ],
+      "entryCount": 668,
+      "fileSize": 115474,
+      "fileURL": "packs/jlpt-n4-reference.json",
+      "language": "ja",
+      "level": "reference",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n4.reference",
+      "packVersion": 1,
+      "sha256": "784a07b1ca76f4cb473a08b1878d85e8e46fca0b2a4bce2895b0043ff4a6ce6b",
+      "tags": [
+        "jlpt",
+        "n4",
+        "reference",
+        "chinese",
+        "vocabulary"
+      ],
+      "title": "JLPT N4 Reference Vocabulary"
+    },
+    {
+      "classification": "jlpt",
+      "description": "JLPT N5 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "directoryPath": [
+        "CN",
+        "中日-Chinese-Japanese",
+        "JLPT"
+      ],
+      "entryCount": 718,
+      "fileSize": 121308,
+      "fileURL": "packs/jlpt-n5-reference.json",
+      "language": "ja",
+      "level": "reference",
+      "minimumAppVersion": "1.0.0",
+      "packID": "com.dai1012.cn.ja.jlpt.n5.reference",
+      "packVersion": 1,
+      "sha256": "8fc0b66687392f226123fb9b6a45aad35f9db483ca8e422a96e1639f2fdf13f0",
+      "tags": [
+        "jlpt",
+        "n5",
+        "reference",
+        "chinese",
+        "vocabulary"
+      ],
+      "title": "JLPT N5 Reference Vocabulary"
     },
     {
       "classification": "korean",
