@@ -3,6 +3,6 @@ MIT License
 Copyright (c) skywind3000 / ECDICT contributors
 
 本仓库 ECDICT-derived 词包（Academic English Vocabulary、Academic & Practical English
-Vocabulary 的词目/音标/释义数据）源自开源词典 ECDICT
+Vocabulary、Business English Vocabulary 的词目/音标/释义数据）源自开源词典 ECDICT
 （https://github.com/skywind3000/ECDICT），MIT License。
 允许 commercial use 与 redistribution；使用时保留本版权声明。

@@ -1,33 +1,7 @@
 {
-  "catalogVersion": 30,
-  "generatedAt": "2026-09-19T13:13:14Z",
+  "catalogVersion": 31,
+  "generatedAt": "2026-09-19T14:08:15Z",
   "packs": [
-    {
-      "classification": "business-japanese",
-      "description": "IT职场日语・基础。Japanese terms / readings / definitions are derived from デジタル庁「DS-130 標準ガイドライン群用語集」(https://www.digital.go.jp/resources/standard_guidelines), licensed under 公共データ利用規約 第1.0版 (PDL1.0, https://www.digital.go.jp/resources/open_data/public_data_license_v1.0). Chinese meanings are translated/adapted by this project from the source definitions. 本词包属于加工内容，不代表デジタル庁原文。详细 attribution 见仓库 sources/CN/中日-Chinese-Japanese/IT/ATTRIBUTION.md。",
-      "directoryPath": [
-        "CN",
-        "中日-Chinese-Japanese",
-        "IT"
-      ],
-      "entryCount": 118,
-      "fileSize": 33195,
-      "fileURL": "packs/it-workplace-core.json",
-      "language": "ja",
-      "level": "it-workplace",
-      "minimumAppVersion": "1.0.0",
-      "packID": "com.dai1012.business-ja.it-workplace.core",
-      "packVersion": 3,
-      "sha256": "5ee35848fba7efb72785ab1f4f2bb13c77b8e77d76f8793b745574151e701803",
-      "tags": [
-        "business-japanese",
-        "it",
-        "workplace",
-        "chinese",
-        "pdl1-0"
-      ],
-      "title": "IT职场日语・基础"
-    },
     {
       "classification": "arabic",
       "description": "面向中文用户的阿拉伯语入门基础试点词包（首批 50 词，现代标准语）。词条为本项目原创编写：term 为阿拉伯语词形（无元音符号常规拼写），reading 为自拟实用发音转写（重读音节大写），meaning 为中文核心释义。不包含任何第三方词典数据库内容。后续将分主题扩充。",
@@ -394,21 +368,21 @@
     },
     {
       "classification": "jlpt",
-      "description": "JLPT N1 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "description": "JLPT N1 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
       "directoryPath": [
         "CN",
         "中日-Chinese-Japanese",
         "JLPT"
       ],
       "entryCount": 2699,
-      "fileSize": 471868,
+      "fileSize": 471792,
       "fileURL": "packs/jlpt-n1-reference.json",
       "language": "ja",
       "level": "reference",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.cn.ja.jlpt.n1.reference",
-      "packVersion": 1,
-      "sha256": "a8a7f4a5d9df36335a5d2c9135336902ba3755b1243e02451e7b6fe74097d6bf",
+      "packVersion": 2,
+      "sha256": "57ff08bdd49ad040a480653ab86b8203cbfd3ee5ebea0e39deb4ab569e6d9ebe",
       "tags": [
         "jlpt",
         "n1",
@@ -420,21 +394,21 @@
     },
     {
       "classification": "jlpt",
-      "description": "JLPT N2 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "description": "JLPT N2 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
       "directoryPath": [
         "CN",
         "中日-Chinese-Japanese",
         "JLPT"
       ],
       "entryCount": 1905,
-      "fileSize": 333422,
+      "fileSize": 333346,
       "fileURL": "packs/jlpt-n2-reference.json",
       "language": "ja",
       "level": "reference",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.cn.ja.jlpt.n2.reference",
-      "packVersion": 1,
-      "sha256": "d54e6b5c93eb5614d842e3920cd7e97b738637ce644b43cb37941c5962e047ca",
+      "packVersion": 2,
+      "sha256": "a078eaa380a22f71a56c07860807b91834a3dd24485a973dd50bc61219b1c17b",
       "tags": [
         "jlpt",
         "n2",
@@ -446,21 +420,21 @@
     },
     {
       "classification": "jlpt",
-      "description": "JLPT N3 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "description": "JLPT N3 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
       "directoryPath": [
         "CN",
         "中日-Chinese-Japanese",
         "JLPT"
       ],
       "entryCount": 2140,
-      "fileSize": 367431,
+      "fileSize": 367355,
       "fileURL": "packs/jlpt-n3-reference.json",
       "language": "ja",
       "level": "reference",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.cn.ja.jlpt.n3.reference",
-      "packVersion": 1,
-      "sha256": "fe688c1ffc942198b4e865462c5a84ed95ab87c3aa1ffe13f340bea99061c535",
+      "packVersion": 2,
+      "sha256": "8605c8e33f5a2d2d3d9df492fbfdd968dd36a329f4e2632fcc7f7e51a78dda23",
       "tags": [
         "jlpt",
         "n3",
@@ -472,21 +446,21 @@
     },
     {
       "classification": "jlpt",
-      "description": "JLPT N4 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "description": "JLPT N4 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
       "directoryPath": [
         "CN",
         "中日-Chinese-Japanese",
         "JLPT"
       ],
       "entryCount": 668,
-      "fileSize": 115474,
+      "fileSize": 115398,
       "fileURL": "packs/jlpt-n4-reference.json",
       "language": "ja",
       "level": "reference",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.cn.ja.jlpt.n4.reference",
-      "packVersion": 1,
-      "sha256": "784a07b1ca76f4cb473a08b1878d85e8e46fca0b2a4bce2895b0043ff4a6ce6b",
+      "packVersion": 2,
+      "sha256": "dcf912d24f4954278f1941d8264c7cd2186339ec90507f970d6c24b142435659",
       "tags": [
         "jlpt",
         "n4",
@@ -498,21 +472,21 @@
     },
     {
       "classification": "jlpt",
-      "description": "JLPT N5 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+      "description": "JLPT N5 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
       "directoryPath": [
         "CN",
         "中日-Chinese-Japanese",
         "JLPT"
       ],
       "entryCount": 718,
-      "fileSize": 121308,
+      "fileSize": 121232,
       "fileURL": "packs/jlpt-n5-reference.json",
       "language": "ja",
       "level": "reference",
       "minimumAppVersion": "1.0.0",
       "packID": "com.dai1012.cn.ja.jlpt.n5.reference",
-      "packVersion": 1,
-      "sha256": "8fc0b66687392f226123fb9b6a45aad35f9db483ca8e422a96e1639f2fdf13f0",
+      "packVersion": 2,
+      "sha256": "84f9f6d6943751900e68f2bb504c82dd654d6bc68902fbbee6c8a45c04a6b820",
       "tags": [
         "jlpt",
         "n5",

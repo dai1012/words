@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packID": "com.dai1012.cn.ja.jlpt.n1.reference",
-  "packVersion": 1,
+  "packVersion": 2,
   "metadata": {
     "title": "JLPT N1 Reference Vocabulary",
     "language": "ja",
     "classification": "jlpt",
     "level": "reference",
-    "description": "JLPT N1 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，由 AI 独立生成并整理，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material independently generated and curated with AI. For reference only. Not affiliated with or endorsed by the JLPT organizers.",
+    "description": "JLPT N1 Reference Vocabulary（中日）。精选该级别常见日语词汇，中文释义经校订。非官方学习资料，仅供学习参考，与 JLPT 官方机构无关。 Unofficial study material for reference only. Not affiliated with or endorsed by the JLPT organizers.",
     "tags": [
       "jlpt",
       "n1",
